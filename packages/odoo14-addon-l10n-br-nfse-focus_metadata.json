@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-l10n-br-nfse-focus",
+  "version": "14.0.2.0.2",
+  "summary": "NFS-e (FocusNFE)",
+  "author": "KMEE, Escodoo, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo14_addon_l10n_br_nfse_focus-14.0.2.0.2-py3-none-any.whl",
+  "download_time": "2026-01-28T22:22:09.418731",
+  "package_url": "https://pypi.org/project/odoo14-addon-l10n-br-nfse-focus/"
+}

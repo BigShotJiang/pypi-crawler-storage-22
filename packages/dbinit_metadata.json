@@ -1,0 +1,11 @@
+{
+  "name": "dbinit",
+  "version": "0.2.5",
+  "summary": "Interactive database initialization tool",
+  "author": "Seth Pang",
+  "license": "MIT",
+  "home_page": "https://github.com/Vegeta-Bles/dbinit",
+  "download_filename": "dbinit-0.2.5.tar.gz",
+  "download_time": "2026-01-28T22:22:18.800295",
+  "package_url": "https://pypi.org/project/dbinit/"
+}

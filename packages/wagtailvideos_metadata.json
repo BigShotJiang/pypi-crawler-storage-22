@@ -1,0 +1,11 @@
+{
+  "name": "wagtailvideos",
+  "version": "7.2.0",
+  "summary": "A wagtail module for uploading and displaying videos in various codecs.",
+  "author": "Neon Jungle",
+  "license": "BSD License",
+  "home_page": "https://github.com/neon-jungle/wagtailvideos",
+  "download_filename": "wagtailvideos-7.2.0.tar.gz",
+  "download_time": "2026-01-28T22:22:13.083969",
+  "package_url": "https://pypi.org/project/wagtailvideos/"
+}

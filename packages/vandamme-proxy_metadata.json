@@ -1,11 +1,11 @@
 {
   "name": "vandamme-proxy",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "A proxy server that converts Claude API requests to OpenAI-compatible API calls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vandamme_proxy-2.0.5.tar.gz",
-  "download_time": "2026-01-28T20:56:19.792382",
+  "download_filename": "vandamme_proxy-2.0.6.tar.gz",
+  "download_time": "2026-01-28T22:21:59.392132",
   "package_url": "https://pypi.org/project/vandamme-proxy/"
 }

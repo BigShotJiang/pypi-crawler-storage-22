@@ -1,11 +1,11 @@
 {
   "name": "luckyrobots",
-  "version": "0.1.69",
+  "version": "0.1.70",
   "summary": "Robotics-AI Training in Hyperrealistic Game Environments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "luckyrobots-0.1.69.tar.gz",
-  "download_time": "2026-01-28T21:28:43.626262",
+  "download_filename": "luckyrobots-0.1.70.tar.gz",
+  "download_time": "2026-01-28T22:21:47.781257",
   "package_url": "https://pypi.org/project/luckyrobots/"
 }

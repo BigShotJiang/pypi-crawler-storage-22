@@ -1,0 +1,11 @@
+{
+  "name": "srxraylib",
+  "version": "1.0.67",
+  "summary": "Synchrotron Radiation X-ray library",
+  "author": "Luca Rebuffi, Manuel Sanchez del Rio and Mark Glass",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/SR-xraylib",
+  "download_filename": "srxraylib-1.0.67.tar.gz",
+  "download_time": "2026-01-28T22:22:02.097996",
+  "package_url": "https://pypi.org/project/srxraylib/"
+}

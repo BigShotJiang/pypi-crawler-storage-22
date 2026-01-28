@@ -1,0 +1,11 @@
+{
+  "name": "xrtm",
+  "version": "0.1.0",
+  "summary": "The xRtm Framework (Generative Forecasting).",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "xrtm-0.1.0.tar.gz",
+  "download_time": "2026-01-28T22:22:22.451184",
+  "package_url": "https://pypi.org/project/xrtm/"
+}
