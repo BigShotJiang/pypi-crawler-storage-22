@@ -1,0 +1,11 @@
+{
+  "name": "genvm-linter",
+  "version": "0.5.4",
+  "summary": "Fast validation and schema extraction for GenLayer intelligent contracts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "genvm_linter-0.5.4.tar.gz",
+  "download_time": "2026-01-28T19:23:50.912698",
+  "package_url": "https://pypi.org/project/genvm-linter/"
+}

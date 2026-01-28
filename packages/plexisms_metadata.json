@@ -1,0 +1,11 @@
+{
+  "name": "plexisms",
+  "version": "1.0.1",
+  "summary": "Official Python SDK for PlexiSMS API",
+  "author": "PlexiSMS Team",
+  "license": "MIT",
+  "home_page": "https://github.com/plexisms/sdk-plexisms-python",
+  "download_filename": "plexisms-1.0.1.tar.gz",
+  "download_time": "2026-01-28T19:23:28.940250",
+  "package_url": "https://pypi.org/project/plexisms/"
+}

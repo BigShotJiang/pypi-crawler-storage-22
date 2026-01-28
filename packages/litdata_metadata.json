@@ -1,0 +1,11 @@
+{
+  "name": "litdata",
+  "version": "0.2.60",
+  "summary": "The Deep Learning framework to train, deploy, and ship AI products Lightning fast.",
+  "author": "Lightning AI et al.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Lightning-AI/litdata",
+  "download_filename": "litdata-0.2.60.tar.gz",
+  "download_time": "2026-01-28T19:23:27.148056",
+  "package_url": "https://pypi.org/project/litdata/"
+}

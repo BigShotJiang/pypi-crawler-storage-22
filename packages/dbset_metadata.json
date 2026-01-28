@@ -1,0 +1,11 @@
+{
+  "name": "dbset",
+  "version": "1.0.2",
+  "summary": "Thin wrapper on SQLAlchemy with async/await support - simplified database operations",
+  "author": "TriggerAI Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbset-1.0.2.tar.gz",
+  "download_time": "2026-01-28T19:23:35.543582",
+  "package_url": "https://pypi.org/project/dbset/"
+}

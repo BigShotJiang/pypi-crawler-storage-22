@@ -1,0 +1,11 @@
+{
+  "name": "nested-fit",
+  "version": "5.6.1",
+  "summary": "The nested_fit package.",
+  "author": "Martino Trassinelli, Lune Maillard, César Godinho",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nested_fit-5.6.1.tar.gz",
+  "download_time": "2026-01-28T19:23:48.199901",
+  "package_url": "https://pypi.org/project/nested-fit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sloppy-xml",
+  "version": "0.3.1",
+  "summary": "A sloppy XML parser for Python designed to be used with LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sloppy_xml-0.3.1.tar.gz",
+  "download_time": "2026-01-28T19:23:35.021504",
+  "package_url": "https://pypi.org/project/sloppy-xml/"
+}

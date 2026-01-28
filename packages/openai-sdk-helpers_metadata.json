@@ -1,0 +1,11 @@
+{
+  "name": "openai-sdk-helpers",
+  "version": "0.6.0",
+  "summary": "Composable helpers for OpenAI SDK agents, prompts, and storage",
+  "author": "openai-sdk-helpers maintainers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openai_sdk_helpers-0.6.0.tar.gz",
+  "download_time": "2026-01-28T19:23:51.454420",
+  "package_url": "https://pypi.org/project/openai-sdk-helpers/"
+}

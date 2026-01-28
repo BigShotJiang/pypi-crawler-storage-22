@@ -1,0 +1,11 @@
+{
+  "name": "buckup",
+  "version": "0.3",
+  "summary": "Create S3 buckets in seconds from your command line to use on your website.",
+  "author": "Tomasz Knapik",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/torchbox/buckup",
+  "download_filename": "buckup-0.3.tar.gz",
+  "download_time": "2026-01-28T19:23:29.485986",
+  "package_url": "https://pypi.org/project/buckup/"
+}

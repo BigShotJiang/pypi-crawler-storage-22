@@ -1,0 +1,11 @@
+{
+  "name": "knotctl",
+  "version": "0.1.5",
+  "summary": "A CLI for knotapi.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knotctl-0.1.5.tar.gz",
+  "download_time": "2026-01-28T19:23:55.855604",
+  "package_url": "https://pypi.org/project/knotctl/"
+}
