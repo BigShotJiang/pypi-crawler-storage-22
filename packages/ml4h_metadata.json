@@ -1,0 +1,11 @@
+{
+  "name": "ml4h",
+  "version": "0.1.2",
+  "summary": "Machine Learning for Health python package",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/broadinstitute/ml4h",
+  "download_filename": "ml4h-0.1.2.tar.gz",
+  "download_time": "2026-01-28T21:53:18.944693",
+  "package_url": "https://pypi.org/project/ml4h/"
+}

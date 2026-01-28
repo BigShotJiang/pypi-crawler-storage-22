@@ -1,0 +1,11 @@
+{
+  "name": "map-with-tree",
+  "version": "0.0.19",
+  "summary": "A Python library for reading and writing compressed, sorted key-value stores with efficient lookup using a B-tree-like structure.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "map_with_tree-0.0.19.tar.gz",
+  "download_time": "2026-01-28T21:53:29.636070",
+  "package_url": "https://pypi.org/project/map-with-tree/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dworshak",
+  "version": "1.1.2",
+  "summary": "Manage local, encrypted credentials. The **dworshak* CLI leverages openssl, sqlite3, and cryptography.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dworshak-1.1.2.tar.gz",
+  "download_time": "2026-01-28T21:52:55.172664",
+  "package_url": "https://pypi.org/project/dworshak/"
+}

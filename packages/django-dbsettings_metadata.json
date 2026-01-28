@@ -1,0 +1,11 @@
+{
+  "name": "django-dbsettings",
+  "version": "1.4.0",
+  "summary": "Application settings whose values can be updated while a project is up and running.",
+  "author": "Samuel Cormier-Iijima",
+  "license": "BSD",
+  "home_page": "http://github.com/zlorf/django-dbsettings",
+  "download_filename": "django_dbsettings-1.4.0.tar.gz",
+  "download_time": "2026-01-28T21:52:54.047762",
+  "package_url": "https://pypi.org/project/django-dbsettings/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiandme-cli",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "AIandMe CLI - command line interface for AI agent security testing.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "aiandme_cli-0.1.1.tar.gz",
-  "download_time": "2026-01-28T18:53:59.735745",
+  "download_filename": "aiandme_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-28T21:53:03.215021",
   "package_url": "https://pypi.org/project/aiandme-cli/"
 }

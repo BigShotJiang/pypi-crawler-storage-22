@@ -1,0 +1,11 @@
+{
+  "name": "equinix",
+  "version": "0.14.1",
+  "summary": "Equinix SDK for Python",
+  "author": "Equinix",
+  "license": "MIT",
+  "home_page": "https://github.com/equinix/equinix-sdk-python",
+  "download_filename": "equinix-0.14.1.tar.gz",
+  "download_time": "2026-01-28T21:53:16.750847",
+  "package_url": "https://pypi.org/project/equinix/"
+}

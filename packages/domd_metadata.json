@@ -1,0 +1,11 @@
+{
+  "name": "domd",
+  "version": "2.2.65",
+  "summary": "✓ DoMD - Do Markdown Docs - automatically detect, run and show working commands in DONE.md and errors in TODO.md markdown files",
+  "author": "Tom Sapletta",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "domd-2.2.65.tar.gz",
+  "download_time": "2026-01-28T21:53:26.146259",
+  "package_url": "https://pypi.org/project/domd/"
+}
