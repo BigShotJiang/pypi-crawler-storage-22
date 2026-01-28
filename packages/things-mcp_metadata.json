@@ -1,0 +1,11 @@
+{
+  "name": "things-mcp",
+  "version": "0.7.1",
+  "summary": "Things app Model Context Protocol (MCP) server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "things_mcp-0.7.1.tar.gz",
+  "download_time": "2026-01-28T20:24:29.471806",
+  "package_url": "https://pypi.org/project/things-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-opencell-somconnexio",
+  "version": "16.0.1.1.2",
+  "summary": "Synchronize the needed objects to invoicing from OpenCell.",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/odoo/odoo-somconnexio",
+  "download_filename": "odoo_addon_opencell_somconnexio-16.0.1.1.2.tar.gz",
+  "download_time": "2026-01-28T20:24:20.996942",
+  "package_url": "https://pypi.org/project/odoo-addon-opencell-somconnexio/"
+}

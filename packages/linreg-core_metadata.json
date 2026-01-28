@@ -1,0 +1,11 @@
+{
+  "name": "linreg-core",
+  "version": "0.4.0",
+  "summary": "Lightweight linear regression (OLS, Ridge, Lasso, Elastic Net) with diagnostic tests. Pure Rust - no external math dependencies.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://jesse-anderson.net",
+  "download_filename": "linreg_core-0.4.0.tar.gz",
+  "download_time": "2026-01-28T20:24:00.979226",
+  "package_url": "https://pypi.org/project/linreg-core/"
+}

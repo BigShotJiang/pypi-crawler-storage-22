@@ -1,0 +1,11 @@
+{
+  "name": "tcpb",
+  "version": "0.15.0",
+  "summary": "A Python client for TeraChem's protocol buffer API.",
+  "author": "Colton Hicks",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tcpb-0.15.0.tar.gz",
+  "download_time": "2026-01-28T20:23:46.792448",
+  "package_url": "https://pypi.org/project/tcpb/"
+}

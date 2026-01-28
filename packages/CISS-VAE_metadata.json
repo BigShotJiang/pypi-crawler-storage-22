@@ -1,0 +1,11 @@
+{
+  "name": "CISS-VAE",
+  "version": "1.0.4",
+  "summary": "Clustering-Informed Shared-Structure Variational Autoencoder (CISS-VAE) for Missing Data Imputation",
+  "author": "Yasin Khadem Charvadeh, Kenneth Seier, Katherine S. Panageas, Danielle Vaithilingam, Mithat Gönen, Yuan Chen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ciss_vae-1.0.4.tar.gz",
+  "download_time": "2026-01-28T20:24:08.045168",
+  "package_url": "https://pypi.org/project/CISS-VAE/"
+}

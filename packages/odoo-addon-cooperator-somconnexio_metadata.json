@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-cooperator-somconnexio",
+  "version": "16.0.1.1.5",
+  "summary": "SomConnexio custom usage of cooperative users (cooperators).",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_cooperator_somconnexio-16.0.1.1.5.tar.gz",
+  "download_time": "2026-01-28T20:24:23.601790",
+  "package_url": "https://pypi.org/project/odoo-addon-cooperator-somconnexio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "envpod",
+  "version": "1.1.0",
+  "summary": "Local development environment synchronizer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "envpod-1.1.0.tar.gz",
+  "download_time": "2026-01-28T20:24:13.240285",
+  "package_url": "https://pypi.org/project/envpod/"
+}

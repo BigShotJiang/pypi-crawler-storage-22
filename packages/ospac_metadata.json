@@ -1,0 +1,11 @@
+{
+  "name": "ospac",
+  "version": "1.2.6",
+  "summary": "Open Source Policy as Code - License compliance policy engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ospac-1.2.6.tar.gz",
+  "download_time": "2026-01-28T20:23:48.174247",
+  "package_url": "https://pypi.org/project/ospac/"
+}

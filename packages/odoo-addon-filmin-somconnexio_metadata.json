@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-filmin-somconnexio",
+  "version": "16.0.1.1.1",
+  "summary": "Manages Filmin subscriptions within the SomConnexió ERP.",
+  "author": "Coopdevs Treball SCCL, Som Connexió SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://coopdevs.org",
+  "download_filename": "odoo_addon_filmin_somconnexio-16.0.1.1.1.tar.gz",
+  "download_time": "2026-01-28T20:24:22.302848",
+  "package_url": "https://pypi.org/project/odoo-addon-filmin-somconnexio/"
+}

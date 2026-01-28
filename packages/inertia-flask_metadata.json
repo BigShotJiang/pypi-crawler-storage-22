@@ -1,0 +1,11 @@
+{
+  "name": "inertia-flask",
+  "version": "1.1.3",
+  "summary": "Inertia Flask is a Flask extension that provides a simple way to build single-page applications (SPAs) using Inertia.js.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "inertia_flask-1.1.3.tar.gz",
+  "download_time": "2026-01-28T20:24:26.860729",
+  "package_url": "https://pypi.org/project/inertia-flask/"
+}
