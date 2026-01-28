@@ -1,11 +1,11 @@
 {
   "name": "constec",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Base library for the Constec ecosystem - shared utilities, models, and namespace foundation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "constec-0.3.1.tar.gz",
-  "download_time": "2026-01-28T16:57:12.288786",
+  "download_filename": "constec-0.3.3.tar.gz",
+  "download_time": "2026-01-28T20:56:14.844321",
   "package_url": "https://pypi.org/project/constec/"
 }

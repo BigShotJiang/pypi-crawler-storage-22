@@ -1,0 +1,11 @@
+{
+  "name": "auto-backup-linux",
+  "version": "1.0.6",
+  "summary": "一个用于Linux服务器的自动备份工具，支持文件备份、压缩和上传到云端",
+  "author": "YLX Studio",
+  "license": null,
+  "home_page": "https://github.com/wongstarx/auto-backup-linux",
+  "download_filename": "auto_backup_linux-1.0.6.tar.gz",
+  "download_time": "2026-01-28T20:55:57.664608",
+  "package_url": "https://pypi.org/project/auto-backup-linux/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pylenm",
+  "version": "2.7.5",
+  "summary": "This package aims to provide machine learning (ML) functions for performing comprehensive soil and groundwater data analysis, and for supporting the establishment of effective long-term monitoring.",
+  "author": "Haokai Zhao",
+  "license": "MIT",
+  "home_page": "https://github.com/hkzhao7/pylenm",
+  "download_filename": "pylenm-2.7.5.tar.gz",
+  "download_time": "2026-01-28T20:56:23.622814",
+  "package_url": "https://pypi.org/project/pylenm/"
+}

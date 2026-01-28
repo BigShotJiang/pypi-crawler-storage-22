@@ -1,0 +1,11 @@
+{
+  "name": "jinja_partials",
+  "version": "0.3.1",
+  "summary": "Simple reuse of partial HTML page templates in the Jinja template language for Python web frameworks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jinja_partials-0.3.1.tar.gz",
+  "download_time": "2026-01-28T20:56:18.717897",
+  "package_url": "https://pypi.org/project/jinja_partials/"
+}

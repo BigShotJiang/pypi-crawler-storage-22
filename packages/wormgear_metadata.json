@@ -1,0 +1,11 @@
+{
+  "name": "wormgear",
+  "version": "0.0.10",
+  "summary": "Unified worm gear calculator and CNC-ready 3D geometry generator",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wormgear-0.0.10.tar.gz",
+  "download_time": "2026-01-28T20:56:12.130542",
+  "package_url": "https://pypi.org/project/wormgear/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "howler-api",
+  "version": "3.0.0.372",
+  "summary": "Howler - API server",
+  "author": "Canadian Centre for Cyber Security",
+  "license": "MIT",
+  "home_page": "https://cybercentrecanada.github.io/howler/",
+  "download_filename": "howler_api-3.0.0.372.tar.gz",
+  "download_time": "2026-01-28T20:56:21.978244",
+  "package_url": "https://pypi.org/project/howler-api/"
+}
