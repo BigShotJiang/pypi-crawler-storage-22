@@ -1,0 +1,11 @@
+{
+  "name": "mcp-obsidian-vault",
+  "version": "0.4.1",
+  "summary": "Claude Desktop MCP server for Obsidian vaults",
+  "author": "ldraney",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_obsidian_vault-0.4.1.tar.gz",
+  "download_time": "2026-01-28T17:31:58.957977",
+  "package_url": "https://pypi.org/project/mcp-obsidian-vault/"
+}

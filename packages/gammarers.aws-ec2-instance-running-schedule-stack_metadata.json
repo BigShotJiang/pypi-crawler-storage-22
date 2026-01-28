@@ -1,0 +1,11 @@
+{
+  "name": "gammarers.aws-ec2-instance-running-schedule-stack",
+  "version": "2.4.4",
+  "summary": "AWS EC2 Instance Running Scheduler",
+  "author": "yicr<yicr@users.noreply.github.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/gammarers/aws-ec2-instance-running-schedule-stack.git",
+  "download_filename": "gammarers_aws_ec2_instance_running_schedule_stack-2.4.4.tar.gz",
+  "download_time": "2026-01-28T17:31:49.330624",
+  "package_url": "https://pypi.org/project/gammarers.aws-ec2-instance-running-schedule-stack/"
+}

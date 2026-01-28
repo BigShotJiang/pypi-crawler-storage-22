@@ -1,0 +1,11 @@
+{
+  "name": "xoq-serial",
+  "version": "0.3.4",
+  "summary": "Drop-in replacement for pyserial - remote serial ports over P2P",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xoq_serial-0.3.4.tar.gz",
+  "download_time": "2026-01-28T17:31:44.706682",
+  "package_url": "https://pypi.org/project/xoq-serial/"
+}

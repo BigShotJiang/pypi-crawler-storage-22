@@ -1,0 +1,11 @@
+{
+  "name": "AWSIoTPythonSDK",
+  "version": "1.6.0",
+  "summary": "SDK for connecting to AWS IoT using Python.",
+  "author": "Amazon Web Service",
+  "license": null,
+  "home_page": "https://github.com/aws/aws-iot-device-sdk-python.git",
+  "download_filename": "awsiotpythonsdk-1.6.0.tar.gz",
+  "download_time": "2026-01-28T17:31:46.988696",
+  "package_url": "https://pypi.org/project/AWSIoTPythonSDK/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-flex",
+  "version": "26.1.16",
+  "summary": "A flexible query language for Django - enable frontends to dynamically construct database queries",
+  "author": "Nehemiah Jacob",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_flex-26.1.16.tar.gz",
+  "download_time": "2026-01-28T17:31:48.752508",
+  "package_url": "https://pypi.org/project/django-flex/"
+}
