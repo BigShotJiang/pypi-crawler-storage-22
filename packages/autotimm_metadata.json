@@ -1,0 +1,11 @@
+{
+  "name": "autotimm",
+  "version": "0.1.0",
+  "summary": "Automated deep learning image tasks powered by timm and PyTorch Lightning",
+  "author": "Krishnatheja Vanka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autotimm-0.1.0.tar.gz",
+  "download_time": "2026-01-28T23:48:21.251052",
+  "package_url": "https://pypi.org/project/autotimm/"
+}

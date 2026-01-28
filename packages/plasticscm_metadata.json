@@ -1,0 +1,11 @@
+{
+  "name": "plasticscm",
+  "version": "0.5.1a1",
+  "summary": "Python package providing access to the PlasticSCM client API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plasticscm-0.5.1a1.tar.gz",
+  "download_time": "2026-01-28T23:48:08.635646",
+  "package_url": "https://pypi.org/project/plasticscm/"
+}

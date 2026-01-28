@@ -1,11 +1,11 @@
 {
   "name": "project-ryland",
-  "version": "1.3.11",
+  "version": "2.0.0",
   "summary": "This project develops standardized tools to use LLMs in research studies for improving patient care.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "project_ryland-1.3.11.tar.gz",
-  "download_time": "2026-01-28T21:53:21.505538",
+  "download_filename": "project_ryland-2.0.0.tar.gz",
+  "download_time": "2026-01-28T23:48:23.361167",
   "package_url": "https://pypi.org/project/project-ryland/"
 }

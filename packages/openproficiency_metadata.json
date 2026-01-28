@@ -1,0 +1,11 @@
+{
+  "name": "openproficiency",
+  "version": "0.1.0",
+  "summary": "A simple library for managing proficiency topics and topic lists",
+  "author": "OpenProficiency Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/openproficiency/openproficiency",
+  "download_filename": "openproficiency-0.1.0.tar.gz",
+  "download_time": "2026-01-28T23:47:58.164781",
+  "package_url": "https://pypi.org/project/openproficiency/"
+}

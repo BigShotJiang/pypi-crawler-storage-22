@@ -1,0 +1,11 @@
+{
+  "name": "openwisp-utils",
+  "version": "1.2.2",
+  "summary": "OpenWISP 2 Utilities",
+  "author": "Various",
+  "license": "BSD-3-Clause",
+  "home_page": "http://openwisp.org",
+  "download_filename": "openwisp_utils-1.2.2.tar.gz",
+  "download_time": "2026-01-28T23:47:50.372196",
+  "package_url": "https://pypi.org/project/openwisp-utils/"
+}

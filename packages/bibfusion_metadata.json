@@ -1,0 +1,11 @@
+{
+  "name": "bibfusion",
+  "version": "1.0.0",
+  "summary": "A Python package for merging, preprocessing, and enriching bibliographic data from WoS, Scopus, and OpenAlex.",
+  "author": "Universidad Nacional de Colombia",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bibfusion-1.0.0.tar.gz",
+  "download_time": "2026-01-28T23:48:18.122817",
+  "package_url": "https://pypi.org/project/bibfusion/"
+}

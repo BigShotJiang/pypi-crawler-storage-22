@@ -1,0 +1,11 @@
+{
+  "name": "fuellhorn",
+  "version": "1.0.0a9",
+  "summary": "Lebensmittelvorrats-Verwaltung - Self-hosted inventory management for food storage",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "fuellhorn-1.0.0a9.tar.gz",
+  "download_time": "2026-01-28T23:48:13.957784",
+  "package_url": "https://pypi.org/project/fuellhorn/"
+}

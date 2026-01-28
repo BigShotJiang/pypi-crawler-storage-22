@@ -1,0 +1,11 @@
+{
+  "name": "flask-mdict",
+  "version": "1.4.22",
+  "summary": "Flask Mdict Server",
+  "author": "Yugang LIU",
+  "license": "MIT",
+  "home_page": "https://github.com/liuyug/flask-mdict",
+  "download_filename": "flask_mdict-1.4.22-py3-none-any.whl",
+  "download_time": "2026-01-28T23:48:12.909088",
+  "package_url": "https://pypi.org/project/flask-mdict/"
+}

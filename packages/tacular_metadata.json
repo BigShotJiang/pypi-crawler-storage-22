@@ -1,0 +1,11 @@
+{
+  "name": "tacular",
+  "version": "1.0.0",
+  "summary": "Includes lookups for modifications, amino acids, and other data types.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tacular-1.0.0.tar.gz",
+  "download_time": "2026-01-28T23:48:11.842449",
+  "package_url": "https://pypi.org/project/tacular/"
+}

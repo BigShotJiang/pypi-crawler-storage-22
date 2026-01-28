@@ -1,0 +1,11 @@
+{
+  "name": "simsopt",
+  "version": "1.10.5",
+  "summary": "Framework for optimizing stellarators",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "simsopt-1.10.5-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-28T23:47:49.846470",
+  "package_url": "https://pypi.org/project/simsopt/"
+}

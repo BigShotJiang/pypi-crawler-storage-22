@@ -1,11 +1,11 @@
 {
   "name": "geospectral",
-  "version": "0.2.2",
-  "summary": "# Geospectral",
+  "version": "0.2.3",
+  "summary": "A Python package for augmenting geospatial raster data (GeoTIFFs) with various techniques including noise addition, patch mixing, and geometric transformations.",
   "author": "Dipesh Sharma",
   "license": "MIT",
   "home_page": "https://github.com/bdipesh3045/geospectral",
-  "download_filename": "geospectral-0.2.2.tar.gz",
-  "download_time": "2026-01-28T23:21:50.605727",
+  "download_filename": "geospectral-0.2.3.tar.gz",
+  "download_time": "2026-01-28T23:48:25.471520",
   "package_url": "https://pypi.org/project/geospectral/"
 }
