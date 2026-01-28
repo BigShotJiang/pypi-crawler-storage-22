@@ -1,0 +1,11 @@
+{
+  "name": "ffdice",
+  "version": "2.0.0",
+  "summary": "A basic random number generator (RNG) that can be used for multiple purposes, such as rolling dice.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ffdice-2.0.0.tar.gz",
+  "download_time": "2026-01-28T19:50:35.066680",
+  "package_url": "https://pypi.org/project/ffdice/"
+}

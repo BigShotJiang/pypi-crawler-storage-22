@@ -1,11 +1,11 @@
 {
   "name": "poly-hammer-utils",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "summary": null,
   "author": "Poly Hammer",
   "license": null,
   "home_page": null,
-  "download_filename": "poly_hammer_utils-0.0.24.tar.gz",
-  "download_time": "2026-01-28T18:53:58.162432",
+  "download_filename": "poly_hammer_utils-0.0.25.tar.gz",
+  "download_time": "2026-01-28T19:50:32.913790",
   "package_url": "https://pypi.org/project/poly-hammer-utils/"
 }

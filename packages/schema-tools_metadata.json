@@ -1,0 +1,11 @@
+{
+  "name": "schema-tools",
+  "version": "0.2.0",
+  "summary": "Collection of tools to parse, query, map,... Json/Yaml schemas",
+  "author": "Christophe VG",
+  "license": "MIT",
+  "home_page": "https://github.com/christophevg/schema-tools",
+  "download_filename": "schema_tools-0.2.0.tar.gz",
+  "download_time": "2026-01-28T19:50:20.094943",
+  "package_url": "https://pypi.org/project/schema-tools/"
+}

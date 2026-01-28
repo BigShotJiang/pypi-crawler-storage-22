@@ -1,0 +1,11 @@
+{
+  "name": "ubxtranslator",
+  "version": "0.2.6",
+  "summary": "A lightweight python library for translating UBX packets",
+  "author": "Dalymople",
+  "license": "GNU GPL v3",
+  "home_page": "http://github.com/dalymople/ubxtranslator",
+  "download_filename": "ubxtranslator-0.2.6.tar.gz",
+  "download_time": "2026-01-28T19:50:32.393673",
+  "package_url": "https://pypi.org/project/ubxtranslator/"
+}

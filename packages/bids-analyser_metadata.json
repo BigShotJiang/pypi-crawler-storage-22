@@ -1,0 +1,11 @@
+{
+  "name": "bids-analyser",
+  "version": "0.3.1",
+  "summary": "Analyser for ELF files",
+  "author": "Anthony Harrison",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aph10/BIDS",
+  "download_filename": "bids_analyser-0.3.1-py3-none-any.whl",
+  "download_time": "2026-01-28T19:49:54.694475",
+  "package_url": "https://pypi.org/project/bids-analyser/"
+}

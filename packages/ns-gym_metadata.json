@@ -1,0 +1,11 @@
+{
+  "name": "ns-gym",
+  "version": "1.0.4",
+  "summary": "A simulation toolkit for non-stationary Markov decision processes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ns_gym-1.0.4-py3-none-any.whl",
+  "download_time": "2026-01-28T19:50:29.759214",
+  "package_url": "https://pypi.org/project/ns-gym/"
+}

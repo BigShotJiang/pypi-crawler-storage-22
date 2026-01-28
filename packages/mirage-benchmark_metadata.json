@@ -1,0 +1,11 @@
+{
+  "name": "mirage-benchmark",
+  "version": "1.2.3",
+  "summary": "A Multiagent Framework for Generating Multimodal Multihop QA Datasets for RAG Evaluation",
+  "author": "MiRAGE Authors",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ChandanKSahu/MiRAGE",
+  "download_filename": "mirage_benchmark-1.2.3.tar.gz",
+  "download_time": "2026-01-28T19:50:01.181478",
+  "package_url": "https://pypi.org/project/mirage-benchmark/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tutor-contrib-pod-autoscaling",
+  "version": "21.0.0",
+  "summary": "pod-autoscaling plugin for Tutor",
+  "author": "Jhony Avella",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tutor_contrib_pod_autoscaling-21.0.0.tar.gz",
+  "download_time": "2026-01-28T19:50:04.344243",
+  "package_url": "https://pypi.org/project/tutor-contrib-pod-autoscaling/"
+}

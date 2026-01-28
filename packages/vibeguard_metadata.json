@@ -1,0 +1,11 @@
+{
+  "name": "vibeguard",
+  "version": "0.1.1",
+  "summary": "Open-source AI security layer for vibe coders and AI companies. Protect your LLM apps from prompt injection, PII leaks, secrets exposure, and more.",
+  "author": "MrunmayeeN",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibeguard-0.1.1.tar.gz",
+  "download_time": "2026-01-28T19:49:56.389368",
+  "package_url": "https://pypi.org/project/vibeguard/"
+}

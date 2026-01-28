@@ -1,0 +1,11 @@
+{
+  "name": "layr0-IMC",
+  "version": "1.1.4",
+  "summary": "A Python library for interacting with layr0_imc's trading APIs with high-performance technical indicators",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "layr0_imc-1.1.4.tar.gz",
+  "download_time": "2026-01-28T19:50:30.278825",
+  "package_url": "https://pypi.org/project/layr0-IMC/"
+}
