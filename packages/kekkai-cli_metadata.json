@@ -1,11 +1,11 @@
 {
   "name": "kekkai-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Kekkai monorepo (local-first AppSec orchestration + compliance checker)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kekkai_cli-1.0.2.tar.gz",
-  "download_time": "2026-01-28T17:32:30.611978",
+  "download_filename": "kekkai_cli-1.0.3.tar.gz",
+  "download_time": "2026-01-28T18:00:49.269999",
   "package_url": "https://pypi.org/project/kekkai-cli/"
 }

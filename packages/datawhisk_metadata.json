@@ -1,0 +1,11 @@
+{
+  "name": "datawhisk",
+  "version": "1.0.1",
+  "summary": "A lightweight, practical utility library for data scientists and ML engineers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datawhisk-1.0.1.tar.gz",
+  "download_time": "2026-01-28T18:01:13.683493",
+  "package_url": "https://pypi.org/project/datawhisk/"
+}

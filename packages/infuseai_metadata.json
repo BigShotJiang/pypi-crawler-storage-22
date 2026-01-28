@@ -1,0 +1,11 @@
+{
+  "name": "infuseai",
+  "version": "1.0.0",
+  "summary": "Python SDK for InfuseAI - Build AI applications with your own knowledge bases",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "infuseai-1.0.0.tar.gz",
+  "download_time": "2026-01-28T18:00:39.905659",
+  "package_url": "https://pypi.org/project/infuseai/"
+}

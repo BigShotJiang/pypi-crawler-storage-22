@@ -1,0 +1,11 @@
+{
+  "name": "rilerary",
+  "version": "0.2.3",
+  "summary": "A Python library for managing Rile AI personas with a focus on SDG goals oriented for sustainable living",
+  "author": "Namai Chandra",
+  "license": null,
+  "home_page": "https://github.com/NamaiBest/rilerary",
+  "download_filename": "rilerary-0.2.3.tar.gz",
+  "download_time": "2026-01-28T18:00:33.777257",
+  "package_url": "https://pypi.org/project/rilerary/"
+}

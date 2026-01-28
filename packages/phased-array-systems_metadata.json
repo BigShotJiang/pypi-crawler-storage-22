@@ -1,0 +1,11 @@
+{
+  "name": "phased-array-systems",
+  "version": "0.2.0",
+  "summary": "Phased array antenna system design, optimization, and performance visualization",
+  "author": "phased-array-systems contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phased_array_systems-0.2.0.tar.gz",
+  "download_time": "2026-01-28T18:00:33.203568",
+  "package_url": "https://pypi.org/project/phased-array-systems/"
+}

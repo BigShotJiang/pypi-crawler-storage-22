@@ -1,0 +1,11 @@
+{
+  "name": "autoarchive",
+  "version": "2.0.6",
+  "summary": "A simple backup utility.",
+  "author": "Róbert Čerňanský",
+  "license": "GNU GPLv3",
+  "home_page": "https://autoarchive.sourceforge.io",
+  "download_filename": "autoarchive-2.0.6.tar.gz",
+  "download_time": "2026-01-28T18:01:11.588847",
+  "package_url": "https://pypi.org/project/autoarchive/"
+}

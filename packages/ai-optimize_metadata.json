@@ -1,0 +1,11 @@
+{
+  "name": "ai-optimize",
+  "version": "0.1.1",
+  "summary": "Universal optimization system for AI coding assistants",
+  "author": "AI Token Optimizer Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_optimize-0.1.1.tar.gz",
+  "download_time": "2026-01-28T18:00:39.396092",
+  "package_url": "https://pypi.org/project/ai-optimize/"
+}

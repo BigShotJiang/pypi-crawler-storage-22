@@ -1,0 +1,11 @@
+{
+  "name": "opes",
+  "version": "0.11.1",
+  "summary": "A research-focused portfolio optimization and backtesting engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opes-0.11.1.tar.gz",
+  "download_time": "2026-01-28T18:00:55.084971",
+  "package_url": "https://pypi.org/project/opes/"
+}

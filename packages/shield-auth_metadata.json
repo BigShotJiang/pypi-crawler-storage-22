@@ -1,0 +1,11 @@
+{
+  "name": "shield-auth",
+  "version": "1.0.2",
+  "summary": "Библиотека для безопасного хеширования паролей в TXT файлы",
+  "author": "angyedz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shield_auth-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-28T18:01:15.743219",
+  "package_url": "https://pypi.org/project/shield-auth/"
+}

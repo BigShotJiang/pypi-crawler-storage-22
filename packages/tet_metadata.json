@@ -1,0 +1,11 @@
+{
+  "name": "tet",
+  "version": "0.4.2",
+  "summary": "Unearthly intelligent batteries-included application framework built on Pyramid",
+  "author": "Antti Haapala",
+  "license": null,
+  "home_page": "https://github.com/tetframework/tet",
+  "download_filename": "tet-0.4.2.tar.gz",
+  "download_time": "2026-01-28T18:00:50.300734",
+  "package_url": "https://pypi.org/project/tet/"
+}

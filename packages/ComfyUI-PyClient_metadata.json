@@ -1,11 +1,11 @@
 {
   "name": "ComfyUI-PyClient",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A Python client library for interacting with ComfyUI API",
   "author": "ComfyUI Client Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfyui_pyclient-0.1.0.tar.gz",
-  "download_time": "2026-01-28T17:31:50.496557",
+  "download_filename": "comfyui_pyclient-0.1.2.tar.gz",
+  "download_time": "2026-01-28T18:00:36.839996",
   "package_url": "https://pypi.org/project/ComfyUI-PyClient/"
 }
