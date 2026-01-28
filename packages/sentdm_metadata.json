@@ -1,11 +1,11 @@
 {
   "name": "sentdm",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "The official Python library for the sent-dm API",
-  "author": "Sent Dm",
+  "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sentdm-0.3.0.tar.gz",
-  "download_time": "2026-01-28T20:56:31.053379",
+  "download_filename": "sentdm-0.4.0.tar.gz",
+  "download_time": "2026-01-28T21:28:21.289091",
   "package_url": "https://pypi.org/project/sentdm/"
 }

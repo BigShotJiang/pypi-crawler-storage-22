@@ -1,0 +1,11 @@
+{
+  "name": "adi-agentic-agi",
+  "version": "0.5.1",
+  "summary": "LLM-agnostic agentic cognitive bus framework (ADI-Agentic-AGI)",
+  "author": "Adi's American Soft LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "adi_agentic_agi-0.5.1.tar.gz",
+  "download_time": "2026-01-28T21:28:51.186701",
+  "package_url": "https://pypi.org/project/adi-agentic-agi/"
+}

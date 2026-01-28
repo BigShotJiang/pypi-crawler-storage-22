@@ -1,0 +1,11 @@
+{
+  "name": "scout-code-navigator",
+  "version": "3.0.0",
+  "summary": "MCP server for fast, incremental code navigation - no indexing, no embeddings, no waiting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scout_code_navigator-3.0.0.tar.gz",
+  "download_time": "2026-01-28T21:28:29.416832",
+  "package_url": "https://pypi.org/project/scout-code-navigator/"
+}

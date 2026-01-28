@@ -1,0 +1,11 @@
+{
+  "name": "pangocffi",
+  "version": "0.14.0",
+  "summary": "CFFI-based pango bindings for Python",
+  "author": "Leif Gehrmann",
+  "license": "LGPL-2.1",
+  "home_page": "https://github.com/leifgehrmann/pangocffi",
+  "download_filename": "pangocffi-0.14.0.tar.gz",
+  "download_time": "2026-01-28T21:28:24.221897",
+  "package_url": "https://pypi.org/project/pangocffi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "auto-backup-wins",
+  "version": "1.0.5",
+  "summary": "一个用于Windows环境的自动备份工具，支持文件备份、压缩和上传到云端",
+  "author": "YLX Studio",
+  "license": null,
+  "home_page": "https://github.com/wongstarx/auto-backup-wins",
+  "download_filename": "auto_backup_wins-1.0.5.tar.gz",
+  "download_time": "2026-01-28T21:28:58.656726",
+  "package_url": "https://pypi.org/project/auto-backup-wins/"
+}

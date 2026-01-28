@@ -1,0 +1,11 @@
+{
+  "name": "aissemble-oip-deploy",
+  "version": "1.5.0rc2",
+  "summary": "Deployment tooling for aiSSEMBLE Open Inference Protocol - generates Docker, Kubernetes, and KServe configs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aissemble_oip_deploy-1.5.0rc2.tar.gz",
+  "download_time": "2026-01-28T21:28:42.473010",
+  "package_url": "https://pypi.org/project/aissemble-oip-deploy/"
+}

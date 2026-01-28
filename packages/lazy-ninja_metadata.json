@@ -1,0 +1,11 @@
+{
+  "name": "lazy-ninja",
+  "version": "0.6.8",
+  "summary": "Rapidly generate CRUD API endpoints for your Django models with Django Ninja. Includes dynamic schema generation and customizable hooks.",
+  "author": "Augusto Domingos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lazy_ninja-0.6.8.tar.gz",
+  "download_time": "2026-01-28T21:28:27.142088",
+  "package_url": "https://pypi.org/project/lazy-ninja/"
+}

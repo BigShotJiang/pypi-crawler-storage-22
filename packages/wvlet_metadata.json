@@ -1,0 +1,11 @@
+{
+  "name": "wvlet",
+  "version": "2026.1.1",
+  "summary": "Python SDK for Wvlet - A flow-style query language",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "wvlet-2026.1.1.tar.gz",
+  "download_time": "2026-01-28T21:28:30.626384",
+  "package_url": "https://pypi.org/project/wvlet/"
+}
