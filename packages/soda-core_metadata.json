@@ -1,0 +1,11 @@
+{
+  "name": "soda-core",
+  "version": "4.0.5",
+  "summary": "Soda core library & CLI",
+  "author": "Soda Data N.V.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "soda_core-4.0.5.tar.gz",
+  "download_time": "2026-01-28T16:57:18.936745",
+  "package_url": "https://pypi.org/project/soda-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zoneramaapi",
+  "version": "0.5.0",
+  "summary": "A Python client for the Zonerama API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zoneramaapi-0.5.0.tar.gz",
+  "download_time": "2026-01-28T16:57:27.297481",
+  "package_url": "https://pypi.org/project/zoneramaapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kew",
+  "version": "0.1.8",
+  "summary": "A flexible async task queue manager for Python applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kew-0.1.8.tar.gz",
+  "download_time": "2026-01-28T16:57:08.499728",
+  "package_url": "https://pypi.org/project/kew/"
+}

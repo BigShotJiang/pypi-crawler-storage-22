@@ -1,0 +1,11 @@
+{
+  "name": "ts-ids-validator",
+  "version": "1.3.0",
+  "summary": "TetraScience IDS artifact validator",
+  "author": "TetraScience",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ts_ids_validator-1.3.0.tar.gz",
+  "download_time": "2026-01-28T16:57:30.922272",
+  "package_url": "https://pypi.org/project/ts-ids-validator/"
+}
