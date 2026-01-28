@@ -1,0 +1,11 @@
+{
+  "name": "shadow4",
+  "version": "0.1.77",
+  "summary": "shadow implementation in python",
+  "author": "Manuel Sanchez del Rio, Luca Rebuffi",
+  "license": null,
+  "home_page": "https://github.com/oasys-kit/shadow4/",
+  "download_filename": "shadow4-0.1.77.tar.gz",
+  "download_time": "2026-01-28T22:54:09.376242",
+  "package_url": "https://pypi.org/project/shadow4/"
+}

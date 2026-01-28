@@ -1,0 +1,11 @@
+{
+  "name": "shadow-hybrid-methods",
+  "version": "1.0.20",
+  "summary": "Hybrid Methods, combining raytracing with wave optics",
+  "author": "Luca Rebuffi, Xianbo Shi",
+  "license": "BSD",
+  "home_page": "https://github.com/oasys-kit/hybrid-methods",
+  "download_filename": "shadow_hybrid_methods-1.0.20.tar.gz",
+  "download_time": "2026-01-28T22:54:03.224686",
+  "package_url": "https://pypi.org/project/shadow-hybrid-methods/"
+}

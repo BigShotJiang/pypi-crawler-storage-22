@@ -1,0 +1,11 @@
+{
+  "name": "vlm2vec-for-pyserini",
+  "version": "0.1.1",
+  "summary": "Fork of the original VLM2Vec repository modified for easy and simple Pyserini integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vlm2vec_for_pyserini-0.1.1.tar.gz",
+  "download_time": "2026-01-28T22:53:52.007693",
+  "package_url": "https://pypi.org/project/vlm2vec-for-pyserini/"
+}

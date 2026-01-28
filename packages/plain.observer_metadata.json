@@ -1,0 +1,11 @@
+{
+  "name": "plain.observer",
+  "version": "0.27.1",
+  "summary": "On-page telemetry and observability tools for Plain.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plain_observer-0.27.1.tar.gz",
+  "download_time": "2026-01-28T22:53:39.831237",
+  "package_url": "https://pypi.org/project/plain.observer/"
+}

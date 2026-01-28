@@ -1,0 +1,11 @@
+{
+  "name": "speedtools",
+  "version": "0.25.0",
+  "summary": "NFS4 HS (PC) resource utilities",
+  "author": "Rafał Kuźnia",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "speedtools-0.25.0.tar.gz",
+  "download_time": "2026-01-28T22:54:07.352457",
+  "package_url": "https://pypi.org/project/speedtools/"
+}

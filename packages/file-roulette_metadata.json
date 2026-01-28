@@ -1,0 +1,11 @@
+{
+  "name": "file-roulette",
+  "version": "0.0.1",
+  "summary": "Transfer random files from directory A to directory B.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "file_roulette-0.0.1.tar.gz",
+  "download_time": "2026-01-28T22:54:04.247015",
+  "package_url": "https://pypi.org/project/file-roulette/"
+}

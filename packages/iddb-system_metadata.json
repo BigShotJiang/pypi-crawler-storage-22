@@ -1,0 +1,11 @@
+{
+  "name": "iddb-system",
+  "version": "0.2.0",
+  "summary": "IDDB: The next-gen Fluent Event Engine and Persistent Database for Discord Bots. Built for scale, security, and high-velocity logging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iddb_system-0.2.0.tar.gz",
+  "download_time": "2026-01-28T22:53:25.342017",
+  "package_url": "https://pypi.org/project/iddb-system/"
+}

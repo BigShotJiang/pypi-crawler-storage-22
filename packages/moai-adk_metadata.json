@@ -1,11 +1,11 @@
 {
   "name": "moai-adk",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "summary": "MoAI Agentic Development Kit - SPEC-First DDD with Alfred SuperAgent & Unified moai-core-* Skills",
   "author": null,
   "license": "COPYLEFT-3.0",
   "home_page": null,
-  "download_filename": "moai_adk-1.11.1-py3-none-any.whl",
-  "download_time": "2026-01-28T22:21:41.991876",
+  "download_filename": "moai_adk-1.11.2-py3-none-any.whl",
+  "download_time": "2026-01-28T22:53:54.351239",
   "package_url": "https://pypi.org/project/moai-adk/"
 }

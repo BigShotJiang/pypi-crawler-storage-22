@@ -1,0 +1,11 @@
+{
+  "name": "rapidkit-core",
+  "version": "0.2.0rc1",
+  "summary": "Public staging playground where we polish the next wave of RapidKit magic together",
+  "author": "RapidKit Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rapidkit_core-0.2.0rc1.tar.gz",
+  "download_time": "2026-01-28T22:54:02.202122",
+  "package_url": "https://pypi.org/project/rapidkit-core/"
+}

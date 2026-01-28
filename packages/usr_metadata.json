@@ -1,11 +1,11 @@
 {
   "name": "usr",
-  "version": "0.1.1",
+  "version": "0.1.1.post1",
   "summary": "Universal Systems Runtime — experimental C core with Python bindings",
   "author": "Ankit Chaubey",
   "license": "MIT",
   "home_page": "https://github.com/ankit-chaubey/usr",
-  "download_filename": "usr-0.1.1.tar.gz",
-  "download_time": "2026-01-28T22:21:46.728142",
+  "download_filename": "usr-0.1.1.post1.tar.gz",
+  "download_time": "2026-01-28T22:54:08.863953",
   "package_url": "https://pypi.org/project/usr/"
 }

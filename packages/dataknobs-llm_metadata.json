@@ -1,0 +1,11 @@
+{
+  "name": "dataknobs-llm",
+  "version": "0.3.2",
+  "summary": "LLM utilities for DataKnobs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataknobs_llm-0.3.2.tar.gz",
+  "download_time": "2026-01-28T22:53:34.570380",
+  "package_url": "https://pypi.org/project/dataknobs-llm/"
+}

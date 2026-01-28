@@ -1,11 +1,11 @@
 {
   "name": "ovos-plugin-manager",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "summary": "OpenVoiceOS plugin manager",
   "author": "jarbasAi",
   "license": "Apache-2.0",
   "home_page": "https://github.com/OpenVoiceOS/OVOS-plugin-manager",
-  "download_filename": "ovos_plugin_manager-2.1.1.tar.gz",
-  "download_time": "2026-01-28T22:22:14.649588",
+  "download_filename": "ovos_plugin_manager-2.2.0.tar.gz",
+  "download_time": "2026-01-28T22:53:59.058458",
   "package_url": "https://pypi.org/project/ovos-plugin-manager/"
 }
