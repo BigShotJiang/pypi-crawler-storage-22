@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-gap-pkg-agt-data",
+  "version": "10.6.47",
+  "summary": "passagemath: Computational Group Theory with GAP: agt data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_gap_pkg_agt_data-10.6.47.tar.gz",
+  "download_time": "2026-01-28T18:53:42.193516",
+  "package_url": "https://pypi.org/project/passagemath-gap-pkg-agt-data/"
+}

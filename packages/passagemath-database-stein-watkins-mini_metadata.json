@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-database-stein-watkins-mini",
+  "version": "10.6.47",
+  "summary": "passagemath: The Stein-Watkins database of elliptic curves (small version)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_database_stein_watkins_mini-10.6.47.tar.gz",
+  "download_time": "2026-01-28T18:53:43.733530",
+  "package_url": "https://pypi.org/project/passagemath-database-stein-watkins-mini/"
+}

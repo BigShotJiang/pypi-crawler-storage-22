@@ -1,0 +1,11 @@
+{
+  "name": "pyfeng",
+  "version": "0.3.1",
+  "summary": "Python Financial Engineering",
+  "author": "Jaehyuk Choi",
+  "license": null,
+  "home_page": "https://github.com/PyFE/PyFENG",
+  "download_filename": "pyfeng-0.3.1.tar.gz",
+  "download_time": "2026-01-28T18:53:56.102438",
+  "package_url": "https://pypi.org/project/pyfeng/"
+}

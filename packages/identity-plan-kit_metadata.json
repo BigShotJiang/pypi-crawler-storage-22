@@ -1,11 +1,11 @@
 {
   "name": "identity-plan-kit",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Modern FastAPI library for authentication, RBAC, subscription plans, and usage tracking",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "identity_plan_kit-0.3.3.tar.gz",
-  "download_time": "2026-01-28T18:00:34.290907",
+  "download_filename": "identity_plan_kit-0.3.4-py3-none-any.whl",
+  "download_time": "2026-01-28T18:53:19.024459",
   "package_url": "https://pypi.org/project/identity-plan-kit/"
 }

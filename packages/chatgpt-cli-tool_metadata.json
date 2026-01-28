@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt-cli-tool",
+  "version": "1.11.2",
+  "summary": "Command-line interface tool for interacting with ChatGPT using terminal",
+  "author": "luka",
+  "license": "MIT",
+  "home_page": "https://github.com/lmatosevic/chatgpt-cli",
+  "download_filename": "chatgpt_cli_tool-1.11.2-py3-none-any.whl",
+  "download_time": "2026-01-28T18:53:28.554349",
+  "package_url": "https://pypi.org/project/chatgpt-cli-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sttpapi",
+  "version": "0.7.4",
+  "summary": "Streaming Telemetry Transport Protocol API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sttpapi-0.7.4.tar.gz",
+  "download_time": "2026-01-28T18:54:05.417298",
+  "package_url": "https://pypi.org/project/sttpapi/"
+}

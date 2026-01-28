@@ -1,0 +1,11 @@
+{
+  "name": "reddit-mcp-tools",
+  "version": "0.1.1",
+  "summary": "MCP server providing 85+ tools for Reddit API access via PRAW",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reddit_mcp_tools-0.1.1.tar.gz",
+  "download_time": "2026-01-28T18:53:57.140421",
+  "package_url": "https://pypi.org/project/reddit-mcp-tools/"
+}

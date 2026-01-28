@@ -1,0 +1,11 @@
+{
+  "name": "django-heralder",
+  "version": "0.5.0",
+  "summary": "Django library for separating the message content from transmission method.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_heralder-0.5.0.tar.gz",
+  "download_time": "2026-01-28T18:54:07.003230",
+  "package_url": "https://pypi.org/project/django-heralder/"
+}

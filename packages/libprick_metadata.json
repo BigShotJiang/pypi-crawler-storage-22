@@ -1,0 +1,11 @@
+{
+  "name": "libprick",
+  "version": "1.4.0",
+  "summary": "Python interface to the Last.FM API/website with caching support",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/spiritualized/libprick",
+  "download_filename": "libprick-1.4.0.tar.gz",
+  "download_time": "2026-01-28T18:53:35.897342",
+  "package_url": "https://pypi.org/project/libprick/"
+}

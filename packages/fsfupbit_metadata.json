@@ -1,0 +1,11 @@
+{
+  "name": "fsfupbit",
+  "version": "1.0.2",
+  "summary": "Enhanced Python wrapper for Upbit API with additional features (Based on pyupbit)",
+  "author": "풀스택패밀리 연구소",
+  "license": null,
+  "home_page": "https://github.com/urstory/fsfupbit",
+  "download_filename": "fsfupbit-1.0.2.tar.gz",
+  "download_time": "2026-01-28T18:53:19.563334",
+  "package_url": "https://pypi.org/project/fsfupbit/"
+}
