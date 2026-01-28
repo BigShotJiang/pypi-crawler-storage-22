@@ -1,0 +1,11 @@
+{
+  "name": "spectrograms",
+  "version": "0.2.1",
+  "summary": "Fast spectrogram computation library powered by Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectrograms-0.2.1-cp312-cp312-manylinux_2_35_x86_64.whl",
+  "download_time": "2026-01-28T23:21:49.053271",
+  "package_url": "https://pypi.org/project/spectrograms/"
+}

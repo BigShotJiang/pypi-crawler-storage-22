@@ -1,11 +1,11 @@
 {
   "name": "agentops-cockpit",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "Production-grade Agent Operations (AgentOps) Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentops_cockpit-0.4.1.tar.gz",
-  "download_time": "2026-01-28T22:53:50.912691",
+  "download_filename": "agentops_cockpit-0.5.0.tar.gz",
+  "download_time": "2026-01-28T23:21:57.340530",
   "package_url": "https://pypi.org/project/agentops-cockpit/"
 }

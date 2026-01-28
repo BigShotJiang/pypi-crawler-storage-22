@@ -1,0 +1,11 @@
+{
+  "name": "validibot-cli",
+  "version": "0.2.0",
+  "summary": "Command-line interface for Validibot - your automated data validation assistant.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "validibot_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-28T23:22:15.653013",
+  "package_url": "https://pypi.org/project/validibot-cli/"
+}

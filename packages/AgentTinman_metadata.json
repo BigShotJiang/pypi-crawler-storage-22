@@ -1,11 +1,11 @@
 {
   "name": "AgentTinman",
-  "version": "0.1.21",
+  "version": "0.1.23",
   "summary": "Forward-Deployed Research Agent for AI system failure discovery",
   "author": "Tinman Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agenttinman-0.1.21.tar.gz",
-  "download_time": "2026-01-28T22:53:24.708054",
+  "download_filename": "agenttinman-0.1.23.tar.gz",
+  "download_time": "2026-01-28T23:21:55.241528",
   "package_url": "https://pypi.org/project/AgentTinman/"
 }

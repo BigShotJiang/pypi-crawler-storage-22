@@ -1,0 +1,11 @@
+{
+  "name": "mu-pygrader",
+  "version": "1.0.6",
+  "summary": "Grader tools for ENGR 212 at Messiah",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mu_pygrader-1.0.6.tar.gz",
+  "download_time": "2026-01-28T23:21:52.138962",
+  "package_url": "https://pypi.org/project/mu-pygrader/"
+}

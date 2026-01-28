@@ -1,0 +1,11 @@
+{
+  "name": "pyivia",
+  "version": "0.2.35",
+  "summary": "Python API for IBM Verify Identity Access",
+  "author": "Lachlan Gleeson",
+  "license": "MIT",
+  "home_page": "https://github.com/lachlan-ibm/pyivia",
+  "download_filename": "pyivia-0.2.35.tar.gz",
+  "download_time": "2026-01-28T23:21:48.535688",
+  "package_url": "https://pypi.org/project/pyivia/"
+}

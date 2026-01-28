@@ -1,11 +1,11 @@
 {
   "name": "geospectral",
-  "version": "0.0.10",
+  "version": "0.2.2",
   "summary": "# Geospectral",
   "author": "Dipesh Sharma",
   "license": "MIT",
   "home_page": "https://github.com/bdipesh3045/geospectral",
-  "download_filename": "geospectral-0.0.10.tar.gz",
-  "download_time": "2026-01-28T22:53:22.888843",
+  "download_filename": "geospectral-0.2.2.tar.gz",
+  "download_time": "2026-01-28T23:21:50.605727",
   "package_url": "https://pypi.org/project/geospectral/"
 }
