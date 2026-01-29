@@ -1,0 +1,11 @@
+{
+  "name": "starvex",
+  "version": "1.2.0",
+  "summary": "Starvex - Production-ready AI agents with guardrails, observability, and security",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "starvex-1.2.0.tar.gz",
+  "download_time": "2026-01-29T19:04:33.903293",
+  "package_url": "https://pypi.org/project/starvex/"
+}

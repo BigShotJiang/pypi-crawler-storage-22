@@ -1,11 +1,11 @@
 {
   "name": "quantumflow-sdk",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Quantum-optimized AI agent workflow platform with 53% token compression",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantumflow_sdk-0.2.0.tar.gz",
-  "download_time": "2026-01-29T17:33:58.040602",
+  "download_filename": "quantumflow_sdk-0.2.1.tar.gz",
+  "download_time": "2026-01-29T19:04:40.222612",
   "package_url": "https://pypi.org/project/quantumflow-sdk/"
 }

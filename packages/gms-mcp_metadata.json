@@ -1,11 +1,11 @@
 {
   "name": "gms-mcp",
-  "version": "0.1.46",
+  "version": "0.1.48",
   "summary": "GameMaker CLI + MCP server toolset",
   "author": "Callum Lory, Ampersand Game Studios",
   "license": null,
   "home_page": null,
-  "download_filename": "gms_mcp-0.1.46.tar.gz",
-  "download_time": "2026-01-29T16:52:59.204890",
+  "download_filename": "gms_mcp-0.1.48.tar.gz",
+  "download_time": "2026-01-29T19:04:32.310370",
   "package_url": "https://pypi.org/project/gms-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "antclient",
+  "version": "0.3.0",
+  "summary": "Python client for Anthive REST API - query single-cell expression databases",
+  "author": "Anthive Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/anthive",
+  "download_filename": "antclient-0.3.0.tar.gz",
+  "download_time": "2026-01-29T19:04:09.017785",
+  "package_url": "https://pypi.org/project/antclient/"
+}

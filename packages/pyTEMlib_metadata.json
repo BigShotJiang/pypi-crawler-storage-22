@@ -1,0 +1,11 @@
+{
+  "name": "pyTEMlib",
+  "version": "0.2026.1.3",
+  "summary": "pyTEM: TEM Data Quantification library through a model-based approach",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytemlib-0.2026.1.3.tar.gz",
+  "download_time": "2026-01-29T19:04:39.179430",
+  "package_url": "https://pypi.org/project/pyTEMlib/"
+}

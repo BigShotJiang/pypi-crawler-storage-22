@@ -1,11 +1,11 @@
 {
   "name": "phylax",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Deterministic regression enforcement for LLM systems.",
   "author": "Phylax Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "phylax-1.0.0.tar.gz",
-  "download_time": "2026-01-29T18:09:28.323823",
+  "download_filename": "phylax-1.0.3.tar.gz",
+  "download_time": "2026-01-29T19:04:17.494280",
   "package_url": "https://pypi.org/project/phylax/"
 }

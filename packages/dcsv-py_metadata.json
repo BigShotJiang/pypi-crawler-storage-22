@@ -1,11 +1,11 @@
 {
   "name": "dcsv-py",
-  "version": "1.0.0",
-  "summary": "A stackless Discord library ported from Node.js on Termux by a disabled developer using AI.",
-  "author": "Miraç Birben",
-  "license": null,
-  "home_page": "https://github.com/DiscordSunucu/dcsv.js",
-  "download_filename": "dcsv_py-1.0.0.tar.gz",
-  "download_time": "2026-01-29T16:00:48.096355",
+  "version": "1.0.1",
+  "summary": "Discord Server Verification System for Python",
+  "author": "DCSV Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dcsv_py-1.0.1.tar.gz",
+  "download_time": "2026-01-29T19:04:46.581073",
   "package_url": "https://pypi.org/project/dcsv-py/"
 }

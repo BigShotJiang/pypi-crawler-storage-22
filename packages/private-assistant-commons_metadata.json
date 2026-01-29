@@ -1,11 +1,11 @@
 {
   "name": "private-assistant-commons",
-  "version": "6.1.0",
+  "version": "6.2.0",
   "summary": "Common utilities and base functionalities for all skills in the Private Assistant ecosystem.",
   "author": "stkr22",
   "license": null,
   "home_page": null,
-  "download_filename": "private_assistant_commons-6.1.0.tar.gz",
-  "download_time": "2026-01-28T22:22:20.882259",
+  "download_filename": "private_assistant_commons-6.2.0.tar.gz",
+  "download_time": "2026-01-29T19:04:50.757061",
   "package_url": "https://pypi.org/project/private-assistant-commons/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "baseten-performance-client",
+  "version": "0.1.2",
+  "summary": "A ultra-high performance package for sending requests to Baseten Embedding Inference'",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "baseten_performance_client-0.1.2.tar.gz",
+  "download_time": "2026-01-29T19:04:14.306957",
+  "package_url": "https://pypi.org/project/baseten-performance-client/"
+}
