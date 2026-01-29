@@ -1,0 +1,11 @@
+{
+  "name": "amirpc",
+  "version": "1.4.0",
+  "summary": "NATS-based RPC framework with code generation and OpenTelemetry tracing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amirpc-1.4.0.tar.gz",
+  "download_time": "2026-01-29T18:08:59.710186",
+  "package_url": "https://pypi.org/project/amirpc/"
+}

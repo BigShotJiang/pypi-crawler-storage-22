@@ -1,11 +1,11 @@
 {
   "name": "pyclientutils",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "nicegui based Scholia",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyclientutils-0.0.2.tar.gz",
-  "download_time": "2026-01-28T18:53:21.174950",
+  "download_filename": "pyclientutils-0.0.4.tar.gz",
+  "download_time": "2026-01-29T18:09:35.329354",
   "package_url": "https://pypi.org/project/pyclientutils/"
 }

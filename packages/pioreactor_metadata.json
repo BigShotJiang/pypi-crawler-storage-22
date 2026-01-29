@@ -1,0 +1,11 @@
+{
+  "name": "pioreactor",
+  "version": "25.12.10",
+  "summary": "The core Python app of the Pioreactor. Control your bioreactor through Python.",
+  "author": "Pioreactor",
+  "license": "MIT",
+  "home_page": "https://github.com/pioreactor/pioreactor",
+  "download_filename": "pioreactor-25.12.10-py3-none-any.whl",
+  "download_time": "2026-01-29T18:09:20.788835",
+  "package_url": "https://pypi.org/project/pioreactor/"
+}

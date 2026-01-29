@@ -1,0 +1,11 @@
+{
+  "name": "seqchromloader",
+  "version": "0.9.2",
+  "summary": "Sequence and chromatin dataloader for deep learning",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/yztxwd/seqchromloader",
+  "download_filename": "seqchromloader-0.9.2-py3-none-any.whl",
+  "download_time": "2026-01-29T18:09:02.173280",
+  "package_url": "https://pypi.org/project/seqchromloader/"
+}

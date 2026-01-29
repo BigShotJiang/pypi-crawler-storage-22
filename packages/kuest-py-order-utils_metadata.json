@@ -1,0 +1,11 @@
+{
+  "name": "kuest-py-order-utils",
+  "version": "0.3.3",
+  "summary": "Python utilities used to generate and sign orders for the Kuest CTF Exchange",
+  "author": "Kuest Engineering",
+  "license": null,
+  "home_page": "https://github.com/kuestcom/py-order-utils",
+  "download_filename": "kuest_py_order_utils-0.3.3.tar.gz",
+  "download_time": "2026-01-29T18:09:28.906782",
+  "package_url": "https://pypi.org/project/kuest-py-order-utils/"
+}

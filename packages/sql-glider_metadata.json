@@ -1,11 +1,11 @@
 {
   "name": "sql-glider",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "SQL Utility Toolkit for better understanding, use, and governance of your queries in a native environment.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sql_glider-0.1.9.tar.gz",
-  "download_time": "2026-01-28T21:53:42.324574",
+  "download_filename": "sql_glider-0.1.12.tar.gz",
+  "download_time": "2026-01-29T18:09:30.088068",
   "package_url": "https://pypi.org/project/sql-glider/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "KekikStream",
+  "version": "2.5.2",
+  "summary": "terminal üzerinden medya içeriği aramanızı ve VLC/MPV gibi popüler medya oynatıcılar aracılığıyla doğrudan izlemenizi sağlayan modüler ve genişletilebilir bir bıdı bıdı",
+  "author": "keyiflerolsun",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/keyiflerolsun/KekikStream",
+  "download_filename": "kekikstream-2.5.2.tar.gz",
+  "download_time": "2026-01-29T18:09:12.905681",
+  "package_url": "https://pypi.org/project/KekikStream/"
+}

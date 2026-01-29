@@ -1,0 +1,11 @@
+{
+  "name": "igvf-client",
+  "version": "107.0.1",
+  "summary": "IGVF Project API",
+  "author": "IGVF DACC",
+  "license": null,
+  "home_page": "https://github.com/iGVF-DACC/igvf-python-client",
+  "download_filename": "igvf_client-107.0.1.tar.gz",
+  "download_time": "2026-01-29T18:08:48.422064",
+  "package_url": "https://pypi.org/project/igvf-client/"
+}

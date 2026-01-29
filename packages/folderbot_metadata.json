@@ -1,11 +1,11 @@
 {
   "name": "folderbot",
-  "version": "0.1.23",
+  "version": "0.1.25",
   "summary": "Telegram bot for chatting with your folder using Claude AI",
   "author": "Jorge Cardona",
   "license": null,
   "home_page": null,
-  "download_filename": "folderbot-0.1.23.tar.gz",
-  "download_time": "2026-01-28T23:22:15.139304",
+  "download_filename": "folderbot-0.1.25.tar.gz",
+  "download_time": "2026-01-29T18:08:50.872924",
   "package_url": "https://pypi.org/project/folderbot/"
 }

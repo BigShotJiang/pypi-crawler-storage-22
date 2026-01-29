@@ -1,0 +1,11 @@
+{
+  "name": "dbus-python-client-gen",
+  "version": "0.8.4",
+  "summary": "transforms values into properly wrapped dbus-python objects",
+  "author": "Anne Mulhern",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/stratis-storage/dbus-python-client-gen",
+  "download_filename": "dbus_python_client_gen-0.8.4.tar.gz",
+  "download_time": "2026-01-29T18:09:24.271119",
+  "package_url": "https://pypi.org/project/dbus-python-client-gen/"
+}

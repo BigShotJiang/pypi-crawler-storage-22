@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-community",
+  "version": "2.0.0",
+  "summary": "The most transparent malware analyzer - Explainable detection with forensic-grade location tracking",
+  "author": "Damian Donahue",
+  "license": "Prometheus Community License v1.0",
+  "home_page": "https://github.com/0x44616D69616E/prometheus-community",
+  "download_filename": "prometheus_community-2.0.0.tar.gz",
+  "download_time": "2026-01-29T18:08:55.312346",
+  "package_url": "https://pypi.org/project/prometheus-community/"
+}

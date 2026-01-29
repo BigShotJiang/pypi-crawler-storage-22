@@ -1,0 +1,11 @@
+{
+  "name": "asilib",
+  "version": "0.28.0",
+  "summary": "An open source package providing data access and analysis tools for the world's all-sky imager (ASI) data.",
+  "author": null,
+  "license": "BSD 3-Clause",
+  "home_page": null,
+  "download_filename": "asilib-0.28.0.tar.gz",
+  "download_time": "2026-01-29T18:09:29.511328",
+  "package_url": "https://pypi.org/project/asilib/"
+}
