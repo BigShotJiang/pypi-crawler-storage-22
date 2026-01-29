@@ -1,0 +1,11 @@
+{
+  "name": "enode-host",
+  "version": "0.1.0",
+  "summary": "Host-side tools that interact with the ESP-IDF firmware.",
+  "author": "eNode team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "enode_host-0.1.0.tar.gz",
+  "download_time": "2026-01-29T11:52:13.215809",
+  "package_url": "https://pypi.org/project/enode-host/"
+}

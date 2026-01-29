@@ -1,0 +1,11 @@
+{
+  "name": "tap-campaign-monitor",
+  "version": "1.1.0",
+  "summary": "Singer.io tap for extracting data from the Campaign Monitor API",
+  "author": "Stitch Data, Fishtown Analytics",
+  "license": null,
+  "home_page": "https://www.stitchdata.com",
+  "download_filename": "tap_campaign_monitor-1.1.0.tar.gz",
+  "download_time": "2026-01-29T11:52:07.407608",
+  "package_url": "https://pypi.org/project/tap-campaign-monitor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_rohanrav_screeny",
+  "version": "0.3.6",
+  "summary": "macOS MCP server for window enumeration and screenshot capture",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_rohanrav_screeny-0.3.6.tar.gz",
+  "download_time": "2026-01-29T11:52:27.607234",
+  "package_url": "https://pypi.org/project/iflow-mcp_rohanrav_screeny/"
+}

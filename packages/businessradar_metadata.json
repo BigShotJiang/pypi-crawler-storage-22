@@ -1,0 +1,11 @@
+{
+  "name": "businessradar",
+  "version": "1.9.0",
+  "summary": "The official Python library for the Business Radar API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "businessradar-1.9.0.tar.gz",
+  "download_time": "2026-01-29T11:52:22.890848",
+  "package_url": "https://pypi.org/project/businessradar/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "meteo-lt-pkg",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "A library to fetch weather data from api.meteo.lt",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meteo_lt_pkg-0.4.0.tar.gz",
-  "download_time": "2026-01-28T20:56:33.761965",
+  "download_filename": "meteo_lt_pkg-0.5.1.tar.gz",
+  "download_time": "2026-01-29T11:51:53.721182",
   "package_url": "https://pypi.org/project/meteo-lt-pkg/"
 }

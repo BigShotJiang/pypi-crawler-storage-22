@@ -1,0 +1,11 @@
+{
+  "name": "api2cli",
+  "version": "0.1.1",
+  "summary": "Convert APIs to CLI tools",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "api2cli-0.1.1.tar.gz",
+  "download_time": "2026-01-29T11:51:56.847687",
+  "package_url": "https://pypi.org/project/api2cli/"
+}

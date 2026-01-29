@@ -1,0 +1,11 @@
+{
+  "name": "vbox-lib-pro",
+  "version": "0.1.0",
+  "summary": "A comprehensive virtual machine management library similar to VirtualBox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vbox_lib_pro-0.1.0.tar.gz",
+  "download_time": "2026-01-29T11:52:24.988640",
+  "package_url": "https://pypi.org/project/vbox-lib-pro/"
+}

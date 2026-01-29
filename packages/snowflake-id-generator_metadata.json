@@ -1,0 +1,11 @@
+{
+  "name": "snowflake-id-generator",
+  "version": "2.0.0",
+  "summary": "分布式雪花算法ID生成器",
+  "author": "AweMinds",
+  "license": "MIT",
+  "home_page": "https://github.com/aweminds/snowflake-id-generator",
+  "download_filename": "snowflake_id_generator-2.0.0.tar.gz",
+  "download_time": "2026-01-29T11:52:27.086522",
+  "package_url": "https://pypi.org/project/snowflake-id-generator/"
+}

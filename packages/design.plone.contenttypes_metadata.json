@@ -1,0 +1,11 @@
+{
+  "name": "design.plone.contenttypes",
+  "version": "6.3.15",
+  "summary": "DesignItalia contenty types",
+  "author": "RedTurtle",
+  "license": "GPL version 2",
+  "home_page": "https://github.com/collective/design.plone.contenttypes",
+  "download_filename": "design_plone_contenttypes-6.3.15.tar.gz",
+  "download_time": "2026-01-29T11:51:55.289320",
+  "package_url": "https://pypi.org/project/design.plone.contenttypes/"
+}

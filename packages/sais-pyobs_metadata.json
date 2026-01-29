@@ -1,11 +1,11 @@
 {
   "name": "sais-pyobs",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A high-performance OBS transfer tool for AI datasets.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sais_pyobs-0.2.5.tar.gz",
-  "download_time": "2026-01-29T08:02:18.681993",
+  "download_filename": "sais_pyobs-0.2.6.tar.gz",
+  "download_time": "2026-01-29T11:52:01.577080",
   "package_url": "https://pypi.org/project/sais-pyobs/"
 }

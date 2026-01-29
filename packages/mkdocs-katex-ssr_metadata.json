@@ -1,11 +1,11 @@
 {
   "name": "mkdocs-katex-ssr",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A MkDocs plugin for server-side rendering of KaTeX math.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocs_katex_ssr-1.0.1.tar.gz",
-  "download_time": "2026-01-29T05:48:46.422384",
+  "download_filename": "mkdocs_katex_ssr-1.0.3.tar.gz",
+  "download_time": "2026-01-29T11:51:48.462535",
   "package_url": "https://pypi.org/project/mkdocs-katex-ssr/"
 }

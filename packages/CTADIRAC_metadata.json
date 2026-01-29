@@ -1,0 +1,11 @@
+{
+  "name": "CTADIRAC",
+  "version": "3.0.11",
+  "summary": "CTADIRAC is an extension of the DIRAC interware for dedicated CTA usage.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "ctadirac-3.0.11.tar.gz",
+  "download_time": "2026-01-29T11:52:23.414057",
+  "package_url": "https://pypi.org/project/CTADIRAC/"
+}
