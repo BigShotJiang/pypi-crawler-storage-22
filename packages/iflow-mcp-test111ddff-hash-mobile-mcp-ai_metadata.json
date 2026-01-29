@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-test111ddff-hash-mobile-mcp-ai",
+  "version": "2.7.5",
+  "summary": "移动端自动化 MCP Server - 支持 Android/iOS，AI 功能可选（基础工具不需要 AI）",
+  "author": "douzi",
+  "license": null,
+  "home_page": "https://github.com/test111ddff-hash/mobile-mcp-ai",
+  "download_filename": "iflow_mcp_test111ddff_hash_mobile_mcp_ai-2.7.5.tar.gz",
+  "download_time": "2026-01-29T05:48:08.675341",
+  "package_url": "https://pypi.org/project/iflow-mcp-test111ddff-hash-mobile-mcp-ai/"
+}

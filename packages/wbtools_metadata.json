@@ -1,0 +1,11 @@
+{
+  "name": "wbtools",
+  "version": "3.3.0",
+  "summary": "Interface to WormBase (www.wormbase.org) curation data, including literature management and NLP functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wbtools-3.3.0.tar.gz",
+  "download_time": "2026-01-29T05:48:17.626125",
+  "package_url": "https://pypi.org/project/wbtools/"
+}

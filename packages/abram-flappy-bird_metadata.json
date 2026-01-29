@@ -1,0 +1,11 @@
+{
+  "name": "abram-flappy-bird",
+  "version": "1.0.2",
+  "summary": "A realistic Flappy Bird game engine with pixel-perfect collision",
+  "author": "Abram Jindal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abram_flappy_bird-1.0.2.tar.gz",
+  "download_time": "2026-01-29T05:48:44.344494",
+  "package_url": "https://pypi.org/project/abram-flappy-bird/"
+}

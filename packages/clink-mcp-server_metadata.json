@@ -1,11 +1,11 @@
 {
   "name": "clink-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for Clink - powering agentic coordination",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clink_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-01-29T04:58:46.775928",
+  "download_filename": "clink_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-01-29T05:48:02.937001",
   "package_url": "https://pypi.org/project/clink-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "collate-data-diff",
+  "version": "0.11.10",
+  "summary": "Command-line tool and Python library to efficiently diff rows across two different databases.",
+  "author": "Collate",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "collate_data_diff-0.11.10.tar.gz",
+  "download_time": "2026-01-29T05:48:34.953481",
+  "package_url": "https://pypi.org/project/collate-data-diff/"
+}

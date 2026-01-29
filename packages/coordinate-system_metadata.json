@@ -1,0 +1,11 @@
+{
+  "name": "coordinate-system",
+  "version": "7.0.2",
+  "summary": "High-performance 3D coordinate system library with unified differential geometry, quantum frame algebra, and Christmas Equation (CFUT)",
+  "author": "Pan Guojun",
+  "license": "MIT",
+  "home_page": "https://github.com/panguojun/Coordinate-System",
+  "download_filename": "coordinate_system-7.0.2.tar.gz",
+  "download_time": "2026-01-29T05:48:45.903610",
+  "package_url": "https://pypi.org/project/coordinate-system/"
+}

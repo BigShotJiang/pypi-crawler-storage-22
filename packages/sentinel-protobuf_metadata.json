@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-protobuf",
+  "version": "0.5.1",
+  "summary": "This package contains a compiled python version of all sentinel protobuf files with their dependencies",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "sentinel_protobuf-0.5.1.tar.gz",
+  "download_time": "2026-01-29T05:48:28.651913",
+  "package_url": "https://pypi.org/project/sentinel-protobuf/"
+}

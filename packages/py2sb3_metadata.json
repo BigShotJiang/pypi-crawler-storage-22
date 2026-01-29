@@ -1,0 +1,11 @@
+{
+  "name": "py2sb3",
+  "version": "1.0.0",
+  "summary": "Bidirectional Python to Scratch 3.0 transpiler",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py2sb3-1.0.0.tar.gz",
+  "download_time": "2026-01-29T05:48:38.626905",
+  "package_url": "https://pypi.org/project/py2sb3/"
+}
