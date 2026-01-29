@@ -1,0 +1,11 @@
+{
+  "name": "torch-log-wmse-audio-quality",
+  "version": "0.3.1",
+  "summary": "logWMSE is an audio quality metric & loss function with support for digital silence target. Useful for training and evaluating audio source separation systems.",
+  "author": "Christopher Landschoot",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/crlandsc/torch-log-wmse",
+  "download_filename": "torch_log_wmse_audio_quality-0.3.1.tar.gz",
+  "download_time": "2026-01-29T23:22:45.094397",
+  "package_url": "https://pypi.org/project/torch-log-wmse-audio-quality/"
+}

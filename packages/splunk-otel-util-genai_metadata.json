@@ -1,0 +1,11 @@
+{
+  "name": "splunk-otel-util-genai",
+  "version": "0.1.9",
+  "summary": "OpenTelemetry GenAI Utils",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splunk_otel_util_genai-0.1.9.tar.gz",
+  "download_time": "2026-01-29T23:22:23.625727",
+  "package_url": "https://pypi.org/project/splunk-otel-util-genai/"
+}

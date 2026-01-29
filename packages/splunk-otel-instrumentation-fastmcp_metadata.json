@@ -1,0 +1,11 @@
+{
+  "name": "splunk-otel-instrumentation-fastmcp",
+  "version": "0.1.1",
+  "summary": "Splunk OpenTelemetry instrumentation for FastMCP (Model Context Protocol)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splunk_otel_instrumentation_fastmcp-0.1.1.tar.gz",
+  "download_time": "2026-01-29T23:22:42.919937",
+  "package_url": "https://pypi.org/project/splunk-otel-instrumentation-fastmcp/"
+}

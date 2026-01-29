@@ -1,11 +1,11 @@
 {
   "name": "omlish",
-  "version": "0.0.0.dev515",
+  "version": "0.0.0.dev516",
   "summary": "omlish",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omlish-0.0.0.dev515.tar.gz",
-  "download_time": "2026-01-29T03:43:29.825729",
+  "download_filename": "omlish-0.0.0.dev516.tar.gz",
+  "download_time": "2026-01-29T23:22:54.422940",
   "package_url": "https://pypi.org/project/omlish/"
 }

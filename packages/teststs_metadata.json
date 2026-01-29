@@ -1,0 +1,11 @@
+{
+  "name": "teststs",
+  "version": "1.1.0",
+  "summary": "A Simple, Tiny Test Library for Python",
+  "author": "Kanowara Sinoka",
+  "license": null,
+  "home_page": "https://github.com/sinokadev/teststs",
+  "download_filename": "teststs-1.1.0.tar.gz",
+  "download_time": "2026-01-29T23:22:15.029354",
+  "package_url": "https://pypi.org/project/teststs/"
+}

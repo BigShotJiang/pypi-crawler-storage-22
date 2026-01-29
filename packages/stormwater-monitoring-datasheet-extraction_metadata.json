@@ -1,0 +1,11 @@
+{
+  "name": "stormwater-monitoring-datasheet-extraction",
+  "version": "0.0.18",
+  "summary": "Extracts stormwater monitoring field observations from datasheet PDFs.",
+  "author": "Kaleb Coberly",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stormwater_monitoring_datasheet_extraction-0.0.18.tar.gz",
+  "download_time": "2026-01-29T23:22:35.175619",
+  "package_url": "https://pypi.org/project/stormwater-monitoring-datasheet-extraction/"
+}

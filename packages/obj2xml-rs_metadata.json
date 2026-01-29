@@ -1,0 +1,11 @@
+{
+  "name": "obj2xml-rs",
+  "version": "0.2.0",
+  "summary": "High-performance, memory-efficient XML to Dict, Dict to XML for Python, written in Rust.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "obj2xml_rs-0.2.0.tar.gz",
+  "download_time": "2026-01-29T23:22:33.473136",
+  "package_url": "https://pypi.org/project/obj2xml-rs/"
+}
