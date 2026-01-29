@@ -1,0 +1,11 @@
+{
+  "name": "mcp-mesh-core",
+  "version": "0.8.1",
+  "summary": "Rust core runtime for MCP Mesh agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_mesh_core-0.8.1-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-29T20:47:49.139838",
+  "package_url": "https://pypi.org/project/mcp-mesh-core/"
+}

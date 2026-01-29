@@ -1,0 +1,11 @@
+{
+  "name": "assemblyline-v4-service",
+  "version": "4.7.0.0",
+  "summary": "Assemblyline 4 - Service base",
+  "author": "CCCS Assemblyline development team",
+  "license": "MIT",
+  "home_page": "https://github.com/CybercentreCanada/assemblyline-v4-service/",
+  "download_filename": "assemblyline_v4_service-4.7.0.0-py3-none-any.whl",
+  "download_time": "2026-01-29T20:47:50.750181",
+  "package_url": "https://pypi.org/project/assemblyline-v4-service/"
+}

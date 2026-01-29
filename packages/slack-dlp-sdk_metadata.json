@@ -1,0 +1,11 @@
+{
+  "name": "slack-dlp-sdk",
+  "version": "0.1.0",
+  "summary": "A Python SDK for interacting with Slack Data Loss Prevention (DLP)",
+  "author": "PaperMtn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slack_dlp_sdk-0.1.0.tar.gz",
+  "download_time": "2026-01-29T20:47:48.615076",
+  "package_url": "https://pypi.org/project/slack-dlp-sdk/"
+}

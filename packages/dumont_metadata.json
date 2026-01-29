@@ -1,0 +1,11 @@
+{
+  "name": "dumont",
+  "version": "0.3.1",
+  "summary": "Excel file generation tool with pivot tables and charts",
+  "author": "Dumont Developer",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dumont-0.3.1.tar.gz",
+  "download_time": "2026-01-29T20:47:35.553937",
+  "package_url": "https://pypi.org/project/dumont/"
+}

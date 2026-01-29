@@ -1,0 +1,11 @@
+{
+  "name": "tartape",
+  "version": "1.5.0",
+  "summary": "An efficient, secure, and USTAR-compatible TAR streaming engine.",
+  "author": "Leo",
+  "license": null,
+  "home_page": "https://github.com/CalumRakk/tartape",
+  "download_filename": "tartape-1.5.0.tar.gz",
+  "download_time": "2026-01-29T20:48:08.938795",
+  "package_url": "https://pypi.org/project/tartape/"
+}

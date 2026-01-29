@@ -1,0 +1,11 @@
+{
+  "name": "tccli-intl-en",
+  "version": "3.1.40.1",
+  "summary": "Universal Command Line Environment for Tencent Cloud",
+  "author": "Tencent Cloud",
+  "license": null,
+  "home_page": "https://github.com/TencentCloud/tencentcloud-cli-intl-en.git",
+  "download_filename": "tccli_intl_en-3.1.40.1-py2.py3-none-any.whl",
+  "download_time": "2026-01-29T20:47:27.830550",
+  "package_url": "https://pypi.org/project/tccli-intl-en/"
+}

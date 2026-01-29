@@ -1,0 +1,11 @@
+{
+  "name": "code-to-prompt-cli",
+  "version": "0.2.3",
+  "summary": "CLI tool to convert code folders into a single text file for LLM prompts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "code_to_prompt_cli-0.2.3.tar.gz",
+  "download_time": "2026-01-29T20:47:57.563042",
+  "package_url": "https://pypi.org/project/code-to-prompt-cli/"
+}

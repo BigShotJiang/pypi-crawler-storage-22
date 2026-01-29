@@ -1,0 +1,11 @@
+{
+  "name": "nexula-cli",
+  "version": "2.0.1",
+  "summary": "Enterprise CLI for AI/ML Security with Interactive Remediation - Scan, Fix, and Secure AI Supply Chains",
+  "author": "Nexula AI",
+  "license": null,
+  "home_page": "https://github.com/Nexula-AI/nexula-cli",
+  "download_filename": "nexula_cli-2.0.1.tar.gz",
+  "download_time": "2026-01-29T20:47:46.568550",
+  "package_url": "https://pypi.org/project/nexula-cli/"
+}

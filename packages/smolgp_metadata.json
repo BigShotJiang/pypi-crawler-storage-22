@@ -1,0 +1,11 @@
+{
+  "name": "smolgp",
+  "version": "0.1.0",
+  "summary": "Gaussian Process State Space Models in Python/JAX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smolgp-0.1.0.tar.gz",
+  "download_time": "2026-01-29T20:47:26.728175",
+  "package_url": "https://pypi.org/project/smolgp/"
+}

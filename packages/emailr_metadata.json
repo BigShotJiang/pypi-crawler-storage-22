@@ -1,0 +1,11 @@
+{
+  "name": "emailr",
+  "version": "1.0.0",
+  "summary": "Official Emailr API SDK for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "emailr-1.0.0.tar.gz",
+  "download_time": "2026-01-29T20:48:14.125330",
+  "package_url": "https://pypi.org/project/emailr/"
+}

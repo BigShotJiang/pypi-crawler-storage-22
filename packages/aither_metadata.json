@@ -1,0 +1,11 @@
+{
+  "name": "aither",
+  "version": "0.2.0",
+  "summary": "Python SDK for the Aither platform - contextual intelligence and model observability",
+  "author": "hyperprior",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aither-0.2.0.tar.gz",
+  "download_time": "2026-01-29T20:47:48.103104",
+  "package_url": "https://pypi.org/project/aither/"
+}
