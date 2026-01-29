@@ -1,0 +1,11 @@
+{
+  "name": "mmirage",
+  "version": "0.1.2",
+  "summary": "Advanced platform designed to streamline the processing of datasets using generative models.",
+  "author": "Meditron team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mmirage-0.1.2.tar.gz",
+  "download_time": "2026-01-29T13:46:59.873453",
+  "package_url": "https://pypi.org/project/mmirage/"
+}

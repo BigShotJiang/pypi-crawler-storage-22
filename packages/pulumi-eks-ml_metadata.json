@@ -1,11 +1,11 @@
 {
   "name": "pulumi-eks-ml",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Pulumi EKS ML Infrastructure",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pulumi_eks_ml-0.1.1.tar.gz",
-  "download_time": "2026-01-28T18:54:01.269655",
+  "download_filename": "pulumi_eks_ml-0.1.2.tar.gz",
+  "download_time": "2026-01-29T13:47:08.244744",
   "package_url": "https://pypi.org/project/pulumi-eks-ml/"
 }

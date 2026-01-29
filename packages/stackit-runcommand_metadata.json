@@ -1,0 +1,11 @@
+{
+  "name": "stackit-runcommand",
+  "version": "1.1.1",
+  "summary": "STACKIT Run Commands Service API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_runcommand-1.1.1.tar.gz",
+  "download_time": "2026-01-29T13:47:17.440895",
+  "package_url": "https://pypi.org/project/stackit-runcommand/"
+}

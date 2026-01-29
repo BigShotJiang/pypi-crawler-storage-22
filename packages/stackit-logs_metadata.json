@@ -1,0 +1,11 @@
+{
+  "name": "stackit-logs",
+  "version": "0.2.0",
+  "summary": "STACKIT Logs API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_logs-0.2.0.tar.gz",
+  "download_time": "2026-01-29T13:47:18.540353",
+  "package_url": "https://pypi.org/project/stackit-logs/"
+}

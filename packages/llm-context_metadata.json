@@ -1,0 +1,11 @@
+{
+  "name": "llm-context",
+  "version": "0.6.1",
+  "summary": "Share code with LLMs via Model Context Protocol or clipboard. Rule-based customization enables easy switching between different tasks (like code review and documentation). Code outlining support is included as a standard feature.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llm_context-0.6.1.tar.gz",
+  "download_time": "2026-01-29T13:46:58.789715",
+  "package_url": "https://pypi.org/project/llm-context/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "langchain-soniox",
+  "version": "0.1.0",
+  "summary": "LangChain integration for Soniox",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_soniox-0.1.0.tar.gz",
+  "download_time": "2026-01-29T13:47:21.251310",
+  "package_url": "https://pypi.org/project/langchain-soniox/"
+}

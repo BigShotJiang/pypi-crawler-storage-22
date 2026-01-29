@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-paddleocr",
+  "version": "0.5.2",
+  "summary": "Convert PDF to structured text using PaddleOCR",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://github.com/oterrier/pyconverters_paddleocr/",
+  "download_filename": "pyconverters_paddleocr-0.5.2-py3-none-any.whl",
+  "download_time": "2026-01-29T13:47:11.566407",
+  "package_url": "https://pypi.org/project/pyconverters-paddleocr/"
+}

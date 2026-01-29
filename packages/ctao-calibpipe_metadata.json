@@ -1,0 +1,11 @@
+{
+  "name": "ctao-calibpipe",
+  "version": "0.3.0",
+  "summary": null,
+  "author": "Leonid Burmistrov, Mykhailo Dalchenko, Antonio Di Pilato, Gabriel Emery, Tjark Miener, Gregoire Uhlrich, Georgios Voutsinas, Vadym Voitsekhovskyi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctao_calibpipe-0.3.0.tar.gz",
+  "download_time": "2026-01-29T13:47:22.499950",
+  "package_url": "https://pypi.org/project/ctao-calibpipe/"
+}
