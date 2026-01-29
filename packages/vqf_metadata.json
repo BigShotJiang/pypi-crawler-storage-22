@@ -1,0 +1,11 @@
+{
+  "name": "vqf",
+  "version": "2.1.0",
+  "summary": "A Versatile Quaternion-based Filter for IMU Orientation Estimation",
+  "author": "Daniel Laidig",
+  "license": "MIT",
+  "home_page": "https://github.com/dlaidig/vqf/",
+  "download_filename": "vqf-2.1.0.tar.gz",
+  "download_time": "2026-01-29T17:34:11.885649",
+  "package_url": "https://pypi.org/project/vqf/"
+}

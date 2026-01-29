@@ -1,0 +1,11 @@
+{
+  "name": "pytest-splunk-addon",
+  "version": "6.3.0",
+  "summary": "A Dynamic test tool for Splunk Apps and Add-ons",
+  "author": "Splunk",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytest_splunk_addon-6.3.0.tar.gz",
+  "download_time": "2026-01-29T17:34:15.714528",
+  "package_url": "https://pypi.org/project/pytest-splunk-addon/"
+}

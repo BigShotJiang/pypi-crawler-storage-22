@@ -1,0 +1,11 @@
+{
+  "name": "cast2md",
+  "version": "2026.1.1",
+  "summary": "Podcast transcription service - download episodes via RSS and transcribe with Whisper",
+  "author": "cast2md",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cast2md-2026.1.1.tar.gz",
+  "download_time": "2026-01-29T17:33:55.779736",
+  "package_url": "https://pypi.org/project/cast2md/"
+}

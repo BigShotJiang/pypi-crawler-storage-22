@@ -1,0 +1,11 @@
+{
+  "name": "qwak-inference",
+  "version": "0.2.1",
+  "summary": "Qwak Inference is a Python library for running predictions again Qwak Models.",
+  "author": "Qwak",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qwak_inference-0.2.1.tar.gz",
+  "download_time": "2026-01-29T17:34:46.870751",
+  "package_url": "https://pypi.org/project/qwak-inference/"
+}

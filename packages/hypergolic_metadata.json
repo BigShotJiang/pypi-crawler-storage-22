@@ -1,11 +1,11 @@
 {
   "name": "hypergolic",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hypergolic-0.6.0.tar.gz",
-  "download_time": "2026-01-28T22:21:48.834727",
+  "download_filename": "hypergolic-0.7.0.tar.gz",
+  "download_time": "2026-01-29T17:34:05.484402",
   "package_url": "https://pypi.org/project/hypergolic/"
 }

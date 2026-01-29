@@ -1,11 +1,11 @@
 {
   "name": "pyneedle-bus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Unified EventBus (logic) and FeedbackBus (presentation) for the PyNeedle ecosystem.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyneedle_bus-0.1.0.tar.gz",
-  "download_time": "2026-01-29T16:53:11.003874",
+  "download_filename": "pyneedle_bus-0.1.1.tar.gz",
+  "download_time": "2026-01-29T17:34:21.481103",
   "package_url": "https://pypi.org/project/pyneedle-bus/"
 }

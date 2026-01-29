@@ -1,0 +1,11 @@
+{
+  "name": "stefano-pytgvoip-pyrogram",
+  "version": "0.0.12",
+  "summary": "Pyrogram support module for Telegram VoIP Library for Python",
+  "author": "bakatrouble",
+  "license": "LGPLv3+",
+  "home_page": "https://github.com/bakatrouble/pytgvoip_pyrogram",
+  "download_filename": "stefano_pytgvoip_pyrogram-0.0.12.tar.gz",
+  "download_time": "2026-01-29T17:34:01.280933",
+  "package_url": "https://pypi.org/project/stefano-pytgvoip-pyrogram/"
+}

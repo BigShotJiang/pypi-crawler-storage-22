@@ -1,0 +1,11 @@
+{
+  "name": "large-image-source-zarr",
+  "version": "1.33.5",
+  "summary": "A OME Zarr tilesource for large_image.",
+  "author": "Kitware, Inc.",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/girder/large_image",
+  "download_filename": "large_image_source_zarr-1.33.5.tar.gz",
+  "download_time": "2026-01-29T17:34:26.197105",
+  "package_url": "https://pypi.org/project/large-image-source-zarr/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gwcelery",
+  "version": "2.10.0",
+  "summary": "Low-latency pipeline for annotating IGWN events",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwcelery-2.10.0-py3-none-any.whl",
+  "download_time": "2026-01-29T17:34:35.735393",
+  "package_url": "https://pypi.org/project/gwcelery/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plot3d",
+  "version": "1.7.14",
+  "summary": "Plot3D python utilities for reading and writing and also finding connectivity between blocks",
+  "author": "Paht Juangphanich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plot3d-1.7.14.tar.gz",
+  "download_time": "2026-01-29T17:34:07.091411",
+  "package_url": "https://pypi.org/project/plot3d/"
+}

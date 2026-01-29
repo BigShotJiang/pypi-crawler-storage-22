@@ -1,0 +1,11 @@
+{
+  "name": "large-image-tasks",
+  "version": "1.33.5",
+  "summary": "Girder Worker tasks for Large Image.",
+  "author": "Kitware Inc",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "large_image_tasks-1.33.5.tar.gz",
+  "download_time": "2026-01-29T17:34:42.808326",
+  "package_url": "https://pypi.org/project/large-image-tasks/"
+}

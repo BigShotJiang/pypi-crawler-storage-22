@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watsonx-ai-120b",
+  "version": "0.1.0",
+  "summary": "Drop-in replacement for ibm-watsonx-ai that fixes vLLM bugs with gpt-oss-120b/20b models",
+  "author": "Harold Hannon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibm_watsonx_ai_120b-0.1.0.tar.gz",
+  "download_time": "2026-01-29T17:34:10.841567",
+  "package_url": "https://pypi.org/project/ibm-watsonx-ai-120b/"
+}

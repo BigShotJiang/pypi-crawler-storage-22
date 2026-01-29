@@ -1,0 +1,11 @@
+{
+  "name": "django-proemail-template",
+  "version": "0.2.7",
+  "summary": "A simple Django app to send emails",
+  "author": "Lucas",
+  "license": "MIT License",
+  "home_page": "https://github.com/iwalucas/django-email-template/",
+  "download_filename": "django_proemail_template-0.2.7-py3-none-any.whl",
+  "download_time": "2026-01-29T17:34:07.603074",
+  "package_url": "https://pypi.org/project/django-proemail-template/"
+}
