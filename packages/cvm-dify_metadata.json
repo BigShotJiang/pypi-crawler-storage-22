@@ -1,0 +1,11 @@
+{
+  "name": "cvm-dify",
+  "version": "0.1.0",
+  "summary": "CVM Dify MCP Server - 提供CVM价格查询、购买、自动化测试和关停机监控的Dify工作流调用工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cvm_dify-0.1.0.tar.gz",
+  "download_time": "2026-01-29T14:36:47.410510",
+  "package_url": "https://pypi.org/project/cvm-dify/"
+}

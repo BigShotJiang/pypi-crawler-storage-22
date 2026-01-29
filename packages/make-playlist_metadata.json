@@ -1,0 +1,11 @@
+{
+  "name": "make-playlist",
+  "version": "1.21.0",
+  "summary": "Make M3U format playlist from command line.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "make_playlist-1.21.0.tar.gz",
+  "download_time": "2026-01-29T14:36:26.867695",
+  "package_url": "https://pypi.org/project/make-playlist/"
+}

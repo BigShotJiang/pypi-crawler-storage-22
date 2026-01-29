@@ -1,0 +1,11 @@
+{
+  "name": "bbblb",
+  "version": "0.0.15",
+  "summary": "Yet another load balancer for BigBlueButton",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbblb-0.0.15.tar.gz",
+  "download_time": "2026-01-29T14:36:46.336223",
+  "package_url": "https://pypi.org/project/bbblb/"
+}

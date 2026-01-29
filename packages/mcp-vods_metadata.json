@@ -1,11 +1,11 @@
 {
   "name": "mcp-vods",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "MCP Server for Binge-watch / MoonTV / LunaTV. 一个用于追剧/追番的MCP服务器，为AI提供搜索影视播放地址的能力，并支持在小米等安卓电视/投影仪上直接播放",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_vods-0.1.8.tar.gz",
-  "download_time": "2026-01-29T05:48:26.539074",
+  "download_filename": "mcp_vods-0.1.9.tar.gz",
+  "download_time": "2026-01-29T14:36:27.922317",
   "package_url": "https://pypi.org/project/mcp-vods/"
 }

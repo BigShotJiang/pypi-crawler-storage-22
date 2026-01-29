@@ -1,11 +1,11 @@
 {
   "name": "paintress-cli",
-  "version": "0.10.1",
+  "version": "0.11.1",
   "summary": "TUI reference implementation for pai-agent-sdk",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paintress_cli-0.10.1.tar.gz",
-  "download_time": "2026-01-29T03:43:36.805440",
+  "download_filename": "paintress_cli-0.11.1.tar.gz",
+  "download_time": "2026-01-29T14:36:04.605165",
   "package_url": "https://pypi.org/project/paintress-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ceb-pdf-extractor",
+  "version": "2.0.2",
+  "summary": "光大银行PDF对账单提取工具 - 支持五种不同版式的对账单提取",
+  "author": "梁京成",
+  "license": "MIT",
+  "home_page": "https://github.com/liangjingcheng/CEBBANK-statement-cleaning",
+  "download_filename": "ceb_pdf_extractor-2.0.2.tar.gz",
+  "download_time": "2026-01-29T14:36:35.850162",
+  "package_url": "https://pypi.org/project/ceb-pdf-extractor/"
+}

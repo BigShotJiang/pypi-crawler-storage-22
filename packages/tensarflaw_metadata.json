@@ -1,0 +1,11 @@
+{
+  "name": "tensarflaw",
+  "version": "0.1.1",
+  "summary": "Библиотека для работы с изображениями и TensorFlow",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tensarflaw",
+  "download_filename": "tensarflaw-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-29T14:36:15.828190",
+  "package_url": "https://pypi.org/project/tensarflaw/"
+}

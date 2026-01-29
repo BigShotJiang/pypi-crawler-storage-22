@@ -1,0 +1,11 @@
+{
+  "name": "petal-warehouse",
+  "version": "0.1.8",
+  "summary": "Petal for the warehouse management system (WHMS).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "petal_warehouse-0.1.8.tar.gz",
+  "download_time": "2026-01-29T14:36:06.215705",
+  "package_url": "https://pypi.org/project/petal-warehouse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "SmokeCrossFit",
+  "version": "0.0.0",
+  "summary": "A unified interface for various code coverage tools (JaCoCo, dotnet-coverage)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smokecrossfit-0.0.0.tar.gz",
+  "download_time": "2026-01-29T14:36:09.895092",
+  "package_url": "https://pypi.org/project/SmokeCrossFit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "piccione",
+  "version": "2.2.0",
+  "summary": "A Python toolkit for uploading and downloading data to external repositories and cloud services.",
+  "author": null,
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "piccione-2.2.0.tar.gz",
+  "download_time": "2026-01-29T14:36:42.159363",
+  "package_url": "https://pypi.org/project/piccione/"
+}
