@@ -1,0 +1,11 @@
+{
+  "name": "piwik-pro-mcp",
+  "version": "0.2.1",
+  "summary": "Piwik PRO MCP server",
+  "author": "Jarosław Zywert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "piwik_pro_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-29T11:18:49.045633",
+  "package_url": "https://pypi.org/project/piwik-pro-mcp/"
+}

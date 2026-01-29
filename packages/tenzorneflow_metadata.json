@@ -1,0 +1,11 @@
+{
+  "name": "tenzorneflow",
+  "version": "1.0.0",
+  "summary": "Библиотека для работы с тензорами и изображениями",
+  "author": "pups",
+  "license": null,
+  "home_page": "https://github.com/minabi903/tenzorneflow",
+  "download_filename": "tenzorneflow-1.0.0.tar.gz",
+  "download_time": "2026-01-29T11:18:46.947160",
+  "package_url": "https://pypi.org/project/tenzorneflow/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "better-git-of-theseus",
+  "version": "0.4.0",
+  "summary": "Plot stats on Git repositories with interactive Plotly charts",
+  "author": "Erik Bernhardsson",
+  "license": null,
+  "home_page": "https://github.com/onewesong/better-git-of-theseus",
+  "download_filename": "better_git_of_theseus-0.4.0.tar.gz",
+  "download_time": "2026-01-29T11:18:39.803209",
+  "package_url": "https://pypi.org/project/better-git-of-theseus/"
+}

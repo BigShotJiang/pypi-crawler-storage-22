@@ -1,0 +1,11 @@
+{
+  "name": "eessi",
+  "version": "0.0.1",
+  "summary": "EESSI command line interface",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/EESSI/eessi-cli",
+  "download_filename": "eessi-0.0.1.tar.gz",
+  "download_time": "2026-01-29T11:19:08.504502",
+  "package_url": "https://pypi.org/project/eessi/"
+}

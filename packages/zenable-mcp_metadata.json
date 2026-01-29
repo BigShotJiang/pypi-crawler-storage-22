@@ -1,0 +1,11 @@
+{
+  "name": "zenable-mcp",
+  "version": "2.31.0",
+  "summary": "MCP client for Zenable conformance checking",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "zenable_mcp-2.31.0-py3-none-any.whl",
+  "download_time": "2026-01-29T11:18:39.286525",
+  "package_url": "https://pypi.org/project/zenable-mcp/"
+}

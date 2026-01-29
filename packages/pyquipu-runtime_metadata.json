@@ -1,0 +1,11 @@
+{
+  "name": "pyquipu-runtime",
+  "version": "0.2.1",
+  "summary": "The stateless execution runtime for Quipu.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyquipu_runtime-0.2.1.tar.gz",
+  "download_time": "2026-01-29T11:19:14.756457",
+  "package_url": "https://pypi.org/project/pyquipu-runtime/"
+}

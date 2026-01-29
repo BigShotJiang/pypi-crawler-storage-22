@@ -1,0 +1,11 @@
+{
+  "name": "torch-staintools",
+  "version": "1.0.5",
+  "summary": "GPU-accelerated stain normalization and augmentation",
+  "author": "Y Z",
+  "license": "MIT",
+  "home_page": "https://github.com/CielAl/torch-staintools",
+  "download_filename": "torch_staintools-1.0.5.tar.gz",
+  "download_time": "2026-01-29T11:18:33.993785",
+  "package_url": "https://pypi.org/project/torch-staintools/"
+}
