@@ -1,0 +1,11 @@
+{
+  "name": "hypertor",
+  "version": "0.2.1",
+  "summary": "Best-in-class Tor HTTP client and server library - consume AND host .onion services",
+  "author": "hupe1980",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hypertor-0.2.1.tar.gz",
+  "download_time": "2026-01-29T10:31:54.302153",
+  "package_url": "https://pypi.org/project/hypertor/"
+}

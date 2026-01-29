@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_thomasrohde_hue-mcp",
+  "version": "0.3.1",
+  "summary": "Model Context Protocol server for Philips Hue smart lighting control",
+  "author": "Thomas Rohde",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_thomasrohde_hue_mcp-0.3.1.tar.gz",
+  "download_time": "2026-01-29T10:31:41.686886",
+  "package_url": "https://pypi.org/project/iflow-mcp_thomasrohde_hue-mcp/"
+}

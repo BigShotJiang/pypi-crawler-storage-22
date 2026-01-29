@@ -1,0 +1,11 @@
+{
+  "name": "pyplanet",
+  "version": "0.11.11",
+  "summary": "Maniaplanet Server Controller",
+  "author": "Tom Valk",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "http://pypla.net/",
+  "download_filename": "pyplanet-0.11.11.tar.gz",
+  "download_time": "2026-01-29T10:32:13.251888",
+  "package_url": "https://pypi.org/project/pyplanet/"
+}

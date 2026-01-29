@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-github",
-  "version": "0.18.71",
+  "version": "0.18.73",
   "summary": "Airbyte Github Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_github-0.18.71.tar.gz",
-  "download_time": "2026-01-28T23:22:25.165149",
+  "download_filename": "airbyte_agent_github-0.18.73.tar.gz",
+  "download_time": "2026-01-29T10:32:26.969041",
   "package_url": "https://pypi.org/project/airbyte-agent-github/"
 }

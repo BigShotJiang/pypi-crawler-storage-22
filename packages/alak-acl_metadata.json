@@ -1,0 +1,11 @@
+{
+  "name": "alak-acl",
+  "version": "0.1.30",
+  "summary": "Package professionnel pour gérer l'authentification et les permissions ACL dans FastAPI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alak_acl-0.1.30.tar.gz",
+  "download_time": "2026-01-29T10:31:59.486423",
+  "package_url": "https://pypi.org/project/alak-acl/"
+}

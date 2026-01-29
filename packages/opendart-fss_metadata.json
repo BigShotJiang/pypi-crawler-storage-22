@@ -1,0 +1,11 @@
+{
+  "name": "opendart-fss",
+  "version": "0.1.1",
+  "summary": "금융감독원 전자공시시스템 OpenDART API Python SDK",
+  "author": "OpenDART FSS Python Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opendart_fss-0.1.1.tar.gz",
+  "download_time": "2026-01-29T10:31:48.510678",
+  "package_url": "https://pypi.org/project/opendart-fss/"
+}

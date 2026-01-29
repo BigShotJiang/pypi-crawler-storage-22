@@ -1,0 +1,11 @@
+{
+  "name": "antchain-twc",
+  "version": "1.13.20",
+  "summary": "Ant Chain TWC SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_twc-1.13.20.tar.gz",
+  "download_time": "2026-01-29T10:31:51.130722",
+  "package_url": "https://pypi.org/project/antchain-twc/"
+}

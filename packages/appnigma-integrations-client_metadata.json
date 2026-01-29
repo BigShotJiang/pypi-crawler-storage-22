@@ -1,0 +1,11 @@
+{
+  "name": "appnigma-integrations-client",
+  "version": "0.1.2",
+  "summary": "Official Python SDK for Appnigma Integrations API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "appnigma_integrations_client-0.1.2.tar.gz",
+  "download_time": "2026-01-29T10:31:47.891310",
+  "package_url": "https://pypi.org/project/appnigma-integrations-client/"
+}
