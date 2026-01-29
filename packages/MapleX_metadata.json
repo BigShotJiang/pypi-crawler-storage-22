@@ -1,0 +1,11 @@
+{
+  "name": "MapleX",
+  "version": "2.2.0",
+  "summary": "A Python library for Maple file format operations, with logging and console color utilities",
+  "author": "RyujiHazama",
+  "license": null,
+  "home_page": null,
+  "download_filename": "maplex-2.2.0.tar.gz",
+  "download_time": "2026-01-29T15:19:59.563614",
+  "package_url": "https://pypi.org/project/MapleX/"
+}

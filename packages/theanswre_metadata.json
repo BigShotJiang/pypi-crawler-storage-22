@@ -1,11 +1,11 @@
 {
   "name": "theanswre",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "theanswre-0.2.3.tar.gz",
-  "download_time": "2026-01-29T14:36:00.927044",
+  "download_filename": "theanswre-0.2.5.tar.gz",
+  "download_time": "2026-01-29T15:20:08.172629",
   "package_url": "https://pypi.org/project/theanswre/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "latzero",
+  "version": "0.3.0",
+  "summary": "Zero-latency, zero-fuss shared memory for Python — dynamic, encrypted, and insanely fast.",
+  "author": "BRAHMAI",
+  "license": "MIT",
+  "home_page": "https://github.com/Latency-Zero/python-client",
+  "download_filename": "latzero-0.3.0.tar.gz",
+  "download_time": "2026-01-29T15:20:22.259384",
+  "package_url": "https://pypi.org/project/latzero/"
+}

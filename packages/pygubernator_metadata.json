@@ -1,0 +1,11 @@
+{
+  "name": "pygubernator",
+  "version": "0.0.1",
+  "summary": "A configuration-driven, stateless finite state machine library for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygubernator-0.0.1.tar.gz",
+  "download_time": "2026-01-29T15:20:10.743899",
+  "package_url": "https://pypi.org/project/pygubernator/"
+}

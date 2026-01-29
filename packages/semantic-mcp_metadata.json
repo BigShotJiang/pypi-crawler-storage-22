@@ -1,0 +1,11 @@
+{
+  "name": "semantic-mcp",
+  "version": "0.2.1",
+  "summary": "Semantic router for MCP ecosystems - Discover, manage, and execute tools across multiple MCP servers with progressive disclosure",
+  "author": "BA Ibrahima",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semantic_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-29T15:19:53.902519",
+  "package_url": "https://pypi.org/project/semantic-mcp/"
+}

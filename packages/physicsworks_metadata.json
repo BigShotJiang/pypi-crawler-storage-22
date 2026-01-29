@@ -1,0 +1,11 @@
+{
+  "name": "physicsworks",
+  "version": "1.0.2",
+  "summary": "PhysicsWorks Python Runner - Simulation execution and post-processing framework",
+  "author": "PhysicsWorks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "physicsworks-1.0.2.tar.gz",
+  "download_time": "2026-01-29T15:20:26.115838",
+  "package_url": "https://pypi.org/project/physicsworks/"
+}

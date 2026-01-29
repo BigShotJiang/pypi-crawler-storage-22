@@ -1,11 +1,11 @@
 {
   "name": "pactown-guard",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Interactive diagnostics/triage guard for Pactown on VPS",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "pactown_guard-0.1.5.tar.gz",
-  "download_time": "2026-01-29T14:36:17.954721",
+  "download_filename": "pactown_guard-0.1.6.tar.gz",
+  "download_time": "2026-01-29T15:20:06.356133",
   "package_url": "https://pypi.org/project/pactown-guard/"
 }

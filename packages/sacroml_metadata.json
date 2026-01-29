@@ -1,0 +1,11 @@
+{
+  "name": "sacroml",
+  "version": "1.4.3",
+  "summary": "Tools for the statistical disclosure control of machine learning models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sacroml-1.4.3.tar.gz",
+  "download_time": "2026-01-29T15:19:56.373694",
+  "package_url": "https://pypi.org/project/sacroml/"
+}

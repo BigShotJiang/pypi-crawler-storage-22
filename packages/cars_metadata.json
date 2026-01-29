@@ -1,0 +1,11 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "summary": "A satellite multi view stereo pipeline",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cars-1.0.0.tar.gz",
+  "download_time": "2026-01-29T15:19:50.657132",
+  "package_url": "https://pypi.org/project/cars/"
+}

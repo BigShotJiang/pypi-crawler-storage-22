@@ -1,0 +1,11 @@
+{
+  "name": "dxcode",
+  "version": "1.0.0",
+  "summary": "[dxcode] A distinctive, URL‑safe binary encoder with the signature `dx` prefix.",
+  "author": "Dogxi",
+  "license": "MIT",
+  "home_page": "https://github.com/dogxii/dxcode",
+  "download_filename": "dxcode-1.0.0.tar.gz",
+  "download_time": "2026-01-29T15:20:06.884584",
+  "package_url": "https://pypi.org/project/dxcode/"
+}

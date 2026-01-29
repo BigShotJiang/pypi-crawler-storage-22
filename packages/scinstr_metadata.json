@@ -1,0 +1,11 @@
+{
+  "name": "scinstr",
+  "version": "0.4.9",
+  "summary": "Drivers to handle various scientific instruments (DMM, frequency counter, DAQ, VNA...). Include also some cli script.",
+  "author": "Benoit Dubois",
+  "license": null,
+  "home_page": "https://gitlab.com/bendub/scinstr",
+  "download_filename": "scinstr-0.4.9.tar.gz",
+  "download_time": "2026-01-29T15:19:38.721538",
+  "package_url": "https://pypi.org/project/scinstr/"
+}

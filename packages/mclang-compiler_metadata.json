@@ -1,11 +1,11 @@
 {
   "name": "mclang-compiler",
-  "version": "0.3.1",
-  "summary": "MCLang Compiler - Python 方言到 C++ 代码生成器核心",
+  "version": "0.3.2",
+  "summary": "MCLang Compiler - Python 方言到 C++ 代码生成器",
   "author": "MCLang Development Team",
   "license": "Mulan PSL v2",
-  "home_page": "https://github.com/example/mclang",
-  "download_filename": "mclang_compiler-0.3.1-cp311-abi3-macosx_15_0_arm64.whl",
-  "download_time": "2026-01-29T13:47:15.283070",
+  "home_page": "https://gitcode.com/openubmc/mcc",
+  "download_filename": "mclang_compiler-0.3.2-cp311-abi3-macosx_15_0_arm64.whl",
+  "download_time": "2026-01-29T15:19:44.241608",
   "package_url": "https://pypi.org/project/mclang-compiler/"
 }

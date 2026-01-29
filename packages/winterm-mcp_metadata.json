@@ -1,0 +1,11 @@
+{
+  "name": "winterm-mcp",
+  "version": "0.1.7",
+  "summary": "A Model Context Protocol (MCP) service for executing Windows terminal commands asynchronously",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "winterm_mcp-0.1.7-py3-none-any.whl",
+  "download_time": "2026-01-29T15:19:41.656794",
+  "package_url": "https://pypi.org/project/winterm-mcp/"
+}

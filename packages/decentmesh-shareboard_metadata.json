@@ -1,11 +1,11 @@
 {
   "name": "decentmesh-shareboard",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "Decentralized copy-paste sharing application for DecentMesh",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "decentmesh_shareboard-0.3.2.tar.gz",
-  "download_time": "2026-01-29T13:46:56.021916",
+  "download_filename": "decentmesh_shareboard-0.3.6.tar.gz",
+  "download_time": "2026-01-29T15:20:20.512393",
   "package_url": "https://pypi.org/project/decentmesh-shareboard/"
 }

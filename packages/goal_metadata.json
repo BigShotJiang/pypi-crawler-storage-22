@@ -1,11 +1,11 @@
 {
   "name": "goal",
-  "version": "2.1.18",
+  "version": "2.1.19",
   "summary": "Automated git push with smart commit messages, changelog updates, and version tagging",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "goal-2.1.18.tar.gz",
-  "download_time": "2026-01-29T14:36:25.825479",
+  "download_filename": "goal-2.1.19.tar.gz",
+  "download_time": "2026-01-29T15:20:04.914504",
   "package_url": "https://pypi.org/project/goal/"
 }
