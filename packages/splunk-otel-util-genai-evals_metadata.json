@@ -1,0 +1,11 @@
+{
+  "name": "splunk-otel-util-genai-evals",
+  "version": "0.1.7",
+  "summary": "OpenTelemetry GenAI Evaluations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splunk_otel_util_genai_evals-0.1.7.tar.gz",
+  "download_time": "2026-01-29T23:49:00.215425",
+  "package_url": "https://pypi.org/project/splunk-otel-util-genai-evals/"
+}

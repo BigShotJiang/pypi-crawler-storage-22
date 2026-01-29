@@ -1,0 +1,11 @@
+{
+  "name": "onto-standard",
+  "version": "1.1.0",
+  "summary": "ONTO Epistemic Risk Standard - Reference Implementation & API Client",
+  "author": "ONTO Standards Council",
+  "license": "Apache-2.0",
+  "home_page": "https://onto-bench.org/standard",
+  "download_filename": "onto_standard-1.1.0.tar.gz",
+  "download_time": "2026-01-29T23:49:00.790715",
+  "package_url": "https://pypi.org/project/onto-standard/"
+}

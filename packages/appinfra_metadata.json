@@ -1,0 +1,11 @@
+{
+  "name": "appinfra",
+  "version": "0.3.3",
+  "summary": "Infrastructure framework for Python applications",
+  "author": "serendip-ml (github.com/serendip-ml)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "appinfra-0.3.3.tar.gz",
+  "download_time": "2026-01-29T23:48:58.514718",
+  "package_url": "https://pypi.org/project/appinfra/"
+}

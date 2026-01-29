@@ -1,0 +1,11 @@
+{
+  "name": "constellaration",
+  "version": "0.2.5",
+  "summary": "Code for analyzing and evaluating stellarator plasma shapes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "constellaration-0.2.5.tar.gz",
+  "download_time": "2026-01-29T23:48:57.356818",
+  "package_url": "https://pypi.org/project/constellaration/"
+}

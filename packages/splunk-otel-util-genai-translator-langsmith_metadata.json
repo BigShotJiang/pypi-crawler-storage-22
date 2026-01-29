@@ -1,0 +1,11 @@
+{
+  "name": "splunk-otel-util-genai-translator-langsmith",
+  "version": "0.1.0",
+  "summary": "Langsmith -> GenAI translator emitter for OpenTelemetry GenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "splunk_otel_util_genai_translator_langsmith-0.1.0.tar.gz",
+  "download_time": "2026-01-29T23:48:52.138274",
+  "package_url": "https://pypi.org/project/splunk-otel-util-genai-translator-langsmith/"
+}

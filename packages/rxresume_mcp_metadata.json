@@ -1,11 +1,11 @@
 {
   "name": "rxresume_mcp",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "MCP Server for Reactive Resume",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rxresume_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-29T22:54:04.391966",
+  "download_filename": "rxresume_mcp-0.1.3.tar.gz",
+  "download_time": "2026-01-29T23:48:41.115842",
   "package_url": "https://pypi.org/project/rxresume_mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "streamlit-react-components",
-  "version": "1.7.2",
+  "version": "1.7.3",
   "summary": "Reusable React-based Streamlit components with Tailwind CSS styling",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "streamlit_react_components-1.7.2.tar.gz",
-  "download_time": "2026-01-29T21:50:45.996405",
+  "download_filename": "streamlit_react_components-1.7.3.tar.gz",
+  "download_time": "2026-01-29T23:48:30.808435",
   "package_url": "https://pypi.org/project/streamlit-react-components/"
 }

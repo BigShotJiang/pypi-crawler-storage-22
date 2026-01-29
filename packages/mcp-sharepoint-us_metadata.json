@@ -1,11 +1,11 @@
 {
   "name": "mcp-sharepoint-us",
-  "version": "2.0.9",
+  "version": "2.0.10",
   "summary": "SharePoint MCP Server with Modern Azure AD Authentication",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_sharepoint_us-2.0.9.tar.gz",
-  "download_time": "2026-01-29T23:22:28.489239",
+  "download_filename": "mcp_sharepoint_us-2.0.10.tar.gz",
+  "download_time": "2026-01-29T23:48:35.323941",
   "package_url": "https://pypi.org/project/mcp-sharepoint-us/"
 }
