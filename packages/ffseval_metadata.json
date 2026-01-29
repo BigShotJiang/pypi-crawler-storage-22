@@ -1,0 +1,11 @@
+{
+  "name": "ffseval",
+  "version": "1.0.2",
+  "summary": "Evaluation of fitness for service",
+  "author": "Shinsuke Sakai",
+  "license": "MIT",
+  "home_page": "https://github.com/ShinsukeSakai0321/FFS",
+  "download_filename": "ffseval-1.0.2.tar.gz",
+  "download_time": "2026-01-29T03:43:02.748390",
+  "package_url": "https://pypi.org/project/ffseval/"
+}

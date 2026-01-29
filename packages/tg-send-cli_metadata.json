@@ -1,0 +1,11 @@
+{
+  "name": "tg-send-cli",
+  "version": "1.2.0",
+  "summary": "Send files to Telegram contacts from your CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tg_send_cli-1.2.0.tar.gz",
+  "download_time": "2026-01-29T03:43:06.361727",
+  "package_url": "https://pypi.org/project/tg-send-cli/"
+}

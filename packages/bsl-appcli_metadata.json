@@ -1,0 +1,11 @@
+{
+  "name": "bsl-appcli",
+  "version": "3.4.0",
+  "summary": "A library for adding CLI interfaces to applications in the brightSPARK Labs style.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "bsl_appcli-3.4.0-py3-none-any.whl",
+  "download_time": "2026-01-29T03:43:12.199697",
+  "package_url": "https://pypi.org/project/bsl-appcli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_vitalymalakanov_enhanced-sequential-thinking-server",
+  "version": "0.1.3",
+  "summary": "Advanced server for structured LLM thinking (MCP)",
+  "author": "VitalyMalakanov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_vitalymalakanov_enhanced_sequential_thinking_server-0.1.3.tar.gz",
+  "download_time": "2026-01-29T03:43:20.909183",
+  "package_url": "https://pypi.org/project/iflow-mcp_vitalymalakanov_enhanced-sequential-thinking-server/"
+}

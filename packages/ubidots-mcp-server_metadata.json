@@ -1,0 +1,11 @@
+{
+  "name": "ubidots-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP (Model Context Protocol) proxy for Ubidots with SSE support",
+  "author": "Ubidots",
+  "license": "MIT",
+  "home_page": "https://github.com/ubidots/ubidots-mcp-server",
+  "download_filename": "ubidots_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-29T03:43:36.221116",
+  "package_url": "https://pypi.org/project/ubidots-mcp-server/"
+}
