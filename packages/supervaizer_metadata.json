@@ -1,11 +1,11 @@
 {
   "name": "supervaizer",
-  "version": "0.10.10",
+  "version": "0.10.11",
   "summary": "Controller system for Supervaize",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "supervaizer-0.10.10.tar.gz",
-  "download_time": "2026-01-29T16:00:44.492674",
+  "download_filename": "supervaizer-0.10.11.tar.gz",
+  "download_time": "2026-01-29T21:23:12.302343",
   "package_url": "https://pypi.org/project/supervaizer/"
 }

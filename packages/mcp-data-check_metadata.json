@@ -1,11 +1,11 @@
 {
   "name": "mcp-data-check",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Evaluate MCP server accuracy against known questions and answers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_data_check-0.2.0.tar.gz",
-  "download_time": "2026-01-29T13:46:48.412883",
+  "download_filename": "mcp_data_check-0.3.0.tar.gz",
+  "download_time": "2026-01-29T21:22:50.753346",
   "package_url": "https://pypi.org/project/mcp-data-check/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "utilita-net",
+  "version": "0.0.9",
+  "summary": "utilita but with helpers for web services",
+  "author": "Tommy Rojo",
+  "license": "MIT",
+  "home_page": "https://github.com/trtrojo",
+  "download_filename": "utilita_net-0.0.9.tar.gz",
+  "download_time": "2026-01-29T21:22:52.042684",
+  "package_url": "https://pypi.org/project/utilita-net/"
+}

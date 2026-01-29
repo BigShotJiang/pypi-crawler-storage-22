@@ -1,0 +1,11 @@
+{
+  "name": "tensorrt-cu12-libs",
+  "version": "10.15.1.29",
+  "summary": "TensorRT Libraries",
+  "author": "NVIDIA Corporation",
+  "license": "Proprietary",
+  "home_page": "https://github.com/nvidia/tensorrt",
+  "download_filename": "tensorrt_cu12_libs-10.15.1.29.tar.gz",
+  "download_time": "2026-01-29T21:22:42.685310",
+  "package_url": "https://pypi.org/project/tensorrt-cu12-libs/"
+}

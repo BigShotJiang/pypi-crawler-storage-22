@@ -1,0 +1,11 @@
+{
+  "name": "ec-toolkit",
+  "version": "0.3.0",
+  "summary": "Electrochemical thermodynamics toolkit for VASP workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ec_toolkit-0.3.0.tar.gz",
+  "download_time": "2026-01-29T21:22:36.974211",
+  "package_url": "https://pypi.org/project/ec-toolkit/"
+}

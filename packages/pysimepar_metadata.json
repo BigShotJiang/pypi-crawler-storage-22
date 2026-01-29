@@ -1,0 +1,11 @@
+{
+  "name": "pysimepar",
+  "version": "0.4",
+  "summary": "A python package to retrieve forecast data from SIMEPAR",
+  "author": "Christian Lyra",
+  "license": null,
+  "home_page": "https://github.com/clyra/pysimepar",
+  "download_filename": "pysimepar-0.4.tar.gz",
+  "download_time": "2026-01-29T21:23:15.466905",
+  "package_url": "https://pypi.org/project/pysimepar/"
+}
