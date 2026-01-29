@@ -1,11 +1,11 @@
 {
   "name": "aiagent-runner",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Runner for AI Agent PM - executes tasks via MCP and CLI",
   "author": "AI Agent PM Team",
   "license": null,
   "home_page": null,
-  "download_filename": "aiagent_runner-0.1.10.tar.gz",
-  "download_time": "2026-01-29T08:01:52.503622",
+  "download_filename": "aiagent_runner-0.1.11.tar.gz",
+  "download_time": "2026-01-29T08:59:03.578800",
   "package_url": "https://pypi.org/project/aiagent-runner/"
 }

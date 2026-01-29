@@ -1,0 +1,11 @@
+{
+  "name": "cli2api",
+  "version": "0.1.0",
+  "summary": "OpenAI-compatible API over Claude Code CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli2api-0.1.0.tar.gz",
+  "download_time": "2026-01-29T08:58:24.851153",
+  "package_url": "https://pypi.org/project/cli2api/"
+}

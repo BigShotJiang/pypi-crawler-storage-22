@@ -1,0 +1,11 @@
+{
+  "name": "vocalinux",
+  "version": "0.4.1a0",
+  "summary": "A seamless voice dictation system for Linux",
+  "author": "Jatin K Malik",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/jatinkrmalik/vocalinux",
+  "download_filename": "vocalinux-0.4.1a0.tar.gz",
+  "download_time": "2026-01-29T08:58:35.423256",
+  "package_url": "https://pypi.org/project/vocalinux/"
+}

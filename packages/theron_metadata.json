@@ -1,11 +1,11 @@
 {
   "name": "theron",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Security layer for agentic AI systems",
   "author": "Mukund",
   "license": null,
   "home_page": null,
-  "download_filename": "theron-0.1.0.tar.gz",
-  "download_time": "2026-01-29T08:01:54.063821",
+  "download_filename": "theron-0.2.0.tar.gz",
+  "download_time": "2026-01-29T08:59:04.607463",
   "package_url": "https://pypi.org/project/theron/"
 }

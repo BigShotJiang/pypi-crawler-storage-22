@@ -1,0 +1,11 @@
+{
+  "name": "erp5.util",
+  "version": "0.4.79",
+  "summary": "ERP5 related utilities.",
+  "author": "The ERP5 Development Team",
+  "license": "GPLv3",
+  "home_page": "https://www.erp5.com",
+  "download_filename": "erp5_util-0.4.79.tar.gz",
+  "download_time": "2026-01-29T08:58:55.824262",
+  "package_url": "https://pypi.org/project/erp5.util/"
+}

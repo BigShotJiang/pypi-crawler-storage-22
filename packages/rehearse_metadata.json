@@ -1,11 +1,11 @@
 {
   "name": "rehearse",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Testing framework for AI Voice Agents",
   "author": "thenullterminator",
   "license": null,
   "home_page": null,
-  "download_filename": "rehearse-0.1.4.tar.gz",
-  "download_time": "2026-01-29T07:29:29.993111",
+  "download_filename": "rehearse-0.1.7.tar.gz",
+  "download_time": "2026-01-29T08:58:46.868205",
   "package_url": "https://pypi.org/project/rehearse/"
 }
