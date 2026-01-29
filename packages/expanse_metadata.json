@@ -1,0 +1,11 @@
+{
+  "name": "expanse",
+  "version": "0.6.0",
+  "summary": "The limitless Python web framework",
+  "author": "Sébastien Eustace",
+  "license": null,
+  "home_page": null,
+  "download_filename": "expanse-0.6.0.tar.gz",
+  "download_time": "2026-01-29T22:23:17.167725",
+  "package_url": "https://pypi.org/project/expanse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diskimage-builder",
+  "version": "3.40.2",
+  "summary": "Golden Disk Image builder.",
+  "author": "OpenStack",
+  "license": "Apache License (2.0)",
+  "home_page": "https://docs.openstack.org/diskimage-builder/latest/",
+  "download_filename": "diskimage_builder-3.40.2.tar.gz",
+  "download_time": "2026-01-29T22:23:28.281799",
+  "package_url": "https://pypi.org/project/diskimage-builder/"
+}

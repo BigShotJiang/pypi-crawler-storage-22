@@ -1,0 +1,11 @@
+{
+  "name": "clovyr-workspace-mcp",
+  "version": "1.8.2",
+  "summary": "Comprehensive, highly performant Google Workspace Streamable HTTP & SSE MCP Server for Calendar, Gmail, Docs, Sheets, Slides & Drive",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clovyr_workspace_mcp-1.8.2.tar.gz",
+  "download_time": "2026-01-29T22:23:03.926484",
+  "package_url": "https://pypi.org/project/clovyr-workspace-mcp/"
+}

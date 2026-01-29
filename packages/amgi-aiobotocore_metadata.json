@@ -1,11 +1,11 @@
 {
   "name": "amgi-aiobotocore",
-  "version": "0.29.1",
+  "version": "0.31.0",
   "summary": "AMGI AWS Services Servers",
   "author": "jack.burridge",
   "license": null,
   "home_page": null,
-  "download_filename": "amgi_aiobotocore-0.29.1.tar.gz",
-  "download_time": "2026-01-28T20:56:26.291145",
+  "download_filename": "amgi_aiobotocore-0.31.0.tar.gz",
+  "download_time": "2026-01-29T22:22:41.659247",
   "package_url": "https://pypi.org/project/amgi-aiobotocore/"
 }

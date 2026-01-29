@@ -1,0 +1,11 @@
+{
+  "name": "rlm-repl",
+  "version": "0.1.0",
+  "summary": "Recursive Language Model with REPL Inference Strategy - Unlimited context management using SQL-based retrieval",
+  "author": "Remy Gakwaya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlm_repl-0.1.0.tar.gz",
+  "download_time": "2026-01-29T22:23:27.234236",
+  "package_url": "https://pypi.org/project/rlm-repl/"
+}

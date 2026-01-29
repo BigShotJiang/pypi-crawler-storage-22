@@ -1,0 +1,11 @@
+{
+  "name": "gaugid",
+  "version": "0.1.0",
+  "summary": "Python SDK for Gaugid (a2p-cloud) service integration",
+  "author": "Gaugid SDK Team",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "gaugid-0.1.0.tar.gz",
+  "download_time": "2026-01-29T22:23:02.899876",
+  "package_url": "https://pypi.org/project/gaugid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stagecraft",
+  "version": "0.1.6",
+  "summary": "A Python library for building robust ETL pipelines with declarative stages and data flow management",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stagecraft-0.1.6.tar.gz",
+  "download_time": "2026-01-29T22:23:01.335738",
+  "package_url": "https://pypi.org/project/stagecraft/"
+}

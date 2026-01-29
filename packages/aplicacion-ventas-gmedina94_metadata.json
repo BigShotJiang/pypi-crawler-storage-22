@@ -1,0 +1,11 @@
+{
+  "name": "aplicacion-ventas-gmedina94",
+  "version": "0.1.0",
+  "summary": "Paquete para gestionar, ventas, precioes, impuestos, descuentos",
+  "author": "Gerald Medina Merino",
+  "license": null,
+  "home_page": "https://github.com/curso_python_camara/aplicacionventas",
+  "download_filename": "aplicacion_ventas_gmedina94-0.1.0.tar.gz",
+  "download_time": "2026-01-29T22:23:09.223230",
+  "package_url": "https://pypi.org/project/aplicacion-ventas-gmedina94/"
+}

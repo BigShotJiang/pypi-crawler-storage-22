@@ -1,0 +1,11 @@
+{
+  "name": "stabilize",
+  "version": "0.15.0",
+  "summary": "Highway Workflow Engine - Stabilize execution layer",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stabilize-0.15.0.tar.gz",
+  "download_time": "2026-01-29T22:23:12.903320",
+  "package_url": "https://pypi.org/project/stabilize/"
+}

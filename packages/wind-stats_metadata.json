@@ -1,0 +1,11 @@
+{
+  "name": "wind-stats",
+  "version": "0.3.1",
+  "summary": "Statistics tools to evaluate your wind energy projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wind_stats-0.3.1.tar.gz",
+  "download_time": "2026-01-29T22:22:56.013678",
+  "package_url": "https://pypi.org/project/wind-stats/"
+}

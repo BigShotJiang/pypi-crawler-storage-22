@@ -1,0 +1,11 @@
+{
+  "name": "epicsapps",
+  "version": "2026.1.0",
+  "summary": "A collection of applications using PyEpics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epicsapps-2026.1.0-py3-none-any.whl",
+  "download_time": "2026-01-29T22:23:11.854211",
+  "package_url": "https://pypi.org/project/epicsapps/"
+}

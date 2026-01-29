@@ -1,0 +1,11 @@
+{
+  "name": "epicsscan",
+  "version": "2026.1.0",
+  "summary": "Scanning and Data Acquistion with PyEpics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "epicsscan-2026.1.0.tar.gz",
+  "download_time": "2026-01-29T22:22:59.247590",
+  "package_url": "https://pypi.org/project/epicsscan/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slixmpp-omemo",
+  "version": "2.1.0",
+  "summary": "OMEMO plugin for Slixmpp",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slixmpp_omemo-2.1.0.tar.gz",
+  "download_time": "2026-01-29T22:23:15.013485",
+  "package_url": "https://pypi.org/project/slixmpp-omemo/"
+}

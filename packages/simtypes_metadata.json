@@ -1,0 +1,11 @@
+{
+  "name": "simtypes",
+  "version": "0.0.10",
+  "summary": "Type checking in runtime without stupid games",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simtypes-0.0.10.tar.gz",
+  "download_time": "2026-01-29T22:22:55.474208",
+  "package_url": "https://pypi.org/project/simtypes/"
+}
