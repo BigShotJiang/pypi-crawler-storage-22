@@ -1,0 +1,11 @@
+{
+  "name": "dropin",
+  "version": "0.0.1",
+  "summary": "Minecraft Instances Manager",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://dropin.hydroroll.team/",
+  "download_filename": "dropin-0.0.1.tar.gz",
+  "download_time": "2026-01-29T09:47:08.766364",
+  "package_url": "https://pypi.org/project/dropin/"
+}

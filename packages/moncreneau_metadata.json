@@ -1,0 +1,11 @@
+{
+  "name": "moncreneau",
+  "version": "2.0.2",
+  "summary": "Official Moncreneau API client for Python",
+  "author": "Moncreneau",
+  "license": null,
+  "home_page": "https://github.com/nbsidiki/moncreneau-python",
+  "download_filename": "moncreneau-2.0.2.tar.gz",
+  "download_time": "2026-01-29T09:47:07.024726",
+  "package_url": "https://pypi.org/project/moncreneau/"
+}

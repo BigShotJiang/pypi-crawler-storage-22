@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_twjackysu_twstockmcpserver",
+  "version": "0.1.0",
+  "summary": "A MCPServer for partial APIs of the Taiwan Stock Exchange OpenAPI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_twjackysu_twstockmcpserver-0.1.0.tar.gz",
+  "download_time": "2026-01-29T09:47:25.357308",
+  "package_url": "https://pypi.org/project/iflow-mcp_twjackysu_twstockmcpserver/"
+}

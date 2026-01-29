@@ -1,11 +1,11 @@
 {
   "name": "qwerky-vllm-models",
-  "version": "0.2.15",
+  "version": "0.2.21",
   "summary": "vLLM plugin for Qwerky AI MambaInLlama hybrid models",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qwerky_vllm_models-0.2.15.tar.gz",
-  "download_time": "2026-01-28T18:53:29.087556",
+  "download_filename": "qwerky_vllm_models-0.2.21.tar.gz",
+  "download_time": "2026-01-29T09:47:12.042623",
   "package_url": "https://pypi.org/project/qwerky-vllm-models/"
 }

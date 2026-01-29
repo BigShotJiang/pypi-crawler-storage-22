@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_abhishekloiwal_mcp-file-server",
+  "version": "0.1.1",
+  "summary": "An MCP server for reading and writing files from your local file system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_abhishekloiwal_mcp_file_server-0.1.1.tar.gz",
+  "download_time": "2026-01-29T09:47:50.485111",
+  "package_url": "https://pypi.org/project/iflow-mcp_abhishekloiwal_mcp-file-server/"
+}

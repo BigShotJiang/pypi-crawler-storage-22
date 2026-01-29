@@ -1,0 +1,11 @@
+{
+  "name": "tap-zuora",
+  "version": "1.6.0",
+  "summary": "Singer.io tap for extracting data from the Zuora API",
+  "author": "Stitch",
+  "license": null,
+  "home_page": "https://singer.io",
+  "download_filename": "tap_zuora-1.6.0.tar.gz",
+  "download_time": "2026-01-29T09:47:53.725012",
+  "package_url": "https://pypi.org/project/tap-zuora/"
+}

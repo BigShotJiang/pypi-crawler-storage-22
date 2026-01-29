@@ -1,0 +1,11 @@
+{
+  "name": "silhouette-python-sdk",
+  "version": "0.2.1",
+  "summary": "Python SDK for trading on Silhouette - the shield exchange on Hyperliquid",
+  "author": "Silhouette",
+  "license": "MIT",
+  "home_page": "https://github.com/silhouette-exchange/silhouette-python-sdk",
+  "download_filename": "silhouette_python_sdk-0.2.1.tar.gz",
+  "download_time": "2026-01-29T09:47:33.082638",
+  "package_url": "https://pypi.org/project/silhouette-python-sdk/"
+}

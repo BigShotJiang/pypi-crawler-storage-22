@@ -1,0 +1,11 @@
+{
+  "name": "finanzonline-databox",
+  "version": "1.2.11",
+  "summary": "Python library and CLI for downloading documents from FinanzOnline Austria DataBox",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "finanzonline_databox-1.2.11.tar.gz",
+  "download_time": "2026-01-29T09:47:36.923879",
+  "package_url": "https://pypi.org/project/finanzonline-databox/"
+}

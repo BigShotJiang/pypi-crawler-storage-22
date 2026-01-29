@@ -1,0 +1,11 @@
+{
+  "name": "cvforge",
+  "version": "1.1.0",
+  "summary": "ATS-friendly CV/Resume builder using YAML and Typst",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cvforge-1.1.0.tar.gz",
+  "download_time": "2026-01-29T09:47:18.749152",
+  "package_url": "https://pypi.org/project/cvforge/"
+}

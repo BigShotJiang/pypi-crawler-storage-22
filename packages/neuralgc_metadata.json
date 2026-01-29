@@ -1,0 +1,11 @@
+{
+  "name": "neuralgc",
+  "version": "0.0.2",
+  "summary": "Neural Granger Causality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuralgc-0.0.2.tar.gz",
+  "download_time": "2026-01-29T09:47:06.372523",
+  "package_url": "https://pypi.org/project/neuralgc/"
+}

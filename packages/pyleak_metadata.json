@@ -1,0 +1,11 @@
+{
+  "name": "pyleak",
+  "version": "0.2.0",
+  "summary": "Detect leaked asyncio tasks, threads, and event loop blocking in Python. Inspired by Go's goleak",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyleak-0.2.0.tar.gz",
+  "download_time": "2026-01-29T09:47:27.906471",
+  "package_url": "https://pypi.org/project/pyleak/"
+}
