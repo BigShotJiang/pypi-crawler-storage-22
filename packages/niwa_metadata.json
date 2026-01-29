@@ -1,11 +1,11 @@
 {
   "name": "niwa",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "Async conflict-aware spec/planning, for me, you and your LLM/agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "niwa-0.2.6.tar.gz",
-  "download_time": "2026-01-29T07:29:34.695042",
+  "download_filename": "niwa-0.2.8.tar.gz",
+  "download_time": "2026-01-29T08:01:53.541249",
   "package_url": "https://pypi.org/project/niwa/"
 }

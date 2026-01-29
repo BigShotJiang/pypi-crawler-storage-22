@@ -1,0 +1,11 @@
+{
+  "name": "tms-mcp",
+  "version": "0.6.0",
+  "summary": "MCP server for exploring Omelet's Routing Engine and iNavi's Maps API to help build a TMS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tms_mcp-0.6.0.tar.gz",
+  "download_time": "2026-01-29T08:02:03.026500",
+  "package_url": "https://pypi.org/project/tms-mcp/"
+}

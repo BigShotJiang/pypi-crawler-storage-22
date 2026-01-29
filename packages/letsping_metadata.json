@@ -1,0 +1,11 @@
+{
+  "name": "letsping",
+  "version": "0.1.0",
+  "summary": "The Control Plane for Autonomous Agents. Add Human-in-the-Loop approval with one line of code.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "letsping-0.1.0.tar.gz",
+  "download_time": "2026-01-29T08:02:20.237422",
+  "package_url": "https://pypi.org/project/letsping/"
+}

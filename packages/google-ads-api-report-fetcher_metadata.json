@@ -1,0 +1,11 @@
+{
+  "name": "google-ads-api-report-fetcher",
+  "version": "1.18.2",
+  "summary": "Library for fetching reports from Google Ads API and saving them locally & remotely.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "google_ads_api_report_fetcher-1.18.2.tar.gz",
+  "download_time": "2026-01-29T08:02:01.994014",
+  "package_url": "https://pypi.org/project/google-ads-api-report-fetcher/"
+}

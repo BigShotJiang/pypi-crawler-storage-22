@@ -1,0 +1,11 @@
+{
+  "name": "graphorm",
+  "version": "0.3.3",
+  "summary": "A modern Python ORM for graph databases (RedisGraph/FalkorDB) with type safety, query builder, and automatic property management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphorm-0.3.3.tar.gz",
+  "download_time": "2026-01-29T08:02:17.641639",
+  "package_url": "https://pypi.org/project/graphorm/"
+}

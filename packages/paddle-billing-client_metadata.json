@@ -1,0 +1,11 @@
+{
+  "name": "paddle-billing-client",
+  "version": "0.3.0",
+  "summary": "Python wrapper around the new Paddle Billing API",
+  "author": "Benjamin Gervan",
+  "license": "MIT",
+  "home_page": "https://github.com/websideproject/paddle-billing-client",
+  "download_filename": "paddle_billing_client-0.3.0.tar.gz",
+  "download_time": "2026-01-29T08:02:00.954605",
+  "package_url": "https://pypi.org/project/paddle-billing-client/"
+}

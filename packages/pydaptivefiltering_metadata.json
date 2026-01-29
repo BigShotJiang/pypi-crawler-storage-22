@@ -1,0 +1,11 @@
+{
+  "name": "pydaptivefiltering",
+  "version": "1.0.0",
+  "summary": "A modern Python implementation of the AdaptiveFiltering toolbox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydaptivefiltering-1.0.0.tar.gz",
+  "download_time": "2026-01-29T08:01:59.393799",
+  "package_url": "https://pypi.org/project/pydaptivefiltering/"
+}

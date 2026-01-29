@@ -1,0 +1,11 @@
+{
+  "name": "docseal",
+  "version": "2.0.1",
+  "summary": "Secure academic document signing and verification tool",
+  "author": "Rupesh Thakur",
+  "license": null,
+  "home_page": null,
+  "download_filename": "docseal-2.0.1.tar.gz",
+  "download_time": "2026-01-29T08:02:31.224249",
+  "package_url": "https://pypi.org/project/docseal/"
+}

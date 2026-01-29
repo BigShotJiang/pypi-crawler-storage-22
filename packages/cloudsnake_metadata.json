@@ -1,11 +1,11 @@
 {
   "name": "cloudsnake",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "summary": "Some AWS CLI commands with a beautiful TUI",
   "author": "containerscrew",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "cloudsnake-0.12.1.tar.gz",
-  "download_time": "2026-01-28T16:57:23.197229",
+  "download_filename": "cloudsnake-0.12.2.tar.gz",
+  "download_time": "2026-01-29T08:01:46.925418",
   "package_url": "https://pypi.org/project/cloudsnake/"
 }

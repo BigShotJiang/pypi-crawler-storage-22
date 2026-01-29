@@ -1,0 +1,11 @@
+{
+  "name": "omdx",
+  "version": "0.1.0",
+  "summary": "Open Meteor Data Exchange standard and tools",
+  "author": "quan787",
+  "license": "MPL 2.0",
+  "home_page": "https://github.com/quan787/omdx-project",
+  "download_filename": "omdx-0.1.0.tar.gz",
+  "download_time": "2026-01-29T08:02:07.232170",
+  "package_url": "https://pypi.org/project/omdx/"
+}
