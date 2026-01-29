@@ -1,0 +1,11 @@
+{
+  "name": "Flowfile",
+  "version": "0.6.1",
+  "summary": "Project combining flowfile core (backend) and flowfile_worker (compute offloader) and flowfile_frame (api)",
+  "author": "Edward van Eechoud",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowfile-0.6.1.tar.gz",
+  "download_time": "2026-01-29T20:01:17.427181",
+  "package_url": "https://pypi.org/project/Flowfile/"
+}

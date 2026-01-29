@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-gitlab",
+  "version": "9.8.2",
+  "summary": "A Pulumi package for creating and managing GitLab resources.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pulumi_gitlab-9.8.2.tar.gz",
+  "download_time": "2026-01-29T20:01:07.211025",
+  "package_url": "https://pypi.org/project/pulumi-gitlab/"
+}

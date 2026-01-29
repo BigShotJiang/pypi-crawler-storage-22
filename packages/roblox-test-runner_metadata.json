@@ -1,0 +1,11 @@
+{
+  "name": "roblox-test-runner",
+  "version": "1.1.2",
+  "summary": "Execute Luau tests on Roblox Cloud",
+  "author": "WildLink Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/roblox-test-runner",
+  "download_filename": "roblox_test_runner-1.1.2.tar.gz",
+  "download_time": "2026-01-29T20:01:07.734041",
+  "package_url": "https://pypi.org/project/roblox-test-runner/"
+}
