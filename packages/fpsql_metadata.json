@@ -1,0 +1,11 @@
+{
+  "name": "fpsql",
+  "version": "1.2.0",
+  "summary": "An easy to use SQLite package",
+  "author": "Firepup650",
+  "license": "MIT",
+  "home_page": "https://github.com/F1repup650/firepup650-SQL",
+  "download_filename": "fpsql-1.2.0.tar.gz",
+  "download_time": "2026-01-29T01:28:47.342124",
+  "package_url": "https://pypi.org/project/fpsql/"
+}

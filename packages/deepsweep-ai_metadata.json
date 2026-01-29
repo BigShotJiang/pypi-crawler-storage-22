@@ -1,0 +1,11 @@
+{
+  "name": "deepsweep-ai",
+  "version": "1.0.2",
+  "summary": "Security validation for AI coding assistants. You don't need to understand the code to secure it.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepsweep_ai-1.0.2.tar.gz",
+  "download_time": "2026-01-29T01:28:37.342570",
+  "package_url": "https://pypi.org/project/deepsweep-ai/"
+}

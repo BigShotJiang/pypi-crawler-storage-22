@@ -1,0 +1,11 @@
+{
+  "name": "science-synapse",
+  "version": "2.4.1",
+  "summary": "Client library and CLI for the Synapse API",
+  "author": "Science Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "science_synapse-2.4.1.tar.gz",
+  "download_time": "2026-01-29T01:28:42.341162",
+  "package_url": "https://pypi.org/project/science-synapse/"
+}

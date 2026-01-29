@@ -1,0 +1,11 @@
+{
+  "name": "lambdawaker.draw.tools",
+  "version": "0.2.2",
+  "summary": "Drawing utilities for generating geometric patterns and grids using Pillow and aggdraw",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lambdawaker_draw_tools-0.2.2.tar.gz",
+  "download_time": "2026-01-29T01:28:35.170439",
+  "package_url": "https://pypi.org/project/lambdawaker.draw.tools/"
+}

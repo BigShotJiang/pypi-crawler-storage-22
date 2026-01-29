@@ -1,0 +1,11 @@
+{
+  "name": "mailfeed",
+  "version": "0.1.1",
+  "summary": "Reusable library for sending HTML emails with images and attachments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mailfeed-0.1.1.tar.gz",
+  "download_time": "2026-01-29T01:28:21.488705",
+  "package_url": "https://pypi.org/project/mailfeed/"
+}

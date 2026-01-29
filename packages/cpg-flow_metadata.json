@@ -1,0 +1,11 @@
+{
+  "name": "cpg-flow",
+  "version": "1.3.1",
+  "summary": "CPG Flow API for Hail Batch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cpg_flow-1.3.1.tar.gz",
+  "download_time": "2026-01-29T01:29:06.876328",
+  "package_url": "https://pypi.org/project/cpg-flow/"
+}

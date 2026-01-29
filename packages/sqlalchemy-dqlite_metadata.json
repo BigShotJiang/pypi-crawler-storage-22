@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-dqlite",
+  "version": "0.1.2",
+  "summary": "SQLAlchemy 2.0 dialect for dqlite distributed SQLite",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_dqlite-0.1.2.tar.gz",
+  "download_time": "2026-01-29T01:28:26.272167",
+  "package_url": "https://pypi.org/project/sqlalchemy-dqlite/"
+}

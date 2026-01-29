@@ -1,0 +1,11 @@
+{
+  "name": "EasyUI-python",
+  "version": "1.0.0",
+  "summary": "간편한 파이썬 GUI 디자이너 및 라이브러리",
+  "author": "kdh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "easyui_python-1.0.0.tar.gz",
+  "download_time": "2026-01-29T01:28:34.027463",
+  "package_url": "https://pypi.org/project/EasyUI-python/"
+}

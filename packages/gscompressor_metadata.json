@@ -1,0 +1,11 @@
+{
+  "name": "gscompressor",
+  "version": "1.2.0.1",
+  "summary": "Refactored python training and inference code for 3D Gaussian Splatting",
+  "author": "yindaheng98",
+  "license": null,
+  "home_page": "https://github.com/yindaheng98/gscompressor",
+  "download_filename": "gscompressor-1.2.0.1-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-01-29T01:28:41.809126",
+  "package_url": "https://pypi.org/project/gscompressor/"
+}
