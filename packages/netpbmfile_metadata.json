@@ -1,0 +1,11 @@
+{
+  "name": "netpbmfile",
+  "version": "2026.1.29",
+  "summary": "Read and write Netpbm files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "netpbmfile-2026.1.29.tar.gz",
+  "download_time": "2026-01-29T16:53:45.400089",
+  "package_url": "https://pypi.org/project/netpbmfile/"
+}

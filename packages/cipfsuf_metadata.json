@@ -1,0 +1,11 @@
+{
+  "name": "cipfsuf",
+  "version": "1.0.0",
+  "summary": "The IPFS Unfuccker - Global CID Propagation Tool",
+  "author": "MurilooPrDev",
+  "license": null,
+  "home_page": "https://github.com/MurilooPrDev/CIPFSUF",
+  "download_filename": "cipfsuf-1.0.0.tar.gz",
+  "download_time": "2026-01-29T16:53:15.184404",
+  "package_url": "https://pypi.org/project/cipfsuf/"
+}

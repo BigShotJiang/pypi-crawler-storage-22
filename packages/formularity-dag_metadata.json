@@ -1,0 +1,11 @@
+{
+  "name": "formularity-dag",
+  "version": "0.1.0",
+  "summary": "A declarative Python library for building computation DAGs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "formularity_dag-0.1.0.tar.gz",
+  "download_time": "2026-01-29T16:53:27.309276",
+  "package_url": "https://pypi.org/project/formularity-dag/"
+}

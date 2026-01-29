@@ -1,0 +1,11 @@
+{
+  "name": "speXtra",
+  "version": "0.43.1",
+  "summary": "Tool to manage and manipulate astronomical spectra.",
+  "author": "Miguel Verdugo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spextra-0.43.1.tar.gz",
+  "download_time": "2026-01-29T16:53:43.851772",
+  "package_url": "https://pypi.org/project/speXtra/"
+}

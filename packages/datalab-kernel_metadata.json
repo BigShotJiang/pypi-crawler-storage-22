@@ -1,0 +1,11 @@
+{
+  "name": "datalab-kernel",
+  "version": "0.2.4",
+  "summary": "A standalone Jupyter kernel for DataLab with optional live synchronization",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "datalab_kernel-0.2.4.tar.gz",
+  "download_time": "2026-01-29T16:53:32.958302",
+  "package_url": "https://pypi.org/project/datalab-kernel/"
+}

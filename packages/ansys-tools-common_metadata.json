@@ -1,0 +1,11 @@
+{
+  "name": "ansys-tools-common",
+  "version": "0.4.2",
+  "summary": "A set of tools for PyAnsys libraries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ansys_tools_common-0.4.2.tar.gz",
+  "download_time": "2026-01-29T16:53:07.358383",
+  "package_url": "https://pypi.org/project/ansys-tools-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phantomfetch",
+  "version": "0.3.0",
+  "summary": "High-performance agentic web scraping library combining curl-cffi speed with Playwright browser capabilities",
+  "author": "CosmicBull",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phantomfetch-0.3.0.tar.gz",
+  "download_time": "2026-01-29T16:53:24.722485",
+  "package_url": "https://pypi.org/project/phantomfetch/"
+}

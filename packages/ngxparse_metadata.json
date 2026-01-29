@@ -1,0 +1,11 @@
+{
+  "name": "ngxparse",
+  "version": "0.5.16",
+  "summary": "Reliable and fast NGINX configuration file parser.",
+  "author": "Arie van Luttikhuizen",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/dvershinin/crossplane",
+  "download_filename": "ngxparse-0.5.16.tar.gz",
+  "download_time": "2026-01-29T16:53:28.334791",
+  "package_url": "https://pypi.org/project/ngxparse/"
+}

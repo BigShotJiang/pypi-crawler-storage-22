@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-ftms",
+  "version": "0.1.1",
+  "summary": "Fuzzy Temporal Memory System - Field-theoretic memory for AI agents with natural decay and consolidation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_ftms-0.1.1.tar.gz",
+  "download_time": "2026-01-29T16:53:19.889601",
+  "package_url": "https://pypi.org/project/rotalabs-ftms/"
+}
