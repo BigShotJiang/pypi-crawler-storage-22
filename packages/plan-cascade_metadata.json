@@ -1,0 +1,11 @@
+{
+  "name": "plan-cascade",
+  "version": "3.3.10",
+  "summary": "Plan Cascade - Three-layer parallel development framework for AI coding tools",
+  "author": "Plan Cascade Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plan_cascade-3.3.10.tar.gz",
+  "download_time": "2026-01-29T04:58:54.014023",
+  "package_url": "https://pypi.org/project/plan-cascade/"
+}

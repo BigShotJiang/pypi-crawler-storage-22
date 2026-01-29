@@ -1,0 +1,11 @@
+{
+  "name": "router-maestro",
+  "version": "0.1.2",
+  "summary": "Multi-model routing and load balancing system with OpenAI-compatible API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "router_maestro-0.1.2.tar.gz",
+  "download_time": "2026-01-29T04:58:59.261193",
+  "package_url": "https://pypi.org/project/router-maestro/"
+}

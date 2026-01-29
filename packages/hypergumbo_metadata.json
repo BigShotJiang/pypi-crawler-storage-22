@@ -1,0 +1,11 @@
+{
+  "name": "hypergumbo",
+  "version": "1.2.1",
+  "summary": "Local-first repo behavior map generator (MVP)",
+  "author": "Hypergumbo contributors",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hypergumbo-1.2.1-py3-none-any.whl",
+  "download_time": "2026-01-29T04:58:39.927257",
+  "package_url": "https://pypi.org/project/hypergumbo/"
+}
