@@ -1,11 +1,11 @@
 {
   "name": "tinygent-anthropic",
-  "version": "0.1.1006",
+  "version": "0.1.1007",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinygent_anthropic-0.1.1006.tar.gz",
-  "download_time": "2026-01-28T20:55:51.483905",
+  "download_filename": "tinygent_anthropic-0.1.1007.tar.gz",
+  "download_time": "2026-01-29T22:54:37.938453",
   "package_url": "https://pypi.org/project/tinygent-anthropic/"
 }

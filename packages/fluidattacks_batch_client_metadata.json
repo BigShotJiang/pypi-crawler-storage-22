@@ -1,0 +1,11 @@
+{
+  "name": "fluidattacks_batch_client",
+  "version": "0.1.0",
+  "summary": "AWS batch python client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fluidattacks_batch_client-0.1.0.tar.gz",
+  "download_time": "2026-01-29T22:54:31.926563",
+  "package_url": "https://pypi.org/project/fluidattacks_batch_client/"
+}

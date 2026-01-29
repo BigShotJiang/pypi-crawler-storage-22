@@ -1,0 +1,11 @@
+{
+  "name": "buildingsync-asset-extractor",
+  "version": "0.3.0",
+  "summary": "BuildingSync Asset Extractor (BAE)",
+  "author": "Katherine Fleming, Hannah Eslinger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "buildingsync_asset_extractor-0.3.0.tar.gz",
+  "download_time": "2026-01-29T22:54:09.152698",
+  "package_url": "https://pypi.org/project/buildingsync-asset-extractor/"
+}

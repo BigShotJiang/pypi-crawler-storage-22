@@ -1,0 +1,11 @@
+{
+  "name": "lnt-sovereign",
+  "version": "1.0.5",
+  "summary": "High-performance neuro-symbolic verification layer for AI validation and logic-based guardrails.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lnt_sovereign-1.0.5.tar.gz",
+  "download_time": "2026-01-29T22:54:20.074444",
+  "package_url": "https://pypi.org/project/lnt-sovereign/"
+}

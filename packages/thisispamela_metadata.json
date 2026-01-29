@@ -1,0 +1,11 @@
+{
+  "name": "thisispamela",
+  "version": "1.0.4",
+  "summary": "Pamela Enterprise Voice API SDK for Python",
+  "author": "Pamela",
+  "license": null,
+  "home_page": "https://github.com/rtpam/pamela",
+  "download_filename": "thisispamela-1.0.4.tar.gz",
+  "download_time": "2026-01-29T22:53:59.879775",
+  "package_url": "https://pypi.org/project/thisispamela/"
+}

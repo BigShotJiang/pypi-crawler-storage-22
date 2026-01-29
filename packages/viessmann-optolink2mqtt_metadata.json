@@ -1,0 +1,11 @@
+{
+  "name": "viessmann-optolink2mqtt",
+  "version": "1.2.0",
+  "summary": "Open source interface between a Viessmann device (heat pump, gas heater, etc) and MQTT",
+  "author": "Phil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "viessmann_optolink2mqtt-1.2.0.tar.gz",
+  "download_time": "2026-01-29T22:54:36.275057",
+  "package_url": "https://pypi.org/project/viessmann-optolink2mqtt/"
+}

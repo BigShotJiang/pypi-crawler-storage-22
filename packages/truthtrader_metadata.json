@@ -1,0 +1,11 @@
+{
+  "name": "truthtrader",
+  "version": "0.1.0",
+  "summary": "Cache-first market bar archive: fetch from Polygon (or others), store 1m bars, return any timeframe. No pandas required for callers.",
+  "author": "Bryan Clauss",
+  "license": null,
+  "home_page": null,
+  "download_filename": "truthtrader-0.1.0.tar.gz",
+  "download_time": "2026-01-29T22:54:29.783332",
+  "package_url": "https://pypi.org/project/truthtrader/"
+}

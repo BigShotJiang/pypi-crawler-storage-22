@@ -1,11 +1,11 @@
 {
   "name": "unrealircd-rpc-py",
-  "version": "3.1.4",
+  "version": "3.1.5",
   "summary": "Python library for UnrealIRCd json-rpc",
   "author": "adator",
   "license": null,
   "home_page": null,
-  "download_filename": "unrealircd_rpc_py-3.1.4.tar.gz",
-  "download_time": "2026-01-29T21:51:11.433197",
+  "download_filename": "unrealircd_rpc_py-3.1.5.tar.gz",
+  "download_time": "2026-01-29T22:53:49.440913",
   "package_url": "https://pypi.org/project/unrealircd-rpc-py/"
 }

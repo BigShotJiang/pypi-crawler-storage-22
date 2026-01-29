@@ -1,0 +1,11 @@
+{
+  "name": "azcam-app",
+  "version": "26.0.0",
+  "summary": "azcam-app package for controlling imaging systems",
+  "author": "Michael Lesser",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azcam_app-26.0.0.tar.gz",
+  "download_time": "2026-01-29T22:53:51.765442",
+  "package_url": "https://pypi.org/project/azcam-app/"
+}

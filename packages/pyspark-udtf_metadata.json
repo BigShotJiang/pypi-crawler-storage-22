@@ -1,11 +1,11 @@
 {
   "name": "pyspark-udtf",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A collection of PySpark User-Defined Table Functions (UDTFs)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pyspark_udtf-0.1.0.tar.gz",
-  "download_time": "2026-01-29T22:23:28.793271",
+  "download_filename": "pyspark_udtf-0.1.1.tar.gz",
+  "download_time": "2026-01-29T22:54:19.524961",
   "package_url": "https://pypi.org/project/pyspark-udtf/"
 }
