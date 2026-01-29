@@ -1,11 +1,11 @@
 {
   "name": "pyzx-param",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "Library for quantum circuit rewriting and optimisation using the ZX-calculus",
   "author": "Quantomatic",
   "license": "Apache2",
   "home_page": "https://github.com/rafaelha/pyzx.git",
-  "download_filename": "pyzx_param-0.9.1.tar.gz",
-  "download_time": "2026-01-28T21:52:59.875253",
+  "download_filename": "pyzx_param-0.9.2.tar.gz",
+  "download_time": "2026-01-29T06:40:38.202587",
   "package_url": "https://pypi.org/project/pyzx-param/"
 }
