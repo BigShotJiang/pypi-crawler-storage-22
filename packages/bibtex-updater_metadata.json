@@ -1,0 +1,11 @@
+{
+  "name": "bibtex-updater",
+  "version": "0.1.1",
+  "summary": "Replace preprint BibTeX entries with published versions and validate bibliography references",
+  "author": "Patrik Reizinger",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bibtex_updater-0.1.1.tar.gz",
+  "download_time": "2026-01-29T19:53:31.444342",
+  "package_url": "https://pypi.org/project/bibtex-updater/"
+}

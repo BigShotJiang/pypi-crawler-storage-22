@@ -1,0 +1,11 @@
+{
+  "name": "whitebox-plugin-device-status",
+  "version": "0.1.8",
+  "summary": "Device status plugin for WhiteBox",
+  "author": "avilabss",
+  "license": "GNU Affero General Public License v3",
+  "home_page": null,
+  "download_filename": "whitebox_plugin_device_status-0.1.8.tar.gz",
+  "download_time": "2026-01-29T19:53:20.904883",
+  "package_url": "https://pypi.org/project/whitebox-plugin-device-status/"
+}

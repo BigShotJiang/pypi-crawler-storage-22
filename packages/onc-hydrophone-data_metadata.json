@@ -1,0 +1,11 @@
+{
+  "name": "onc-hydrophone-data",
+  "version": "0.2.2",
+  "summary": "Tools for downloading and processing Ocean Networks Canada hydrophone data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onc_hydrophone_data-0.2.2.tar.gz",
+  "download_time": "2026-01-29T19:53:52.758059",
+  "package_url": "https://pypi.org/project/onc-hydrophone-data/"
+}

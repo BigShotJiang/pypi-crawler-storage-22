@@ -1,11 +1,11 @@
 {
   "name": "modern-onnx-clip",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A production-ready, zero-dependency ONNX runtime for OpenAI CLIP and OpenCLIP models.",
   "author": "Modern ONNX CLIP Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "modern_onnx_clip-0.1.1.tar.gz",
-  "download_time": "2026-01-29T19:04:13.780675",
+  "download_filename": "modern_onnx_clip-0.1.2.tar.gz",
+  "download_time": "2026-01-29T19:53:57.503640",
   "package_url": "https://pypi.org/project/modern-onnx-clip/"
 }

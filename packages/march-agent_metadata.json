@@ -1,0 +1,11 @@
+{
+  "name": "march-agent",
+  "version": "0.3.1",
+  "summary": "Python SDK for March AI Agent framework - handles agent registration, message consumption, and streaming responses",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "march_agent-0.3.1.tar.gz",
+  "download_time": "2026-01-29T19:53:28.826662",
+  "package_url": "https://pypi.org/project/march-agent/"
+}

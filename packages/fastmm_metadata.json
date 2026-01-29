@@ -1,0 +1,11 @@
+{
+  "name": "fastmm",
+  "version": "0.2.0",
+  "summary": "Fast Map Matching - High-performance map matching library",
+  "author": "kodonnell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastmm-0.2.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-29T19:53:37.381003",
+  "package_url": "https://pypi.org/project/fastmm/"
+}

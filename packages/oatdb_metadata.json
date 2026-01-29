@@ -1,0 +1,11 @@
+{
+  "name": "oatdb",
+  "version": "0.4.5",
+  "summary": "Python client for OAT (Optimization and Analysis Tooling) database",
+  "author": "Rikard Olsson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oatdb-0.4.5.tar.gz",
+  "download_time": "2026-01-29T19:53:22.002293",
+  "package_url": "https://pypi.org/project/oatdb/"
+}

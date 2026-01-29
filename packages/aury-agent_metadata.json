@@ -1,11 +1,11 @@
 {
   "name": "aury-agent",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Aury Agent Framework - React Agent and Workflow orchestration",
   "author": "Aury Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aury_agent-0.0.11-py3-none-any.whl",
-  "download_time": "2026-01-29T14:36:05.696410",
+  "download_filename": "aury_agent-0.0.12-py3-none-any.whl",
+  "download_time": "2026-01-29T19:53:33.662325",
   "package_url": "https://pypi.org/project/aury-agent/"
 }

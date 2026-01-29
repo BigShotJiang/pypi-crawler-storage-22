@@ -1,11 +1,11 @@
 {
   "name": "pampu",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "CLI for Atlassian Bamboo",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pampu-0.2.0.tar.gz",
-  "download_time": "2026-01-28T18:00:41.964256",
+  "download_filename": "pampu-0.3.0.tar.gz",
+  "download_time": "2026-01-29T19:53:26.167291",
   "package_url": "https://pypi.org/project/pampu/"
 }

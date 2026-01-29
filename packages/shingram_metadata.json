@@ -1,0 +1,11 @@
+{
+  "name": "shingram",
+  "version": "0.2.0",
+  "summary": "Minimal Python wrapper for the Telegram Bot API; one Event, one router, sync and async.",
+  "author": "Ren Nouzumoto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shingram-0.2.0.tar.gz",
+  "download_time": "2026-01-29T19:54:00.596860",
+  "package_url": "https://pypi.org/project/shingram/"
+}

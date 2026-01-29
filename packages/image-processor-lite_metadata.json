@@ -1,0 +1,11 @@
+{
+  "name": "image-processor-lite",
+  "version": "1.0.5",
+  "summary": "Package modulaire de traitement et d'analyse d'images avec modules C/C++ optimisés",
+  "author": "ImageProcessor Team",
+  "license": null,
+  "home_page": "https://github.com/Maik-start/image-processor-lite",
+  "download_filename": "image_processor_lite-1.0.5.tar.gz",
+  "download_time": "2026-01-29T19:53:25.653852",
+  "package_url": "https://pypi.org/project/image-processor-lite/"
+}

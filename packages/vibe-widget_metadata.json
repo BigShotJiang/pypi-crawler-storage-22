@@ -1,0 +1,11 @@
+{
+  "name": "vibe-widget",
+  "version": "0.2.6",
+  "summary": "Create interactive visualizations using natural language and LLMs",
+  "author": "Ryan Yen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibe_widget-0.2.6-py3-none-any.whl",
+  "download_time": "2026-01-29T19:53:16.761773",
+  "package_url": "https://pypi.org/project/vibe-widget/"
+}
