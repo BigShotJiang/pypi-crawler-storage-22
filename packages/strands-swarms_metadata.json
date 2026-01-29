@@ -1,0 +1,11 @@
+{
+  "name": "strands-swarms",
+  "version": "0.1.1",
+  "summary": "Task-based workflow orchestration for Strands Agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strands_swarms-0.1.1.tar.gz",
+  "download_time": "2026-01-29T12:44:42.857180",
+  "package_url": "https://pypi.org/project/strands-swarms/"
+}

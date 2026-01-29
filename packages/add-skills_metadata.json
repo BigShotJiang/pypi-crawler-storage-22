@@ -1,0 +1,11 @@
+{
+  "name": "add-skills",
+  "version": "0.1.2",
+  "summary": "A tool for managing Claude Code skills",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "add_skills-0.1.2.tar.gz",
+  "download_time": "2026-01-29T12:44:34.625281",
+  "package_url": "https://pypi.org/project/add-skills/"
+}

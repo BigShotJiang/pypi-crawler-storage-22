@@ -1,0 +1,11 @@
+{
+  "name": "pixie-sdk",
+  "version": "0.2.6",
+  "summary": "Interactive debugging tool for AI applications",
+  "author": "Yiou Li",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pixie_sdk-0.2.6.tar.gz",
+  "download_time": "2026-01-29T12:44:41.391431",
+  "package_url": "https://pypi.org/project/pixie-sdk/"
+}

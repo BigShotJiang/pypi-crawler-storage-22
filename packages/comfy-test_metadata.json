@@ -1,11 +1,11 @@
 {
   "name": "comfy-test",
-  "version": "0.1.17",
+  "version": "0.1.24",
   "summary": "Installation testing infrastructure for ComfyUI custom nodes",
   "author": "Andrea Pozzetti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfy_test-0.1.17.tar.gz",
-  "download_time": "2026-01-29T11:18:59.791530",
+  "download_filename": "comfy_test-0.1.24.tar.gz",
+  "download_time": "2026-01-29T12:44:17.839830",
   "package_url": "https://pypi.org/project/comfy-test/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "alertlogic-sdk-definitions",
+  "version": "0.1.167",
+  "summary": "The Alert Logic API definitions.",
+  "author": "Alert Logic Inc.",
+  "license": "MIT license",
+  "home_page": "https://github.com/alertlogic/alertlogic-sdk-definitions",
+  "download_filename": "alertlogic_sdk_definitions-0.1.167.tar.gz",
+  "download_time": "2026-01-29T12:44:55.170243",
+  "package_url": "https://pypi.org/project/alertlogic-sdk-definitions/"
+}

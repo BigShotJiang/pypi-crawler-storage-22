@@ -1,0 +1,11 @@
+{
+  "name": "clipboard-tts-client",
+  "version": "0.1.2",
+  "summary": "Program that collects text from clipboard and converts it to speech using tts-program-server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clipboard_tts_client-0.1.2.tar.gz",
+  "download_time": "2026-01-29T12:44:51.814533",
+  "package_url": "https://pypi.org/project/clipboard-tts-client/"
+}
