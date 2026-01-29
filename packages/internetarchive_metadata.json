@@ -1,0 +1,11 @@
+{
+  "name": "internetarchive",
+  "version": "5.7.2",
+  "summary": "A Python interface to archive.org.",
+  "author": "Jacob M. Johnson",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/jjjake/internetarchive",
+  "download_filename": "internetarchive-5.7.2.tar.gz",
+  "download_time": "2026-01-29T21:51:17.099495",
+  "package_url": "https://pypi.org/project/internetarchive/"
+}

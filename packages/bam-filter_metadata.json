@@ -1,0 +1,11 @@
+{
+  "name": "bam-filter",
+  "version": "2.1.0",
+  "summary": "A simple tool to filter references from a BAM file using different filter types",
+  "author": "Antonio Fernandez-Guerra",
+  "license": "GNUv3",
+  "home_page": "https://github.com/genomewalker/bam-filter",
+  "download_filename": "bam_filter-2.1.0.tar.gz",
+  "download_time": "2026-01-29T21:50:56.413694",
+  "package_url": "https://pypi.org/project/bam-filter/"
+}

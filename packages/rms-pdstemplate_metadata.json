@@ -1,0 +1,11 @@
+{
+  "name": "rms-pdstemplate",
+  "version": "2.4.0",
+  "summary": "Class to generate PDS labels based on templates",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rms_pdstemplate-2.4.0.tar.gz",
+  "download_time": "2026-01-29T21:51:17.615769",
+  "package_url": "https://pypi.org/project/rms-pdstemplate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "audio-visualizer-python",
-  "version": "2.2.1",
+  "version": "2.2.3",
   "summary": "Create audio visualization videos from a GUI or commandline",
   "author": "Martin Kaistra, Brianna Rainey, DH4, HunterwolfAT, rikai",
   "license": null,
   "home_page": null,
-  "download_filename": "audio_visualizer_python-2.2.1.tar.gz",
-  "download_time": "2026-01-28T22:53:27.064139",
+  "download_filename": "audio_visualizer_python-2.2.3.tar.gz",
+  "download_time": "2026-01-29T21:51:05.762561",
   "package_url": "https://pypi.org/project/audio-visualizer-python/"
 }

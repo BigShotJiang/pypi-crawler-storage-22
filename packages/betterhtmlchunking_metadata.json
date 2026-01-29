@@ -1,0 +1,11 @@
+{
+  "name": "betterhtmlchunking",
+  "version": "0.9.5",
+  "summary": "A Python library for intelligent HTML segmentation and ROI extraction. It builds a DOM tree from raw HTML and extracts content-rich regions for efficient web scraping and analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "betterhtmlchunking-0.9.5.tar.gz",
+  "download_time": "2026-01-29T21:51:06.280508",
+  "package_url": "https://pypi.org/project/betterhtmlchunking/"
+}

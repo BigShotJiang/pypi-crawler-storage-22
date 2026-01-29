@@ -1,0 +1,11 @@
+{
+  "name": "npiv-python",
+  "version": "0.1.0",
+  "summary": "Nonparametric IV (NPIV) estimation in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "npiv_python-0.1.0.tar.gz",
+  "download_time": "2026-01-29T21:51:09.371755",
+  "package_url": "https://pypi.org/project/npiv-python/"
+}
