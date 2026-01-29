@@ -1,0 +1,11 @@
+{
+  "name": "flightdata",
+  "version": "0.3.5",
+  "summary": "Python tools for handling flight data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flightdata-0.3.5-py3-none-any.whl",
+  "download_time": "2026-01-29T07:29:40.903187",
+  "package_url": "https://pypi.org/project/flightdata/"
+}

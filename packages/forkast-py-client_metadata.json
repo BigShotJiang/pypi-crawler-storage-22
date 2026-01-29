@@ -1,0 +1,11 @@
+{
+  "name": "forkast-py-client",
+  "version": "0.2.0",
+  "summary": "Python client for the Forkast Orderbooks",
+  "author": "Forkast",
+  "license": null,
+  "home_page": null,
+  "download_filename": "forkast_py_client-0.2.0.tar.gz",
+  "download_time": "2026-01-29T07:29:37.778455",
+  "package_url": "https://pypi.org/project/forkast-py-client/"
+}

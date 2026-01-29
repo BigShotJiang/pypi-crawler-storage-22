@@ -1,0 +1,11 @@
+{
+  "name": "communityone",
+  "version": "1.2.1",
+  "summary": "Official Python SDK for CommunityOne API",
+  "author": "CommunityOne",
+  "license": "MIT",
+  "home_page": "https://github.com/CommunityOne-io/communityone-sdk",
+  "download_filename": "communityone-1.2.1.tar.gz",
+  "download_time": "2026-01-29T07:29:12.776419",
+  "package_url": "https://pypi.org/project/communityone/"
+}

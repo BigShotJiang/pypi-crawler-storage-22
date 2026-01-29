@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_hkopenai_hk-finance-mcp-server",
+  "version": "0.1.8",
+  "summary": "Hong Kong Finance MCP Server providing financial data tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_hkopenai_hk_finance_mcp_server-0.1.8.tar.gz",
+  "download_time": "2026-01-29T07:29:39.370518",
+  "package_url": "https://pypi.org/project/iflow-mcp_hkopenai_hk-finance-mcp-server/"
+}

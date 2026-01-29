@@ -1,0 +1,11 @@
+{
+  "name": "mlt-serato-tags",
+  "version": "1.0.2",
+  "summary": "Serato DJ Pro GEOB tags documentation",
+  "author": "Jan Holthuis",
+  "license": null,
+  "home_page": "https://github.com/eidoriantan/serato-tags",
+  "download_filename": "mlt_serato_tags-1.0.2.tar.gz",
+  "download_time": "2026-01-29T07:29:54.354012",
+  "package_url": "https://pypi.org/project/mlt-serato-tags/"
+}

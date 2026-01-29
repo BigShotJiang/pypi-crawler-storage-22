@@ -1,0 +1,11 @@
+{
+  "name": "hackle-sdk",
+  "version": "3.9.0",
+  "summary": "Python SDK for Hackle - A/B Testing, Feature Flags, Remote Config, and Analytics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hackle_sdk-3.9.0.tar.gz",
+  "download_time": "2026-01-29T07:29:17.520548",
+  "package_url": "https://pypi.org/project/hackle-sdk/"
+}

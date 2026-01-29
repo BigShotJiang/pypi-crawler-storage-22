@@ -1,0 +1,11 @@
+{
+  "name": "spatialcore",
+  "version": "0.4.0",
+  "summary": "Standardized spatial statistics tools for computational biology",
+  "author": "SpatialCore Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spatialcore-0.4.0.tar.gz",
+  "download_time": "2026-01-29T07:29:47.055761",
+  "package_url": "https://pypi.org/project/spatialcore/"
+}

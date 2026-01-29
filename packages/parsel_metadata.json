@@ -1,0 +1,11 @@
+{
+  "name": "parsel",
+  "version": "1.11.0",
+  "summary": "Parsel is a library to extract data from HTML and XML using XPath and CSS selectors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parsel-1.11.0.tar.gz",
+  "download_time": "2026-01-29T07:29:26.293431",
+  "package_url": "https://pypi.org/project/parsel/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aurora-model",
+  "version": "0.1.0",
+  "summary": "Aurora: A multimodal time series prediction model based on Transformers",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aurora_model-0.1.0.tar.gz",
+  "download_time": "2026-01-29T07:29:33.085719",
+  "package_url": "https://pypi.org/project/aurora-model/"
+}

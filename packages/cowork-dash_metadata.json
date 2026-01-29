@@ -1,0 +1,11 @@
+{
+  "name": "cowork-dash",
+  "version": "0.1.9",
+  "summary": "AI Agent Web Interface with Filesystem and Canvas Visualization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cowork_dash-0.1.9.tar.gz",
+  "download_time": "2026-01-29T07:29:55.380599",
+  "package_url": "https://pypi.org/project/cowork-dash/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "framework-m-core",
+  "version": "0.4.2",
+  "summary": "Core protocols and dependency injection for Framework M",
+  "author": "Framework M Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "framework_m_core-0.4.2.tar.gz",
+  "download_time": "2026-01-29T07:29:38.803679",
+  "package_url": "https://pypi.org/project/framework-m-core/"
+}

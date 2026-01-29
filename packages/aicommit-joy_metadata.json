@@ -1,0 +1,11 @@
+{
+  "name": "aicommit-joy",
+  "version": "0.1.3",
+  "summary": "AI-powered Git commit message generator using Conventional Commits",
+  "author": "Joy",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aicommit_joy-0.1.3.tar.gz",
+  "download_time": "2026-01-29T07:29:24.255118",
+  "package_url": "https://pypi.org/project/aicommit-joy/"
+}

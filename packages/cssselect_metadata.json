@@ -1,0 +1,11 @@
+{
+  "name": "cssselect",
+  "version": "1.4.0",
+  "summary": "cssselect parses CSS3 Selectors and translates them to XPath 1.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cssselect-1.4.0.tar.gz",
+  "download_time": "2026-01-29T07:29:57.433384",
+  "package_url": "https://pypi.org/project/cssselect/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "freedns-client",
+  "version": "0.1.4",
+  "summary": "A Python package for interacting with FreeDNS.afraid.org",
+  "author": "ading2210",
+  "license": "GPLv3",
+  "home_page": "https://github.com/ading2210/freedns-client",
+  "download_filename": "freedns_client-0.1.4-py3-none-any.whl",
+  "download_time": "2026-01-29T07:29:29.482192",
+  "package_url": "https://pypi.org/project/freedns-client/"
+}

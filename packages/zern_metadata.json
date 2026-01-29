@@ -1,0 +1,11 @@
+{
+  "name": "zern",
+  "version": "0.0.19",
+  "summary": "An unofficial client library using Zerodha web api for live data and historical data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zern-0.0.19.tar.gz",
+  "download_time": "2026-01-29T07:29:56.411679",
+  "package_url": "https://pypi.org/project/zern/"
+}

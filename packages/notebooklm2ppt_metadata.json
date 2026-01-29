@@ -1,0 +1,11 @@
+{
+  "name": "notebooklm2ppt",
+  "version": "0.7.0",
+  "summary": "将 PDF 转换为可编辑 PowerPoint 演示文稿的工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "notebooklm2ppt-0.7.0-py3-none-any.whl",
+  "download_time": "2026-01-29T07:29:45.004054",
+  "package_url": "https://pypi.org/project/notebooklm2ppt/"
+}

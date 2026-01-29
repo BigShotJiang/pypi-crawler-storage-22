@@ -1,0 +1,11 @@
+{
+  "name": "reprohash-core",
+  "version": "2.1.8",
+  "summary": "Cryptographic Input State Verification for Scientific Computing",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "reprohash_core-2.1.8.tar.gz",
+  "download_time": "2026-01-29T07:29:17.009489",
+  "package_url": "https://pypi.org/project/reprohash-core/"
+}

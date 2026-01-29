@@ -1,0 +1,11 @@
+{
+  "name": "garf-core",
+  "version": "1.0.5",
+  "summary": "Abstracts fetching data from API based on provided SQL-like query.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "garf_core-1.0.5.tar.gz",
+  "download_time": "2026-01-29T07:29:53.256623",
+  "package_url": "https://pypi.org/project/garf-core/"
+}

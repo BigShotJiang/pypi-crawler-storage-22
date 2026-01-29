@@ -1,0 +1,11 @@
+{
+  "name": "aiemailautomationutility",
+  "version": "0.0.51",
+  "summary": "Modified the OCR extraction of image attachment to perform well for both tabular image and normal image",
+  "author": "Proteus Technology PVT. LTD.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiemailautomationutility-0.0.51-py3-none-any.whl",
+  "download_time": "2026-01-29T07:29:23.746315",
+  "package_url": "https://pypi.org/project/aiemailautomationutility/"
+}

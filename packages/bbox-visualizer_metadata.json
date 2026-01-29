@@ -1,0 +1,11 @@
+{
+  "name": "bbox-visualizer",
+  "version": "0.3.0",
+  "summary": "Different ways of visualizing objects given bounding box data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bbox_visualizer-0.3.0.tar.gz",
+  "download_time": "2026-01-29T07:29:54.863797",
+  "package_url": "https://pypi.org/project/bbox-visualizer/"
+}
