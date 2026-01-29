@@ -1,0 +1,11 @@
+{
+  "name": "deep-dimensions",
+  "version": "0.2.4",
+  "summary": "Auto-scaling tensor dimensions for PyTorch and TensorFlow based on available RAM",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "deep_dimensions-0.2.4.tar.gz",
+  "download_time": "2026-01-29T16:00:19.547556",
+  "package_url": "https://pypi.org/project/deep-dimensions/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kaldi-decoder",
+  "version": "0.2.11",
+  "summary": null,
+  "author": "The next-gen Kaldi development team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/k2-fsa/kaldi-decoder",
+  "download_filename": "kaldi_decoder-0.2.11-cp310-cp310-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-01-29T16:00:41.913294",
+  "package_url": "https://pypi.org/project/kaldi-decoder/"
+}

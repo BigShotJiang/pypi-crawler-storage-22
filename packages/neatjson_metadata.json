@@ -1,0 +1,11 @@
+{
+  "name": "neatjson",
+  "version": "0.10.7",
+  "summary": "Pretty-print your JSON with more power than json.dumps provides.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neatjson-0.10.7.tar.gz",
+  "download_time": "2026-01-29T16:00:36.660294",
+  "package_url": "https://pypi.org/project/neatjson/"
+}

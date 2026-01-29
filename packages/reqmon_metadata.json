@@ -1,0 +1,11 @@
+{
+  "name": "reqmon",
+  "version": "2.4.5.3",
+  "summary": null,
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/dmwm/WMCore",
+  "download_filename": "reqmon-2.4.5.3.tar.gz",
+  "download_time": "2026-01-29T16:00:58.981658",
+  "package_url": "https://pypi.org/project/reqmon/"
+}

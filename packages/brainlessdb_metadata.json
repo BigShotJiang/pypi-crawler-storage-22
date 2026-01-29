@@ -1,0 +1,11 @@
+{
+  "name": "brainlessdb",
+  "version": "0.4.1",
+  "summary": "Typed collections backed by NATS JetStream KV",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brainlessdb-0.4.1.tar.gz",
+  "download_time": "2026-01-29T16:00:42.431437",
+  "package_url": "https://pypi.org/project/brainlessdb/"
+}

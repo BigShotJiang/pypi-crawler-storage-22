@@ -1,0 +1,11 @@
+{
+  "name": "msmonitor",
+  "version": "2.4.5.3",
+  "summary": null,
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/dmwm/WMCore",
+  "download_filename": "msmonitor-2.4.5.3.tar.gz",
+  "download_time": "2026-01-29T16:01:01.067208",
+  "package_url": "https://pypi.org/project/msmonitor/"
+}

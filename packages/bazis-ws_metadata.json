@@ -1,0 +1,11 @@
+{
+  "name": "bazis-ws",
+  "version": "2.2.1",
+  "summary": "WebSocket module for Bazis framework.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bazis_ws-2.2.1.tar.gz",
+  "download_time": "2026-01-29T16:00:55.856126",
+  "package_url": "https://pypi.org/project/bazis-ws/"
+}

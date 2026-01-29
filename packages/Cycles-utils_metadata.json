@@ -1,0 +1,11 @@
+{
+  "name": "Cycles-utils",
+  "version": "3.1.0",
+  "summary": "Python scripts to build Cycles input files and post-process Cycles output files",
+  "author": "Yuning Shi",
+  "license": "MIT",
+  "home_page": "https://github.com/PSUmodeling/Cycles-utils",
+  "download_filename": "cycles_utils-3.1.0.tar.gz",
+  "download_time": "2026-01-29T16:00:30.366414",
+  "package_url": "https://pypi.org/project/Cycles-utils/"
+}

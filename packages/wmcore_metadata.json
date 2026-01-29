@@ -1,0 +1,11 @@
+{
+  "name": "wmcore",
+  "version": "2.4.5.3",
+  "summary": null,
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/dmwm/WMCore",
+  "download_filename": "wmcore-2.4.5.3.tar.gz",
+  "download_time": "2026-01-29T16:00:55.344805",
+  "package_url": "https://pypi.org/project/wmcore/"
+}

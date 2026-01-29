@@ -1,0 +1,11 @@
+{
+  "name": "bvi-looting",
+  "version": "0.1.1",
+  "summary": "Клиент к боту для решения олимпиадных задач по информатике (сервер сохраняет код и пояснения в .txt, хранит контекст и историю)",
+  "author": "You",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bvi_looting-0.1.1.tar.gz",
+  "download_time": "2026-01-29T16:00:23.669329",
+  "package_url": "https://pypi.org/project/bvi-looting/"
+}

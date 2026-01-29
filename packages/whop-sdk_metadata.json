@@ -1,0 +1,11 @@
+{
+  "name": "whop-sdk",
+  "version": "0.0.25",
+  "summary": "The official Python library for the Whop API",
+  "author": "Whop",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "whop_sdk-0.0.25.tar.gz",
+  "download_time": "2026-01-29T16:00:51.720668",
+  "package_url": "https://pypi.org/project/whop-sdk/"
+}
