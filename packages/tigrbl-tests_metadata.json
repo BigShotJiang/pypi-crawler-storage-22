@@ -1,0 +1,11 @@
+{
+  "name": "tigrbl-tests",
+  "version": "0.3.2",
+  "summary": "Test suite and fixtures for the Tigrbl framework.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigrbl_tests-0.3.2.tar.gz",
+  "download_time": "2026-01-30T23:21:59.992492",
+  "package_url": "https://pypi.org/project/tigrbl-tests/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nost-tools",
+  "version": "3.0.6",
+  "summary": "Tools for Novel Observing Strategies Testbed (NOS-T) Applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nost_tools-3.0.6.tar.gz",
+  "download_time": "2026-01-30T23:21:53.678267",
+  "package_url": "https://pypi.org/project/nost-tools/"
+}

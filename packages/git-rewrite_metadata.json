@@ -1,11 +1,11 @@
 {
   "name": "git-rewrite",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Git history rewriting tools - sanitise, flatten submodules, and remap references",
-  "author": "bena",
+  "author": "CyberAssessmentLabs",
   "license": null,
   "home_page": null,
-  "download_filename": "git_rewrite-0.2.0-py3-none-any.whl",
-  "download_time": "2026-01-29T23:22:13.386543",
+  "download_filename": "git_rewrite-0.4.0-py3-none-any.whl",
+  "download_time": "2026-01-30T23:21:24.671947",
   "package_url": "https://pypi.org/project/git-rewrite/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "serb-stem",
+  "version": "0.1.4",
+  "summary": "A high-performance Serbian stemming library supporting both Cyrillic and Latin scripts (Ekavica).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "serb_stem-0.1.4.tar.gz",
+  "download_time": "2026-01-30T23:21:38.414926",
+  "package_url": "https://pypi.org/project/serb-stem/"
+}

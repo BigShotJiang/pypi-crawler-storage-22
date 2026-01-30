@@ -1,0 +1,11 @@
+{
+  "name": "fastpi",
+  "version": "0.128.2",
+  "summary": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastpi-0.128.2.tar.gz",
+  "download_time": "2026-01-30T23:21:36.320139",
+  "package_url": "https://pypi.org/project/fastpi/"
+}

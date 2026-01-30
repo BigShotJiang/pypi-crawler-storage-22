@@ -1,11 +1,11 @@
 {
   "name": "wobbegong",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Range-request ready format for Bioconductor objects",
   "author": "Jayaram Kancherla",
   "license": "MIT",
   "home_page": "https://github.com/biocpy/wobbegong",
-  "download_filename": "wobbegong-0.0.3.tar.gz",
-  "download_time": "2026-01-30T08:33:02.990083",
+  "download_filename": "wobbegong-0.0.4.tar.gz",
+  "download_time": "2026-01-30T23:21:41.026288",
   "package_url": "https://pypi.org/project/wobbegong/"
 }

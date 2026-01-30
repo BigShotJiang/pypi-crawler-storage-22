@@ -1,0 +1,11 @@
+{
+  "name": "ericsearch",
+  "version": "0.0.1",
+  "summary": "A local vector search engine built for speed and scalability",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ericsearch-0.0.1.tar.gz",
+  "download_time": "2026-01-30T23:22:01.561762",
+  "package_url": "https://pypi.org/project/ericsearch/"
+}

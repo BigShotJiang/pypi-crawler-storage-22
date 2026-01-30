@@ -1,11 +1,11 @@
 {
   "name": "atdd",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "ATDD Platform - Acceptance Test Driven Development toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "atdd-0.3.1.tar.gz",
-  "download_time": "2026-01-30T22:53:43.458376",
+  "download_filename": "atdd-0.3.3.tar.gz",
+  "download_time": "2026-01-30T23:21:39.459900",
   "package_url": "https://pypi.org/project/atdd/"
 }

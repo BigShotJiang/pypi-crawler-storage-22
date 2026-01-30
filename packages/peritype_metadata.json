@@ -1,0 +1,11 @@
+{
+  "name": "peritype",
+  "version": "0.6.0",
+  "summary": "Peritype helps you explore Python types at runtime with ease.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "peritype-0.6.0.tar.gz",
+  "download_time": "2026-01-30T23:21:37.888742",
+  "package_url": "https://pypi.org/project/peritype/"
+}
