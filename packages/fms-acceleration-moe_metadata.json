@@ -1,0 +1,11 @@
+{
+  "name": "fms-acceleration-moe",
+  "version": "0.4.6",
+  "summary": "FMS Acceleration Plugin for Mixture-of-Experts",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fms_acceleration_moe-0.4.6-py3-none-any.whl",
+  "download_time": "2026-01-30T11:50:06.704150",
+  "package_url": "https://pypi.org/project/fms-acceleration-moe/"
+}

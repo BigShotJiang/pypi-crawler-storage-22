@@ -1,0 +1,11 @@
+{
+  "name": "invenio-banners",
+  "version": "6.0.0",
+  "summary": "Invenio-Banners is a module used to create and show banners with useful messages to users.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-banners",
+  "download_filename": "invenio_banners-6.0.0.tar.gz",
+  "download_time": "2026-01-30T11:49:39.740930",
+  "package_url": "https://pypi.org/project/invenio-banners/"
+}

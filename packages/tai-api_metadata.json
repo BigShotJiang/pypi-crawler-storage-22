@@ -1,0 +1,11 @@
+{
+  "name": "tai-api",
+  "version": "0.2.20",
+  "summary": "FastAPI framework with TAI ecosystem integration",
+  "author": "MateoSaezMata",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tai_api-0.2.20.tar.gz",
+  "download_time": "2026-01-30T11:49:41.024687",
+  "package_url": "https://pypi.org/project/tai-api/"
+}

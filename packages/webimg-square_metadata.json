@@ -1,0 +1,11 @@
+{
+  "name": "webimg-square",
+  "version": "1.0.0",
+  "summary": "CLI tool to square images for web with smart padding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "webimg_square-1.0.0.tar.gz",
+  "download_time": "2026-01-30T11:49:49.902710",
+  "package_url": "https://pypi.org/project/webimg-square/"
+}

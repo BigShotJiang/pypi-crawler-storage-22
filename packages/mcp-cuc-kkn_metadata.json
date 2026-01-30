@@ -1,11 +1,11 @@
 {
   "name": "mcp-cuc-kkn",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A simple MCP Server that provides time query functionality",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_cuc_kkn-0.2.0.tar.gz",
-  "download_time": "2026-01-30T11:24:31.328378",
+  "download_filename": "mcp_cuc_kkn-0.3.0.tar.gz",
+  "download_time": "2026-01-30T11:49:51.171027",
   "package_url": "https://pypi.org/project/mcp-cuc-kkn/"
 }

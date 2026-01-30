@@ -1,0 +1,11 @@
+{
+  "name": "py-euroleague",
+  "version": "0.2.1",
+  "summary": "Python wrapper for the Euroleague Basketball API",
+  "author": "sfendourakis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_euroleague-0.2.1.tar.gz",
+  "download_time": "2026-01-30T11:49:58.900099",
+  "package_url": "https://pypi.org/project/py-euroleague/"
+}

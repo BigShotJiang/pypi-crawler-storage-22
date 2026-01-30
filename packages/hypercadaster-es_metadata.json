@@ -1,0 +1,11 @@
+{
+  "name": "hypercadaster-es",
+  "version": "1.0.3",
+  "summary": "Python library to obtain the Spanish cadaster data joined with external attributes.",
+  "author": "Jose Manuel Broto Vispe",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/BeeGroup-cimne",
+  "download_filename": "hypercadaster_es-1.0.3.tar.gz",
+  "download_time": "2026-01-30T11:49:29.969327",
+  "package_url": "https://pypi.org/project/hypercadaster-es/"
+}

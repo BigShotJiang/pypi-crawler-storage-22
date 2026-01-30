@@ -1,0 +1,11 @@
+{
+  "name": "mia-simexp",
+  "version": "0.6.0",
+  "summary": "Mia's fork of SimExp - Terminal-to-AI communication with A2A session management",
+  "author": "gerico1007",
+  "license": null,
+  "home_page": "https://github.com/gerico1007/simexp",
+  "download_filename": "mia_simexp-0.6.0.tar.gz",
+  "download_time": "2026-01-30T11:50:00.765182",
+  "package_url": "https://pypi.org/project/mia-simexp/"
+}

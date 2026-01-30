@@ -1,0 +1,11 @@
+{
+  "name": "invenio-pages",
+  "version": "8.0.0",
+  "summary": "InvenioRDM module for the static pages feature.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-pages",
+  "download_filename": "invenio_pages-8.0.0.tar.gz",
+  "download_time": "2026-01-30T11:49:33.831661",
+  "package_url": "https://pypi.org/project/invenio-pages/"
+}

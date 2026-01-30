@@ -1,0 +1,11 @@
+{
+  "name": "oneiron",
+  "version": "0.0.3",
+  "summary": "Memory engine (coming soon)",
+  "author": "Oneiron Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oneiron-0.0.3.tar.gz",
+  "download_time": "2026-01-30T11:49:37.157851",
+  "package_url": "https://pypi.org/project/oneiron/"
+}

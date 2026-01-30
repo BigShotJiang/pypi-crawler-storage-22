@@ -1,11 +1,11 @@
 {
   "name": "melony",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Multisync task manager for python",
   "author": "wimble3",
   "license": null,
   "home_page": "https://melony-python.com/",
-  "download_filename": "melony-1.0.3.tar.gz",
-  "download_time": "2026-01-29T17:34:29.606356",
+  "download_filename": "melony-1.0.4.tar.gz",
+  "download_time": "2026-01-30T11:50:14.919167",
   "package_url": "https://pypi.org/project/melony/"
 }

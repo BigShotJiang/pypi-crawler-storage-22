@@ -1,0 +1,11 @@
+{
+  "name": "rionid",
+  "version": "8.0.0",
+  "summary": "Ring-stored ion IDentification: A pure Python tool for Schottky spectrum analysis.",
+  "author": "David Freire-Fernández",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gsi-nuclear-astrophysics.github.io/rionid/",
+  "download_filename": "rionid-8.0.0.tar.gz",
+  "download_time": "2026-01-30T11:49:32.529761",
+  "package_url": "https://pypi.org/project/rionid/"
+}
