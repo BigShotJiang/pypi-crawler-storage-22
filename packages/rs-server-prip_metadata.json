@@ -1,0 +1,11 @@
+{
+  "name": "rs-server-prip",
+  "version": "1.0a6",
+  "summary": "Copernicus Sentinel rs-server, PRIP service.",
+  "author": "ESA under contract with Airbus and CS",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rs_server_prip-1.0a6.tar.gz",
+  "download_time": "2026-01-30T15:03:23.594994",
+  "package_url": "https://pypi.org/project/rs-server-prip/"
+}

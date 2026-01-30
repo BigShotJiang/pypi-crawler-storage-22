@@ -1,0 +1,11 @@
+{
+  "name": "lr-shuttle",
+  "version": "0.2.9",
+  "summary": "CLI and Python client for host-side of json based serial communication with embedded device bridge.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lr_shuttle-0.2.9.tar.gz",
+  "download_time": "2026-01-30T15:03:13.553869",
+  "package_url": "https://pypi.org/project/lr-shuttle/"
+}

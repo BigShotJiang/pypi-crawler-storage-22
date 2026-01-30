@@ -1,0 +1,11 @@
+{
+  "name": "irrd",
+  "version": "4.5.0",
+  "summary": "Internet Routing Registry daemon (IRRd)",
+  "author": "Reliably Coded for NTT Ltd. and others",
+  "license": "BSD",
+  "home_page": "https://github.com/irrdnet/irrd",
+  "download_filename": "irrd-4.5.0.tar.gz",
+  "download_time": "2026-01-30T15:03:18.917150",
+  "package_url": "https://pypi.org/project/irrd/"
+}

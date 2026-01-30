@@ -1,0 +1,11 @@
+{
+  "name": "rs-server-frontend",
+  "version": "0.2",
+  "summary": "Copernicus Sentinel rs-server, web frontend.",
+  "author": "ESA under contract with Airbus and CS",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rs_server_frontend-0.2.tar.gz",
+  "download_time": "2026-01-30T15:03:24.207908",
+  "package_url": "https://pypi.org/project/rs-server-frontend/"
+}

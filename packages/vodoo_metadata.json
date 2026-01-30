@@ -1,0 +1,11 @@
+{
+  "name": "vodoo",
+  "version": "0.3.2",
+  "summary": "Modern Python CLI for Odoo with support for helpdesk, projects, tasks, CRM, and knowledge articles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vodoo-0.3.2.tar.gz",
+  "download_time": "2026-01-30T15:03:30.144913",
+  "package_url": "https://pypi.org/project/vodoo/"
+}

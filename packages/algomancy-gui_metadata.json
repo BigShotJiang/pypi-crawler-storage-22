@@ -1,0 +1,11 @@
+{
+  "name": "algomancy-gui",
+  "version": "0.3.18",
+  "summary": "Dash components for the Algomancy library",
+  "author": "Pepijn Wissing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "algomancy_gui-0.3.18-py3-none-any.whl",
+  "download_time": "2026-01-30T15:03:46.588872",
+  "package_url": "https://pypi.org/project/algomancy-gui/"
+}

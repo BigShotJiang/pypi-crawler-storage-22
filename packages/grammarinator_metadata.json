@@ -1,0 +1,11 @@
+{
+  "name": "grammarinator",
+  "version": "26.1",
+  "summary": "Grammarinator: Grammar-based Random Test Generator",
+  "author": "Renata Hodovan, Akos Kiss",
+  "license": null,
+  "home_page": "https://github.com/renatahodovan/grammarinator",
+  "download_filename": "grammarinator-26.1.tar.gz",
+  "download_time": "2026-01-30T15:03:43.112855",
+  "package_url": "https://pypi.org/project/grammarinator/"
+}

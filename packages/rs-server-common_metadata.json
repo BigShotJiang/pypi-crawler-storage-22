@@ -1,0 +1,11 @@
+{
+  "name": "rs-server-common",
+  "version": "0.2",
+  "summary": "Copernicus Sentinel rs-server, common services.",
+  "author": "ESA under contract with Airbus and CS",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rs_server_common-0.2.tar.gz",
+  "download_time": "2026-01-30T15:03:25.973092",
+  "package_url": "https://pypi.org/project/rs-server-common/"
+}
