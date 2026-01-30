@@ -1,0 +1,11 @@
+{
+  "name": "demathpy",
+  "version": "0.1.0",
+  "summary": "PDE/ODE math backend",
+  "author": "Misekai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "demathpy-0.1.0.tar.gz",
+  "download_time": "2026-01-30T06:02:10.622927",
+  "package_url": "https://pypi.org/project/demathpy/"
+}

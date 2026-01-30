@@ -1,11 +1,11 @@
 {
   "name": "astroz",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Python bindings for astroz - high-performance astrodynamics library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "astroz-0.6.0.tar.gz",
-  "download_time": "2026-01-30T05:02:15.954869",
+  "download_filename": "astroz-0.6.1.tar.gz",
+  "download_time": "2026-01-30T06:02:36.770287",
   "package_url": "https://pypi.org/project/astroz/"
 }

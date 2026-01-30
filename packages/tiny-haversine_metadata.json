@@ -1,0 +1,11 @@
+{
+  "name": "tiny-haversine",
+  "version": "0.1.1",
+  "summary": "Tiny C-extension haversine example",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiny_haversine-0.1.1.tar.gz",
+  "download_time": "2026-01-30T06:02:16.820942",
+  "package_url": "https://pypi.org/project/tiny-haversine/"
+}

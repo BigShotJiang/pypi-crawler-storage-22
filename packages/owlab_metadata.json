@@ -1,11 +1,11 @@
 {
   "name": "owlab",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A Python toolkit for ML experiment management based on SwanLab and Lark",
   "author": "OwLab Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "owlab-0.1.1.tar.gz",
-  "download_time": "2026-01-29T18:08:54.693801",
+  "download_filename": "owlab-0.1.2.tar.gz",
+  "download_time": "2026-01-30T06:02:27.416942",
   "package_url": "https://pypi.org/project/owlab/"
 }

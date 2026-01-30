@@ -1,0 +1,11 @@
+{
+  "name": "pretok",
+  "version": "0.1.2",
+  "summary": "Universal pre-token language adaptation layer for text-based LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pretok-0.1.2.tar.gz",
+  "download_time": "2026-01-30T06:02:08.236307",
+  "package_url": "https://pypi.org/project/pretok/"
+}

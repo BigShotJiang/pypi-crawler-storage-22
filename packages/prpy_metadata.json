@@ -1,0 +1,11 @@
+{
+  "name": "prpy",
+  "version": "0.3.12",
+  "summary": "Collection of Python utils for signal, image, and video processing",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "prpy-0.3.12.tar.gz",
+  "download_time": "2026-01-30T06:02:31.272150",
+  "package_url": "https://pypi.org/project/prpy/"
+}

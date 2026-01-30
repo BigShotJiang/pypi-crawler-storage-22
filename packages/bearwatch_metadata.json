@@ -1,0 +1,11 @@
+{
+  "name": "bearwatch",
+  "version": "0.1.2",
+  "summary": "BearWatch Python SDK - Job monitoring with heartbeat-based detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bearwatch-0.1.2.tar.gz",
+  "download_time": "2026-01-30T06:01:52.998293",
+  "package_url": "https://pypi.org/project/bearwatch/"
+}

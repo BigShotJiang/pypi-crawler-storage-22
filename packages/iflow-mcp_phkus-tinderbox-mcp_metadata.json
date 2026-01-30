@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_phkus-tinderbox-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for Tinderbox with HTTP transport and OAuth",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_phkus_tinderbox_mcp-0.2.0.tar.gz",
+  "download_time": "2026-01-30T06:02:13.964832",
+  "package_url": "https://pypi.org/project/iflow-mcp_phkus-tinderbox-mcp/"
+}

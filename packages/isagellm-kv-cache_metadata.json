@@ -1,11 +1,11 @@
 {
   "name": "isagellm-kv-cache",
-  "version": "0.4.0.0",
+  "version": "0.4.0.2",
   "summary": "KV Cache Management Module for sageLLM",
   "author": null,
   "license": "Private",
   "home_page": null,
-  "download_filename": "isagellm_kv_cache-0.4.0.0.tar.gz",
-  "download_time": "2026-01-30T03:44:36.103454",
+  "download_filename": "isagellm_kv_cache-0.4.0.2.tar.gz",
+  "download_time": "2026-01-30T06:02:33.457283",
   "package_url": "https://pypi.org/project/isagellm-kv-cache/"
 }

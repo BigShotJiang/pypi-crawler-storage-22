@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-robot-fs101-follower",
+  "version": "0.0.2",
+  "summary": "LeRobot robot integration",
+  "author": "Welt-liu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lerobot_robot_fs101_follower-0.0.2.tar.gz",
+  "download_time": "2026-01-30T06:02:03.011495",
+  "package_url": "https://pypi.org/project/lerobot-robot-fs101-follower/"
+}
