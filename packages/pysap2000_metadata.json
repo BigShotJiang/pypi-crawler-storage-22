@@ -1,0 +1,11 @@
+{
+  "name": "pysap2000",
+  "version": "2.0.13",
+  "summary": "Python wrapper for SAP2000 structural analysis software API with LangChain AI agent support",
+  "author": "jiangyao",
+  "license": "MIT",
+  "home_page": "https://github.com/jiangyao/pysap2000",
+  "download_filename": "pysap2000-2.0.13.tar.gz",
+  "download_time": "2026-01-30T01:29:16.518557",
+  "package_url": "https://pypi.org/project/pysap2000/"
+}

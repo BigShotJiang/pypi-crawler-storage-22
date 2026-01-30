@@ -1,0 +1,11 @@
+{
+  "name": "billingio",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the billing.io crypto checkout API",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "billingio-1.0.0.tar.gz",
+  "download_time": "2026-01-30T01:29:19.649373",
+  "package_url": "https://pypi.org/project/billingio/"
+}

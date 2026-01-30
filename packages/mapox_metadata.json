@@ -1,0 +1,11 @@
+{
+  "name": "mapox",
+  "version": "0.1.0",
+  "summary": "Multi-Agent Partially Observable gridworlds in JAX",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapox-0.1.0.tar.gz",
+  "download_time": "2026-01-30T01:29:17.040907",
+  "package_url": "https://pypi.org/project/mapox/"
+}

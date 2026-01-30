@@ -1,0 +1,11 @@
+{
+  "name": "alembic-autoscan",
+  "version": "0.1.0",
+  "summary": "Automatically discover and import SQLAlchemy models for Alembic migrations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alembic_autoscan-0.1.0.tar.gz",
+  "download_time": "2026-01-30T01:28:31.507807",
+  "package_url": "https://pypi.org/project/alembic-autoscan/"
+}
