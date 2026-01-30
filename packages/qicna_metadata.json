@@ -1,0 +1,11 @@
+{
+  "name": "qicna",
+  "version": "0.3.6",
+  "summary": "Quasi-isodynamic Stellarator Construction",
+  "author": "Rogerio Jorge and Matt Landreman",
+  "license": "MIT",
+  "home_page": "https://github.com/rogeriojorge/pyQIC",
+  "download_filename": "qicna-0.3.6.tar.gz",
+  "download_time": "2026-01-30T22:20:56.410333",
+  "package_url": "https://pypi.org/project/qicna/"
+}

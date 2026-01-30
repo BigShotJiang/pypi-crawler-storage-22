@@ -1,0 +1,11 @@
+{
+  "name": "pyisbn",
+  "version": "1.4.1",
+  "summary": "A module for working with 10- and 13-digit ISBNs",
+  "author": "James Rowe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyisbn-1.4.1.tar.gz",
+  "download_time": "2026-01-30T22:20:44.804268",
+  "package_url": "https://pypi.org/project/pyisbn/"
+}

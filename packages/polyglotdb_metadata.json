@@ -1,0 +1,11 @@
+{
+  "name": "polyglotdb",
+  "version": "1.4.0",
+  "summary": null,
+  "author": "Montreal Corpus Tools",
+  "license": "MIT",
+  "home_page": "https://github.com/MontrealCorpusTools/PolyglotDB",
+  "download_filename": "polyglotdb-1.4.0-py3-none-any.whl",
+  "download_time": "2026-01-30T22:21:13.215438",
+  "package_url": "https://pypi.org/project/polyglotdb/"
+}

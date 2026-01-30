@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-greenhouse",
-  "version": "0.17.68",
+  "version": "0.17.71",
   "summary": "Airbyte Greenhouse Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_greenhouse-0.17.68.tar.gz",
-  "download_time": "2026-01-29T10:32:22.323336",
+  "download_filename": "airbyte_agent_greenhouse-0.17.71.tar.gz",
+  "download_time": "2026-01-30T22:20:31.832592",
   "package_url": "https://pypi.org/project/airbyte-agent-greenhouse/"
 }

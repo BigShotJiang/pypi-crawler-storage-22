@@ -1,0 +1,11 @@
+{
+  "name": "yt-transcript-cli",
+  "version": "0.1.2",
+  "summary": "Fetch YouTube video and playlist transcripts from the command line",
+  "author": "kirinmurphy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yt_transcript_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-30T22:21:12.043304",
+  "package_url": "https://pypi.org/project/yt-transcript-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ontogpt",
+  "version": "1.0.19",
+  "summary": "OntoGPT is a Python package for extracting structured information from text with large language models (LLMs), instruction prompts, and ontology-based grounding.",
+  "author": null,
+  "license": "BSD-3",
+  "home_page": null,
+  "download_filename": "ontogpt-1.0.19.tar.gz",
+  "download_time": "2026-01-30T22:20:38.243904",
+  "package_url": "https://pypi.org/project/ontogpt/"
+}

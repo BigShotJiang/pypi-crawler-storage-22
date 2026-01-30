@@ -1,0 +1,11 @@
+{
+  "name": "omniauto",
+  "version": "0.1.1",
+  "summary": "Single Point of Truth dinámico para proyectos Python",
+  "author": "Dancenot0",
+  "license": "MIT",
+  "home_page": "https://github.com/Dancenot0/omniauto",
+  "download_filename": "omniauto-0.1.1.tar.gz",
+  "download_time": "2026-01-30T22:21:10.285643",
+  "package_url": "https://pypi.org/project/omniauto/"
+}

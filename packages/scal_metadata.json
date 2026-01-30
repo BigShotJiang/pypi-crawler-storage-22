@@ -1,0 +1,11 @@
+{
+  "name": "scal",
+  "version": "2.5.0",
+  "summary": "LaTeX generation of calendars",
+  "author": "Louis Paternault",
+  "license": "\"GPL-3.0-or-later\"",
+  "home_page": "http://framagit.org/spalax/scal",
+  "download_filename": "scal-2.5.0.tar.gz",
+  "download_time": "2026-01-30T22:20:56.990489",
+  "package_url": "https://pypi.org/project/scal/"
+}
