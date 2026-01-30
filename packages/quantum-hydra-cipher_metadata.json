@@ -1,0 +1,11 @@
+{
+  "name": "quantum-hydra-cipher",
+  "version": "3.0.0",
+  "summary": "A 7-layer encryption system supporting multiple file formats",
+  "author": "Muhammad Sufiyan Baig",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/quantum-hydra",
+  "download_filename": "quantum_hydra_cipher-3.0.0.tar.gz",
+  "download_time": "2026-01-30T14:22:35.569419",
+  "package_url": "https://pypi.org/project/quantum-hydra-cipher/"
+}

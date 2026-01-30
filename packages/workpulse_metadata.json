@@ -1,0 +1,11 @@
+{
+  "name": "workpulse",
+  "version": "0.3.1",
+  "summary": "Track working time using systemd login information",
+  "author": "WorkPulse Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "workpulse-0.3.1.tar.gz",
+  "download_time": "2026-01-30T14:22:38.698806",
+  "package_url": "https://pypi.org/project/workpulse/"
+}

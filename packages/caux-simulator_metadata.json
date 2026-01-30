@@ -1,0 +1,11 @@
+{
+  "name": "caux-simulator",
+  "version": "0.2.33",
+  "summary": "Unified Celestron AUX Mount Simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "caux_simulator-0.2.33.tar.gz",
+  "download_time": "2026-01-30T14:22:13.026523",
+  "package_url": "https://pypi.org/project/caux-simulator/"
+}

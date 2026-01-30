@@ -1,0 +1,11 @@
+{
+  "name": "marlo-sdk",
+  "version": "0.0.5",
+  "summary": "The official Python SDK for Marlo - the agent learning platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "marlo_sdk-0.0.5.tar.gz",
+  "download_time": "2026-01-30T14:22:19.830176",
+  "package_url": "https://pypi.org/project/marlo-sdk/"
+}

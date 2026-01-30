@@ -1,0 +1,11 @@
+{
+  "name": "metal-stack-api",
+  "version": "0.0.41",
+  "summary": "Python API client for metal-stack api",
+  "author": "metal-stack authors",
+  "license": "MIT",
+  "home_page": "https://github.com/metal-stack/api",
+  "download_filename": "metal_stack_api-0.0.41.tar.gz",
+  "download_time": "2026-01-30T14:22:08.321076",
+  "package_url": "https://pypi.org/project/metal-stack-api/"
+}

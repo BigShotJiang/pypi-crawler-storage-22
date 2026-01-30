@@ -1,0 +1,11 @@
+{
+  "name": "speops-cli",
+  "version": "0.0.22",
+  "summary": "SpecOps CLI, part of DotLabs Spec Ops. A tool to bootstrap your projects for Spec-Driven Infrastructure as Code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "speops_cli-0.0.22.tar.gz",
+  "download_time": "2026-01-30T14:22:26.163310",
+  "package_url": "https://pypi.org/project/speops-cli/"
+}

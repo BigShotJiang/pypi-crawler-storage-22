@@ -1,0 +1,11 @@
+{
+  "name": "testit-importer-allure",
+  "version": "1.15.0.post560",
+  "summary": "Allure report importer for Test IT",
+  "author": "Integration team",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/testit-importer-allure/",
+  "download_filename": "testit_importer_allure-1.15.0.post560.tar.gz",
+  "download_time": "2026-01-30T14:22:17.762119",
+  "package_url": "https://pypi.org/project/testit-importer-allure/"
+}

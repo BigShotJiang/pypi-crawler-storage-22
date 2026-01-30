@@ -1,11 +1,11 @@
 {
   "name": "pytest-isolated",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Run marked pytest tests in grouped subprocesses (cross-platform).",
   "author": "pytest-isolated contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "pytest_isolated-0.3.0-py3-none-any.whl",
-  "download_time": "2026-01-29T08:58:54.266330",
+  "download_filename": "pytest_isolated-0.4.0-py3-none-any.whl",
+  "download_time": "2026-01-30T14:22:18.799192",
   "package_url": "https://pypi.org/project/pytest-isolated/"
 }

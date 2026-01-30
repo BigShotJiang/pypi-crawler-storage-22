@@ -1,0 +1,11 @@
+{
+  "name": "py-radix-sr",
+  "version": "1.0.2",
+  "summary": "Radix tree implementation",
+  "author": null,
+  "license": "BSD",
+  "home_page": "https://github.com/SEKOIA-IO/py-radix",
+  "download_filename": "py_radix_sr-1.0.2.tar.gz",
+  "download_time": "2026-01-30T14:22:26.685990",
+  "package_url": "https://pypi.org/project/py-radix-sr/"
+}
