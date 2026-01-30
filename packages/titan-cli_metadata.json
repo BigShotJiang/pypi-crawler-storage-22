@@ -1,11 +1,11 @@
 {
   "name": "titan-cli",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Modular development tools orchestrator - Streamline your workflows with AI integration and intuitive terminal UI",
   "author": "finxo",
   "license": "MIT",
   "home_page": "https://github.com/masmovil/titan-cli",
-  "download_filename": "titan_cli-0.1.3.tar.gz",
-  "download_time": "2026-01-29T11:52:08.445170",
+  "download_filename": "titan_cli-0.1.5.tar.gz",
+  "download_time": "2026-01-30T10:02:27.520459",
   "package_url": "https://pypi.org/project/titan-cli/"
 }

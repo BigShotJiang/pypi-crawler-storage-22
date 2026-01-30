@@ -1,0 +1,11 @@
+{
+  "name": "unionllm",
+  "version": "0.2.9",
+  "summary": "A Python library for unified access to all kinds of large language models.",
+  "author": "evalsone",
+  "license": "MIT",
+  "home_page": "https://github.com/EvalsOne/UnionLLM",
+  "download_filename": "unionllm-0.2.9.tar.gz",
+  "download_time": "2026-01-30T10:02:49.575199",
+  "package_url": "https://pypi.org/project/unionllm/"
+}

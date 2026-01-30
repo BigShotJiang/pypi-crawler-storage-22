@@ -1,11 +1,11 @@
 {
   "name": "mtcli-volume",
-  "version": "2.4.1",
+  "version": "2.4.2",
   "summary": "Plugin mtcli para cálculo e exibição de Volume Profile no terminal",
   "author": "Valmir França",
   "license": null,
   "home_page": "https://github.com/vfranca/mtcli-volume",
-  "download_filename": "mtcli_volume-2.4.1.tar.gz",
-  "download_time": "2026-01-30T06:01:54.074677",
+  "download_filename": "mtcli_volume-2.4.2.tar.gz",
+  "download_time": "2026-01-30T10:02:33.241570",
   "package_url": "https://pypi.org/project/mtcli-volume/"
 }

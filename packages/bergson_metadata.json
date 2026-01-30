@@ -1,0 +1,11 @@
+{
+  "name": "bergson",
+  "version": "0.5.1",
+  "summary": "Tracing the memory of neural nets with data attribution",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "bergson-0.5.1.tar.gz",
+  "download_time": "2026-01-30T10:02:46.918120",
+  "package_url": "https://pypi.org/project/bergson/"
+}

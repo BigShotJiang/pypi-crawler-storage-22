@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-ch-partner-company-type",
+  "version": "16.0.1.0.0.2",
+  "summary": "Data module to add swiss compay types",
+  "author": "Coop IT Easy SC, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-switzerland",
+  "download_filename": "odoo_addon_l10n_ch_partner_company_type-16.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-30T10:02:16.513028",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-ch-partner-company-type/"
+}

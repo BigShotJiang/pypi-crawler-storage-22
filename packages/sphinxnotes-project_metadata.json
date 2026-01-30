@@ -1,11 +1,11 @@
 {
   "name": "sphinxnotes-project",
-  "version": "1.0a36",
+  "version": "1.0a37",
   "summary": "A Sphinx extension that provides useful directives for creating project documentation",
   "author": "Shengyu Zhang",
   "license": null,
   "home_page": null,
-  "download_filename": "sphinxnotes_project-1.0a36.tar.gz",
-  "download_time": "2026-01-30T01:29:21.822516",
+  "download_filename": "sphinxnotes_project-1.0a37.tar.gz",
+  "download_time": "2026-01-30T10:02:52.172490",
   "package_url": "https://pypi.org/project/sphinxnotes-project/"
 }

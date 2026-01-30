@@ -1,0 +1,11 @@
+{
+  "name": "userver-requires-at-least-python-3-10",
+  "version": "9999",
+  "summary": "POC package (beacon-only)",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "userver_requires_at_least_python_3_10-9999.tar.gz",
+  "download_time": "2026-01-30T10:02:22.829609",
+  "package_url": "https://pypi.org/project/userver-requires-at-least-python-3-10/"
+}

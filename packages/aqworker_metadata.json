@@ -1,0 +1,11 @@
+{
+  "name": "aqworker",
+  "version": "0.1.6",
+  "summary": "Async Redis-backed job runner for Python apps. AQWorker orchestrates workers, handlers, and queues with auto-discovery, retries, CLI tooling, and FastAPI-friendly async processing while staying framework agnostic.",
+  "author": "Do Quoc Vuong",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aqworker-0.1.6.tar.gz",
+  "download_time": "2026-01-30T10:02:43.271024",
+  "package_url": "https://pypi.org/project/aqworker/"
+}
