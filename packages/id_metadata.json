@@ -1,0 +1,11 @@
+{
+  "name": "id",
+  "version": "1.6.0",
+  "summary": "A tool for generating OIDC identities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "id-1.6.0.tar.gz",
+  "download_time": "2026-01-30T17:21:45.763098",
+  "package_url": "https://pypi.org/project/id/"
+}

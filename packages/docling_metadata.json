@@ -1,0 +1,11 @@
+{
+  "name": "docling",
+  "version": "2.71.0",
+  "summary": "SDK and CLI for parsing PDF, DOCX, HTML, and more, to a unified document representation for powering downstream workflows such as gen AI applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docling-2.71.0.tar.gz",
+  "download_time": "2026-01-30T17:21:35.866621",
+  "package_url": "https://pypi.org/project/docling/"
+}

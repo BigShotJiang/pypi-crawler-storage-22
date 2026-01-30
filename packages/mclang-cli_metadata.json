@@ -1,0 +1,11 @@
+{
+  "name": "mclang-cli",
+  "version": "0.1.7",
+  "summary": "MCLang CLI - MCLang 项目管理工具",
+  "author": "MCLang Development Team",
+  "license": "Mulan PSL v2",
+  "home_page": "https://gitcode.com/zjp99/mcli",
+  "download_filename": "mclang_cli-0.1.7.tar.gz",
+  "download_time": "2026-01-30T17:21:37.944808",
+  "package_url": "https://pypi.org/project/mclang-cli/"
+}

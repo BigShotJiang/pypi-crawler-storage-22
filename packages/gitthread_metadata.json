@@ -1,0 +1,11 @@
+{
+  "name": "gitthread",
+  "version": "0.1.3",
+  "summary": "Ingest GitHub Issues and Pull Requests into LLM-friendly text dumps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitthread-0.1.3.tar.gz",
+  "download_time": "2026-01-30T17:22:01.655112",
+  "package_url": "https://pypi.org/project/gitthread/"
+}

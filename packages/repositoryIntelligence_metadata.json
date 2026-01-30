@@ -1,0 +1,11 @@
+{
+  "name": "repositoryIntelligence",
+  "version": "1.0.11",
+  "summary": "A package supporting analysis of DataCite Repositories.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "repositoryintelligence-1.0.11.tar.gz",
+  "download_time": "2026-01-30T17:22:03.753361",
+  "package_url": "https://pypi.org/project/repositoryIntelligence/"
+}

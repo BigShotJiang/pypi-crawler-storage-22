@@ -1,11 +1,11 @@
 {
   "name": "clonebox",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Clone your workstation environment to an isolated VM with selective apps, paths and services",
   "author": "CloneBox Team",
-  "license": "MIT",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "clonebox-0.1.1.tar.gz",
-  "download_time": "2026-01-30T16:33:33.814150",
+  "download_filename": "clonebox-0.1.5.tar.gz",
+  "download_time": "2026-01-30T17:21:54.296313",
   "package_url": "https://pypi.org/project/clonebox/"
 }

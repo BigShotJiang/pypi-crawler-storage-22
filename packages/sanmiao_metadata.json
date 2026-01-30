@@ -1,0 +1,11 @@
+{
+  "name": "sanmiao",
+  "version": "0.2.3",
+  "summary": "A Python package for date conversion to and from Chinese and Japanese historical calendars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sanmiao-0.2.3.tar.gz",
+  "download_time": "2026-01-30T17:21:30.110592",
+  "package_url": "https://pypi.org/project/sanmiao/"
+}

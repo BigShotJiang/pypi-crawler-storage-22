@@ -1,0 +1,11 @@
+{
+  "name": "RIGS-STT",
+  "version": "0.1",
+  "summary": "This is a speech to text package created by Rugved Kulkarni",
+  "author": "Rugved Kulkarni",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rigs_stt-0.1.tar.gz",
+  "download_time": "2026-01-30T17:21:44.712283",
+  "package_url": "https://pypi.org/project/RIGS-STT/"
+}

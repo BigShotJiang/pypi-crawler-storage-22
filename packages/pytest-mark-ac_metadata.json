@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mark-ac",
+  "version": "1.1.2",
+  "summary": "Provides a marker to reference acceptance criteria from PyTest tests through annotations",
+  "author": "Jesús Alonso Abad",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_mark_ac-1.1.2.tar.gz",
+  "download_time": "2026-01-30T17:21:51.140395",
+  "package_url": "https://pypi.org/project/pytest-mark-ac/"
+}
