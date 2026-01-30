@@ -1,0 +1,11 @@
+{
+  "name": "scurry-kit",
+  "version": "0.10.3",
+  "summary": "A lightweight routing and command kit built on top of ScurryPy.",
+  "author": "Furmissile",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scurry_kit-0.10.3.tar.gz",
+  "download_time": "2026-01-30T21:24:17.318190",
+  "package_url": "https://pypi.org/project/scurry-kit/"
+}

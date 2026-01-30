@@ -1,0 +1,11 @@
+{
+  "name": "django-jstocks",
+  "version": "0.5.4",
+  "summary": "Collection of small utilities for Django and Django REST framework projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_jstocks-0.5.4.tar.gz",
+  "download_time": "2026-01-30T21:24:27.210231",
+  "package_url": "https://pypi.org/project/django-jstocks/"
+}

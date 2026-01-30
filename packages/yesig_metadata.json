@@ -1,0 +1,11 @@
+{
+  "name": "yesig",
+  "version": "0.0.1",
+  "summary": "A simple python interface for the signal-cli rest api. With support for the json-rpc websocket via asyncio",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yesig-0.0.1.tar.gz",
+  "download_time": "2026-01-30T21:23:50.233375",
+  "package_url": "https://pypi.org/project/yesig/"
+}

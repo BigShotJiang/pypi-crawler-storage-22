@@ -1,11 +1,11 @@
 {
   "name": "roblox-aether",
-  "version": "0.3.6",
+  "version": "0.3.8",
   "summary": "Execute Luau tests on Roblox Cloud",
   "author": "WildLink Team",
   "license": null,
   "home_page": "https://github.com/yourusername/aether",
-  "download_filename": "roblox_aether-0.3.6.tar.gz",
-  "download_time": "2026-01-30T20:54:58.233427",
+  "download_filename": "roblox_aether-0.3.8.tar.gz",
+  "download_time": "2026-01-30T21:23:54.371767",
   "package_url": "https://pypi.org/project/roblox-aether/"
 }

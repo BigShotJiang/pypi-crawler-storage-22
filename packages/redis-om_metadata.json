@@ -1,0 +1,11 @@
+{
+  "name": "redis-om",
+  "version": "1.0.5",
+  "summary": "Object mappings, and more, for Redis.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "redis_om-1.0.5.tar.gz",
+  "download_time": "2026-01-30T21:24:24.573068",
+  "package_url": "https://pypi.org/project/redis-om/"
+}

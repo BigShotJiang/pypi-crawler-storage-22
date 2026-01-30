@@ -1,0 +1,11 @@
+{
+  "name": "reverse-attention",
+  "version": "0.1.0",
+  "summary": "Reverse Attention Beam Search for tracing attention paths in transformer models",
+  "author": "Abhishek Maiti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "reverse_attention-0.1.0.tar.gz",
+  "download_time": "2026-01-30T21:24:27.722309",
+  "package_url": "https://pypi.org/project/reverse-attention/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "motulco",
+  "version": "0.2.0",
+  "summary": "Librería de Python para manejo de archivos y DataFrames de Daniel Ochoa",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "motulco-0.2.0.tar.gz",
+  "download_time": "2026-01-30T21:23:42.960364",
+  "package_url": "https://pypi.org/project/motulco/"
+}
