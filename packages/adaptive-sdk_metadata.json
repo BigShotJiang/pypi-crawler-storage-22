@@ -1,0 +1,11 @@
+{
+  "name": "adaptive-sdk",
+  "version": "0.12.0",
+  "summary": "Python SDK for Adaptive Engine",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "adaptive_sdk-0.12.0.tar.gz",
+  "download_time": "2026-01-30T13:43:01.727089",
+  "package_url": "https://pypi.org/project/adaptive-sdk/"
+}

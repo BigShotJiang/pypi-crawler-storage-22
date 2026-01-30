@@ -1,0 +1,11 @@
+{
+  "name": "lasp-ase",
+  "version": "0.0.3",
+  "summary": "ASE calculator for LASP",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/renpj/lasp_ase",
+  "download_filename": "lasp_ase-0.0.3.tar.gz",
+  "download_time": "2026-01-30T13:42:50.699023",
+  "package_url": "https://pypi.org/project/lasp-ase/"
+}

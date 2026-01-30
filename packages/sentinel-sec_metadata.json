@@ -1,11 +1,11 @@
 {
   "name": "sentinel-sec",
-  "version": "0.1.5",
-  "summary": "Autonomous Security Agent that fixes vulnerabilities in your code.",
+  "version": "0.1.6",
+  "summary": "🛡️ Autonomous Security Agent that finds AND fixes vulnerabilities in your code.",
   "author": "Project Sentinel Team",
   "license": null,
-  "home_page": null,
-  "download_filename": "sentinel_sec-0.1.5.tar.gz",
-  "download_time": "2026-01-30T11:49:31.885360",
+  "home_page": "https://github.com/YOUR_USERNAME/project-sentinel",
+  "download_filename": "sentinel_sec-0.1.6.tar.gz",
+  "download_time": "2026-01-30T13:43:33.818259",
   "package_url": "https://pypi.org/project/sentinel-sec/"
 }

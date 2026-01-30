@@ -1,0 +1,11 @@
+{
+  "name": "spdk",
+  "version": "26.1",
+  "summary": "Python bindings for the Storage Performance Development Kit (SPDK)",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "spdk-26.1.tar.gz",
+  "download_time": "2026-01-30T13:43:29.007236",
+  "package_url": "https://pypi.org/project/spdk/"
+}

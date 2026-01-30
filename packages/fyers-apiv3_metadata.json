@@ -1,0 +1,11 @@
+{
+  "name": "fyers-apiv3",
+  "version": "3.1.9",
+  "summary": "Fyers trading APIs.",
+  "author": "Fyers-Tech",
+  "license": null,
+  "home_page": "https://github.com/FyersDev/fyers-api-sample-code/tree/sample_v3/v3/python",
+  "download_filename": "fyers_apiv3-3.1.9.tar.gz",
+  "download_time": "2026-01-30T13:43:16.491691",
+  "package_url": "https://pypi.org/project/fyers-apiv3/"
+}

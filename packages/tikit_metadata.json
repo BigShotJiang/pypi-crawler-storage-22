@@ -1,0 +1,11 @@
+{
+  "name": "tikit",
+  "version": "1.9.5.260130",
+  "summary": "Kit for TI PLATFORM",
+  "author": "TI PLATFORM TEAM",
+  "license": "MIT",
+  "home_page": "https://cloud.tencent.com/",
+  "download_filename": "tikit-1.9.5.260130.tar.gz",
+  "download_time": "2026-01-30T13:43:07.633860",
+  "package_url": "https://pypi.org/project/tikit/"
+}

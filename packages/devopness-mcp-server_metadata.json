@@ -1,0 +1,11 @@
+{
+  "name": "devopness-mcp-server",
+  "version": "0.0.39",
+  "summary": "A Model Context Protocol (MCP) server that uses Devopness to allow AI Agents to provision infrastructure and deploy any app to any cloud",
+  "author": "Devopness (https://www.devopness.com)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "devopness_mcp_server-0.0.39.tar.gz",
+  "download_time": "2026-01-30T13:43:31.143400",
+  "package_url": "https://pypi.org/project/devopness-mcp-server/"
+}
