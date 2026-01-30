@@ -1,0 +1,11 @@
+{
+  "name": "video-to-claude",
+  "version": "0.2.1",
+  "summary": "Translate video files into a format Claude can experience - a video codec for Claude",
+  "author": "video-to-claude contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "video_to_claude-0.2.1.tar.gz",
+  "download_time": "2026-01-30T03:45:00.438648",
+  "package_url": "https://pypi.org/project/video-to-claude/"
+}

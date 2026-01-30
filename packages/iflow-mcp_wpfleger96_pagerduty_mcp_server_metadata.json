@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_wpfleger96_pagerduty_mcp_server",
+  "version": "3.1.1",
+  "summary": "MCP server for LLM agents to interact with PagerDuty SaaS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_wpfleger96_pagerduty_mcp_server-3.1.1.tar.gz",
+  "download_time": "2026-01-30T03:44:37.272290",
+  "package_url": "https://pypi.org/project/iflow-mcp_wpfleger96_pagerduty_mcp_server/"
+}

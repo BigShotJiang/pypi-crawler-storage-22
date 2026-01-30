@@ -1,0 +1,11 @@
+{
+  "name": "destiny_sdk",
+  "version": "0.8.0",
+  "summary": "A software development kit (sdk) to support interaction with the DESTINY repository",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "destiny_sdk-0.8.0.tar.gz",
+  "download_time": "2026-01-30T03:45:10.910830",
+  "package_url": "https://pypi.org/project/destiny_sdk/"
+}

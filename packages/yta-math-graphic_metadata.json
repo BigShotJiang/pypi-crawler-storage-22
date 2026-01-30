@@ -1,11 +1,11 @@
 {
   "name": "yta-math-graphic",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "Youtube Autonomous Math Graphic Module.",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_math_graphic-0.0.6.tar.gz",
-  "download_time": "2026-01-29T07:29:27.313900",
+  "download_filename": "yta_math_graphic-0.0.7.tar.gz",
+  "download_time": "2026-01-30T03:44:42.577045",
   "package_url": "https://pypi.org/project/yta-math-graphic/"
 }

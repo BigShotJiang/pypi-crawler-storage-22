@@ -1,0 +1,11 @@
+{
+  "name": "dicompare",
+  "version": "0.1.45",
+  "summary": "A tool for checking DICOM compliance against a template",
+  "author": "Ashley Stewart",
+  "license": null,
+  "home_page": "https://github.com/astewartau/dicompare",
+  "download_filename": "dicompare-0.1.45.tar.gz",
+  "download_time": "2026-01-30T03:44:45.469001",
+  "package_url": "https://pypi.org/project/dicompare/"
+}

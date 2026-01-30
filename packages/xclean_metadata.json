@@ -1,0 +1,11 @@
+{
+  "name": "xclean",
+  "version": "0.0.16",
+  "summary": "File de-duplication utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xclean-0.0.16.tar.gz",
+  "download_time": "2026-01-30T03:44:43.741920",
+  "package_url": "https://pypi.org/project/xclean/"
+}

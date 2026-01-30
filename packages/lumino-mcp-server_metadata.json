@@ -1,0 +1,11 @@
+{
+  "name": "lumino-mcp-server",
+  "version": "0.9.3",
+  "summary": "An open source MCP server empowering SREs with intelligent observability, predictive analytics, and AI-driven automation across Kubernetes, OpenShift, and Tekton environments.",
+  "author": "Lumino Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lumino_mcp_server-0.9.3.tar.gz",
+  "download_time": "2026-01-30T03:45:18.116398",
+  "package_url": "https://pypi.org/project/lumino-mcp-server/"
+}
