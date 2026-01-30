@@ -1,0 +1,11 @@
+{
+  "name": "jdcloud-sdk",
+  "version": "1.6.307",
+  "summary": null,
+  "author": "JDCloud API Gateway Team",
+  "license": "Apache License V2.0",
+  "home_page": "https://github.com/jdcloud-api/jdcloud-sdk-python",
+  "download_filename": "jdcloud_sdk-1.6.307.tar.gz",
+  "download_time": "2026-01-30T10:55:20.501791",
+  "package_url": "https://pypi.org/project/jdcloud-sdk/"
+}

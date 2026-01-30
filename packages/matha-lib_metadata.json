@@ -1,0 +1,11 @@
+{
+  "name": "matha-lib",
+  "version": "1.2.0",
+  "summary": "A universal math library for Python: Math All Utilities.",
+  "author": "AstroJr0",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matha_lib-1.2.0.tar.gz",
+  "download_time": "2026-01-30T10:55:06.881775",
+  "package_url": "https://pypi.org/project/matha-lib/"
+}

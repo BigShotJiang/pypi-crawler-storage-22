@@ -1,0 +1,11 @@
+{
+  "name": "hoi",
+  "version": "0.0.7",
+  "summary": "Higher Order Interactions",
+  "author": "BraiNets",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/brainets/hoi",
+  "download_filename": "hoi-0.0.7.tar.gz",
+  "download_time": "2026-01-30T10:55:21.523976",
+  "package_url": "https://pypi.org/project/hoi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "felimination",
+  "version": "0.5.0",
+  "summary": "This library contains some useful scikit-learn compatible classes for feature selection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "felimination-0.5.0.tar.gz",
+  "download_time": "2026-01-30T10:55:37.612479",
+  "package_url": "https://pypi.org/project/felimination/"
+}

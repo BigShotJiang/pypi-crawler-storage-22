@@ -1,0 +1,11 @@
+{
+  "name": "ipykernel",
+  "version": "7.1.0",
+  "summary": "IPython Kernel for Jupyter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ipykernel-7.1.0.tar.gz",
+  "download_time": "2026-01-30T10:55:33.916706",
+  "package_url": "https://pypi.org/project/ipykernel/"
+}

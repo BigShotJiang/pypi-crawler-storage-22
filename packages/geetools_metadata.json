@@ -1,0 +1,11 @@
+{
+  "name": "geetools",
+  "version": "1.18.1",
+  "summary": "A collection of tools to work with Google Earth Engine Python API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geetools-1.18.1.tar.gz",
+  "download_time": "2026-01-30T10:55:17.884582",
+  "package_url": "https://pypi.org/project/geetools/"
+}

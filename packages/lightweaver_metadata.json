@@ -1,0 +1,11 @@
+{
+  "name": "lightweaver",
+  "version": "0.16.0",
+  "summary": "Non-LTE Radiative Transfer Framework in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightweaver-0.16.0.tar.gz",
+  "download_time": "2026-01-30T10:55:18.946998",
+  "package_url": "https://pypi.org/project/lightweaver/"
+}
