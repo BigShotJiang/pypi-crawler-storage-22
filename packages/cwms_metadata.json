@@ -1,11 +1,11 @@
 {
   "name": "cwms",
-  "version": "1.19.3",
+  "version": "1.19.5",
   "summary": "Claude Code skill for extended context through swap-to-disk memory management",
   "author": "Dennis Lattka",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cwms-1.19.3.tar.gz",
-  "download_time": "2026-01-30T22:21:13.789342",
+  "download_filename": "cwms-1.19.5.tar.gz",
+  "download_time": "2026-01-30T23:48:15.247783",
   "package_url": "https://pypi.org/project/cwms/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flywheel-bootstrap-staging",
-  "version": "0.1.9.202601301829",
+  "version": "0.1.9.202601302346",
   "summary": "Bootstrap runner for Flywheel provisioned GPU instances",
   "author": "Paradigma Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "flywheel_bootstrap_staging-0.1.9.202601301829.tar.gz",
-  "download_time": "2026-01-30T18:46:12.290615",
+  "download_filename": "flywheel_bootstrap_staging-0.1.9.202601302346.tar.gz",
+  "download_time": "2026-01-30T23:47:48.802747",
   "package_url": "https://pypi.org/project/flywheel-bootstrap-staging/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "small-ltsc",
-  "version": "0.2.16",
+  "version": "0.2.17",
   "summary": "Lossless token sequence compression for large language models",
   "author": "Nikhil Srivastava, Omansh Bainsla, Sahil Chatiwala",
   "license": null,
   "home_page": null,
-  "download_filename": "small_ltsc-0.2.16.tar.gz",
-  "download_time": "2026-01-30T20:55:14.058027",
+  "download_filename": "small_ltsc-0.2.17.tar.gz",
+  "download_time": "2026-01-30T23:47:52.518761",
   "package_url": "https://pypi.org/project/small-ltsc/"
 }

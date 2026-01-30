@@ -1,0 +1,11 @@
+{
+  "name": "wxdata",
+  "version": "1.2.6",
+  "summary": "A Python library that acts as a client to download, pre-process and post-process weather data. Friendly for users on VPN/PROXY connections.",
+  "author": "Eric J. Drewitz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wxdata-1.2.6.tar.gz",
+  "download_time": "2026-01-30T23:48:18.319839",
+  "package_url": "https://pypi.org/project/wxdata/"
+}
