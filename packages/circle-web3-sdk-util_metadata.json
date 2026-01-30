@@ -1,0 +1,11 @@
+{
+  "name": "circle-web3-sdk-util",
+  "version": "9.2.0",
+  "summary": "The Python SDK Utility for Circle Web3 Services",
+  "author": "Circle Technology Inc",
+  "license": "MIT License",
+  "home_page": "https://github.com/crcl-main/circle-web3-python-sdk",
+  "download_filename": "circle_web3_sdk_util-9.2.0.tar.gz",
+  "download_time": "2026-01-30T11:24:27.654549",
+  "package_url": "https://pypi.org/project/circle-web3-sdk-util/"
+}

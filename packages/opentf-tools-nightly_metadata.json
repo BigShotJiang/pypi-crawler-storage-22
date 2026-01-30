@@ -1,0 +1,11 @@
+{
+  "name": "opentf-tools-nightly",
+  "version": "0.57.0.dev1016",
+  "summary": "OpenTestFactory Orchestrator Tools",
+  "author": "Martin Lafaix",
+  "license": "Apache Software License (https://www.apache.org/licenses/LICENSE-2.0)",
+  "home_page": "https://opentestfactory.org/tools/",
+  "download_filename": "opentf_tools_nightly-0.57.0.dev1016-py3-none-any.whl",
+  "download_time": "2026-01-30T11:24:43.129243",
+  "package_url": "https://pypi.org/project/opentf-tools-nightly/"
+}

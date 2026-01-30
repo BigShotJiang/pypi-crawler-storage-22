@@ -1,0 +1,11 @@
+{
+  "name": "ophyd-devices",
+  "version": "1.32.8",
+  "summary": "Custom device implementations based on the ophyd hardware abstraction layer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ophyd_devices-1.32.8.tar.gz",
+  "download_time": "2026-01-30T11:24:51.506010",
+  "package_url": "https://pypi.org/project/ophyd-devices/"
+}

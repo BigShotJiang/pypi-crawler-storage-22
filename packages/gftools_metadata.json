@@ -1,0 +1,11 @@
+{
+  "name": "gftools",
+  "version": "0.9.99",
+  "summary": "Google Fonts Tools is a set of command-line tools for testing font projects",
+  "author": "Felipe Sanches, Lasse Fister, Eli Heuer, Roderick Sheeter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gftools-0.9.99.tar.gz",
+  "download_time": "2026-01-30T11:24:32.583286",
+  "package_url": "https://pypi.org/project/gftools/"
+}

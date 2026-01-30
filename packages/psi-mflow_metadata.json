@@ -1,0 +1,11 @@
+{
+  "name": "psi-mflow",
+  "version": "1.0.0",
+  "summary": "Utility library for ZMQ data streaming",
+  "author": "Paul Scherrer Institute",
+  "license": "GNU GPLv3",
+  "home_page": "https://github.com/paulscherrerinstitute/mflow",
+  "download_filename": "psi_mflow-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-30T11:25:09.137269",
+  "package_url": "https://pypi.org/project/psi-mflow/"
+}

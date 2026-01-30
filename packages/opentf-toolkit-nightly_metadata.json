@@ -1,0 +1,11 @@
+{
+  "name": "opentf-toolkit-nightly",
+  "version": "0.63.0.dev1431",
+  "summary": "OpenTestFactory Orchestrator Toolkit",
+  "author": "Martin Lafaix",
+  "license": "Apache Software License (https://www.apache.org/licenses/LICENSE-2.0)",
+  "home_page": "https://gitlab.com/henixdevelopment/open-source/opentestfactory/python-toolkit",
+  "download_filename": "opentf_toolkit_nightly-0.63.0.dev1431-py3-none-any.whl",
+  "download_time": "2026-01-30T11:24:22.947190",
+  "package_url": "https://pypi.org/project/opentf-toolkit-nightly/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quick-logger-colorful",
-  "version": "0.3.2",
+  "version": "0.3.5",
   "summary": "A lightweight Python logging library with sync/async support, colorful terminal output, auto exception capture and zero configuration.",
   "author": "huyuenshen",
   "license": "MIT",
   "home_page": "https://github.com/huyuenshen/quick-logger.git",
-  "download_filename": "quick_logger_colorful-0.3.2.tar.gz",
-  "download_time": "2026-01-30T10:02:14.439193",
+  "download_filename": "quick_logger_colorful-0.3.5.tar.gz",
+  "download_time": "2026-01-30T11:24:40.994320",
   "package_url": "https://pypi.org/project/quick-logger-colorful/"
 }

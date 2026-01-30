@@ -1,0 +1,11 @@
+{
+  "name": "unifiles",
+  "version": "0.3.1",
+  "summary": "统一的文件操作库，提供跨文件类型的统一接口",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unifiles-0.3.1.tar.gz",
+  "download_time": "2026-01-30T11:24:44.689442",
+  "package_url": "https://pypi.org/project/unifiles/"
+}

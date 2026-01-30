@@ -1,0 +1,11 @@
+{
+  "name": "django-countries-hdx",
+  "version": "2.1.1",
+  "summary": "Adds extra M49 data to django-countries using hdx-python-country.",
+  "author": "Internet Society",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_countries_hdx-2.1.1.tar.gz",
+  "download_time": "2026-01-30T11:24:54.129641",
+  "package_url": "https://pypi.org/project/django-countries-hdx/"
+}

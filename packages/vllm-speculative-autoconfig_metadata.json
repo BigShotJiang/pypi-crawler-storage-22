@@ -1,0 +1,11 @@
+{
+  "name": "vllm-speculative-autoconfig",
+  "version": "0.2.10",
+  "summary": "Automatic configuration planner for vLLM - Eliminate the guesswork of configuring vLLM by automatically determining optimal parameters",
+  "author": "Benaya Trabelsi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vllm_speculative_autoconfig-0.2.10.tar.gz",
+  "download_time": "2026-01-30T11:25:02.852196",
+  "package_url": "https://pypi.org/project/vllm-speculative-autoconfig/"
+}

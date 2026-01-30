@@ -1,0 +1,11 @@
+{
+  "name": "facto-ai",
+  "version": "0.1.0",
+  "summary": "Python SDK for Facto - Forensic Accountability Infrastructure for AI Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "facto_ai-0.1.0.tar.gz",
+  "download_time": "2026-01-30T11:25:08.618809",
+  "package_url": "https://pypi.org/project/facto-ai/"
+}
