@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-cruddy-framework",
+  "version": "1.12.1",
+  "summary": "A holistic CRUD/MVC framework for FastAPI, with endpoint policies and relationships",
+  "author": "mdconaway",
+  "license": null,
+  "home_page": "https://github.com/mdconaway/fastapi-cruddy-framework",
+  "download_filename": "fastapi_cruddy_framework-1.12.1.tar.gz",
+  "download_time": "2026-01-30T21:49:00.225573",
+  "package_url": "https://pypi.org/project/fastapi-cruddy-framework/"
+}

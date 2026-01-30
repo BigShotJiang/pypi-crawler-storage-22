@@ -1,0 +1,11 @@
+{
+  "name": "invenio-drafts-resources",
+  "version": "8.0.0",
+  "summary": "Invenio Drafts Resources module to create REST APIs",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/Invenio-Drafts-Resources",
+  "download_filename": "invenio_drafts_resources-8.0.0.tar.gz",
+  "download_time": "2026-01-30T21:48:46.334881",
+  "package_url": "https://pypi.org/project/invenio-drafts-resources/"
+}

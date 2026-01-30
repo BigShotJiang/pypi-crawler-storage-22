@@ -1,0 +1,11 @@
+{
+  "name": "praetorian-cli",
+  "version": "2.2.17",
+  "summary": "For interacting with the Chariot API",
+  "author": "Praetorian",
+  "license": null,
+  "home_page": "https://github.com/praetorian-inc/praetorian-cli",
+  "download_filename": "praetorian_cli-2.2.17.tar.gz",
+  "download_time": "2026-01-30T21:49:04.171886",
+  "package_url": "https://pypi.org/project/praetorian-cli/"
+}

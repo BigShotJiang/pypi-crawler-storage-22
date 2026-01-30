@@ -1,0 +1,11 @@
+{
+  "name": "graphrelax",
+  "version": "0.1.2",
+  "summary": "Combine LigandMPNN sequence design with AMBER relaxation",
+  "author": "GraphRelax Authors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphrelax-0.1.2.tar.gz",
+  "download_time": "2026-01-30T21:49:03.628547",
+  "package_url": "https://pypi.org/project/graphrelax/"
+}

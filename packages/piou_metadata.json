@@ -1,11 +1,11 @@
 {
   "name": "piou",
-  "version": "0.28.1",
+  "version": "0.28.4",
   "summary": "A CLI toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "piou-0.28.1.tar.gz",
-  "download_time": "2026-01-30T13:43:08.173208",
+  "download_filename": "piou-0.28.4.tar.gz",
+  "download_time": "2026-01-30T21:49:02.479874",
   "package_url": "https://pypi.org/project/piou/"
 }
