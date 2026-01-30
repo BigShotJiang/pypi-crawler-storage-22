@@ -1,11 +1,11 @@
 {
   "name": "ygrader",
-  "version": "2.6.7",
+  "version": "2.6.13",
   "summary": "Grading scripts used in BYU's Electrical and Computer Engineering Department",
   "author": "Jeff Goeders",
   "license": "MIT",
   "home_page": "https://github.com/byu-cpe/ygrader",
-  "download_filename": "ygrader-2.6.7.tar.gz",
-  "download_time": "2026-01-29T23:48:26.709306",
+  "download_filename": "ygrader-2.6.13.tar.gz",
+  "download_time": "2026-01-30T22:53:16.771854",
   "package_url": "https://pypi.org/project/ygrader/"
 }

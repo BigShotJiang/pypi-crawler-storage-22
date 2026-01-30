@@ -1,0 +1,11 @@
+{
+  "name": "langchain-cloro",
+  "version": "0.2.2",
+  "summary": "An integration package connecting cloro.dev and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_cloro-0.2.2.tar.gz",
+  "download_time": "2026-01-30T22:53:28.946429",
+  "package_url": "https://pypi.org/project/langchain-cloro/"
+}

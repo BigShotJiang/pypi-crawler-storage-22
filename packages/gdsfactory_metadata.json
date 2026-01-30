@@ -1,0 +1,11 @@
+{
+  "name": "gdsfactory",
+  "version": "9.33.0",
+  "summary": "python library to generate GDS layouts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdsfactory-9.33.0.tar.gz",
+  "download_time": "2026-01-30T22:53:42.939132",
+  "package_url": "https://pypi.org/project/gdsfactory/"
+}

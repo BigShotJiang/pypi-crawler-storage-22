@@ -1,0 +1,11 @@
+{
+  "name": "donna",
+  "version": "0.2.0",
+  "summary": "A deterministic workflow and state orchestration engine for LLM agents.",
+  "author": "Aliaksei Yaletski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "donna-0.2.0.tar.gz",
+  "download_time": "2026-01-30T22:53:41.827492",
+  "package_url": "https://pypi.org/project/donna/"
+}

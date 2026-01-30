@@ -1,11 +1,11 @@
 {
   "name": "syrinx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Simple static site generator",
   "author": "Jasper van den Bosch, Dan Brady",
   "license": null,
   "home_page": null,
-  "download_filename": "syrinx-0.1.1.tar.gz",
-  "download_time": "2026-01-28T20:55:54.214968",
+  "download_filename": "syrinx-0.1.2.tar.gz",
+  "download_time": "2026-01-30T22:53:29.986541",
   "package_url": "https://pypi.org/project/syrinx/"
 }

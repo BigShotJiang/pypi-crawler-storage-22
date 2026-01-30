@@ -1,0 +1,11 @@
+{
+  "name": "cicada-mcp",
+  "version": "0.6.1",
+  "summary": "An Elixir and Python code intelligence MCP server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cicada_mcp-0.6.1.tar.gz",
+  "download_time": "2026-01-30T22:53:05.953594",
+  "package_url": "https://pypi.org/project/cicada-mcp/"
+}

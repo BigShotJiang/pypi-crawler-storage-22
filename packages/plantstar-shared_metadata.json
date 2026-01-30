@@ -1,0 +1,11 @@
+{
+  "name": "plantstar-shared",
+  "version": "2.0.3.0.2.36",
+  "summary": "Shared code used in plantstar_apu and plantstar_dcm",
+  "author": "SYSCON International",
+  "license": null,
+  "home_page": "https://github.com/SYSCON-International/plantstar_shared",
+  "download_filename": "plantstar_shared-2.0.3.0.2.36.tar.gz",
+  "download_time": "2026-01-30T22:53:35.926102",
+  "package_url": "https://pypi.org/project/plantstar-shared/"
+}

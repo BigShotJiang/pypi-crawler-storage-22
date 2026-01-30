@@ -1,0 +1,11 @@
+{
+  "name": "ansicolor",
+  "version": "0.3.3",
+  "summary": "A library to produce ansi color output and colored highlighting and diffing",
+  "author": "Martin Matusiak",
+  "license": null,
+  "home_page": "https://github.com/numerodix/ansicolor",
+  "download_filename": "ansicolor-0.3.3.tar.gz",
+  "download_time": "2026-01-30T22:53:46.196234",
+  "package_url": "https://pypi.org/project/ansicolor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "uplid",
+  "version": "1.0.0",
+  "summary": "Universal Prefixed Literal IDs - type-safe, human-readable identifiers",
+  "author": "ZVS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uplid-1.0.0.tar.gz",
+  "download_time": "2026-01-30T22:53:32.196720",
+  "package_url": "https://pypi.org/project/uplid/"
+}

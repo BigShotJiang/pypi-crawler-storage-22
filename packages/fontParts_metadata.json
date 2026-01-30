@@ -1,0 +1,11 @@
+{
+  "name": "fontParts",
+  "version": "0.14.0",
+  "summary": "An API for interacting with the parts of fonts during the font development process.",
+  "author": "Just van Rossum, Tal Leming, Erik van Blokland, Ben Kiel, others",
+  "license": "OpenSource, MIT",
+  "home_page": "http://github.com/robotools/fontParts",
+  "download_filename": "fontparts-0.14.0.tar.gz",
+  "download_time": "2026-01-30T22:53:20.550057",
+  "package_url": "https://pypi.org/project/fontParts/"
+}
