@@ -1,0 +1,11 @@
+{
+  "name": "pytest-inmanta-extensions",
+  "version": "18.0.0",
+  "summary": "Inmanta tests package",
+  "author": "Inmanta",
+  "license": "Apache Software License 2",
+  "home_page": "https://github.com/inmanta/inmanta",
+  "download_filename": "pytest_inmanta_extensions-18.0.0.tar.gz",
+  "download_time": "2026-01-30T16:33:34.926577",
+  "package_url": "https://pypi.org/project/pytest-inmanta-extensions/"
+}

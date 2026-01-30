@@ -1,11 +1,11 @@
 {
   "name": "watsonx-rlm-knowledge",
-  "version": "1.1.2",
+  "version": "2.0.0",
   "summary": "RLM-based knowledge client with WatsonX backend for domain-specific document querying",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "watsonx_rlm_knowledge-1.1.2.tar.gz",
-  "download_time": "2026-01-30T06:02:07.566912",
+  "download_filename": "watsonx_rlm_knowledge-2.0.0.tar.gz",
+  "download_time": "2026-01-30T16:33:32.153049",
   "package_url": "https://pypi.org/project/watsonx-rlm-knowledge/"
 }

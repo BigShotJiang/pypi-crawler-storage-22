@@ -1,0 +1,11 @@
+{
+  "name": "dalf",
+  "version": "0.7.1",
+  "summary": "Dead simple autocompletion for Django admin list_filter with goodies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dalf-0.7.1.tar.gz",
+  "download_time": "2026-01-30T16:33:40.782206",
+  "package_url": "https://pypi.org/project/dalf/"
+}

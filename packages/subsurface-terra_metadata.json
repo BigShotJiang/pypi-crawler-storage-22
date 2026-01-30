@@ -1,0 +1,11 @@
+{
+  "name": "subsurface-terra",
+  "version": "2026.1.0",
+  "summary": "Subsurface data types and utilities. This version is the one used by Terranigma Solutions. Please feel free to take anything in this repository for the original one.",
+  "author": "Software Underground",
+  "license": "Apache-2.0",
+  "home_page": "https://softwareunderground.github.io/subsurface",
+  "download_filename": "subsurface_terra-2026.1.0.tar.gz",
+  "download_time": "2026-01-30T16:33:46.185343",
+  "package_url": "https://pypi.org/project/subsurface-terra/"
+}

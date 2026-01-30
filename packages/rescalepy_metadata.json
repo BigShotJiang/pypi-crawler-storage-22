@@ -1,11 +1,11 @@
 {
   "name": "rescalepy",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "a Python client library for the Rescale API",
   "author": "Ben Thornton",
   "license": null,
   "home_page": "https://github.com/bthornton191/rescalepy",
-  "download_filename": "rescalepy-0.4.0.tar.gz",
-  "download_time": "2026-01-30T13:43:12.596558",
+  "download_filename": "rescalepy-0.4.1.tar.gz",
+  "download_time": "2026-01-30T16:34:01.958106",
   "package_url": "https://pypi.org/project/rescalepy/"
 }

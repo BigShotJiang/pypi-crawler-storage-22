@@ -1,0 +1,11 @@
+{
+  "name": "duty",
+  "version": "1.7.2",
+  "summary": "A simple task runner.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duty-1.7.2.tar.gz",
+  "download_time": "2026-01-30T16:33:21.388936",
+  "package_url": "https://pypi.org/project/duty/"
+}

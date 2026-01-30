@@ -1,0 +1,11 @@
+{
+  "name": "RISify",
+  "version": "1.2.4",
+  "summary": "Simplifies the encoding and decoding of Regional Indicator Symbols",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "risify-1.2.4.tar.gz",
+  "download_time": "2026-01-30T16:33:41.311326",
+  "package_url": "https://pypi.org/project/RISify/"
+}

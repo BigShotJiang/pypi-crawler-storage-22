@@ -1,0 +1,11 @@
+{
+  "name": "torchfsm",
+  "version": "0.0.6",
+  "summary": "Fourier Spectral Method with PyTorch",
+  "author": "Qiang Liu, Felix Koehler, Nils Thuerey",
+  "license": null,
+  "home_page": "https://qiauil.github.io/torchfsm",
+  "download_filename": "torchfsm-0.0.6.tar.gz",
+  "download_time": "2026-01-30T16:33:15.330559",
+  "package_url": "https://pypi.org/project/torchfsm/"
+}

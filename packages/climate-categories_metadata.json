@@ -1,0 +1,11 @@
+{
+  "name": "climate-categories",
+  "version": "0.11.1",
+  "summary": "Commonly used codes, categories, terminologies, and nomenclatures used in climate policy analysis as a Python package.",
+  "author": "Mika Pflüger",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/primap-community/climate_categories",
+  "download_filename": "climate_categories-0.11.1.tar.gz",
+  "download_time": "2026-01-30T16:33:46.757933",
+  "package_url": "https://pypi.org/project/climate-categories/"
+}

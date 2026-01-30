@@ -1,0 +1,11 @@
+{
+  "name": "nexus-lang",
+  "version": "0.3.0",
+  "summary": "The Universal Polyglot Runtime - Write Python, C, Rust, Java in one file with zero-copy shared memory",
+  "author": "Nexus Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_lang-0.3.0.tar.gz",
+  "download_time": "2026-01-30T16:33:48.341572",
+  "package_url": "https://pypi.org/project/nexus-lang/"
+}

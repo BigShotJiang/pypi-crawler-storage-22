@@ -1,0 +1,11 @@
+{
+  "name": "koopa",
+  "version": "0.0.18",
+  "summary": "Workflow for analysis of cellular microscopy data.",
+  "author": "Bastian Eichenberger",
+  "license": "MIT",
+  "home_page": "https://github.com/bbquercus/koopa/",
+  "download_filename": "koopa-0.0.18.tar.gz",
+  "download_time": "2026-01-30T16:33:16.919317",
+  "package_url": "https://pypi.org/project/koopa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "snras",
+  "version": "1.0.0",
+  "summary": "A robust metric for exoplanet transit vetting in heteroscedastic light curves",
+  "author": "Ahmed Sattar Jabbar",
+  "license": null,
+  "home_page": "https://github.com/AhmedSattar/snras",
+  "download_filename": "snras-1.0.0.tar.gz",
+  "download_time": "2026-01-30T16:34:04.127312",
+  "package_url": "https://pypi.org/project/snras/"
+}

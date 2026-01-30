@@ -1,0 +1,11 @@
+{
+  "name": "international-urns-es",
+  "version": "1.4.1",
+  "summary": "Spain validator plugin for International URNs",
+  "author": "Jesús Alonso Abad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "international_urns_es-1.4.1.tar.gz",
+  "download_time": "2026-01-30T16:33:40.243399",
+  "package_url": "https://pypi.org/project/international-urns-es/"
+}

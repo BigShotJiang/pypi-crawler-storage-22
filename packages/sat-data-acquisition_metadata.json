@@ -1,0 +1,11 @@
+{
+  "name": "sat-data-acquisition",
+  "version": "0.9.0",
+  "summary": "Lightweight satellite data retrieval from public STAC sources",
+  "author": "Peter Kongstad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sat_data_acquisition-0.9.0.tar.gz",
+  "download_time": "2026-01-30T16:34:08.184432",
+  "package_url": "https://pypi.org/project/sat-data-acquisition/"
+}

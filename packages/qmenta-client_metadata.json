@@ -1,0 +1,11 @@
+{
+  "name": "qmenta-client",
+  "version": "2.1",
+  "summary": "Python client lib to interact with the QMENTA platform.",
+  "author": "QMENTA",
+  "license": null,
+  "home_page": "https://www.qmenta.com/",
+  "download_filename": "qmenta_client-2.1.tar.gz",
+  "download_time": "2026-01-30T16:33:43.517819",
+  "package_url": "https://pypi.org/project/qmenta-client/"
+}
