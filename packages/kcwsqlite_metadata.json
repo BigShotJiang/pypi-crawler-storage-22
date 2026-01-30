@@ -1,11 +1,11 @@
 {
   "name": "kcwsqlite",
-  "version": "3.29",
+  "version": "3.30",
   "summary": "kcwsqlite",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcwsqlite-3.29.tar.gz",
-  "download_time": "2026-01-30T07:54:09.209519",
+  "download_filename": "kcwsqlite-3.30.tar.gz",
+  "download_time": "2026-01-30T08:32:51.875783",
   "package_url": "https://pypi.org/project/kcwsqlite/"
 }

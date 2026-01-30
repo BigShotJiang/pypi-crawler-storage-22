@@ -1,0 +1,11 @@
+{
+  "name": "invenio-s3",
+  "version": "4.0.0",
+  "summary": "\"S3 file storage support for Invenio. \"",
+  "author": "Esteban J. G. Gabancho",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-s3",
+  "download_filename": "invenio_s3-4.0.0.tar.gz",
+  "download_time": "2026-01-30T08:32:54.543667",
+  "package_url": "https://pypi.org/project/invenio-s3/"
+}

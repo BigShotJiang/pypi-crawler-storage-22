@@ -1,0 +1,11 @@
+{
+  "name": "dumpster-cli",
+  "version": "1.4.0",
+  "summary": "dump code to single file context like a pro",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dumpster_cli-1.4.0.tar.gz",
+  "download_time": "2026-01-30T08:32:18.279057",
+  "package_url": "https://pypi.org/project/dumpster-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cradle-sdk",
+  "version": "0.3.1",
+  "summary": "Cradle SDK: A Python SDK for interacting with the Cradle API. For more information, visit https://docs.cradle.bio.",
+  "author": "Cradle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cradle_sdk-0.3.1.tar.gz",
+  "download_time": "2026-01-30T08:33:07.977172",
+  "package_url": "https://pypi.org/project/cradle-sdk/"
+}

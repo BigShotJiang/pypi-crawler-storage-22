@@ -1,0 +1,11 @@
+{
+  "name": "asyncio_for_robotics",
+  "version": "1.2.6",
+  "summary": "Asyncio interface for ROS 2, Zenoh, and other robotic middlewares.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asyncio_for_robotics-1.2.6.tar.gz",
+  "download_time": "2026-01-30T08:32:50.296510",
+  "package_url": "https://pypi.org/project/asyncio_for_robotics/"
+}

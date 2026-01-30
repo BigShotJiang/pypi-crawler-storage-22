@@ -1,0 +1,11 @@
+{
+  "name": "fmcapi",
+  "version": "20260130.0",
+  "summary": "Easier interface to Cisco's FMC API than writing your own way.",
+  "author": "Dax Mickelson",
+  "license": "BSD",
+  "home_page": "https://github.com/daxm/fmcapi",
+  "download_filename": "fmcapi-20260130.0.tar.gz",
+  "download_time": "2026-01-30T08:32:35.887674",
+  "package_url": "https://pypi.org/project/fmcapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TelegramTextApp",
+  "version": "0.7.4.1",
+  "summary": "Библиотека для создания текстовых приложений в telegram",
+  "author": "falbue",
+  "license": null,
+  "home_page": "https://github.com/falbue/TelegramTextApp",
+  "download_filename": "telegramtextapp-0.7.4.1.tar.gz",
+  "download_time": "2026-01-30T08:32:26.179492",
+  "package_url": "https://pypi.org/project/TelegramTextApp/"
+}

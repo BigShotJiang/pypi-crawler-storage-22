@@ -1,0 +1,11 @@
+{
+  "name": "reserve-it",
+  "version": "1.0.0",
+  "summary": "A dead-simple reservation system web app framework, built on Google Calendar and Mkdocs-Material, implemented as a Mkdocs plugin.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reserve_it-1.0.0.tar.gz",
+  "download_time": "2026-01-30T08:32:44.808673",
+  "package_url": "https://pypi.org/project/reserve-it/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "binary-equalab",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Advanced Algebra & Calculus CLI Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "binary_equalab-2.0.1.tar.gz",
-  "download_time": "2026-01-30T07:54:20.792174",
+  "download_filename": "binary_equalab-2.0.2.tar.gz",
+  "download_time": "2026-01-30T08:32:28.303064",
   "package_url": "https://pypi.org/project/binary-equalab/"
 }

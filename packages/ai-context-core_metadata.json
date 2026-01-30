@@ -1,0 +1,11 @@
+{
+  "name": "ai-context-core",
+  "version": "3.0.0",
+  "summary": "Core logic for AI-driven development context management",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ai_context_core-3.0.0.tar.gz",
+  "download_time": "2026-01-30T08:32:34.254708",
+  "package_url": "https://pypi.org/project/ai-context-core/"
+}

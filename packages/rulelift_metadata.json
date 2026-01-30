@@ -1,0 +1,11 @@
+{
+  "name": "rulelift",
+  "version": "1.3.0",
+  "summary": "A tool for analyzing rule effectiveness in credit risk management",
+  "author": "aialgorithm",
+  "license": null,
+  "home_page": "https://github.com/aialgorithm/rulelift",
+  "download_filename": "rulelift-1.3.0.tar.gz",
+  "download_time": "2026-01-30T08:32:32.449586",
+  "package_url": "https://pypi.org/project/rulelift/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-session-timeout-2025",
+  "version": "0.1.0",
+  "summary": "Middleware to expire sessions after specific amount of time",
+  "author": "Nuno Bispo",
+  "license": "MIT",
+  "home_page": "https://github.com/nunombispo/django-session-timeout-2025",
+  "download_filename": "django_session_timeout_2025-0.1.0.tar.gz",
+  "download_time": "2026-01-30T08:32:38.173290",
+  "package_url": "https://pypi.org/project/django-session-timeout-2025/"
+}

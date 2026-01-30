@@ -1,0 +1,11 @@
+{
+  "name": "antchain-trade",
+  "version": "3.15.4",
+  "summary": "Ant Chain TRADE SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_trade-3.15.4.tar.gz",
+  "download_time": "2026-01-30T08:32:24.575982",
+  "package_url": "https://pypi.org/project/antchain-trade/"
+}
