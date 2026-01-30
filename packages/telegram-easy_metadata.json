@@ -1,0 +1,11 @@
+{
+  "name": "telegram-easy",
+  "version": "0.2.0",
+  "summary": "A very simple Python package to send and receive Telegram messages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegram_easy-0.2.0.tar.gz",
+  "download_time": "2026-01-30T20:54:54.067521",
+  "package_url": "https://pypi.org/project/telegram-easy/"
+}

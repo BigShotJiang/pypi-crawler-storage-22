@@ -1,0 +1,11 @@
+{
+  "name": "transcribe-with-whisper",
+  "version": "0.8.3",
+  "summary": "Add your description here",
+  "author": "Jay Pfaffman",
+  "license": null,
+  "home_page": "https://github.com/literatecomputing/transcribe-with-whisper",
+  "download_filename": "transcribe_with_whisper-0.8.3.tar.gz",
+  "download_time": "2026-01-30T20:55:16.158160",
+  "package_url": "https://pypi.org/project/transcribe-with-whisper/"
+}

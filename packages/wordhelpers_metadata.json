@@ -1,0 +1,11 @@
+{
+  "name": "wordhelpers",
+  "version": "0.1.2",
+  "summary": "Helpers for working with python-docx",
+  "author": "AJ Cruz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wordhelpers-0.1.2.tar.gz",
+  "download_time": "2026-01-30T20:54:48.871247",
+  "package_url": "https://pypi.org/project/wordhelpers/"
+}

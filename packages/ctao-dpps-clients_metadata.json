@@ -1,0 +1,11 @@
+{
+  "name": "ctao-dpps-clients",
+  "version": "0.4.0",
+  "summary": "DPPS python clients package",
+  "author": "The CTAO DPPS team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctao_dpps_clients-0.4.0.tar.gz",
+  "download_time": "2026-01-30T20:54:53.021209",
+  "package_url": "https://pypi.org/project/ctao-dpps-clients/"
+}

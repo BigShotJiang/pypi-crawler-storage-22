@@ -1,0 +1,11 @@
+{
+  "name": "image-palette-extractor",
+  "version": "0.4.0",
+  "summary": "Extract color palettes from images for web design. Produces LLM-consumable prose with color roles, WCAG contrast pairs, and harmonic relationships.",
+  "author": "Simon Sorkin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "image_palette_extractor-0.4.0.tar.gz",
+  "download_time": "2026-01-30T20:55:10.378615",
+  "package_url": "https://pypi.org/project/image-palette-extractor/"
+}
