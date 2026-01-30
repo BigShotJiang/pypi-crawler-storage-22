@@ -1,0 +1,11 @@
+{
+  "name": "fastcore",
+  "version": "1.12.11",
+  "summary": "Python supercharged for fastai development",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastcore-1.12.11.tar.gz",
+  "download_time": "2026-01-30T07:53:56.354295",
+  "package_url": "https://pypi.org/project/fastcore/"
+}

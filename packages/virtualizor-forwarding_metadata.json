@@ -1,11 +1,11 @@
 {
   "name": "virtualizor-forwarding",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "CLI tool for managing domain/port forwarding in Virtualizor VPS environments with multi-host support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "virtualizor_forwarding-1.0.3.tar.gz",
-  "download_time": "2026-01-29T19:04:36.039496",
+  "download_filename": "virtualizor_forwarding-1.0.4.tar.gz",
+  "download_time": "2026-01-30T07:53:51.208561",
   "package_url": "https://pypi.org/project/virtualizor-forwarding/"
 }

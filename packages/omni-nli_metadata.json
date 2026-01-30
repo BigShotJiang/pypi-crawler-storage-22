@@ -1,0 +1,11 @@
+{
+  "name": "omni-nli",
+  "version": "0.1.0a4",
+  "summary": "A multi-interface (REST and MCP) server for natural language inference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omni_nli-0.1.0a4.tar.gz",
+  "download_time": "2026-01-30T07:54:02.014500",
+  "package_url": "https://pypi.org/project/omni-nli/"
+}

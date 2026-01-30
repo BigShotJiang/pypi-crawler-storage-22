@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ehpcinstant20230701",
+  "version": "3.5.2",
+  "summary": "Alibaba Cloud EhpcInstant (20230701) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ehpcinstant20230701-3.5.2.tar.gz",
+  "download_time": "2026-01-30T07:53:43.988397",
+  "package_url": "https://pypi.org/project/alibabacloud-ehpcinstant20230701/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "spectrum-barometer",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Monitor barometric pressure from Spectrum SAX2V1S routers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spectrum_barometer-2.1.1.tar.gz",
-  "download_time": "2026-01-30T03:45:17.532725",
+  "download_filename": "spectrum_barometer-2.1.2.tar.gz",
+  "download_time": "2026-01-30T07:54:00.987403",
   "package_url": "https://pypi.org/project/spectrum-barometer/"
 }

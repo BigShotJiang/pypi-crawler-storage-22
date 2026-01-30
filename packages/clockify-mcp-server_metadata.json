@@ -1,0 +1,11 @@
+{
+  "name": "clockify-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for Clockify time tracking API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clockify_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-30T07:54:14.346408",
+  "package_url": "https://pypi.org/project/clockify-mcp-server/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "optimum-rbln",
-  "version": "0.10.0",
+  "version": "0.10.0.post1",
   "summary": "Optimum RBLN is the interface between the HuggingFace Transformers and Diffusers libraries and RBLN accelerators. It provides a set of tools enabling easy model loading and inference on single and multiple rbln device settings for different downstream tasks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "optimum_rbln-0.10.0.tar.gz",
-  "download_time": "2026-01-30T05:01:33.060473",
+  "download_filename": "optimum_rbln-0.10.0.post1.tar.gz",
+  "download_time": "2026-01-30T07:53:49.666321",
   "package_url": "https://pypi.org/project/optimum-rbln/"
 }

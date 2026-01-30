@@ -1,0 +1,11 @@
+{
+  "name": "tensorrt-lean-cu13",
+  "version": "10.15.1.29",
+  "summary": "A high performance deep learning inference library",
+  "author": "NVIDIA Corporation",
+  "license": "Proprietary",
+  "home_page": "https://github.com/nvidia/tensorrt",
+  "download_filename": "tensorrt_lean_cu13-10.15.1.29.tar.gz",
+  "download_time": "2026-01-30T07:53:56.867049",
+  "package_url": "https://pypi.org/project/tensorrt-lean-cu13/"
+}
