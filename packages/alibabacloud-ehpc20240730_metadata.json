@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ehpc20240730",
+  "version": "2.3.0",
+  "summary": "Alibaba Cloud Elastic High Performance Computing (20240730) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ehpc20240730-2.3.0.tar.gz",
+  "download_time": "2026-01-30T07:07:38.965282",
+  "package_url": "https://pypi.org/project/alibabacloud-ehpc20240730/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iacgen",
+  "version": "1.1.0",
+  "summary": "A CLI tool that automatically generates Terraform infrastructure blueprints based on user input",
+  "author": "Nana Appiah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iacgen-1.1.0.tar.gz",
+  "download_time": "2026-01-30T07:07:50.356179",
+  "package_url": "https://pypi.org/project/iacgen/"
+}

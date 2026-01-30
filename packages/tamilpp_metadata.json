@@ -1,0 +1,11 @@
+{
+  "name": "tamilpp",
+  "version": "1.0.0",
+  "summary": "A Python-based programming language in Tamil",
+  "author": "Shriman M",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tamilpp",
+  "download_filename": "tamilpp-1.0.0.tar.gz",
+  "download_time": "2026-01-30T07:07:30.229269",
+  "package_url": "https://pypi.org/project/tamilpp/"
+}

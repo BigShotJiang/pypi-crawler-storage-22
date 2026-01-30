@@ -1,0 +1,11 @@
+{
+  "name": "nirfmxinstr",
+  "version": "26.0.0",
+  "summary": "Python APIs for interacting with NI RFmx Instr Product",
+  "author": "NI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nirfmxinstr-26.0.0-py3-none-any.whl",
+  "download_time": "2026-01-30T07:07:32.280760",
+  "package_url": "https://pypi.org/project/nirfmxinstr/"
+}

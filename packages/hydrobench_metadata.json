@@ -1,0 +1,11 @@
+{
+  "name": "hydrobench",
+  "version": "0.1.1",
+  "summary": "Hydrological benchmarking toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydrobench-0.1.1.tar.gz",
+  "download_time": "2026-01-30T07:07:51.379908",
+  "package_url": "https://pypi.org/project/hydrobench/"
+}

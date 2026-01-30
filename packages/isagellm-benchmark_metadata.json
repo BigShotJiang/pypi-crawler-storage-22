@@ -1,11 +1,11 @@
 {
   "name": "isagellm-benchmark",
-  "version": "0.4.0.0",
+  "version": "0.4.0.1",
   "summary": "Benchmark Suite & E2E Testing for sageLLM",
   "author": null,
   "license": "Private",
   "home_page": null,
-  "download_filename": "isagellm_benchmark-0.4.0.0.tar.gz",
-  "download_time": "2026-01-30T03:44:32.100830",
+  "download_filename": "isagellm_benchmark-0.4.0.1.tar.gz",
+  "download_time": "2026-01-30T07:07:59.099453",
   "package_url": "https://pypi.org/project/isagellm-benchmark/"
 }

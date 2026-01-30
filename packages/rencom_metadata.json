@@ -1,11 +1,11 @@
 {
   "name": "rencom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Official Python SDK for the Rencom API - unified search for x402 resources and UCP merchants",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rencom-0.1.0.tar.gz",
-  "download_time": "2026-01-30T06:01:53.526016",
+  "download_filename": "rencom-0.1.1.tar.gz",
+  "download_time": "2026-01-30T07:07:25.619157",
   "package_url": "https://pypi.org/project/rencom/"
 }

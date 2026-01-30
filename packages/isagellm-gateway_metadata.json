@@ -1,11 +1,11 @@
 {
   "name": "isagellm-gateway",
-  "version": "0.4.0.1",
+  "version": "0.4.0.2",
   "summary": "sageLLM Gateway - OpenAI/Anthropic compatible API Gateway (L6)",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "isagellm_gateway-0.4.0.1.tar.gz",
-  "download_time": "2026-01-30T06:02:37.863826",
+  "download_filename": "isagellm_gateway-0.4.0.2.tar.gz",
+  "download_time": "2026-01-30T07:08:02.170159",
   "package_url": "https://pypi.org/project/isagellm-gateway/"
 }

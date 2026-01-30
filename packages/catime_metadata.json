@@ -1,0 +1,11 @@
+{
+  "name": "catime",
+  "version": "0.3.0",
+  "summary": "AI-generated hourly cat images - a new cat every hour!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "catime-0.3.0.tar.gz",
+  "download_time": "2026-01-30T07:08:00.633467",
+  "package_url": "https://pypi.org/project/catime/"
+}
