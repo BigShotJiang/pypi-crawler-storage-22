@@ -1,11 +1,11 @@
 {
   "name": "git-auto-pro",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Complete Git + GitHub automation CLI tool with interactive file management",
-  "author": "Your Name",
+  "author": "Himanshu Singh",
   "license": "MIT",
-  "home_page": "https://github.com/yourusername/git-auto-pro",
-  "download_filename": "git_auto_pro-1.1.0.tar.gz",
-  "download_time": "2026-01-30T18:45:43.364550",
+  "home_page": "https://github.com/HimanshuSingh-966/git-auto-pro",
+  "download_filename": "git_auto_pro-1.1.1.tar.gz",
+  "download_time": "2026-01-30T19:22:43.135700",
   "package_url": "https://pypi.org/project/git-auto-pro/"
 }

@@ -1,11 +1,26 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-30T18:46:36.984880
-- **Total Packages**: 92
-- **Total Size**: 50.53 MB
+- **Download Time**: 2026-01-30T19:23:20.972801
+- **Total Packages**: 93
+- **Total Size**: 8.28 MB
 
 ## Packages List
+- niwrap-workbench
+- niwrap-niftyreg
+- niwrap-mrtrix3tissue
+- niwrap-mrtrix
+- niwrap-greedy
+- niwrap-fsl
+- niwrap-freesurfer
+- niwrap-fastsurfer
+- niwrap-dcm2niix
+- niwrap-c3d
+- niwrap-ants
+- pydocket
+- niwrap-afni
+- niwrap
+- speedtest-cloudflare-cli
 - odoo-addon-pms
 - dynlib
 - agroweekpy
@@ -84,17 +99,3 @@
 - pulumi-xyz
 - axe-cli
 - kumo-api
-- deepspeed
-- ojitos369-postgres-db
-- kaqing
-- airbyte-agent-jira
-- airbyte-agent-asana
-- mteb
-- whirlpool-sixth-sense
-- bm3dornl-gui
-- textworld
-- psyke
-- cloudglancer
-- securitybreaches-jyoti
-- datalab-kernel
-- tunacode-cli
