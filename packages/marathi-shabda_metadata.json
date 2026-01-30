@@ -1,0 +1,11 @@
+{
+  "name": "marathi-shabda",
+  "version": "0.1.1",
+  "summary": "Deterministic, offline Marathi word analysis library (shabda = word in Marathi)",
+  "author": "Marathi Pratham Contributors",
+  "license": "CC-BY-NC-SA-4.0",
+  "home_page": null,
+  "download_filename": "marathi_shabda-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-30T15:52:06.641277",
+  "package_url": "https://pypi.org/project/marathi-shabda/"
+}

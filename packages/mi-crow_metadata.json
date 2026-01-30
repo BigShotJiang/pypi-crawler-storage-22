@@ -1,0 +1,11 @@
+{
+  "name": "mi-crow",
+  "version": "1.0.0.post6",
+  "summary": "Python library for mechanistic interpretability research on Large Language Models. Designed for researchers, provides unified interface for SAE training, activation hooks, and concept manipulation.",
+  "author": "Hubert Kowalski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mi_crow-1.0.0.post6.tar.gz",
+  "download_time": "2026-01-30T15:52:33.182873",
+  "package_url": "https://pypi.org/project/mi-crow/"
+}

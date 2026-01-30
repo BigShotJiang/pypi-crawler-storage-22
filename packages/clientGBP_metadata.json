@@ -1,0 +1,11 @@
+{
+  "name": "clientGBP",
+  "version": "1.0.0",
+  "summary": "Libreria para el uso de GBP mediante HTTP. Sin utilizar interfaz gráfica (Scraping).Usando las credenciales de una cuenta, se obtiene las cookies de sesión y se pueden realizar operaciones. Se realiza todo de manera sincrona.",
+  "author": "Leandro Franco",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clientgbp-1.0.0.tar.gz",
+  "download_time": "2026-01-30T15:52:08.743133",
+  "package_url": "https://pypi.org/project/clientGBP/"
+}

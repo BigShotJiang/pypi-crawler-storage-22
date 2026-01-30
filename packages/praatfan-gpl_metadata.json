@@ -1,0 +1,11 @@
+{
+  "name": "praatfan-gpl",
+  "version": "0.1.2",
+  "summary": "Praat-compatible acoustic analysis in Python (Rust implementation)",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "praatfan_gpl-0.1.2-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-30T15:52:44.588052",
+  "package_url": "https://pypi.org/project/praatfan-gpl/"
+}

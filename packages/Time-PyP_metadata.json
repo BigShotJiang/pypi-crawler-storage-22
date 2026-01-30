@@ -1,11 +1,11 @@
 {
   "name": "Time-PyP",
-  "version": "1.0.1",
-  "summary": "کتابخانه مدیریت زمان پیشرفته - TimePythonProgramming (P_Time)",
+  "version": "1.0.3",
+  "summary": "کتابخانه مدیریت زمان پیشرفته - TimePythonProgramming",
   "author": "Taha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "time_pyp-1.0.1.tar.gz",
-  "download_time": "2026-01-29T09:47:39.613577",
+  "download_filename": "time_pyp-1.0.3-py3-none-any.whl",
+  "download_time": "2026-01-30T15:52:25.444832",
   "package_url": "https://pypi.org/project/Time-PyP/"
 }

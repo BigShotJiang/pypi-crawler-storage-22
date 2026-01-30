@@ -1,0 +1,11 @@
+{
+  "name": "hub-search",
+  "version": "0.1.2",
+  "summary": "A CLI tool to search, clean, and verify sensitive info on GitHub.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hub_search-0.1.2.tar.gz",
+  "download_time": "2026-01-30T15:52:07.675318",
+  "package_url": "https://pypi.org/project/hub-search/"
+}

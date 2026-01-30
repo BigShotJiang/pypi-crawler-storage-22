@@ -1,0 +1,11 @@
+{
+  "name": "bof",
+  "version": "0.4.2",
+  "summary": "Bag of Factors allows you to analyze a corpus from its factors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bof-0.4.2.tar.gz",
+  "download_time": "2026-01-30T15:52:23.252633",
+  "package_url": "https://pypi.org/project/bof/"
+}

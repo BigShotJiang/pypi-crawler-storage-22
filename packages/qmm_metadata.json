@@ -1,0 +1,11 @@
+{
+  "name": "qmm",
+  "version": "0.19.0",
+  "summary": "Quadratic Majorize-Minimize Python toolbox",
+  "author": "François Orieux",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "qmm-0.19.0.tar.gz",
+  "download_time": "2026-01-30T15:52:10.801664",
+  "package_url": "https://pypi.org/project/qmm/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "emdash-core",
-  "version": "0.1.100",
+  "version": "0.1.102",
   "summary": "EmDash Core - FastAPI server for code intelligence",
   "author": "Em Dash Team",
   "license": null,
   "home_page": null,
-  "download_filename": "emdash_core-0.1.100.tar.gz",
-  "download_time": "2026-01-30T06:01:56.342169",
+  "download_filename": "emdash_core-0.1.102.tar.gz",
+  "download_time": "2026-01-30T15:52:15.748603",
   "package_url": "https://pypi.org/project/emdash-core/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "apsfuncs",
+  "version": "1.1.3",
+  "summary": "A container package holding general purpose tools and objects used by python programs supported by the Astrea Python Updater (APU) system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apsfuncs-1.1.3.tar.gz",
+  "download_time": "2026-01-30T15:52:14.087802",
+  "package_url": "https://pypi.org/project/apsfuncs/"
+}
