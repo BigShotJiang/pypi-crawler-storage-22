@@ -1,0 +1,11 @@
+{
+  "name": "pytest-glamor-allure",
+  "version": "0.0.15",
+  "summary": "Extends allure-pytest functionality",
+  "author": "Denis Alexeev",
+  "license": "MIT",
+  "home_page": "https://github.com/Denis-Alexeev/pytest-glamor-allure",
+  "download_filename": "pytest_glamor_allure-0.0.15.tar.gz",
+  "download_time": "2026-01-30T18:45:59.672462",
+  "package_url": "https://pypi.org/project/pytest-glamor-allure/"
+}

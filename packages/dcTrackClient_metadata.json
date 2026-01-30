@@ -1,0 +1,11 @@
+{
+  "name": "dcTrackClient",
+  "version": "1.5.1",
+  "summary": "Sunbird dcTrack API client in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dctrackclient-1.5.1.tar.gz",
+  "download_time": "2026-01-30T18:46:06.380299",
+  "package_url": "https://pypi.org/project/dcTrackClient/"
+}

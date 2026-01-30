@@ -1,11 +1,11 @@
 {
   "name": "ok-script",
-  "version": "1.0.43",
+  "version": "1.0.45",
   "summary": "Automation with Computer Vision for Python",
   "author": "ok-oldking",
   "license": null,
   "home_page": "https://github.com/ok-oldking/ok-script",
-  "download_filename": "ok_script-1.0.43.tar.gz",
-  "download_time": "2026-01-30T10:55:08.943707",
+  "download_filename": "ok_script-1.0.45.tar.gz",
+  "download_time": "2026-01-30T18:46:10.358190",
   "package_url": "https://pypi.org/project/ok-script/"
 }

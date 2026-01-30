@@ -1,11 +1,11 @@
 {
   "name": "spectrseqtools",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.1.1",
+  "summary": "SpectrSeqTools is a fully automatic analysis platform for sequencing small RNA molecules including 144 known post translational modifications measured via LC-MS/MS data.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spectrseqtools-0.1.0.tar.gz",
-  "download_time": "2026-01-30T17:21:41.072126",
+  "download_filename": "spectrseqtools-0.1.1.tar.gz",
+  "download_time": "2026-01-30T18:45:41.699050",
   "package_url": "https://pypi.org/project/spectrseqtools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rpa-arc",
+  "version": "0.7.0",
+  "summary": "CLI para geração de estrutura de projetos RPA",
+  "author": "Luis Henrique",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpa_arc-0.7.0.tar.gz",
+  "download_time": "2026-01-30T18:46:21.984441",
+  "package_url": "https://pypi.org/project/rpa-arc/"
+}

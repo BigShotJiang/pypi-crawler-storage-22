@@ -1,0 +1,11 @@
+{
+  "name": "ojitos369-postgres-db",
+  "version": "2.1.4",
+  "summary": "Funciones con conexiones a bases de datos",
+  "author": null,
+  "license": "LGPL v3",
+  "home_page": null,
+  "download_filename": "ojitos369_postgres_db-2.1.4.tar.gz",
+  "download_time": "2026-01-30T18:46:28.475786",
+  "package_url": "https://pypi.org/project/ojitos369-postgres-db/"
+}

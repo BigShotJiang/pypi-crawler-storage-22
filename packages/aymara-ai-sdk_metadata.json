@@ -1,0 +1,11 @@
+{
+  "name": "aymara-ai-sdk",
+  "version": "1.2.0",
+  "summary": "The official Python library for the aymara-ai API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "aymara_ai_sdk-1.2.0.tar.gz",
+  "download_time": "2026-01-30T18:46:02.548583",
+  "package_url": "https://pypi.org/project/aymara-ai-sdk/"
+}
