@@ -1,0 +1,11 @@
+{
+  "name": "easyaidata",
+  "version": "2.5.0",
+  "summary": "A easy-to-use data processing tool with GUI",
+  "author": "sysucai",
+  "license": "Proprietary Non-Commercial",
+  "home_page": "https://pypi.org/project/easyaidata/",
+  "download_filename": "easyaidata-2.5.0-py3-none-any.whl",
+  "download_time": "2026-01-30T09:23:38.114166",
+  "package_url": "https://pypi.org/project/easyaidata/"
+}

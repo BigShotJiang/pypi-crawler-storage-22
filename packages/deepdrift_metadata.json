@@ -1,0 +1,11 @@
+{
+  "name": "deepdrift",
+  "version": "1.0.0",
+  "summary": "Universal Thermodynamic Framework for Neural Network Robustness (Vision, LLM, Router)",
+  "author": "Alexey Evtushenko",
+  "license": null,
+  "home_page": "https://github.com/Eutonics/DeepDrift",
+  "download_filename": "deepdrift-1.0.0.tar.gz",
+  "download_time": "2026-01-30T09:23:08.087619",
+  "package_url": "https://pypi.org/project/deepdrift/"
+}

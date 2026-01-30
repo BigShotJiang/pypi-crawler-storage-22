@@ -1,0 +1,11 @@
+{
+  "name": "jcutil",
+  "version": "2.1.4",
+  "summary": "A tool chain for the web service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jcutil-2.1.4.tar.gz",
+  "download_time": "2026-01-30T09:23:15.156316",
+  "package_url": "https://pypi.org/project/jcutil/"
+}

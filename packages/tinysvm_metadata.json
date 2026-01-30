@@ -1,0 +1,11 @@
+{
+  "name": "tinysvm",
+  "version": "0.1.0",
+  "summary": "A lightweight, dependency-free (NumPy only) SVM implementation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tinysvm-0.1.0.tar.gz",
+  "download_time": "2026-01-30T09:23:35.520910",
+  "package_url": "https://pypi.org/project/tinysvm/"
+}

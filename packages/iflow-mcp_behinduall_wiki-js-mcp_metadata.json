@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_behinduall_wiki-js-mcp",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server for Wiki.js integration with hierarchical documentation support",
+  "author": "Sahil Pethe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_behinduall_wiki_js_mcp-1.0.0.tar.gz",
+  "download_time": "2026-01-30T09:23:00.955238",
+  "package_url": "https://pypi.org/project/iflow-mcp_behinduall_wiki-js-mcp/"
+}

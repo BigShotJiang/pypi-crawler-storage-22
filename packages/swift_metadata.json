@@ -1,0 +1,11 @@
+{
+  "name": "swift",
+  "version": "2.37.0",
+  "summary": "OpenStack Object Storage",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/swift/latest/",
+  "download_filename": "swift-2.37.0.tar.gz",
+  "download_time": "2026-01-30T09:23:31.933267",
+  "package_url": "https://pypi.org/project/swift/"
+}

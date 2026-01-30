@@ -1,0 +1,11 @@
+{
+  "name": "transcribe-diarize-emote",
+  "version": "0.1.2",
+  "summary": "End-to-end audio pipeline: transcription + diarization + emotion enrichment",
+  "author": "Ashwin B",
+  "license": null,
+  "home_page": null,
+  "download_filename": "transcribe_diarize_emote-0.1.2.tar.gz",
+  "download_time": "2026-01-30T09:23:18.401636",
+  "package_url": "https://pypi.org/project/transcribe-diarize-emote/"
+}

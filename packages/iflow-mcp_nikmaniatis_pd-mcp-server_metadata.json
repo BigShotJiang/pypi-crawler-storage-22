@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_nikmaniatis_pd-mcp-server",
+  "version": "0.1.2",
+  "summary": "A Model Context Protocol (MCP) server for Pure Data, an open-source visual programming language and patchable environment for real-time computer music.",
+  "author": "nikmaniatis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_nikmaniatis_pd_mcp_server-0.1.2.tar.gz",
+  "download_time": "2026-01-30T09:23:39.323421",
+  "package_url": "https://pypi.org/project/iflow-mcp_nikmaniatis_pd-mcp-server/"
+}

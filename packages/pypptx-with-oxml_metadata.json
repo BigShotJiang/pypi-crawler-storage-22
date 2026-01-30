@@ -1,0 +1,11 @@
+{
+  "name": "pypptx-with-oxml",
+  "version": "1.0.3",
+  "summary": "Create, read, and update PowerPoint 2007+ (.pptx) files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypptx_with_oxml-1.0.3.tar.gz",
+  "download_time": "2026-01-30T09:23:42.294500",
+  "package_url": "https://pypi.org/project/pypptx-with-oxml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cobald-tardis",
+  "version": "0.9.0",
+  "summary": "Transparent Adaptive Resource Dynamic Integration System",
+  "author": "Manuel Giffels, Matthias Schnepf",
+  "license": null,
+  "home_page": "https://github.com/matterminers/tardis",
+  "download_filename": "cobald_tardis-0.9.0.tar.gz",
+  "download_time": "2026-01-30T09:23:23.944814",
+  "package_url": "https://pypi.org/project/cobald-tardis/"
+}

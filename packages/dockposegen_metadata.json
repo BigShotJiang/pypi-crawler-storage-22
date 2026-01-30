@@ -1,0 +1,11 @@
+{
+  "name": "dockposegen",
+  "version": "1.0.0",
+  "summary": "A Tool for Ligands pose extraction and Complex Building Workflow",
+  "author": "fred",
+  "license": null,
+  "home_page": "https://github.com/alpha-horizon/dockposegen.git",
+  "download_filename": "dockposegen-1.0.0.tar.gz",
+  "download_time": "2026-01-30T09:23:25.151355",
+  "package_url": "https://pypi.org/project/dockposegen/"
+}

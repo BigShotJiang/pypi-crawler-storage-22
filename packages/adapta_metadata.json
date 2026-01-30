@@ -1,0 +1,11 @@
+{
+  "name": "adapta",
+  "version": "3.5.15",
+  "summary": "Logging, data connectors, monitoring, secret handling and general lifehacks to make data people lives easier.",
+  "author": "ECCO Sneaks & Data",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "adapta-3.5.15.tar.gz",
+  "download_time": "2026-01-30T09:23:17.812424",
+  "package_url": "https://pypi.org/project/adapta/"
+}

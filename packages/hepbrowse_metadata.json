@@ -1,0 +1,11 @@
+{
+  "name": "hepbrowse",
+  "version": "0.1.3",
+  "summary": "Interactive TUI for exploring HEP data files",
+  "author": "Leonardo Splendori",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hepbrowse-0.1.3.tar.gz",
+  "download_time": "2026-01-30T09:22:57.378016",
+  "package_url": "https://pypi.org/project/hepbrowse/"
+}

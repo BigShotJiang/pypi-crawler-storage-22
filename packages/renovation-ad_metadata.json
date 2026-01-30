@@ -1,11 +1,11 @@
 {
   "name": "renovation-ad",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A high-performance HTML ad cleaner using Adblock rules (Pure Python + lxml).",
-  "author": "Your Name",
+  "author": "h-o-w-a-r-d(Iced_cocktails)",
   "license": null,
   "home_page": "https://github.com/yourusername/renovation-ad",
-  "download_filename": "renovation_ad-0.1.0.tar.gz",
-  "download_time": "2026-01-29T15:19:57.026657",
+  "download_filename": "renovation_ad-0.1.1.tar.gz",
+  "download_time": "2026-01-30T09:23:19.695381",
   "package_url": "https://pypi.org/project/renovation-ad/"
 }
