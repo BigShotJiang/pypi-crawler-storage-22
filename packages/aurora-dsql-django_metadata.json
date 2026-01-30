@@ -1,0 +1,11 @@
+{
+  "name": "aurora-dsql-django",
+  "version": "0.4.0",
+  "summary": "Aurora DSQL adapter for Django",
+  "author": "Amazon Web Services",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aurora_dsql_django-0.4.0.tar.gz",
+  "download_time": "2026-01-30T20:24:57.901159",
+  "package_url": "https://pypi.org/project/aurora-dsql-django/"
+}

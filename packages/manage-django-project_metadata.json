@@ -1,0 +1,11 @@
+{
+  "name": "manage-django-project",
+  "version": "0.11.2",
+  "summary": "Helper to develop Django projects.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "manage_django_project-0.11.2.tar.gz",
+  "download_time": "2026-01-30T20:24:20.979720",
+  "package_url": "https://pypi.org/project/manage-django-project/"
+}

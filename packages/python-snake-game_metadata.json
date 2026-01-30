@@ -1,0 +1,11 @@
+{
+  "name": "python-snake-game",
+  "version": "1.0.10",
+  "summary": "A simple Snake game written in Python for the command-line interface (CLI). Control the snake with arrow keys, eat food to grow, and avoid running into yourself. Built entirely with Python's standard libraries-no third-party packages required.",
+  "author": "ramimK0bir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_snake_game-1.0.10.tar.gz",
+  "download_time": "2026-01-30T20:24:27.211692",
+  "package_url": "https://pypi.org/project/python-snake-game/"
+}

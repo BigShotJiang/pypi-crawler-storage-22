@@ -1,0 +1,11 @@
+{
+  "name": "crossref-example-matching-strategy",
+  "version": "0.2.1",
+  "summary": "This is meant to demonstrate how to create a strategy for use with the Crossref matching service (marple).",
+  "author": "Jason Portenoy",
+  "license": null,
+  "home_page": "https://gitlab.com/crossref/example-matching-strategy",
+  "download_filename": "crossref_example_matching_strategy-0.2.1.tar.gz",
+  "download_time": "2026-01-30T20:24:41.165255",
+  "package_url": "https://pypi.org/project/crossref-example-matching-strategy/"
+}

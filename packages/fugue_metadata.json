@@ -1,0 +1,11 @@
+{
+  "name": "fugue",
+  "version": "0.9.6",
+  "summary": "An abstraction layer for distributed computation",
+  "author": "The Fugue Development Team",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/fugue-project/fugue",
+  "download_filename": "fugue-0.9.6.tar.gz",
+  "download_time": "2026-01-30T20:25:01.901746",
+  "package_url": "https://pypi.org/project/fugue/"
+}
