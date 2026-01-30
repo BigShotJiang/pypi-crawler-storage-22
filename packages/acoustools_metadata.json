@@ -1,0 +1,11 @@
+{
+  "name": "acoustools",
+  "version": "1.0.5",
+  "summary": "A Full-Stack Python based library for working with acoustic fields for holgraphy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acoustools-1.0.5.tar.gz",
+  "download_time": "2026-01-30T19:53:36.806620",
+  "package_url": "https://pypi.org/project/acoustools/"
+}

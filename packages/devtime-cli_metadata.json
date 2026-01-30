@@ -1,0 +1,11 @@
+{
+  "name": "devtime-cli",
+  "version": "0.1.0",
+  "summary": "Minimal CLI tool to track development time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devtime_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-30T19:53:39.511794",
+  "package_url": "https://pypi.org/project/devtime-cli/"
+}

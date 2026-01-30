@@ -1,11 +1,11 @@
 {
   "name": "youtube-to-docs",
-  "version": "0.0.62",
+  "version": "0.0.63",
   "summary": "Convert YouTube videos into structured docs, summaries, audio, and visual assets for easier discovery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "youtube_to_docs-0.0.62.tar.gz",
-  "download_time": "2026-01-30T17:21:33.241408",
+  "download_filename": "youtube_to_docs-0.0.63.tar.gz",
+  "download_time": "2026-01-30T19:53:23.606962",
   "package_url": "https://pypi.org/project/youtube-to-docs/"
 }

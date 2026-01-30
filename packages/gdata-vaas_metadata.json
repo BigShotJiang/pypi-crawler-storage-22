@@ -1,0 +1,11 @@
+{
+  "name": "gdata-vaas",
+  "version": "6.0.4",
+  "summary": "G DATA Verdict-as-a-Service Python client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gdata_vaas-6.0.4.tar.gz",
+  "download_time": "2026-01-30T19:53:40.044256",
+  "package_url": "https://pypi.org/project/gdata-vaas/"
+}
