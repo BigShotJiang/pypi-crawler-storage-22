@@ -1,0 +1,11 @@
+{
+  "name": "nr-metadata",
+  "version": "2.0.80",
+  "summary": "\"Generated metadata files for the Czech National Repository\"",
+  "author": "Miroslav Simek",
+  "license": "MIT",
+  "home_page": "https://github.com/Narodni-repozitar/ne-metadata",
+  "download_filename": "nr_metadata-2.0.80.tar.gz",
+  "download_time": "2026-01-30T12:42:25.280112",
+  "package_url": "https://pypi.org/project/nr-metadata/"
+}

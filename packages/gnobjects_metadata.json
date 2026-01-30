@@ -1,11 +1,11 @@
 {
   "name": "gnobjects",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "summary": "gnobjects",
   "author": "KeyisB",
   "license": "GN License v1.0",
   "home_page": "https://github.com/KeyisB/gnobjects",
-  "download_filename": "gnobjects-0.0.35.tar.gz",
-  "download_time": "2026-01-30T11:25:09.655639",
+  "download_filename": "gnobjects-0.0.36.tar.gz",
+  "download_time": "2026-01-30T12:42:30.081334",
   "package_url": "https://pypi.org/project/gnobjects/"
 }

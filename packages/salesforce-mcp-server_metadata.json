@@ -1,0 +1,11 @@
+{
+  "name": "salesforce-mcp-server",
+  "version": "0.4.1",
+  "summary": "Salesforce MCP Server with multi-user OAuth PKCE support for AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salesforce_mcp_server-0.4.1.tar.gz",
+  "download_time": "2026-01-30T12:42:32.838417",
+  "package_url": "https://pypi.org/project/salesforce-mcp-server/"
+}

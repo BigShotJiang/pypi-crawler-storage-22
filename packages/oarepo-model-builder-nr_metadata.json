@@ -1,0 +1,11 @@
+{
+  "name": "oarepo-model-builder-nr",
+  "version": "2.0.80",
+  "summary": "\"A model builder plugin with Czech National Repository compatible metadata schema\"",
+  "author": "Miroslav Simek",
+  "license": "MIT",
+  "home_page": "https://github.com/Narodni-repozitar/oarepo-model-builder-nr",
+  "download_filename": "oarepo_model_builder_nr-2.0.80.tar.gz",
+  "download_time": "2026-01-30T12:42:24.710627",
+  "package_url": "https://pypi.org/project/oarepo-model-builder-nr/"
+}

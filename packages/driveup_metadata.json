@@ -1,11 +1,11 @@
 {
   "name": "driveup",
-  "version": "0.9.14",
+  "version": "0.9.15",
   "summary": "Python package for uploading files and folders to Google Drive.",
   "author": "Raúl M.R.",
   "license": "MIT",
   "home_page": "https://github.com/raul-martin-dev/Driveup",
-  "download_filename": "driveup-0.9.14.tar.gz",
-  "download_time": "2026-01-30T10:55:35.521665",
+  "download_filename": "driveup-0.9.15.tar.gz",
+  "download_time": "2026-01-30T12:42:38.309685",
   "package_url": "https://pypi.org/project/driveup/"
 }

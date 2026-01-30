@@ -1,11 +1,11 @@
 {
   "name": "pyshielder",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "A robust tool for Python code obfuscation and encryption using Cython.",
   "author": "PythonToday",
   "license": null,
   "home_page": "https://github.com/PythonTodayz/pyshielder",
-  "download_filename": "pyshielder-1.0.2.tar.gz",
-  "download_time": "2026-01-30T11:24:38.340835",
+  "download_filename": "pyshielder-1.0.4.tar.gz",
+  "download_time": "2026-01-30T12:42:34.506214",
   "package_url": "https://pypi.org/project/pyshielder/"
 }

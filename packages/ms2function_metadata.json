@@ -1,0 +1,11 @@
+{
+  "name": "ms2function",
+  "version": "0.1.1",
+  "summary": "Deep learning model for MS2 data annotation",
+  "author": "User",
+  "license": null,
+  "home_page": "https://huggingface.co/cgxjdzz/ms2function-assets",
+  "download_filename": "ms2function-0.1.1.tar.gz",
+  "download_time": "2026-01-30T12:42:40.506019",
+  "package_url": "https://pypi.org/project/ms2function/"
+}

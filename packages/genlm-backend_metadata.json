@@ -1,0 +1,11 @@
+{
+  "name": "genlm-backend",
+  "version": "0.1.8",
+  "summary": null,
+  "author": "Ben LeBrun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genlm_backend-0.1.8.tar.gz",
+  "download_time": "2026-01-30T12:42:11.593730",
+  "package_url": "https://pypi.org/project/genlm-backend/"
+}

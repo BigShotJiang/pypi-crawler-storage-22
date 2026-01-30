@@ -1,0 +1,11 @@
+{
+  "name": "FlowAnalyzer",
+  "version": "0.4.1",
+  "summary": "FlowAnalyzer是一个流量分析器，用于解析和处理tshark导出的JSON数据文件",
+  "author": "Byxs20",
+  "license": null,
+  "home_page": "https://github.com/Byxs20/FlowAnalyzer",
+  "download_filename": "flowanalyzer-0.4.1.tar.gz",
+  "download_time": "2026-01-30T12:42:35.054403",
+  "package_url": "https://pypi.org/project/FlowAnalyzer/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "zeughaus-mcp",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "MCP Server - Agentic Workbench backed by Nixery",
   "author": "GTarkin",
   "license": null,
   "home_page": null,
-  "download_filename": "zeughaus_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-29T23:48:44.118416",
+  "download_filename": "zeughaus_mcp-0.1.4.tar.gz",
+  "download_time": "2026-01-30T12:42:31.737986",
   "package_url": "https://pypi.org/project/zeughaus-mcp/"
 }
