@@ -1,11 +1,11 @@
 {
   "name": "largekalman",
-  "version": "0.2.4",
+  "version": "0.2.10",
   "summary": "Kalman filtering and smoothing for larger-than-memory datasets",
   "author": "Oden Petersen",
   "license": null,
   "home_page": null,
-  "download_filename": "largekalman-0.2.4.tar.gz",
-  "download_time": "2026-01-29T01:28:33.492026",
+  "download_filename": "largekalman-0.2.10.tar.gz",
+  "download_time": "2026-01-30T05:02:01.812398",
   "package_url": "https://pypi.org/project/largekalman/"
 }

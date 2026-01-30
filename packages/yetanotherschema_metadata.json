@@ -1,0 +1,11 @@
+{
+  "name": "yetanotherschema",
+  "version": "0.1.0",
+  "summary": "A semantic database for auditable data with append-only corrections and full traceability",
+  "author": "Krishnamoorthy Sankaran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yetanotherschema-0.1.0.tar.gz",
+  "download_time": "2026-01-30T05:02:16.473199",
+  "package_url": "https://pypi.org/project/yetanotherschema/"
+}

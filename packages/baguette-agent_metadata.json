@@ -1,0 +1,11 @@
+{
+  "name": "baguette-agent",
+  "version": "0.1.0",
+  "summary": "Transactional memory + skill artifacts for AI agents",
+  "author": "HengYpinn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "baguette_agent-0.1.0.tar.gz",
+  "download_time": "2026-01-30T05:01:53.940937",
+  "package_url": "https://pypi.org/project/baguette-agent/"
+}

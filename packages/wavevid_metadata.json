@@ -1,0 +1,11 @@
+{
+  "name": "wavevid",
+  "version": "0.1.1",
+  "summary": "Audio to waveform video generator with subtitles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wavevid-0.1.1.tar.gz",
+  "download_time": "2026-01-30T05:01:55.514224",
+  "package_url": "https://pypi.org/project/wavevid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cowork-history",
+  "version": "4.0.2",
+  "summary": "Search and browse Claude conversation history with hybrid search (FTS + Spotlight + vector embeddings)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cowork_history-4.0.2.tar.gz",
+  "download_time": "2026-01-30T05:01:34.628780",
+  "package_url": "https://pypi.org/project/cowork-history/"
+}

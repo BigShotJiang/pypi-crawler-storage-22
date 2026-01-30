@@ -1,0 +1,11 @@
+{
+  "name": "azureml-acft-image-components",
+  "version": "0.0.85",
+  "summary": "Contains the code for vision model's components.",
+  "author": "Microsoft Corp",
+  "license": "inline_license",
+  "home_page": "https://msdata.visualstudio.com/Vienna/_git/sdk-cli-v2?version=GBtraining_finetune",
+  "download_filename": "azureml_acft_image_components-0.0.85-py3-none-any.whl",
+  "download_time": "2026-01-30T05:01:36.719059",
+  "package_url": "https://pypi.org/project/azureml-acft-image-components/"
+}

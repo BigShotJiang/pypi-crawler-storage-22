@@ -1,0 +1,11 @@
+{
+  "name": "grib2sail",
+  "version": "0.2.0",
+  "summary": "Grib files downloader for sailing purposes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grib2sail-0.2.0.tar.gz",
+  "download_time": "2026-01-30T05:01:40.372598",
+  "package_url": "https://pypi.org/project/grib2sail/"
+}

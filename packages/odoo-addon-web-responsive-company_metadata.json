@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-web-responsive-company",
+  "version": "16.0.1.0.0.6",
+  "summary": "Improve the diplay of the list of the companies",
+  "author": "GRAP,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/web",
+  "download_filename": "odoo_addon_web_responsive_company-16.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2026-01-30T05:02:12.827517",
+  "package_url": "https://pypi.org/project/odoo-addon-web-responsive-company/"
+}

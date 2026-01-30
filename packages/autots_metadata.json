@@ -1,0 +1,11 @@
+{
+  "name": "autots",
+  "version": "1.0.1",
+  "summary": "Automated Time Series Forecasting",
+  "author": "Colin Catlin",
+  "license": "MIT License",
+  "home_page": "https://github.com/winedarksea/AutoTS",
+  "download_filename": "autots-1.0.1.tar.gz",
+  "download_time": "2026-01-30T05:01:39.853855",
+  "package_url": "https://pypi.org/project/autots/"
+}

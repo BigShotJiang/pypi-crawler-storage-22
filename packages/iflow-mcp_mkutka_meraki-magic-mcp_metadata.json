@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mkutka_meraki-magic-mcp",
+  "version": "0.1.0",
+  "summary": "MCP Server for Cisco Meraki Dashboard API - provides tools for querying, monitoring, and managing Meraki environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_mkutka_meraki_magic_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-30T05:02:06.588698",
+  "package_url": "https://pypi.org/project/iflow-mcp_mkutka_meraki-magic-mcp/"
+}

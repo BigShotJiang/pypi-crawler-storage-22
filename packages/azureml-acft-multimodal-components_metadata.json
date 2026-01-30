@@ -1,0 +1,11 @@
+{
+  "name": "azureml-acft-multimodal-components",
+  "version": "0.0.85",
+  "summary": "Contains the acft multimodal-contrib package used in script to build azureml components.",
+  "author": "Microsoft Corp",
+  "license": "inline_license",
+  "home_page": "https://msdata.visualstudio.com/Vienna/_git/sdk-cli-v2?version=GBtraining_finetune",
+  "download_filename": "azureml_acft_multimodal_components-0.0.85-py3-none-any.whl",
+  "download_time": "2026-01-30T05:01:36.192029",
+  "package_url": "https://pypi.org/project/azureml-acft-multimodal-components/"
+}

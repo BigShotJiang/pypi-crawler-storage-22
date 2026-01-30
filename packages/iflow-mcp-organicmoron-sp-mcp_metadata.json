@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-organicmoron-sp-mcp",
+  "version": "1.0.1",
+  "summary": "Bridge between Super Productivity and MCP (Model Context Protocol) servers for Claude Desktop integration",
+  "author": "organicmoron",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_organicmoron_sp_mcp-1.0.1.tar.gz",
+  "download_time": "2026-01-30T05:01:46.111652",
+  "package_url": "https://pypi.org/project/iflow-mcp-organicmoron-sp-mcp/"
+}

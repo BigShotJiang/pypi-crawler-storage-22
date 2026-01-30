@@ -1,0 +1,11 @@
+{
+  "name": "fabrest",
+  "version": "1.0.0",
+  "summary": "A Python Fabric Rest Client to make requests to the Fabric API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabrest-1.0.0.tar.gz",
+  "download_time": "2026-01-30T05:02:07.626994",
+  "package_url": "https://pypi.org/project/fabrest/"
+}
