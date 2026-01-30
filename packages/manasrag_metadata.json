@@ -1,0 +1,11 @@
+{
+  "name": "manasrag",
+  "version": "0.1.0",
+  "summary": "Hierarchical Retrieval-Augmented Generation with Haystack",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manasrag-0.1.0.tar.gz",
+  "download_time": "2026-01-30T17:58:26.806331",
+  "package_url": "https://pypi.org/project/manasrag/"
+}

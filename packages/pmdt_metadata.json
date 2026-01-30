@@ -1,11 +1,11 @@
 {
   "name": "pmdt",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Project Management Digital Twin",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pmdt-1.1.1.tar.gz",
-  "download_time": "2026-01-30T17:21:40.552153",
+  "download_filename": "pmdt-1.1.2.tar.gz",
+  "download_time": "2026-01-30T17:58:56.426385",
   "package_url": "https://pypi.org/project/pmdt/"
 }

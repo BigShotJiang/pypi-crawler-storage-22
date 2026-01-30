@@ -1,11 +1,11 @@
 {
   "name": "juham-automation",
-  "version": "0.2.12",
+  "version": "0.2.15",
   "summary": "Juha's Ultimate Home Automation Masterpiece",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "juham_automation-0.2.12.tar.gz",
-  "download_time": "2026-01-30T16:33:16.381357",
+  "download_filename": "juham_automation-0.2.15.tar.gz",
+  "download_time": "2026-01-30T17:58:41.779660",
   "package_url": "https://pypi.org/project/juham-automation/"
 }

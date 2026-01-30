@@ -1,0 +1,11 @@
+{
+  "name": "auralis-vfs",
+  "version": "1.1.0",
+  "summary": "Objective vocal fatigue scoring from speech using health-centric ECAPA-TDNN-VHE embeddings with standardized preprocessing and reproducible benchmarking.",
+  "author": "\"Muhammad Khubaib Ahmad\"",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auralis_vfs-1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-30T17:58:34.996378",
+  "package_url": "https://pypi.org/project/auralis-vfs/"
+}

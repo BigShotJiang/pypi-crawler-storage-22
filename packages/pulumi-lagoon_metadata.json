@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-lagoon",
+  "version": "0.1.0",
+  "summary": "A Pulumi dynamic provider for managing Lagoon resources",
+  "author": "Greg Chaix",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/tag1consulting/pulumi-lagoon-provider",
+  "download_filename": "pulumi_lagoon-0.1.0.tar.gz",
+  "download_time": "2026-01-30T17:58:51.174082",
+  "package_url": "https://pypi.org/project/pulumi-lagoon/"
+}
