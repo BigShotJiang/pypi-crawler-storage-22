@@ -1,0 +1,11 @@
+{
+  "name": "llmgatekeeper",
+  "version": "0.1.0",
+  "summary": "Semantic caching library for LLM and RAG systems",
+  "author": "LLMGatekeeper Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmgatekeeper-0.1.0.tar.gz",
+  "download_time": "2026-01-31T21:44:01.062574",
+  "package_url": "https://pypi.org/project/llmgatekeeper/"
+}

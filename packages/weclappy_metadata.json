@@ -1,0 +1,11 @@
+{
+  "name": "weclappy",
+  "version": "0.3.0",
+  "summary": "A Python client for the Weclapp API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weclappy-0.3.0.tar.gz",
+  "download_time": "2026-01-31T21:43:58.972892",
+  "package_url": "https://pypi.org/project/weclappy/"
+}

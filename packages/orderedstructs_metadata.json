@@ -1,0 +1,11 @@
+{
+  "name": "orderedstructs",
+  "version": "0.4.0",
+  "summary": "Contains a variety of ordered structures, in particular a SkipList.",
+  "author": "Paul Ross",
+  "license": "MIT License",
+  "home_page": "https://github.com/paulross/skiplist",
+  "download_filename": "orderedstructs-0.4.0.tar.gz",
+  "download_time": "2026-01-31T21:44:01.576241",
+  "package_url": "https://pypi.org/project/orderedstructs/"
+}

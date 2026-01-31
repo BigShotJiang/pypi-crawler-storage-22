@@ -1,11 +1,11 @@
 {
   "name": "language-pipes",
-  "version": "0.19.2",
-  "summary": "Easily distribute language models across multiple systems",
+  "version": "0.19.4",
+  "summary": "A privacy focused distributed algorithm for llm inference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "language_pipes-0.19.2.tar.gz",
-  "download_time": "2026-01-31T15:46:32.499647",
+  "download_filename": "language_pipes-0.19.4.tar.gz",
+  "download_time": "2026-01-31T21:44:14.108800",
   "package_url": "https://pypi.org/project/language-pipes/"
 }

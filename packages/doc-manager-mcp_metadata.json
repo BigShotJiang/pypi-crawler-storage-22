@@ -1,0 +1,11 @@
+{
+  "name": "doc-manager-mcp",
+  "version": "1.2.5",
+  "summary": "MCP server for comprehensive documentation lifecycle management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "doc_manager_mcp-1.2.5.tar.gz",
+  "download_time": "2026-01-31T21:44:20.812099",
+  "package_url": "https://pypi.org/project/doc-manager-mcp/"
+}

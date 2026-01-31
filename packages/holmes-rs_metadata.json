@@ -1,0 +1,11 @@
+{
+  "name": "holmes-rs",
+  "version": "0.3.0",
+  "summary": "HOLMES (HydrOLogical Modeling Educationnal Software) is a software developped to teach operational hydrology. It is developed at the university Laval, Québec, Canada. These are the models written in rust.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "holmes_rs-0.3.0.tar.gz",
+  "download_time": "2026-01-31T21:44:24.466126",
+  "package_url": "https://pypi.org/project/holmes-rs/"
+}

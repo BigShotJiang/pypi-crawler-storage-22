@@ -1,11 +1,11 @@
 {
   "name": "aegis-preflight-core",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Core detection and masking library for Aegis PII protection",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "aegis_preflight_core-0.2.1.tar.gz",
-  "download_time": "2026-01-31T18:30:41.075725",
+  "download_filename": "aegis_preflight_core-0.2.2.tar.gz",
+  "download_time": "2026-01-31T21:44:28.071460",
   "package_url": "https://pypi.org/project/aegis-preflight-core/"
 }

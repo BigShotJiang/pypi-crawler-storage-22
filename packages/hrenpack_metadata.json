@@ -1,0 +1,11 @@
+{
+  "name": "hrenpack",
+  "version": "2.5.4",
+  "summary": "A universal python library for most tasks",
+  "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
+  "license": "MIT",
+  "home_page": "https://github.com/MagIlyasDOMA/hrenpack",
+  "download_filename": "hrenpack-2.5.4.tar.gz",
+  "download_time": "2026-01-31T21:44:12.555969",
+  "package_url": "https://pypi.org/project/hrenpack/"
+}
