@@ -1,0 +1,11 @@
+{
+  "name": "docx2python",
+  "version": "3.6.2",
+  "summary": "Extract content from docx files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "docx2python-3.6.2.tar.gz",
+  "download_time": "2026-01-31T14:50:54.235840",
+  "package_url": "https://pypi.org/project/docx2python/"
+}

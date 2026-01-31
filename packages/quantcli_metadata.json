@@ -1,0 +1,11 @@
+{
+  "name": "quantcli",
+  "version": "0.1.0",
+  "summary": "QuantCLI - 量化因子挖掘与回测工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantcli-0.1.0.tar.gz",
+  "download_time": "2026-01-31T14:50:39.405776",
+  "package_url": "https://pypi.org/project/quantcli/"
+}

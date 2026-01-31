@@ -1,0 +1,11 @@
+{
+  "name": "pyrun-jupyter",
+  "version": "0.3.0",
+  "summary": "Execute Python .py files on remote Jupyter servers",
+  "author": "Blazej Domagala",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrun_jupyter-0.3.0.tar.gz",
+  "download_time": "2026-01-31T14:51:08.303226",
+  "package_url": "https://pypi.org/project/pyrun-jupyter/"
+}

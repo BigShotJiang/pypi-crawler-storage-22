@@ -1,0 +1,11 @@
+{
+  "name": "neuronum",
+  "version": "12.3.0",
+  "summary": "Neuronum SDK",
+  "author": "Neuronum Cybernetics",
+  "license": null,
+  "home_page": "https://neuronum.net",
+  "download_filename": "neuronum-12.3.0.tar.gz",
+  "download_time": "2026-01-31T14:51:04.662672",
+  "package_url": "https://pypi.org/project/neuronum/"
+}

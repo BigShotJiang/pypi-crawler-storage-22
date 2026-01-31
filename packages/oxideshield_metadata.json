@@ -1,0 +1,11 @@
+{
+  "name": "oxideshield",
+  "version": "0.1.0",
+  "summary": "High-performance LLM security toolkit",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oxideshield-0.1.0-cp313-cp313-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-31T14:50:41.907417",
+  "package_url": "https://pypi.org/project/oxideshield/"
+}

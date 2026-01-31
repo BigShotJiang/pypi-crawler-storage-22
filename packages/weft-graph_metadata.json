@@ -1,0 +1,11 @@
+{
+  "name": "weft-graph",
+  "version": "1.2.0",
+  "summary": "A local-first knowledge graph for your browsing - Chrome extension + CLI",
+  "author": "Avi Solanki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "weft_graph-1.2.0.tar.gz",
+  "download_time": "2026-01-31T14:51:20.257349",
+  "package_url": "https://pypi.org/project/weft-graph/"
+}

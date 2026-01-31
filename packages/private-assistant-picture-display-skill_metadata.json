@@ -1,0 +1,11 @@
+{
+  "name": "private-assistant-picture-display-skill",
+  "version": "0.6.0",
+  "summary": "Skill to dynamically display images from various sources via external agents.",
+  "author": "stkr22",
+  "license": null,
+  "home_page": null,
+  "download_filename": "private_assistant_picture_display_skill-0.6.0.tar.gz",
+  "download_time": "2026-01-31T14:51:05.694776",
+  "package_url": "https://pypi.org/project/private-assistant-picture-display-skill/"
+}

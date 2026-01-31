@@ -1,11 +1,11 @@
 {
   "name": "security-controls-mcp",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "MCP server for querying security framework controls (SCF) - map between ISO 27001, NIST CSF, DORA, PCI DSS, and more",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "security_controls_mcp-0.3.3.tar.gz",
-  "download_time": "2026-01-31T10:19:41.887372",
+  "download_filename": "security_controls_mcp-0.3.4.tar.gz",
+  "download_time": "2026-01-31T14:51:12.084442",
   "package_url": "https://pypi.org/project/security-controls-mcp/"
 }

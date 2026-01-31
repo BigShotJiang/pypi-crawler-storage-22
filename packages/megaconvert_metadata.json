@@ -1,0 +1,11 @@
+{
+  "name": "megaconvert",
+  "version": "0.2.1",
+  "summary": "Advanced plugin-based file conversion toolkit (CLI + Python API).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "megaconvert-0.2.1.tar.gz",
+  "download_time": "2026-01-31T14:50:58.345403",
+  "package_url": "https://pypi.org/project/megaconvert/"
+}

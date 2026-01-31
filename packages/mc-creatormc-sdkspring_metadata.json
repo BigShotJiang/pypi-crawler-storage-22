@@ -1,0 +1,11 @@
+{
+  "name": "mc-creatormc-sdkspring",
+  "version": "1.2.1",
+  "summary": "一个基于网易我的世界 MODSDK 开发的框架，可以让开发者更方便的使用 MODSDK。",
+  "author": "CreatorMC",
+  "license": null,
+  "home_page": "https://github.com/CreatorMC/MODSDKSping",
+  "download_filename": "mc_creatormc_sdkspring-1.2.1.tar.gz",
+  "download_time": "2026-01-31T14:50:40.495772",
+  "package_url": "https://pypi.org/project/mc-creatormc-sdkspring/"
+}
