@@ -1,11 +1,11 @@
 {
   "name": "cadar",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Canonicalization and Darija Representation - Bidirectional transliteration for Darija",
   "author": "Ouail LAAMIRI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cadar-0.1.7.tar.gz",
-  "download_time": "2026-01-31T13:58:48.797940",
+  "download_filename": "cadar-0.1.8.tar.gz",
+  "download_time": "2026-01-31T15:19:29.770875",
   "package_url": "https://pypi.org/project/cadar/"
 }

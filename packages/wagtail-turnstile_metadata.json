@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-turnstile",
+  "version": "0.6.0",
+  "summary": "Cloudflare Turnstile integration for Wagtail forms",
+  "author": "Mark Steadman",
+  "license": "MIT",
+  "home_page": "https://github.com/soundslocalcic/wagtail-turnstile",
+  "download_filename": "wagtail_turnstile-0.6.0.tar.gz",
+  "download_time": "2026-01-31T15:19:46.212872",
+  "package_url": "https://pypi.org/project/wagtail-turnstile/"
+}

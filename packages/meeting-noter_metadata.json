@@ -1,11 +1,11 @@
 {
   "name": "meeting-noter",
-  "version": "0.5.1",
+  "version": "1.0.0",
   "summary": "Offline meeting transcription for macOS with automatic meeting detection",
   "author": "Victor",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meeting_noter-0.5.1.tar.gz",
-  "download_time": "2026-01-30T15:03:44.263696",
+  "download_filename": "meeting_noter-1.0.0.tar.gz",
+  "download_time": "2026-01-31T15:19:08.317780",
   "package_url": "https://pypi.org/project/meeting-noter/"
 }

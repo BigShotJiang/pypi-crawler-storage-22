@@ -1,0 +1,11 @@
+{
+  "name": "newwave",
+  "version": "0.1.0",
+  "summary": "Drop-in replacement for Pythons wave.py",
+  "author": "Michiel W. Beijen, Antoine Pitrou, Benjamin Peterson, Brett Cannon, Brian Curtin, Collin Winter, Fred Drake, Georg Brandl, Guido van Rossum, Jeremy Hylton, Jesus Cea, Mark Dickinson, Martin Panter, Michael Haas, Neal Norwitz, R David Murray, Serhiy Storchaka, Skip Montanaro, Steve Dower, Thomas Wouters, Tim Peters, Victor Stinner, Walter Dörwald, Yusuke Kadowaki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "newwave-0.1.0.tar.gz",
+  "download_time": "2026-01-31T15:19:05.374993",
+  "package_url": "https://pypi.org/project/newwave/"
+}

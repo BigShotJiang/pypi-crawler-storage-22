@@ -1,0 +1,11 @@
+{
+  "name": "supertokens-python",
+  "version": "0.30.3",
+  "summary": "SuperTokens SDK for Python",
+  "author": "SuperTokens",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/supertokens/supertokens-python",
+  "download_filename": "supertokens_python-0.30.3.tar.gz",
+  "download_time": "2026-01-31T15:19:45.109843",
+  "package_url": "https://pypi.org/project/supertokens-python/"
+}

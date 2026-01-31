@@ -1,11 +1,11 @@
 {
   "name": "kcwmysql",
-  "version": "3.37",
+  "version": "3.38",
   "summary": "kcwmysql",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcwmysql-3.37.tar.gz",
-  "download_time": "2026-01-31T14:26:52.891985",
+  "download_filename": "kcwmysql-3.38.tar.gz",
+  "download_time": "2026-01-31T15:19:37.381059",
   "package_url": "https://pypi.org/project/kcwmysql/"
 }

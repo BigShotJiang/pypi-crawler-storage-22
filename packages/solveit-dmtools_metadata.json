@@ -1,0 +1,11 @@
+{
+  "name": "solveit-dmtools",
+  "version": "0.0.18",
+  "summary": "Personalized tools to add functionality to SolveIt",
+  "author": "Duane Milne",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/shuane/solveit_dmtools",
+  "download_filename": "solveit_dmtools-0.0.18.tar.gz",
+  "download_time": "2026-01-31T15:19:08.901296",
+  "package_url": "https://pypi.org/project/solveit-dmtools/"
+}

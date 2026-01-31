@@ -1,0 +1,11 @@
+{
+  "name": "batch-traceability-mock-recall",
+  "version": "0.1.0",
+  "summary": "Batch traceability and mock recall CLI tool (one step back / one step forward)",
+  "author": "Federico",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "batch_traceability_mock_recall-0.1.0.tar.gz",
+  "download_time": "2026-01-31T15:19:19.160481",
+  "package_url": "https://pypi.org/project/batch-traceability-mock-recall/"
+}
