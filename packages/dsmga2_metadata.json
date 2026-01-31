@@ -1,0 +1,11 @@
+{
+  "name": "dsmga2",
+  "version": "0.2.0",
+  "summary": "Dependency Structure Matrix Genetic Algorithm II - A fast genetic algorithm with linkage learning",
+  "author": "Po-Hsuan Lai",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/PoHsuanLai/dsmga2",
+  "download_filename": "dsmga2-0.2.0.tar.gz",
+  "download_time": "2026-01-31T22:48:18.801236",
+  "package_url": "https://pypi.org/project/dsmga2/"
+}

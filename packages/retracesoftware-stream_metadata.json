@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware-stream",
-  "version": "0.2.23",
+  "version": "0.2.25",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_stream-0.2.23-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-30T19:22:50.344940",
+  "download_filename": "retracesoftware_stream-0.2.25-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-31T22:48:52.276018",
   "package_url": "https://pypi.org/project/retracesoftware-stream/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pfst",
+  "version": "0.2.6",
+  "summary": "Format-preserving high level AST editing for Python 3.10+.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfst-0.2.6-py3-none-any.whl",
+  "download_time": "2026-01-31T22:48:41.588705",
+  "package_url": "https://pypi.org/project/pfst/"
+}

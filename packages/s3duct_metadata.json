@@ -1,11 +1,11 @@
 {
   "name": "s3duct",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Chunked, resumable, encrypted pipe to S3-compatible object storage",
   "author": "Site Reliability Enby",
   "license": null,
   "home_page": null,
-  "download_filename": "s3duct-0.3.0.tar.gz",
-  "download_time": "2026-01-31T21:17:58.122855",
+  "download_filename": "s3duct-0.3.1.tar.gz",
+  "download_time": "2026-01-31T22:49:00.989003",
   "package_url": "https://pypi.org/project/s3duct/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "otyg-risk-base",
+  "version": "1.2.1",
+  "summary": "Base classes for risk calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "otyg_risk_base-1.2.1.tar.gz",
+  "download_time": "2026-01-31T22:48:47.447451",
+  "package_url": "https://pypi.org/project/otyg-risk-base/"
+}

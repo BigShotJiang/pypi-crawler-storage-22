@@ -1,11 +1,11 @@
 {
   "name": "odoo-superior-mcp",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "MCP Server for Odoo Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_superior_mcp-1.1.0.tar.gz",
-  "download_time": "2026-01-31T20:48:24.434257",
+  "download_filename": "odoo_superior_mcp-1.1.2.tar.gz",
+  "download_time": "2026-01-31T22:48:21.069553",
   "package_url": "https://pypi.org/project/odoo-superior-mcp/"
 }

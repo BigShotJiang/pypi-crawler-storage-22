@@ -1,11 +1,11 @@
 {
   "name": "uht-dmslibrarian",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Extension of the UMIC-seq Pipeline - Complete pipeline for dictionary building and NGS count inetgration, with fitness calculations, error modelling and mutation analysis",
   "author": "Matt Penner",
   "license": "MIT",
   "home_page": "https://github.com/Matt115A/uht-DMSlibrarian-package",
-  "download_filename": "uht_dmslibrarian-0.2.5.tar.gz",
-  "download_time": "2026-01-31T21:55:53.392493",
+  "download_filename": "uht_dmslibrarian-0.2.7.tar.gz",
+  "download_time": "2026-01-31T22:48:22.207494",
   "package_url": "https://pypi.org/project/uht-dmslibrarian/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oehrpy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python SDK for openEHR with type-safe Reference Model classes, template builders, and EHRBase client",
   "author": "Open CIS Project",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oehrpy-0.1.0.tar.gz",
-  "download_time": "2026-01-31T18:30:32.827190",
+  "download_filename": "oehrpy-0.1.1.tar.gz",
+  "download_time": "2026-01-31T22:48:58.831937",
   "package_url": "https://pypi.org/project/oehrpy/"
 }

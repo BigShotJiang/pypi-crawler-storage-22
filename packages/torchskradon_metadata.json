@@ -1,0 +1,11 @@
+{
+  "name": "torchskradon",
+  "version": "0.1.1",
+  "summary": "A differentiable implementation of scikit-image's Radon transform and filtered backprojection in PyTorch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torchskradon-0.1.1.tar.gz",
+  "download_time": "2026-01-31T22:48:12.487266",
+  "package_url": "https://pypi.org/project/torchskradon/"
+}

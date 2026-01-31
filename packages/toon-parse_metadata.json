@@ -1,0 +1,11 @@
+{
+  "name": "toon-parse",
+  "version": "2.4.4",
+  "summary": "A powerful context reduction tool centered around converting data (JSON, YAML, XML, CSV) to the token-optimized TOON format for efficient LLM interactions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toon_parse-2.4.4.tar.gz",
+  "download_time": "2026-01-31T22:48:33.035460",
+  "package_url": "https://pypi.org/project/toon-parse/"
+}

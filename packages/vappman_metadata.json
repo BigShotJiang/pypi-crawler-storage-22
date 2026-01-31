@@ -1,11 +1,11 @@
 {
   "name": "vappman",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "summary": "A visual wrapper for appman",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vappman-2.1.3-py3-none-any.whl",
-  "download_time": "2026-01-31T20:48:42.246526",
+  "download_filename": "vappman-2.1.4-py3-none-any.whl",
+  "download_time": "2026-01-31T22:48:34.769508",
   "package_url": "https://pypi.org/project/vappman/"
 }

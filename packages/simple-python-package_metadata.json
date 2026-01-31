@@ -1,11 +1,11 @@
 {
   "name": "simple-python-package",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A project template for publication of simple Python packages to PyPI",
   "author": null,
   "license": "GPLv3",
   "home_page": null,
-  "download_filename": "simple_python_package-0.1.0.tar.gz",
-  "download_time": "2026-01-31T17:32:13.625201",
+  "download_filename": "simple_python_package-0.2.0.tar.gz",
+  "download_time": "2026-01-31T22:48:56.129777",
   "package_url": "https://pypi.org/project/simple-python-package/"
 }

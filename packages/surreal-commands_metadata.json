@@ -1,0 +1,11 @@
+{
+  "name": "surreal-commands",
+  "version": "1.3.1",
+  "summary": "A distributed task queue system similar to Celery, built with Python, SurrealDB, and LangChain",
+  "author": "Surreal Commands Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "surreal_commands-1.3.1.tar.gz",
+  "download_time": "2026-01-31T22:49:02.647241",
+  "package_url": "https://pypi.org/project/surreal-commands/"
+}

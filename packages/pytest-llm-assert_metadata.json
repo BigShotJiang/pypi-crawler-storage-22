@@ -1,0 +1,11 @@
+{
+  "name": "pytest-llm-assert",
+  "version": "0.1.0",
+  "summary": "Simple LLM-powered assertions for any pytest test",
+  "author": "Stefan Broenner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_llm_assert-0.1.0.tar.gz",
+  "download_time": "2026-01-31T22:48:24.527869",
+  "package_url": "https://pypi.org/project/pytest-llm-assert/"
+}
