@@ -1,11 +1,11 @@
 {
   "name": "bit-ttt-engine",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "1.58-bit Quantization + Test-Time Training (TTT) Implementation in Pure Rust",
   "author": "imonoonoko",
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "bit_ttt_engine-0.6.0.tar.gz",
-  "download_time": "2026-01-31T04:52:46.851501",
+  "home_page": "https://github.com/imonoonoko/Bit-TTT-Engine",
+  "download_filename": "bit_ttt_engine-0.6.1-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-01-31T05:36:03.061075",
   "package_url": "https://pypi.org/project/bit-ttt-engine/"
 }

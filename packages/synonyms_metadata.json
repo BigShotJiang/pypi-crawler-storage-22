@@ -1,0 +1,11 @@
+{
+  "name": "synonyms",
+  "version": "3.24.0",
+  "summary": "中文近义词：聊天机器人，智能问答工具包；Chinese Synonyms for Natural Language Processing and Understanding",
+  "author": "Hai Liang Wang, Hu Ying Xi",
+  "license": "Chunsong Public License, version 1.0",
+  "home_page": "https://github.com/chatopera/Synonyms",
+  "download_filename": "synonyms-3.24.0.tar.gz",
+  "download_time": "2026-01-31T05:36:11.453630",
+  "package_url": "https://pypi.org/project/synonyms/"
+}

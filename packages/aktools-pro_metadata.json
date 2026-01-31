@@ -1,11 +1,11 @@
 {
   "name": "aktools-pro",
-  "version": "0.3.2",
+  "version": "0.5.0",
   "summary": "MCP Server for stock and crypto",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aktools_pro-0.3.2.tar.gz",
-  "download_time": "2026-01-29T09:47:24.058701",
+  "download_filename": "aktools_pro-0.5.0.tar.gz",
+  "download_time": "2026-01-31T05:35:53.553279",
   "package_url": "https://pypi.org/project/aktools-pro/"
 }

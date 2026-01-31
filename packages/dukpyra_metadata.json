@@ -1,0 +1,11 @@
+{
+  "name": "dukpyra",
+  "version": "0.3.0",
+  "summary": "Python → C# Backend Framework Compiler with Runtime Type Collection",
+  "author": "Dukpyra Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/dukpyra",
+  "download_filename": "dukpyra-0.3.0.tar.gz",
+  "download_time": "2026-01-31T05:35:57.839096",
+  "package_url": "https://pypi.org/project/dukpyra/"
+}

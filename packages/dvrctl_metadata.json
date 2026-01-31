@@ -1,0 +1,11 @@
+{
+  "name": "dvrctl",
+  "version": "0.2.0",
+  "summary": "DaVinci Resolve Control Package",
+  "author": "LoveinYuu",
+  "license": "Proprietary",
+  "home_page": "https://github.com/LoveinYuu/dvrctl",
+  "download_filename": "dvrctl-0.2.0.tar.gz",
+  "download_time": "2026-01-31T05:35:55.114102",
+  "package_url": "https://pypi.org/project/dvrctl/"
+}
