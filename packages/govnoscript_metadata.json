@@ -1,11 +1,11 @@
 {
   "name": "govnoscript",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A simple scripting language for computer control",
   "author": "dertfin1",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "govnoscript-1.0.1.tar.gz",
-  "download_time": "2026-01-31T09:50:55.833353",
+  "download_filename": "govnoscript-1.0.2.tar.gz",
+  "download_time": "2026-01-31T10:19:58.169683",
   "package_url": "https://pypi.org/project/govnoscript/"
 }

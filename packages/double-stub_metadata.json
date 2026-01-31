@@ -1,0 +1,11 @@
+{
+  "name": "double-stub",
+  "version": "2.5.0",
+  "summary": "Double-stub impedance matching calculator for RF/microwave engineering",
+  "author": "Efren Rodriguez Rodriguez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "double_stub-2.5.0.tar.gz",
+  "download_time": "2026-01-31T10:19:50.384969",
+  "package_url": "https://pypi.org/project/double-stub/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cal-gitlab-mirror",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A tool to mirror GitLab repositories between two GitLab instances",
   "author": "Cyber Assessment Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "cal_gitlab_mirror-0.1.0-py3-none-any.whl",
-  "download_time": "2026-01-30T23:21:46.854986",
+  "download_filename": "cal_gitlab_mirror-0.2.0-py3-none-any.whl",
+  "download_time": "2026-01-31T10:19:59.206636",
   "package_url": "https://pypi.org/project/cal-gitlab-mirror/"
 }

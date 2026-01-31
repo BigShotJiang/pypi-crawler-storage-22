@@ -1,0 +1,11 @@
+{
+  "name": "oscura",
+  "version": "0.8.0",
+  "summary": "Unified hardware reverse engineering framework. Extract all information from any system through signals and data. Unknown protocol discovery, state machine extraction, CRC recovery, security analysis. 16+ protocols, IEEE-compliant measurements.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "oscura-0.8.0-py3-none-any.whl",
+  "download_time": "2026-01-31T10:19:42.460581",
+  "package_url": "https://pypi.org/project/oscura/"
+}
