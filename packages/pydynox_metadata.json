@@ -1,11 +1,11 @@
 {
   "name": "pydynox",
-  "version": "0.22.0",
+  "version": "0.24.0",
   "summary": "A fast DynamoDB ORM for Python with a Rust core",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://github.com/ferrumio/pydynox",
-  "download_filename": "pydynox-0.22.0.tar.gz",
-  "download_time": "2026-01-29T11:52:12.642622",
+  "download_filename": "pydynox-0.24.0.tar.gz",
+  "download_time": "2026-01-31T15:46:39.789095",
   "package_url": "https://pypi.org/project/pydynox/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "avatarkit",
+  "version": "0.1.3",
+  "summary": "Python SDK for avatar WebSocket services with audio streaming and animation frame reception",
+  "author": "3DRX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "avatarkit-0.1.3.tar.gz",
+  "download_time": "2026-01-31T15:46:21.585564",
+  "package_url": "https://pypi.org/project/avatarkit/"
+}

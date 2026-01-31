@@ -1,0 +1,11 @@
+{
+  "name": "cross-compile-tool",
+  "version": "0.1.2",
+  "summary": "A generic fast cross-compilation tool using Docker and Sysroots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cross_compile_tool-0.1.2.tar.gz",
+  "download_time": "2026-01-31T15:46:41.906051",
+  "package_url": "https://pypi.org/project/cross-compile-tool/"
+}

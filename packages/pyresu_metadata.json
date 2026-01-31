@@ -1,0 +1,11 @@
+{
+  "name": "pyresu",
+  "version": "0.1.0",
+  "summary": "Rectified Spectral Units (ReSU) implementation based on Qin et al. (2025)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyresu-0.1.0.tar.gz",
+  "download_time": "2026-01-31T15:46:52.180197",
+  "package_url": "https://pypi.org/project/pyresu/"
+}

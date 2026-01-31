@@ -1,0 +1,11 @@
+{
+  "name": "idr-tools",
+  "version": "0.1.0",
+  "summary": "Create Implementation Decision Records",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "idr_tools-0.1.0.tar.gz",
+  "download_time": "2026-01-31T15:46:47.553743",
+  "package_url": "https://pypi.org/project/idr-tools/"
+}
