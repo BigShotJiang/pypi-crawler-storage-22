@@ -1,15 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-31T08:54:36.158037
-- **Total Packages**: 80
-- **Total Size**: 32.98 MB
+- **Download Time**: 2026-01-31T09:24:11.020646
+- **Total Packages**: 81
+- **Total Size**: 7.46 MB
 
 ## Packages List
-- linuxmole
-- risk-mirror
-- uiprotect
-- mysql-to-sheets
 - pydevccu
 - dspy-stcc-homecare
 - sigma-terminal
@@ -38,6 +34,7 @@
 - PraisonAI
 - cailculator-mcp
 - wildberries-sdk
+- linuxmole
 - emerge
 - doti18n
 - indic-transliteration
@@ -86,3 +83,7 @@
 - zombie-escape
 - moonlight-ai
 - PyHDFS
+- mdb-engine
+- specular-ai
+- kiarina-utils-file
+- kiarina-utils-common
