@@ -1,0 +1,11 @@
+{
+  "name": "simplepyble",
+  "version": "0.10.4",
+  "summary": "The ultimate fully-fledged cross-platform BLE library, designed for simplicity and ease of use.",
+  "author": "Kevin Dewald",
+  "license": null,
+  "home_page": "https://github.com/simpleble/simpleble",
+  "download_filename": "simplepyble-0.10.4.tar.gz",
+  "download_time": "2026-01-31T07:32:52.644958",
+  "package_url": "https://pypi.org/project/simplepyble/"
+}

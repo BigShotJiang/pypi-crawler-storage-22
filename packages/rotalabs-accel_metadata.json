@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-accel",
+  "version": "1.0.0",
+  "summary": "High-performance inference acceleration with Triton kernels, quantization, and speculative decoding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_accel-1.0.0.tar.gz",
+  "download_time": "2026-01-31T07:32:43.554083",
+  "package_url": "https://pypi.org/project/rotalabs-accel/"
+}

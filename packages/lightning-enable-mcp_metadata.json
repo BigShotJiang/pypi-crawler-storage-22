@@ -1,11 +1,11 @@
 {
   "name": "lightning-enable-mcp",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "summary": "MCP server for L402 Lightning payments - access paid APIs with AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lightning_enable_mcp-1.3.0.tar.gz",
-  "download_time": "2026-01-31T05:36:06.186475",
+  "download_filename": "lightning_enable_mcp-1.3.1.tar.gz",
+  "download_time": "2026-01-31T07:32:30.484966",
   "package_url": "https://pypi.org/project/lightning-enable-mcp/"
 }

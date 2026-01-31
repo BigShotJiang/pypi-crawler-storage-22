@@ -1,0 +1,11 @@
+{
+  "name": "allensrj-cdisc-library-mcp",
+  "version": "0.1.0",
+  "summary": "CDISC Library MCP server: SDTM, ADaM, CDASH, Controlled Terminology tools for AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "allensrj_cdisc_library_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-31T07:32:23.210305",
+  "package_url": "https://pypi.org/project/allensrj-cdisc-library-mcp/"
+}

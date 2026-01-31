@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-steer",
+  "version": "1.0.0",
+  "summary": "Control agent behaviors through activation steering - Apply steering vectors to LLMs at inference time without retraining",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_steer-1.0.0.tar.gz",
+  "download_time": "2026-01-31T07:32:38.783190",
+  "package_url": "https://pypi.org/project/rotalabs-steer/"
+}

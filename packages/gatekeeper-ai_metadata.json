@@ -1,0 +1,11 @@
+{
+  "name": "gatekeeper-ai",
+  "version": "0.1.0",
+  "summary": "Deterministic code governance and enforcement",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gatekeeper_ai-0.1.0.tar.gz",
+  "download_time": "2026-01-31T07:32:24.759869",
+  "package_url": "https://pypi.org/project/gatekeeper-ai/"
+}

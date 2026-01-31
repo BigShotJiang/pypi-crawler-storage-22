@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-probe",
+  "version": "1.0.0",
+  "summary": "Sandbagging detection via activation probes - Detects when AI systems deliberately underperform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_probe-1.0.0.tar.gz",
+  "download_time": "2026-01-31T07:32:39.845650",
+  "package_url": "https://pypi.org/project/rotalabs-probe/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rotalabs-verity",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "summary": "Verity: Neuro-symbolic synthesis of verified code using Z3 and LLMs with CE2P feedback",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rotalabs_verity-0.1.0.tar.gz",
-  "download_time": "2026-01-31T05:35:48.357364",
+  "download_filename": "rotalabs_verity-1.0.0.tar.gz",
+  "download_time": "2026-01-31T07:32:38.252158",
   "package_url": "https://pypi.org/project/rotalabs-verity/"
 }

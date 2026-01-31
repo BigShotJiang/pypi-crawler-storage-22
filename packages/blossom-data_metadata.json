@@ -1,0 +1,11 @@
+{
+  "name": "blossom-data",
+  "version": "0.5.1",
+  "summary": "A simple way to synthesize LLM training data.",
+  "author": "Azure99",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure99/BlossomData",
+  "download_filename": "blossom_data-0.5.1.tar.gz",
+  "download_time": "2026-01-31T07:32:26.310745",
+  "package_url": "https://pypi.org/project/blossom-data/"
+}

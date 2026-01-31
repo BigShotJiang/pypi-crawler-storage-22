@@ -1,11 +1,11 @@
 {
   "name": "mdb-engine",
-  "version": "0.4.8",
+  "version": "0.4.10",
   "summary": "MongoDB Engine",
   "author": "Fabian Valle",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ranfysvalle02/mdb-engine",
-  "download_filename": "mdb_engine-0.4.8.tar.gz",
-  "download_time": "2026-01-31T06:59:59.426975",
+  "download_filename": "mdb_engine-0.4.10.tar.gz",
+  "download_time": "2026-01-31T07:32:19.007641",
   "package_url": "https://pypi.org/project/mdb-engine/"
 }
