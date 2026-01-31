@@ -1,0 +1,11 @@
+{
+  "name": "dynamics-engine",
+  "version": "1.0.0",
+  "summary": "Cognitive Dynamics Engine - Entropy, Core Strength, Rotational Torque",
+  "author": "GNJz (Qquarts)",
+  "license": null,
+  "home_page": "https://github.com/gnjz/dynamics-engine",
+  "download_filename": "dynamics_engine-1.0.0.tar.gz",
+  "download_time": "2026-01-31T09:50:55.296710",
+  "package_url": "https://pypi.org/project/dynamics-engine/"
+}

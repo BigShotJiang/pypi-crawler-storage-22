@@ -1,0 +1,11 @@
+{
+  "name": "louati-mahdi-analytics",
+  "version": "1.0.2",
+  "summary": "A powerful SQL-like query language for Data, Stats, Causal AI, and Plotly Viz.",
+  "author": "Louati Mahdi",
+  "license": null,
+  "home_page": "https://github.com/mahdi123-tech",
+  "download_filename": "louati_mahdi_analytics-1.0.2.tar.gz",
+  "download_time": "2026-01-31T09:50:57.587317",
+  "package_url": "https://pypi.org/project/louati-mahdi-analytics/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "debug-helpers",
+  "version": "0.4.2",
+  "summary": "一个简单的 Python 调试辅助工具包",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "debug_helpers-0.4.2.tar.gz",
+  "download_time": "2026-01-31T09:51:01.010892",
+  "package_url": "https://pypi.org/project/debug-helpers/"
+}

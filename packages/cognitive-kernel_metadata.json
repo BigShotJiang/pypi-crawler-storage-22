@@ -1,11 +1,11 @@
 {
   "name": "cognitive-kernel",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "summary": "Minimal, verifiable implementation of persistent long-term memory for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cognitive_kernel-2.0.0.tar.gz",
-  "download_time": "2026-01-29T16:00:35.123621",
+  "download_filename": "cognitive_kernel-2.0.2.tar.gz",
+  "download_time": "2026-01-31T09:50:56.371685",
   "package_url": "https://pypi.org/project/cognitive-kernel/"
 }

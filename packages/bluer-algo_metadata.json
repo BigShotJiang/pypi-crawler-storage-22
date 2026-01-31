@@ -1,11 +1,11 @@
 {
   "name": "bluer-algo",
-  "version": "4.670.1",
+  "version": "4.676.1",
   "summary": "🪄 AI Algo.",
   "author": "Arash Abadpour (Kamangir)",
   "license": "CC0-1.0",
   "home_page": "https://github.com/kamangir/bluer-algo",
-  "download_filename": "bluer_algo-4.670.1.tar.gz",
-  "download_time": "2026-01-29T14:36:49.695904",
+  "download_filename": "bluer_algo-4.676.1.tar.gz",
+  "download_time": "2026-01-31T09:51:13.350388",
   "package_url": "https://pypi.org/project/bluer-algo/"
 }

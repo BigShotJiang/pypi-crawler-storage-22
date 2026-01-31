@@ -1,0 +1,11 @@
+{
+  "name": "lldb-mcp-server",
+  "version": "0.3.0",
+  "summary": "AI-powered C/C++ debugger via LLDB and Model Context Protocol. 40 debugging tools for Claude Code and Claude Desktop.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lldb_mcp_server-0.3.0.tar.gz",
+  "download_time": "2026-01-31T09:51:17.225015",
+  "package_url": "https://pypi.org/project/lldb-mcp-server/"
+}

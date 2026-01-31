@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-stock-cost-update",
+  "version": "16.0.1.0.1",
+  "summary": "Allows to update valuation layers once the purchase is received",
+  "author": "Moduon, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_stock_cost_update-16.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-01-31T09:50:58.661782",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-stock-cost-update/"
+}

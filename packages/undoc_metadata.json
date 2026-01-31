@@ -1,0 +1,11 @@
+{
+  "name": "undoc",
+  "version": "0.1.13",
+  "summary": "High-performance Microsoft Office document extraction to Markdown",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "undoc-0.1.13-py3-none-any.whl",
+  "download_time": "2026-01-31T09:50:57.050629",
+  "package_url": "https://pypi.org/project/undoc/"
+}

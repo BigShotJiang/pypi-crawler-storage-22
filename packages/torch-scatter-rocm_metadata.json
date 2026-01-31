@@ -1,0 +1,11 @@
+{
+  "name": "torch-scatter-rocm",
+  "version": "2.1.2.post2",
+  "summary": "PyTorch Extension Library of Optimized Scatter Operations (ROCm Build)",
+  "author": "Looong",
+  "license": "MIT",
+  "home_page": "https://github.com/Looong01/pyg-rocm-build",
+  "download_filename": "torch_scatter_rocm-2.1.2.post2-cp310-cp310-manylinux_2_32_x86_64.whl",
+  "download_time": "2026-01-31T09:51:03.482327",
+  "package_url": "https://pypi.org/project/torch-scatter-rocm/"
+}

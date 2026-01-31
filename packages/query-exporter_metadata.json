@@ -1,0 +1,11 @@
+{
+  "name": "query-exporter",
+  "version": "4.0.1",
+  "summary": "Export Prometheus metrics generated from SQL queries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "query_exporter-4.0.1.tar.gz",
+  "download_time": "2026-01-31T09:51:18.794888",
+  "package_url": "https://pypi.org/project/query-exporter/"
+}

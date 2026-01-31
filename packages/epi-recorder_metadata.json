@@ -1,0 +1,11 @@
+{
+  "name": "epi-recorder",
+  "version": "2.2.0",
+  "summary": "The Flight Recorder for AI Agents. Debug LangChain & CrewAI with execution tracing.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "epi_recorder-2.2.0.tar.gz",
+  "download_time": "2026-01-31T09:51:21.509028",
+  "package_url": "https://pypi.org/project/epi-recorder/"
+}
