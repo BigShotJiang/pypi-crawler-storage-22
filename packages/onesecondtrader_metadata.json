@@ -1,11 +1,11 @@
 {
   "name": "onesecondtrader",
-  "version": "0.45.0",
+  "version": "0.48.0",
   "summary": "The Trading Infrastructure Toolkit for Python. Research, simulate, and deploy algorithmic trading strategies — all in one place.",
   "author": "Nils P. Kujath",
   "license": null,
   "home_page": null,
-  "download_filename": "onesecondtrader-0.45.0.tar.gz",
-  "download_time": "2026-01-30T17:58:36.037803",
+  "download_filename": "onesecondtrader-0.48.0.tar.gz",
+  "download_time": "2026-01-31T17:57:56.871771",
   "package_url": "https://pypi.org/project/onesecondtrader/"
 }

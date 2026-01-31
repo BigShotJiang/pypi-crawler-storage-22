@@ -1,0 +1,11 @@
+{
+  "name": "pycodify",
+  "version": "0.1.2",
+  "summary": "Python source code as a serialization format with automatic import resolution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pycodify-0.1.2.tar.gz",
+  "download_time": "2026-01-31T17:57:32.589115",
+  "package_url": "https://pypi.org/project/pycodify/"
+}

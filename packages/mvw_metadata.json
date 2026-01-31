@@ -1,11 +1,11 @@
 {
   "name": "mvw",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "CLI commands to catalogue all your movie reviews",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mvw-0.5.2.tar.gz",
-  "download_time": "2026-01-31T17:01:39.927687",
+  "download_filename": "mvw-0.5.3.tar.gz",
+  "download_time": "2026-01-31T17:57:54.302359",
   "package_url": "https://pypi.org/project/mvw/"
 }

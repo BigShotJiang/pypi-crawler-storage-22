@@ -1,11 +1,11 @@
 {
   "name": "planer-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "CLI tool for Microsoft Planner - manage plans, tasks, and buckets",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "planer_cli-0.1.0.tar.gz",
-  "download_time": "2026-01-31T17:32:07.407826",
+  "download_filename": "planer_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-31T17:57:36.700001",
   "package_url": "https://pypi.org/project/planer-cli/"
 }

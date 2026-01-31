@@ -1,11 +1,11 @@
 {
   "name": "queus",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Python queue",
   "author": "Clinton Abraham",
   "license": null,
   "home_page": "https://github.com/Clinton-Abraham",
-  "download_filename": "queus-0.0.2.tar.gz",
-  "download_time": "2026-01-28T19:50:25.398145",
+  "download_filename": "queus-0.0.3.tar.gz",
+  "download_time": "2026-01-31T17:57:41.326519",
   "package_url": "https://pypi.org/project/queus/"
 }

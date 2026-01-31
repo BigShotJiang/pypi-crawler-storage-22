@@ -1,0 +1,11 @@
+{
+  "name": "armor-mcp",
+  "version": "0.1.0",
+  "summary": "AnomalyArmor MCP Server - Data observability tools for AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "armor_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-31T17:57:44.950026",
+  "package_url": "https://pypi.org/project/armor-mcp/"
+}

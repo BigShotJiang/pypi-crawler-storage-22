@@ -1,0 +1,11 @@
+{
+  "name": "aegis-sdk",
+  "version": "0.2.0",
+  "summary": "On-premise PII detection and masking for AI applications",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "aegis_sdk-0.2.0.tar.gz",
+  "download_time": "2026-01-31T17:57:45.977395",
+  "package_url": "https://pypi.org/project/aegis-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arraybridge",
+  "version": "0.2.9",
+  "summary": "Unified API for NumPy, CuPy, PyTorch, TensorFlow, JAX, and pyclesperanto with automatic memory type conversion",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arraybridge-0.2.9.tar.gz",
+  "download_time": "2026-01-31T17:57:30.541080",
+  "package_url": "https://pypi.org/project/arraybridge/"
+}

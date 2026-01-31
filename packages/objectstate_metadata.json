@@ -1,0 +1,11 @@
+{
+  "name": "objectstate",
+  "version": "1.0.6",
+  "summary": "Generic lazy dataclass configuration framework with dual-axis inheritance and contextvars-based resolution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "objectstate-1.0.6.tar.gz",
+  "download_time": "2026-01-31T17:57:31.565723",
+  "package_url": "https://pypi.org/project/objectstate/"
+}

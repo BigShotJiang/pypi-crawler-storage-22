@@ -1,0 +1,11 @@
+{
+  "name": "gizai",
+  "version": "7.341.1",
+  "summary": "🔻 Access, Automation, Analytics, AI - A Mathematical model for AI languages.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/giza",
+  "download_filename": "gizai-7.341.1.tar.gz",
+  "download_time": "2026-01-31T17:57:39.271707",
+  "package_url": "https://pypi.org/project/gizai/"
+}

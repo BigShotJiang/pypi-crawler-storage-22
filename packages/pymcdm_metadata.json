@@ -1,0 +1,11 @@
+{
+  "name": "pymcdm",
+  "version": "1.4.0",
+  "summary": "Python library for Multi-Criteria Decision-Making",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymcdm-1.4.0.tar.gz",
+  "download_time": "2026-01-31T17:58:01.542563",
+  "package_url": "https://pypi.org/project/pymcdm/"
+}
