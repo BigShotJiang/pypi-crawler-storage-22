@@ -1,0 +1,11 @@
+{
+  "name": "nornir-validate",
+  "version": "0.3.1",
+  "summary": "Nornir plugin to validate network state on a per-device basis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nornir_validate-0.3.1.tar.gz",
+  "download_time": "2026-01-31T19:21:23.420551",
+  "package_url": "https://pypi.org/project/nornir-validate/"
+}

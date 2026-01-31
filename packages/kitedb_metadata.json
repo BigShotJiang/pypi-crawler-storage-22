@@ -5,7 +5,7 @@
   "author": "KiteDB Contributors",
   "license": "MIT",
   "home_page": "https://github.com/mask-software/kitedb",
-  "download_filename": "kitedb-0.2.6-cp310-cp310-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-31T18:58:12.816604",
+  "download_filename": "kitedb-0.2.6.tar.gz",
+  "download_time": "2026-01-31T19:21:50.518044",
   "package_url": "https://pypi.org/project/kitedb/"
 }

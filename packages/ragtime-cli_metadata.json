@@ -1,11 +1,11 @@
 {
   "name": "ragtime-cli",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Local-first memory and RAG system for Claude Code - semantic search over code, docs, and team knowledge",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ragtime_cli-0.2.1.tar.gz",
-  "download_time": "2026-01-31T18:58:06.764236",
+  "download_filename": "ragtime_cli-0.2.2.tar.gz",
+  "download_time": "2026-01-31T19:21:26.466022",
   "package_url": "https://pypi.org/project/ragtime-cli/"
 }

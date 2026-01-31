@@ -1,0 +1,11 @@
+{
+  "name": "dpbench",
+  "version": "0.1.0",
+  "summary": "DPBench: A Benchmark for LLM Multi-Agent Coordination",
+  "author": "Najmul Hasan, Prashanth BusiReddyGari",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dpbench-0.1.0.tar.gz",
+  "download_time": "2026-01-31T19:21:17.212302",
+  "package_url": "https://pypi.org/project/dpbench/"
+}

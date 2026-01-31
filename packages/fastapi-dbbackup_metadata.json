@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-dbbackup",
+  "version": "0.1.1",
+  "summary": "Database-native backup tool for FastAPI and SQLAlchemy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_dbbackup-0.1.1.tar.gz",
+  "download_time": "2026-01-31T19:21:33.041196",
+  "package_url": "https://pypi.org/project/fastapi-dbbackup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-substitute-plugin",
+  "version": "0.0.13",
+  "summary": "Package for Text/Element Replacements in mkdocs used with the Material Theme",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_substitute_plugin-0.0.13.tar.gz",
+  "download_time": "2026-01-31T19:21:43.212272",
+  "package_url": "https://pypi.org/project/mkdocs-substitute-plugin/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "greenmining",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "summary": "An empirical Python library for Mining Software Repositories (MSR) in Green IT research",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "greenmining-1.1.9.tar.gz",
-  "download_time": "2026-01-31T15:46:37.673040",
+  "download_filename": "greenmining-1.2.0.tar.gz",
+  "download_time": "2026-01-31T19:21:38.168021",
   "package_url": "https://pypi.org/project/greenmining/"
 }
