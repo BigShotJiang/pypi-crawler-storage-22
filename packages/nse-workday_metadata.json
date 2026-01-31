@@ -1,0 +1,11 @@
+{
+  "name": "nse-workday",
+  "version": "0.0.9",
+  "summary": "For Calculating days based on NSE Holidays(2010-2025)",
+  "author": "Tapan Hazarika",
+  "license": null,
+  "home_page": "https://github.com/Tapanhaz/nse_workday",
+  "download_filename": "nse_workday-0.0.9.tar.gz",
+  "download_time": "2026-01-31T19:42:12.698135",
+  "package_url": "https://pypi.org/project/nse-workday/"
+}

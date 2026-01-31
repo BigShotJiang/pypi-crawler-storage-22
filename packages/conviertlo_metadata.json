@@ -1,0 +1,11 @@
+{
+  "name": "conviertlo",
+  "version": "0.2.0",
+  "summary": "A TUI tool for converting/compressing media files using FFMPEG and GitHub Copilot",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "conviertlo-0.2.0.tar.gz",
+  "download_time": "2026-01-31T19:42:26.384809",
+  "package_url": "https://pypi.org/project/conviertlo/"
+}

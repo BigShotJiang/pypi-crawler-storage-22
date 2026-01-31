@@ -1,0 +1,11 @@
+{
+  "name": "wirepod-vector-sdk-audio",
+  "version": "0.9.0",
+  "summary": "Vector SDK with real-time audio streaming support via wirepod websocket API.",
+  "author": "Anki, Inc",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/kercre123/wirepod-vector-python-sdk",
+  "download_filename": "wirepod_vector_sdk_audio-0.9.0.tar.gz",
+  "download_time": "2026-01-31T19:42:07.467045",
+  "package_url": "https://pypi.org/project/wirepod-vector-sdk-audio/"
+}

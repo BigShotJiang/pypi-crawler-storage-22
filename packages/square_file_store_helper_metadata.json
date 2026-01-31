@@ -1,0 +1,11 @@
+{
+  "name": "square_file_store_helper",
+  "version": "3.1.1",
+  "summary": "helper to access the file store layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_file_store_helper-3.1.1.tar.gz",
+  "download_time": "2026-01-31T19:42:20.074949",
+  "package_url": "https://pypi.org/project/square_file_store_helper/"
+}

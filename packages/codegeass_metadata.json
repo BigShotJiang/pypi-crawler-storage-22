@@ -1,11 +1,11 @@
 {
   "name": "codegeass",
-  "version": "0.2.6",
-  "summary": "Claude Code Scheduler Framework - Orchestrate automated Claude Code sessions",
+  "version": "0.2.8",
+  "summary": "Task orchestration for AI coding agents - scheduling, skills, approvals, and monitoring",
   "author": "DonTizi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codegeass-0.2.6.tar.gz",
-  "download_time": "2026-01-31T18:58:23.483432",
+  "download_filename": "codegeass-0.2.8.tar.gz",
+  "download_time": "2026-01-31T19:41:54.547300",
   "package_url": "https://pypi.org/project/codegeass/"
 }

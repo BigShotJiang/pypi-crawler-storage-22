@@ -1,0 +1,11 @@
+{
+  "name": "rheoscale",
+  "version": "0.1.0",
+  "summary": "RheoScale implementation for DMS analysis",
+  "author": "Carter Gray, Liskin Swint-Kruse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rheoscale-0.1.0.tar.gz",
+  "download_time": "2026-01-31T19:42:08.522266",
+  "package_url": "https://pypi.org/project/rheoscale/"
+}

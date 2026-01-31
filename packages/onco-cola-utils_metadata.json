@@ -1,11 +1,11 @@
 {
   "name": "onco-cola-utils",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "Мой сборник различных утилит для работы с файлами",
   "author": "Volodin Alexandr Sergeevich",
   "license": "MIT",
   "home_page": "https://t.me/hitomamoru",
-  "download_filename": "onco_cola_utils-0.7.1.tar.gz",
-  "download_time": "2026-01-31T17:31:56.964733",
+  "download_filename": "onco_cola_utils-0.7.2.tar.gz",
+  "download_time": "2026-01-31T19:42:21.115617",
   "package_url": "https://pypi.org/project/onco-cola-utils/"
 }

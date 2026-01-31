@@ -1,0 +1,11 @@
+{
+  "name": "celldetective",
+  "version": "1.4.1.post1",
+  "summary": "description",
+  "author": "Rémy Torro",
+  "license": "GPL-3.0",
+  "home_page": "http://github.com/remyeltorro/celldetective",
+  "download_filename": "celldetective-1.4.1.post1.tar.gz",
+  "download_time": "2026-01-31T19:41:55.110587",
+  "package_url": "https://pypi.org/project/celldetective/"
+}

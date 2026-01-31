@@ -1,0 +1,11 @@
+{
+  "name": "mutalyzer-retriever",
+  "version": "0.5.2",
+  "summary": "Mutalyzer genomic reference retriever.",
+  "author": "Mihai Lefter",
+  "license": "MIT",
+  "home_page": "https://github.com/mutalyzer/retriever",
+  "download_filename": "mutalyzer_retriever-0.5.2.tar.gz",
+  "download_time": "2026-01-31T19:42:12.175827",
+  "package_url": "https://pypi.org/project/mutalyzer-retriever/"
+}
