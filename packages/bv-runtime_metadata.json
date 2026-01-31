@@ -1,11 +1,11 @@
 {
   "name": "bv-runtime",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Runtime SDK for Bot Velocity automations",
   "author": "Bot Velocity Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "bv_runtime-0.2.5.tar.gz",
-  "download_time": "2026-01-31T05:36:05.667610",
+  "download_filename": "bv_runtime-0.2.6.tar.gz",
+  "download_time": "2026-01-31T06:05:21.671391",
   "package_url": "https://pypi.org/project/bv-runtime/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "noie-nds-api",
+  "version": "3.0.3",
+  "summary": "NDS Protocol Buffers types for Python (generated from nds-api/spec).",
+  "author": "Misty4119",
+  "license": null,
+  "home_page": null,
+  "download_filename": "noie_nds_api-3.0.3.tar.gz",
+  "download_time": "2026-01-31T06:05:24.086326",
+  "package_url": "https://pypi.org/project/noie-nds-api/"
+}

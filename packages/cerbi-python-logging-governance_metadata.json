@@ -1,0 +1,11 @@
+{
+  "name": "cerbi-python-logging-governance",
+  "version": "0.1.0a0",
+  "summary": "Cerbi governance runtime plugin for Python logging - PII redaction, scoring, and compliance",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cerbi_python_logging_governance-0.1.0a0.tar.gz",
+  "download_time": "2026-01-31T06:05:17.840374",
+  "package_url": "https://pypi.org/project/cerbi-python-logging-governance/"
+}
