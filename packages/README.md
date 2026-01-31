@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-31T08:25:27.439591
-- **Total Packages**: 82
-- **Total Size**: 14.91 MB
+- **Download Time**: 2026-01-31T08:54:36.158037
+- **Total Packages**: 80
+- **Total Size**: 32.98 MB
 
 ## Packages List
+- linuxmole
+- risk-mirror
+- uiprotect
+- mysql-to-sheets
+- pydevccu
+- dspy-stcc-homecare
+- sigma-terminal
+- nemati
+- LingerGRN
+- dycw-installer
+- agesuta
+- logging-hj3415
+- zpdatafetch
+- django-nepkit
+- pywingui
+- ocrmypdf
+- ara
+- hermes-client-python
+- likelihood
+- zrb
+- querycraft
+- scitex
+- pybind11-geobuf
+- archipy
+- Uranus-IDE
+- utf8-tokenizer
+- odoo-addon-delivery-state
+- xsmeteo
+- raxit-sdk
+- PraisonAI
+- cailculator-mcp
+- wildberries-sdk
+- emerge
+- doti18n
+- indic-transliteration
+- investormate
+- package-version-check-mcp
+- yamlgraph
+- praisonaiagents
+- feed2fedi
+- pygen-py
+- qwen3-rerank-trainer
+- doccmd
+- tree-sitter-matlab
 - qdesc
 - jleechanorg-pr-automation
 - arshai
@@ -14,7 +58,6 @@
 - gatekeeper-ai
 - codex-autorunner
 - pdql
-- raxit-sdk
 - pydantic-market-data
 - aiandme-cli
 - kmoe-manga-downloader
@@ -36,7 +79,6 @@
 - simplepyble
 - yta-parameters
 - justpipe
-- linuxmole
 - pyglove
 - codegeass
 - tf-models-nightly
@@ -44,47 +86,3 @@
 - zombie-escape
 - moonlight-ai
 - PyHDFS
-- mdb-engine
-- specular-ai
-- kiarina-utils-file
-- kiarina-utils-common
-- kiarina-llm
-- kiarina-lib-slack
-- kiarina-lib-redisearch
-- kiarina-lib-redis
-- kiarina-lib-openai
-- kiarina-lib-google-cloud-storage
-- kiarina-lib-google-auth
-- kiarina-lib-firebase-rtdb
-- kiarina-lib-firebase-auth
-- kiarina-lib-falkordb
-- kiarina-lib-cloudflare-d1
-- kiarina-lib-cloudflare-auth
-- kiarina-lib-anthropic
-- kiarina-i18n
-- kiarina-currency
-- kiarina
-- pixell-sdk
-- su_master_mind
-- ffseval
-- violit
-- picoflow
-- moltbook-poster
-- prosperparser
-- apecode
-- zvuk-music
-- interpreter-v2
-- effgen
-- logging-hj3415
-- krx-hj3415
-- allensrj-cdisc-library-mcp
-- corelp
-- yta-editor-parameters
-- cortexa
-- rootlp
-- embed_lab
-- dycw-installer
-- bloggy
-- vibeflux
-- portacode
-- mldeeptool

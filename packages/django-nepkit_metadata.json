@@ -1,0 +1,11 @@
+{
+  "name": "django-nepkit",
+  "version": "0.2.0",
+  "summary": "Django Nepali date, time, phone, and address fields with helpers.",
+  "author": "Sankalp Tharu",
+  "license": "MIT",
+  "home_page": "https://github.com/S4NKALP/django-nepkit",
+  "download_filename": "django_nepkit-0.2.0.tar.gz",
+  "download_time": "2026-01-31T08:54:00.640213",
+  "package_url": "https://pypi.org/project/django-nepkit/"
+}

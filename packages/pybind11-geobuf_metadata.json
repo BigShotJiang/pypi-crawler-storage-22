@@ -1,0 +1,11 @@
+{
+  "name": "pybind11-geobuf",
+  "version": "0.2.4",
+  "summary": "c++ geobuf with python binding",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybind11_geobuf-0.2.4.tar.gz",
+  "download_time": "2026-01-31T08:54:05.324681",
+  "package_url": "https://pypi.org/project/pybind11-geobuf/"
+}

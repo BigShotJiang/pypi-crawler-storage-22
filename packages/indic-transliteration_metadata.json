@@ -1,0 +1,11 @@
+{
+  "name": "indic-transliteration",
+  "version": "2.3.76",
+  "summary": "Transliteration tools to convert text in one indic script encoding to another",
+  "author": "Sanskrit programmers",
+  "license": "MIT",
+  "home_page": "https://github.com/indic-transliteration/indic_transliteration_py",
+  "download_filename": "indic_transliteration-2.3.76-py3-none-any.whl",
+  "download_time": "2026-01-31T08:54:12.058027",
+  "package_url": "https://pypi.org/project/indic-transliteration/"
+}

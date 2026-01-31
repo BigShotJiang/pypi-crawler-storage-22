@@ -1,0 +1,11 @@
+{
+  "name": "dspy-stcc-homecare",
+  "version": "2.0.0",
+  "summary": "DSPy extension for STCC medical triage with specialized nurses",
+  "author": "STCC Triage Agent Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dspy_stcc_homecare-2.0.0.tar.gz",
+  "download_time": "2026-01-31T08:53:56.549814",
+  "package_url": "https://pypi.org/project/dspy-stcc-homecare/"
+}

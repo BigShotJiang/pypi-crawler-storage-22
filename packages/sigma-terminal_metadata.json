@@ -1,11 +1,11 @@
 {
   "name": "sigma-terminal",
-  "version": "3.2.0",
+  "version": "3.3.0",
   "summary": "Sigma - Finance Research Agent",
   "author": "Sigma Team",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "sigma_terminal-3.2.0.tar.gz",
-  "download_time": "2026-01-31T07:56:30.364891",
+  "download_filename": "sigma_terminal-3.3.0.tar.gz",
+  "download_time": "2026-01-31T08:53:57.061568",
   "package_url": "https://pypi.org/project/sigma-terminal/"
 }
