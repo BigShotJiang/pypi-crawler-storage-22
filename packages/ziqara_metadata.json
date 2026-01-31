@@ -1,0 +1,11 @@
+{
+  "name": "ziqara",
+  "version": "0.1.1",
+  "summary": "Ziqara Python SDK - Enterprise AI with company knowledge",
+  "author": "Ziqara",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ziqara-0.1.1.tar.gz",
+  "download_time": "2026-01-31T04:52:44.197515",
+  "package_url": "https://pypi.org/project/ziqara/"
+}

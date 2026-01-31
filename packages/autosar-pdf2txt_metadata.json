@@ -1,0 +1,11 @@
+{
+  "name": "autosar-pdf2txt",
+  "version": "0.26.0",
+  "summary": "A Python package to extract AUTOSAR model from PDF files to markdown",
+  "author": "Melodypapa",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pdf2txt",
+  "download_filename": "autosar_pdf2txt-0.26.0.tar.gz",
+  "download_time": "2026-01-31T04:52:53.158996",
+  "package_url": "https://pypi.org/project/autosar-pdf2txt/"
+}

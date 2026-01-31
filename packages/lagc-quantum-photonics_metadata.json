@@ -1,11 +1,11 @@
 {
   "name": "lagc-quantum-photonics",
-  "version": "1.0.8",
+  "version": "1.1.4",
   "summary": "LossAware-GraphCompiler: CPU-only loss-aware quantum graph compiler for photonic quantum computing simulation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lagc_quantum_photonics-1.0.8.tar.gz",
-  "download_time": "2026-01-31T03:37:06.437333",
+  "download_filename": "lagc_quantum_photonics-1.1.4.tar.gz",
+  "download_time": "2026-01-31T04:52:43.152897",
   "package_url": "https://pypi.org/project/lagc-quantum-photonics/"
 }

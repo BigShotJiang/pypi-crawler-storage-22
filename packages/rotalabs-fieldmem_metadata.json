@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-fieldmem",
+  "version": "0.1.0",
+  "summary": "Field-Theoretic Memory System - PDE-based memory for AI agents with natural diffusion and thermodynamic forgetting",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_fieldmem-0.1.0.tar.gz",
+  "download_time": "2026-01-31T04:52:38.926055",
+  "package_url": "https://pypi.org/project/rotalabs-fieldmem/"
+}

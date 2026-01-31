@@ -1,0 +1,11 @@
+{
+  "name": "map2loop",
+  "version": "3.3.1",
+  "summary": "Generate 3D model data from 2D maps.",
+  "author": "Loop team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "map2loop-3.3.1.tar.gz",
+  "download_time": "2026-01-31T04:52:59.007678",
+  "package_url": "https://pypi.org/project/map2loop/"
+}

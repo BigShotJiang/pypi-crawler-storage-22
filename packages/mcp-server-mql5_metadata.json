@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-mql5",
+  "version": "0.1.2",
+  "summary": "A MCP server for MQL5 development: Compiles code locally via MetaEditor and searches official docs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_mql5-0.1.2.tar.gz",
+  "download_time": "2026-01-31T04:52:51.598884",
+  "package_url": "https://pypi.org/project/mcp-server-mql5/"
+}

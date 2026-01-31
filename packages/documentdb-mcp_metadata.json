@@ -1,0 +1,11 @@
+{
+  "name": "documentdb-mcp",
+  "version": "0.0.16",
+  "summary": "DocumentDB MCP Server & A2A Server. DocumentDB is a MongoDB compatible open source document database built on PostgreSQL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "documentdb_mcp-0.0.16.tar.gz",
+  "download_time": "2026-01-31T04:53:08.954501",
+  "package_url": "https://pypi.org/project/documentdb-mcp/"
+}

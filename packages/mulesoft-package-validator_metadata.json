@@ -1,0 +1,11 @@
+{
+  "name": "mulesoft-package-validator",
+  "version": "1.0.0",
+  "summary": "Comprehensive validation tool for MuleSoft projects",
+  "author": "Venkat",
+  "license": null,
+  "home_page": "https://github.com/venkat-training/mulesoft_package_validator",
+  "download_filename": "mulesoft_package_validator-1.0.0.tar.gz",
+  "download_time": "2026-01-31T04:53:01.592027",
+  "package_url": "https://pypi.org/project/mulesoft-package-validator/"
+}

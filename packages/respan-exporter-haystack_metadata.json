@@ -1,0 +1,11 @@
+{
+  "name": "respan-exporter-haystack",
+  "version": "1.0.0",
+  "summary": "Respan integration for Haystack pipelines with tracing and logging support",
+  "author": "Respan",
+  "license": "MIT",
+  "home_page": "https://respan.ai",
+  "download_filename": "respan_exporter_haystack-1.0.0.tar.gz",
+  "download_time": "2026-01-31T04:52:54.202890",
+  "package_url": "https://pypi.org/project/respan-exporter-haystack/"
+}

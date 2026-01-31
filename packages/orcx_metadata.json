@@ -1,0 +1,11 @@
+{
+  "name": "orcx",
+  "version": "0.0.6",
+  "summary": "LLM orchestrator - route prompts to any model via litellm",
+  "author": "Nick Russo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orcx-0.0.6.tar.gz",
+  "download_time": "2026-01-31T04:52:28.354073",
+  "package_url": "https://pypi.org/project/orcx/"
+}

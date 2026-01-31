@@ -1,11 +1,11 @@
 {
   "name": "bool-hybrid-array",
-  "version": "9.11.12",
+  "version": "9.11.13",
   "summary": "一个高效的布尔数组（密集+稀疏混合存储，节省内存）",
   "author": "蔡靖杰",
   "license": null,
   "home_page": "https://github.com/BKsell/bool-hybrid-array",
-  "download_filename": "bool_hybrid_array-9.11.12.tar.gz",
-  "download_time": "2026-01-31T03:36:59.886445",
+  "download_filename": "bool_hybrid_array-9.11.13.tar.gz",
+  "download_time": "2026-01-31T04:52:39.986828",
   "package_url": "https://pypi.org/project/bool-hybrid-array/"
 }
