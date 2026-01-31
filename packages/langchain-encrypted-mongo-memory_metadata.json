@@ -1,0 +1,11 @@
+{
+  "name": "langchain-encrypted-mongo-memory",
+  "version": "1.0.0",
+  "summary": "A secure, encrypted MongoDB chat memory for LangChain applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_encrypted_mongo_memory-1.0.0.tar.gz",
+  "download_time": "2026-01-31T17:01:18.412811",
+  "package_url": "https://pypi.org/project/langchain-encrypted-mongo-memory/"
+}

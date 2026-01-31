@@ -1,0 +1,11 @@
+{
+  "name": "env-repair",
+  "version": "0.2.2",
+  "summary": "Scan and repair conda/mamba/micromamba environments with mixed conda/pip installs.",
+  "author": "Tobias",
+  "license": null,
+  "home_page": null,
+  "download_filename": "env_repair-0.2.2.tar.gz",
+  "download_time": "2026-01-31T17:01:06.665193",
+  "package_url": "https://pypi.org/project/env-repair/"
+}

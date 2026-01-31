@@ -1,0 +1,11 @@
+{
+  "name": "tonies-api",
+  "version": "0.1.0",
+  "summary": "Asynchronous Python SDK for Tonies API and MQTT WebSocket",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tonies_api-0.1.0.tar.gz",
+  "download_time": "2026-01-31T17:01:38.338094",
+  "package_url": "https://pypi.org/project/tonies-api/"
+}

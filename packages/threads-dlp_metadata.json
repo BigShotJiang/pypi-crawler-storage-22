@@ -1,0 +1,11 @@
+{
+  "name": "threads-dlp",
+  "version": "1.0.3",
+  "summary": "CLI open-source pour télécharger des vidéos depuis Threads (Meta)",
+  "author": "nae.dev",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/nanaelie/threads-dlp",
+  "download_filename": "threads_dlp-1.0.3.tar.gz",
+  "download_time": "2026-01-31T17:01:22.033416",
+  "package_url": "https://pypi.org/project/threads-dlp/"
+}

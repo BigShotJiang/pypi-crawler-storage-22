@@ -1,0 +1,11 @@
+{
+  "name": "stelvio",
+  "version": "0.7.0b1",
+  "summary": "AWS for Python devs made simple.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "stelvio-0.7.0b1.tar.gz",
+  "download_time": "2026-01-31T17:01:28.865306",
+  "package_url": "https://pypi.org/project/stelvio/"
+}

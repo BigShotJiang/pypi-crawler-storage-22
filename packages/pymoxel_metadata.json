@@ -1,0 +1,11 @@
+{
+  "name": "pymoxel",
+  "version": "0.5.0.post0",
+  "summary": "Package for parallel calculation of energy voxels.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymoxel-0.5.0.post0.tar.gz",
+  "download_time": "2026-01-31T17:01:30.453261",
+  "package_url": "https://pypi.org/project/pymoxel/"
+}

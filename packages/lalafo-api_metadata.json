@@ -1,0 +1,11 @@
+{
+  "name": "lalafo-api",
+  "version": "0.1.0",
+  "summary": "Библиотека для работы с API Lalafo",
+  "author": "Umar",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "lalafo_api-0.1.0.tar.gz",
+  "download_time": "2026-01-31T17:01:32.029982",
+  "package_url": "https://pypi.org/project/lalafo-api/"
+}
