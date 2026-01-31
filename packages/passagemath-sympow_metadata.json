@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-sympow",
+  "version": "10.6.47",
+  "summary": "passagemath: Special values of symmetric power elliptic curve L-functions with sympow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_sympow-10.6.47.tar.gz",
+  "download_time": "2026-01-31T21:17:49.097987",
+  "package_url": "https://pypi.org/project/passagemath-sympow/"
+}

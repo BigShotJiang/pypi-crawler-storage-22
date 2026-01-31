@@ -1,11 +1,11 @@
 {
   "name": "honeymcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Deception middleware for AI agents - detecting data theft and indirect prompt injection in MCP servers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "honeymcp-0.1.0.tar.gz",
-  "download_time": "2026-01-31T20:48:16.937630",
+  "download_filename": "honeymcp-0.1.2.tar.gz",
+  "download_time": "2026-01-31T21:18:10.324949",
   "package_url": "https://pypi.org/project/honeymcp/"
 }

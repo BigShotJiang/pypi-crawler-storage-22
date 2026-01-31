@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-linbox",
+  "version": "10.6.47",
+  "summary": "passagemath: Linear Algebra with Givaro, fflas-ffpack, LinBox",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_linbox-10.6.47.tar.gz",
+  "download_time": "2026-01-31T21:18:18.238175",
+  "package_url": "https://pypi.org/project/passagemath-linbox/"
+}

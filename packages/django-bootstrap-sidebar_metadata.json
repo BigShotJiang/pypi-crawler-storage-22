@@ -1,0 +1,11 @@
+{
+  "name": "django-bootstrap-sidebar",
+  "version": "1.2.8",
+  "summary": "Bootstrap 5.3 template for Django 5 and 6",
+  "author": "Paulino Ruiz de Clavijo Vázquez",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/paulino/django-bootstrap-sidebar",
+  "download_filename": "django_bootstrap_sidebar-1.2.8.tar.gz",
+  "download_time": "2026-01-31T21:17:59.198126",
+  "package_url": "https://pypi.org/project/django-bootstrap-sidebar/"
+}
