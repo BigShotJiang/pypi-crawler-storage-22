@@ -1,0 +1,11 @@
+{
+  "name": "badldap",
+  "version": "0.7.5",
+  "summary": "Python library to play with MS LDAP",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/CravateRouge/badldap",
+  "download_filename": "badldap-0.7.5.tar.gz",
+  "download_time": "2026-01-31T08:24:52.791765",
+  "package_url": "https://pypi.org/project/badldap/"
+}

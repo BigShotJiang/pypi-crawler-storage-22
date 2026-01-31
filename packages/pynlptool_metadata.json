@@ -1,0 +1,11 @@
+{
+  "name": "pynlptool",
+  "version": "0.1.0",
+  "summary": "基于隐马尔可夫模型(HMM)的中文分词和序列标注工具库",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynlptool-0.1.0.tar.gz",
+  "download_time": "2026-01-31T08:24:53.333495",
+  "package_url": "https://pypi.org/project/pynlptool/"
+}

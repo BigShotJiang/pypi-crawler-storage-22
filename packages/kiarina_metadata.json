@@ -1,11 +1,11 @@
 {
   "name": "kiarina",
-  "version": "1.31.0",
+  "version": "1.33.1",
   "summary": "A comprehensive namespace package collection providing essential utilities for modern Python development",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kiarina-1.31.0.tar.gz",
-  "download_time": "2026-01-29T11:18:58.246178",
+  "download_filename": "kiarina-1.33.1.tar.gz",
+  "download_time": "2026-01-31T08:25:13.262073",
   "package_url": "https://pypi.org/project/kiarina/"
 }

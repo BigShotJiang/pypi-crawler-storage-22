@@ -1,0 +1,11 @@
+{
+  "name": "su_master_mind",
+  "version": "2026.1.31",
+  "summary": "Sorbonne University Master MIND dependency & dataset manager",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "su_master_mind-2026.1.31.tar.gz",
+  "download_time": "2026-01-31T08:25:14.309989",
+  "package_url": "https://pypi.org/project/su_master_mind/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xperium",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Xperium CRM API",
+  "author": "Xperium Team",
+  "license": "MIT",
+  "home_page": "https://github.com/xperium/xperium-python-sdk",
+  "download_filename": "xperium-1.0.0.tar.gz",
+  "download_time": "2026-01-31T08:24:48.975444",
+  "package_url": "https://pypi.org/project/xperium/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PyHDFS",
+  "version": "0.4.0",
+  "summary": "Pure Python HDFS client",
+  "author": "Jing Wang",
+  "license": "MIT License",
+  "home_page": "https://github.com/jingw/pyhdfs",
+  "download_filename": "pyhdfs-0.4.0.tar.gz",
+  "download_time": "2026-01-31T08:25:02.556244",
+  "package_url": "https://pypi.org/project/PyHDFS/"
+}
