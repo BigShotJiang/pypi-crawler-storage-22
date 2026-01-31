@@ -1,0 +1,11 @@
+{
+  "name": "dekoRL",
+  "version": "1.0.0",
+  "summary": "Deko: Rootless Container Engine & ISO Builder for Termux",
+  "author": "MurilooPrDev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dekorl-1.0.0.tar.gz",
+  "download_time": "2026-01-31T23:18:22.977341",
+  "package_url": "https://pypi.org/project/dekoRL/"
+}

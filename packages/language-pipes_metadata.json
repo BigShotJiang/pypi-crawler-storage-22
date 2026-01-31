@@ -1,11 +1,11 @@
 {
   "name": "language-pipes",
-  "version": "0.19.5",
+  "version": "0.19.7",
   "summary": "A privacy focused distributed algorithm for llm inference",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "language_pipes-0.19.5.tar.gz",
-  "download_time": "2026-01-31T22:18:11.903832",
+  "download_filename": "language_pipes-0.19.7.tar.gz",
+  "download_time": "2026-01-31T23:18:38.806273",
   "package_url": "https://pypi.org/project/language-pipes/"
 }

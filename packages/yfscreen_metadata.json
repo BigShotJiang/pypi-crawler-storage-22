@@ -1,0 +1,11 @@
+{
+  "name": "yfscreen",
+  "version": "0.1.2",
+  "summary": "Simple and efficient access to Yahoo Finance's 'screener' API <https://finance.yahoo.com/research-hub/screener/> for querying and retrieval of financial data.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yfscreen-0.1.2.tar.gz",
+  "download_time": "2026-01-31T23:18:29.820708",
+  "package_url": "https://pypi.org/project/yfscreen/"
+}

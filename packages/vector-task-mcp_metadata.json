@@ -1,11 +1,11 @@
 {
   "name": "vector-task-mcp",
-  "version": "1.2.13",
+  "version": "1.2.14",
   "summary": "A secure, vector-based task management server for Claude Desktop using sqlite-vec and sentence-transformers",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "vector_task_mcp-1.2.13.tar.gz",
-  "download_time": "2026-01-31T22:18:46.962226",
+  "download_filename": "vector_task_mcp-1.2.14.tar.gz",
+  "download_time": "2026-01-31T23:18:51.433250",
   "package_url": "https://pypi.org/project/vector-task-mcp/"
 }

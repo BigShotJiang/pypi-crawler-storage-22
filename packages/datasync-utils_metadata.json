@@ -1,0 +1,11 @@
+{
+  "name": "datasync-utils",
+  "version": "1.1.0",
+  "summary": "Unified DVC + S3 data sync for Python, notebooks, and CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasync_utils-1.1.0.tar.gz",
+  "download_time": "2026-01-31T23:18:34.068897",
+  "package_url": "https://pypi.org/project/datasync-utils/"
+}

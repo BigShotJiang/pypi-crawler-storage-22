@@ -1,11 +1,11 @@
 {
   "name": "mpsops",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "CUDA-only PyTorch operations for Apple Silicon - metapackage",
   "author": "mpsops",
   "license": null,
   "home_page": null,
-  "download_filename": "mpsops-0.1.15.tar.gz",
-  "download_time": "2026-01-31T16:35:09.008086",
+  "download_filename": "mpsops-0.1.16-py3-none-any.whl",
+  "download_time": "2026-01-31T23:18:39.318966",
   "package_url": "https://pypi.org/project/mpsops/"
 }

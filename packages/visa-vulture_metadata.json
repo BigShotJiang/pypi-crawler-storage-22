@@ -1,0 +1,11 @@
+{
+  "name": "visa-vulture",
+  "version": "0.1.0",
+  "summary": "A Python GUI application for controlling test equipment over VISA",
+  "author": "Declan Walsh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visa_vulture-0.1.0.tar.gz",
+  "download_time": "2026-01-31T23:18:53.061317",
+  "package_url": "https://pypi.org/project/visa-vulture/"
+}

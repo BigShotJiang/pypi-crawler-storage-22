@@ -1,0 +1,11 @@
+{
+  "name": "dbc-gptcli",
+  "version": "0.23.2",
+  "summary": "A CLI tool for accessing OpenAI and Mistral AI LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbc_gptcli-0.23.2.tar.gz",
+  "download_time": "2026-01-31T23:19:02.542578",
+  "package_url": "https://pypi.org/project/dbc-gptcli/"
+}

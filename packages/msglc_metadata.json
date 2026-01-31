@@ -1,0 +1,11 @@
+{
+  "name": "msglc",
+  "version": "260201",
+  "summary": "msgpack with lazy/partial loading containers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msglc-260201.tar.gz",
+  "download_time": "2026-01-31T23:19:03.586064",
+  "package_url": "https://pypi.org/project/msglc/"
+}

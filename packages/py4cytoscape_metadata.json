@@ -1,0 +1,11 @@
+{
+  "name": "py4cytoscape",
+  "version": "1.13.0",
+  "summary": "Cytoscape Automation API",
+  "author": "Barry Demchak",
+  "license": "MIT License",
+  "home_page": "https://github.com/cytoscape/py4cytoscape",
+  "download_filename": "py4cytoscape-1.13.0.tar.gz",
+  "download_time": "2026-01-31T23:19:01.468835",
+  "package_url": "https://pypi.org/project/py4cytoscape/"
+}
