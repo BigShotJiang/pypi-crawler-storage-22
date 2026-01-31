@@ -1,11 +1,11 @@
 {
   "name": "py-aidol",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Create and chat with your own AI idol group",
   "author": "AIoIA, Inc.",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "py_aidol-0.2.0.tar.gz",
-  "download_time": "2026-01-30T10:55:16.826464",
+  "download_filename": "py_aidol-0.3.0.tar.gz",
+  "download_time": "2026-01-31T13:59:02.584188",
   "package_url": "https://pypi.org/project/py-aidol/"
 }

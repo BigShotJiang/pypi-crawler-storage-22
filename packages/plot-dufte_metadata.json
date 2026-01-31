@@ -1,11 +1,11 @@
 {
   "name": "plot-dufte",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Dufte - Ein Python-Paket für Tufte-Style Plots",
   "author": null,
-  "license": null,
-  "home_page": null,
-  "download_filename": "plot_dufte-0.1.2.tar.gz",
-  "download_time": "2026-01-29T21:23:16.870681",
+  "license": "MIT",
+  "home_page": "https://github.com/deinuser/plot-dufte",
+  "download_filename": "plot_dufte-0.1.4.tar.gz",
+  "download_time": "2026-01-31T13:58:44.118236",
   "package_url": "https://pypi.org/project/plot-dufte/"
 }

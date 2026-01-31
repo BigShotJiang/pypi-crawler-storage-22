@@ -1,0 +1,11 @@
+{
+  "name": "typio",
+  "version": "0.1",
+  "summary": "Typio: Make Your Terminal Type Like a Human",
+  "author": "Sepand Haghighi",
+  "license": "MIT",
+  "home_page": "https://github.com/sepandhaghighi/typio",
+  "download_filename": "typio-0.1.tar.gz",
+  "download_time": "2026-01-31T13:58:32.121340",
+  "package_url": "https://pypi.org/project/typio/"
+}

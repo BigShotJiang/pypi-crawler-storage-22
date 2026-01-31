@@ -1,11 +1,11 @@
 {
   "name": "depthlib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A library for depth estimation and processing",
   "author": "Piyush Gupta, Himangshu Dikshit, Vedic Yadav",
   "license": null,
   "home_page": null,
-  "download_filename": "depthlib-0.1.0.tar.gz",
-  "download_time": "2026-01-31T13:30:22.707227",
+  "download_filename": "depthlib-0.1.1.tar.gz",
+  "download_time": "2026-01-31T13:58:26.782419",
   "package_url": "https://pypi.org/project/depthlib/"
 }

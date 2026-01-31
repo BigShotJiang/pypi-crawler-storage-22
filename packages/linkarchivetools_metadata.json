@@ -1,11 +1,11 @@
 {
   "name": "linkarchivetools",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "Link Archive Tools",
   "author": "Iwan Grozny",
   "license": "GPL3",
   "home_page": null,
-  "download_filename": "linkarchivetools-0.1.14.tar.gz",
-  "download_time": "2026-01-31T13:30:44.282270",
+  "download_filename": "linkarchivetools-0.1.15.tar.gz",
+  "download_time": "2026-01-31T13:58:47.240238",
   "package_url": "https://pypi.org/project/linkarchivetools/"
 }

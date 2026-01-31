@@ -1,0 +1,11 @@
+{
+  "name": "octobot-services",
+  "version": "1.8.0",
+  "summary": "OctoBot project services package",
+  "author": "Drakkar-Software",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/OctoBot-Services",
+  "download_filename": "octobot_services-1.8.0.tar.gz",
+  "download_time": "2026-01-31T13:58:38.814126",
+  "package_url": "https://pypi.org/project/octobot-services/"
+}
