@@ -1,11 +1,11 @@
 {
   "name": "gmcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Transform any FastAPI server into an MCP server",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gmcp-0.2.0.tar.gz",
-  "download_time": "2026-01-31T15:46:33.012695",
+  "download_filename": "gmcp-0.2.1.tar.gz",
+  "download_time": "2026-01-31T15:59:32.726467",
   "package_url": "https://pypi.org/project/gmcp/"
 }

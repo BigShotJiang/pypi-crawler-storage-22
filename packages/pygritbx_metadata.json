@@ -1,0 +1,11 @@
+{
+  "name": "pygritbx",
+  "version": "1.1.2",
+  "summary": "Python-based Gearbox Reliability and Integrity Tool",
+  "author": "Ragheed Huneineh",
+  "license": "MIT",
+  "home_page": "https://github.com/Rmhuneineh/pygritbx",
+  "download_filename": "pygritbx-1.1.2.tar.gz",
+  "download_time": "2026-01-31T15:59:30.517410",
+  "package_url": "https://pypi.org/project/pygritbx/"
+}

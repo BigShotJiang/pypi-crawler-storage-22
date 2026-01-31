@@ -1,11 +1,11 @@
 {
   "name": "richit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Richit",
   "author": "Richit",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "richit-0.1.0.tar.gz",
-  "download_time": "2026-01-31T15:46:39.203200",
+  "download_filename": "richit-0.2.0.tar.gz",
+  "download_time": "2026-01-31T16:00:02.568945",
   "package_url": "https://pypi.org/project/richit/"
 }

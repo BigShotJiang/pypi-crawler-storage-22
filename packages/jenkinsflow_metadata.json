@@ -1,0 +1,11 @@
+{
+  "name": "jenkinsflow",
+  "version": "7.0.5",
+  "summary": "Python API with high level build flow constructs (parallel/serial) for Jenkins.",
+  "author": "Lars Hupfeldt Nielsen",
+  "license": "BSD",
+  "home_page": "https://github.com/lhupfeldt/jenkinsflow.git",
+  "download_filename": "jenkinsflow-7.0.5.tar.gz",
+  "download_time": "2026-01-31T15:59:36.624978",
+  "package_url": "https://pypi.org/project/jenkinsflow/"
+}

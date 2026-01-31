@@ -1,0 +1,11 @@
+{
+  "name": "MistrasDTA",
+  "version": "0.1.6",
+  "summary": "Read AEWin acoustic emissions DTA files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mistrasdta-0.1.6.tar.gz",
+  "download_time": "2026-01-31T15:59:34.937158",
+  "package_url": "https://pypi.org/project/MistrasDTA/"
+}
