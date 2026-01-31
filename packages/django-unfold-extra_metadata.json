@@ -1,0 +1,11 @@
+{
+  "name": "django-unfold-extra",
+  "version": "0.1.11",
+  "summary": "Unofficial extra for Django Unfold Admin. Supports django-parler and django-cms.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_unfold_extra-0.1.11.tar.gz",
+  "download_time": "2026-01-31T10:50:23.871779",
+  "package_url": "https://pypi.org/project/django-unfold-extra/"
+}

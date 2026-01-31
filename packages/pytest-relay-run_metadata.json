@@ -1,0 +1,11 @@
+{
+  "name": "pytest-relay-run",
+  "version": "0.0.1",
+  "summary": "A pytest wrapper using for pytest-relay with pytest-relay-ws to control pytest executions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_relay_run-0.0.1.tar.gz",
+  "download_time": "2026-01-31T10:50:36.877331",
+  "package_url": "https://pypi.org/project/pytest-relay-run/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cufinder-py",
+  "version": "1.1.1",
+  "summary": "Python SDK for the CUFinder API.",
+  "author": "Cufinder Team",
+  "license": "MIT",
+  "home_page": "https://github.com/CUFinder/cufinder-py",
+  "download_filename": "cufinder_py-1.1.1.tar.gz",
+  "download_time": "2026-01-31T10:50:47.789227",
+  "package_url": "https://pypi.org/project/cufinder-py/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sentry-opensearch-nodestore",
+  "version": "1.2.0",
+  "summary": "An Sentry NodeStorage backend for OpenSearch",
+  "author": "airdry",
+  "license": "MIT",
+  "home_page": "https://github.com/airdry/sentry-opensearch-nodestore",
+  "download_filename": "sentry_opensearch_nodestore-1.2.0-py3-none-any.whl",
+  "download_time": "2026-01-31T10:50:29.077330",
+  "package_url": "https://pypi.org/project/sentry-opensearch-nodestore/"
+}

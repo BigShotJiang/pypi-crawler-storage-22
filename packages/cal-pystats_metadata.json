@@ -1,0 +1,11 @@
+{
+  "name": "cal-pystats",
+  "version": "0.1.1",
+  "summary": "A simple CLI tool to analyse Python file statistics in a directory",
+  "author": "Cyber Assessment Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cal_pystats-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-31T10:50:48.306451",
+  "package_url": "https://pypi.org/project/cal-pystats/"
+}
