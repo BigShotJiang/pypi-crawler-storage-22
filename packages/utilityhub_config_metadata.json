@@ -1,11 +1,11 @@
 {
   "name": "utilityhub_config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A deterministic, typed configuration engine for serious automation systems",
   "author": "Rajesh Das",
   "license": null,
   "home_page": null,
-  "download_filename": "utilityhub_config-0.2.0.tar.gz",
-  "download_time": "2026-01-31T19:42:02.631096",
+  "download_filename": "utilityhub_config-0.2.1.tar.gz",
+  "download_time": "2026-01-31T19:52:40.428404",
   "package_url": "https://pypi.org/project/utilityhub_config/"
 }

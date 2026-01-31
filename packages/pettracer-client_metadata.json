@@ -1,0 +1,11 @@
+{
+  "name": "pettracer-client",
+  "version": "0.2.0",
+  "summary": "Python client library for the PetTracer GPS pet collar portal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pettracer_client-0.2.0.tar.gz",
+  "download_time": "2026-01-31T19:52:47.486172",
+  "package_url": "https://pypi.org/project/pettracer-client/"
+}

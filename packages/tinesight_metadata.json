@@ -1,11 +1,11 @@
 {
   "name": "tinesight",
-  "version": "0.0.9.dev1",
+  "version": "0.0.10.dev1",
   "summary": "Tinesight SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tinesight-0.0.9.dev1.tar.gz",
-  "download_time": "2026-01-31T16:35:33.829201",
+  "download_filename": "tinesight-0.0.10.dev1.tar.gz",
+  "download_time": "2026-01-31T19:52:48.549039",
   "package_url": "https://pypi.org/project/tinesight/"
 }

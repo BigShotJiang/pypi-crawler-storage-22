@@ -1,11 +1,11 @@
 {
   "name": "nishant-project",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A reusable utility library",
   "author": "Nishant Badhautiya",
   "license": null,
   "home_page": null,
-  "download_filename": "nishant_project-0.1.5.tar.gz",
-  "download_time": "2026-01-31T19:42:18.509175",
+  "download_filename": "nishant_project-0.1.6.tar.gz",
+  "download_time": "2026-01-31T19:52:58.361575",
   "package_url": "https://pypi.org/project/nishant-project/"
 }
