@@ -1,0 +1,11 @@
+{
+  "name": "vibeflux",
+  "version": "0.0.2",
+  "summary": "VibeFlux: a PySide6-based fusion library for deep learning projects (UI + code + algorithms).",
+  "author": "Harrison Vance",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibeflux-0.0.2.tar.gz",
+  "download_time": "2026-01-31T07:56:23.263689",
+  "package_url": "https://pypi.org/project/vibeflux/"
+}

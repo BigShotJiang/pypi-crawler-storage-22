@@ -1,0 +1,11 @@
+{
+  "name": "beancount-format",
+  "version": "0.1.19",
+  "summary": "Beancount formatter powered by dprint-plugin-beancount",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/trim21/beancount-format",
+  "download_filename": "beancount_format-0.1.19.tar.gz",
+  "download_time": "2026-01-31T07:56:34.686344",
+  "package_url": "https://pypi.org/project/beancount-format/"
+}

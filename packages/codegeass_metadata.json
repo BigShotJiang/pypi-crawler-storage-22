@@ -1,11 +1,11 @@
 {
   "name": "codegeass",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Claude Code Scheduler Framework - Orchestrate automated Claude Code sessions",
   "author": "DonTizi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codegeass-0.2.2.tar.gz",
-  "download_time": "2026-01-31T07:32:28.397306",
+  "download_filename": "codegeass-0.2.3.tar.gz",
+  "download_time": "2026-01-31T07:56:32.535502",
   "package_url": "https://pypi.org/project/codegeass/"
 }

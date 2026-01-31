@@ -1,11 +1,11 @@
 {
   "name": "cortexa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A basic AI model embedded in python",
   "author": "Samarth Chugh",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cortexa-1.0.0.tar.gz",
-  "download_time": "2026-01-30T17:22:00.077076",
+  "download_filename": "cortexa-1.0.1.tar.gz",
+  "download_time": "2026-01-31T07:56:19.485294",
   "package_url": "https://pypi.org/project/cortexa/"
 }
