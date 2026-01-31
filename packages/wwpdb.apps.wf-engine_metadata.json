@@ -1,0 +1,11 @@
+{
+  "name": "wwpdb.apps.wf-engine",
+  "version": "0.20",
+  "summary": "wwPDB workflow engine utils",
+  "author": "Ezra Peisach",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/rcsb/py-wwpdb_apps_wf_engine_utils",
+  "download_filename": "wwpdb_apps_wf_engine-0.20.tar.gz",
+  "download_time": "2026-01-31T11:42:46.242925",
+  "package_url": "https://pypi.org/project/wwpdb.apps.wf-engine/"
+}

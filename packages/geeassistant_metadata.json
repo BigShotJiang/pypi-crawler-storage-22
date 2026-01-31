@@ -1,0 +1,11 @@
+{
+  "name": "geeassistant",
+  "version": "0.1.1",
+  "summary": "A comprehensive Python package to simplify Google Earth Engine learning and usage.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geeassistant-0.1.1.tar.gz",
+  "download_time": "2026-01-31T11:42:42.077626",
+  "package_url": "https://pypi.org/project/geeassistant/"
+}

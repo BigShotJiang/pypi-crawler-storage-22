@@ -1,0 +1,11 @@
+{
+  "name": "hsp-protocol",
+  "version": "0.1.0",
+  "summary": "Human Supervision Protocol - Fail-closed AI governance for EU AI Act compliance",
+  "author": null,
+  "license": "Proprietary - Licensed under PCT/US26/11908",
+  "home_page": null,
+  "download_filename": "hsp_protocol-0.1.0.tar.gz",
+  "download_time": "2026-01-31T11:42:59.386534",
+  "package_url": "https://pypi.org/project/hsp-protocol/"
+}

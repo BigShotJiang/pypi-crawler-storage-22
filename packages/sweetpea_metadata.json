@@ -1,0 +1,11 @@
+{
+  "name": "sweetpea",
+  "version": "0.2.12",
+  "summary": "A language for synthesizing randomized experimental designs",
+  "author": "Annie Cherkaev, Ben Draut, Ahsan Sajjad Butt, Pierce Darragh, Matthew Flatt, Sirus Shahini, Di Wang",
+  "license": null,
+  "home_page": "https://github.com/sweetpea-org/sweetpea-py",
+  "download_filename": "sweetpea-0.2.12.tar.gz",
+  "download_time": "2026-01-31T11:42:39.970970",
+  "package_url": "https://pypi.org/project/sweetpea/"
+}

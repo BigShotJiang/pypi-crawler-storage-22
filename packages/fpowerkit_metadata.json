@@ -1,0 +1,11 @@
+{
+  "name": "fpowerkit",
+  "version": "0.4.0",
+  "summary": "A PDN solver with multiple solutions.",
+  "author": "fmy-xfk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fpowerkit-0.4.0.tar.gz",
+  "download_time": "2026-01-31T11:42:48.325118",
+  "package_url": "https://pypi.org/project/fpowerkit/"
+}
