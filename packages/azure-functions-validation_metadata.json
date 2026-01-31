@@ -1,0 +1,11 @@
+{
+  "name": "azure-functions-validation",
+  "version": "0.3.0",
+  "summary": "Validation and serialization layer for Python-based Azure Functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_functions_validation-0.3.0.tar.gz",
+  "download_time": "2026-01-31T23:44:56.169537",
+  "package_url": "https://pypi.org/project/azure-functions-validation/"
+}

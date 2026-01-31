@@ -1,11 +1,64 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-31T23:19:04.086953
-- **Total Packages**: 85
-- **Total Size**: 22.66 MB
+- **Download Time**: 2026-01-31T23:45:42.257284
+- **Total Packages**: 87
+- **Total Size**: 6.33 MB
 
 ## Packages List
+- mps-flash-attn
+- statezero
+- azure-functions-validation
+- conformly
+- pysealer
+- cogames
+- retracesoftware-utils
+- qwlcrapstar
+- roura-agent
+- moospread
+- mi-crow
+- filemind
+- tui-utilities
+- nv-ingest
+- nv-ingest-client
+- nv-ingest-api
+- onako
+- nutrition-pad
+- yt-dlp
+- Nexom
+- ai-research
+- dycw-restic
+- dekoRL
+- quack-diff
+- django-minify-compress-staticfiles
+- discovery-engine-api
+- spkmc
+- vimgolf
+- jleechanorg-orchestration
+- simple-oop
+- torch-survival
+- defistream
+- jleechanorg-pr-automation
+- bitfactory
+- fastapi-voyager
+- crudlify
+- nucflag
+- evakit
+- semantic-code-mcp
+- wrapt
+- SmolPyGUI
+- ticktick-mcp-server
+- reminix-runtime
+- reminix-openai
+- reminix-llamaindex
+- reminix-langgraph
+- reminix-langchain
+- reminix-anthropic
+- vsax
+- codexapi
+- pyrun-jupyter
+- fairchild
+- anatomize
 - universal-hex
 - llm-to-toon
 - llm-to-json
@@ -13,13 +66,11 @@
 - moondream-station-nell-02
 - manhattan-mcp
 - torchange
-- dekoRL
 - nominal-api-protos
 - nominal-api
 - idr-tools
 - toml-rs
 - pfund-kit
-- simple-oop
 - pyurify
 - litellm-proxy-extras
 - testcontainers
@@ -31,7 +82,6 @@
 - django-moo
 - numpy
 - finlang
-- ticktick-mcp-server
 - jamb
 - basic-shit
 - datasync-utils
@@ -43,51 +93,3 @@
 - lukhed-markets
 - hyrrokkin
 - easycoder
-- language-pipes
-- mpsops
-- common-osint-model
-- invoice_synchronizer
-- onako
-- wuff
-- mps-flash-attn
-- luckyrobots
-- devopness
-- gptcmd
-- agentwatch-monitor
-- pulya
-- beancount-staging-py
-- codexapi
-- entropy-predict
-- lib-layered-config
-- aline-ai
-- omnibase_core
-- catalyst-sdk
-- coaxial-terminal-ai
-- vidhi
-- flask-more-smorest
-- ezmsg-sigproc
-- porter-ui
-- vector-task-mcp
-- marimo-dev
-- umi
-- visa-vulture
-- vector-memory-mcp
-- gate-sdk
-- doc-manager-mcp
-- odoo-addon-account-global-discount
-- odoo-addon-account-invoice-custom-rounding
-- liqpay-api
-- squawk-cli
-- aquiles-image
-- snail-lang
-- discovery-engine-api
-- grilly
-- satellome
-- whisper-s2t-reborn
-- gw-fabric-tools
-- athena-intelligence
-- py4cytoscape
-- hashcli
-- dbc-gptcli
-- retracesoftware-proxy
-- msglc

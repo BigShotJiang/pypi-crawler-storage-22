@@ -1,0 +1,11 @@
+{
+  "name": "bitfactory",
+  "version": "0.2.0",
+  "summary": "Create structured binary data easily.",
+  "author": "Nyz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitfactory-0.2.0.tar.gz",
+  "download_time": "2026-01-31T23:45:13.593120",
+  "package_url": "https://pypi.org/project/bitfactory/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "retracesoftware-utils",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "retracesoftware_utils-0.2.9-cp311-cp311-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-31T21:44:33.735695",
+  "download_filename": "retracesoftware_utils-0.2.10-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-31T23:44:58.383990",
   "package_url": "https://pypi.org/project/retracesoftware-utils/"
 }

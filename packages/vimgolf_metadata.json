@@ -1,0 +1,11 @@
+{
+  "name": "vimgolf",
+  "version": "0.5.3",
+  "summary": "A vimgolf client written in Python",
+  "author": "Daniel Steinberg",
+  "license": "MIT",
+  "home_page": "https://github.com/dstein64/vimgolf",
+  "download_filename": "vimgolf-0.5.3.tar.gz",
+  "download_time": "2026-01-31T23:45:10.330206",
+  "package_url": "https://pypi.org/project/vimgolf/"
+}
