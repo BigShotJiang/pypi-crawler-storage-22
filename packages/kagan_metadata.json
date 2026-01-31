@@ -1,11 +1,11 @@
 {
   "name": "kagan",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "AI-powered Kanban TUI for autonomous development workflows",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kagan-0.2.0.tar.gz",
-  "download_time": "2026-01-31T05:35:53.032651",
+  "download_filename": "kagan-0.2.1.tar.gz",
+  "download_time": "2026-01-31T13:30:49.504514",
   "package_url": "https://pypi.org/project/kagan/"
 }

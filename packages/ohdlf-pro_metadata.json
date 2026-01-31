@@ -1,0 +1,11 @@
+{
+  "name": "ohdlf-pro",
+  "version": "1.0.0",
+  "summary": "OHDLF-pro: a pipeline designed to filter and address orthologous gene heterogeneity, duplication, and loss",
+  "author": "['caijunhao']",
+  "license": null,
+  "home_page": "https://github.com/qunjie-zhang/OHDLF-pro",
+  "download_filename": "ohdlf_pro-1.0.0.tar.gz",
+  "download_time": "2026-01-31T13:30:26.442932",
+  "package_url": "https://pypi.org/project/ohdlf-pro/"
+}

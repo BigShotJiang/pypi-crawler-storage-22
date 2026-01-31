@@ -1,0 +1,11 @@
+{
+  "name": "Sisyphus-api-engine",
+  "version": "1.0.3",
+  "summary": "Enterprise-grade API automation testing engine with YAML-based declarative syntax, supporting complex testing scenarios including HTTP/HTTPS, database operations, data-driven testing, concurrent execution, and real-time WebSocket reporting.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sisyphus_api_engine-1.0.3.tar.gz",
+  "download_time": "2026-01-31T13:30:43.758375",
+  "package_url": "https://pypi.org/project/Sisyphus-api-engine/"
+}

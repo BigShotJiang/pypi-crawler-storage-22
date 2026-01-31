@@ -1,0 +1,11 @@
+{
+  "name": "jaso-jamo",
+  "version": "1.0.0",
+  "summary": "한글 자소 분리 및 복원 라이브러리 (5단계 Fallback 방식)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaso_jamo-1.0.0.tar.gz",
+  "download_time": "2026-01-31T13:30:12.654839",
+  "package_url": "https://pypi.org/project/jaso-jamo/"
+}

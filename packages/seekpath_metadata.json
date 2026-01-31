@@ -1,0 +1,11 @@
+{
+  "name": "seekpath",
+  "version": "2.2.1",
+  "summary": "A module to obtain and visualize k-vector coefficients and obtain band paths in the Brillouin zone of crystal structures",
+  "author": "Giovanni Pizzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "seekpath-2.2.1.tar.gz",
+  "download_time": "2026-01-31T13:30:37.490162",
+  "package_url": "https://pypi.org/project/seekpath/"
+}

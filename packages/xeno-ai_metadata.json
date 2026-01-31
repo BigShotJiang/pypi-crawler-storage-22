@@ -1,0 +1,11 @@
+{
+  "name": "xeno-ai",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for Xeno API - Access 100+ AI models for image, video, music, and text generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xeno_ai-0.1.0.tar.gz",
+  "download_time": "2026-01-31T13:30:29.570066",
+  "package_url": "https://pypi.org/project/xeno-ai/"
+}

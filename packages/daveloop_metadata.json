@@ -1,11 +1,11 @@
 {
   "name": "daveloop",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "Self-healing debug agent powered by Claude Code CLI",
   "author": "Dave Bruzil",
   "license": null,
   "home_page": "https://github.com/davebruzil/DaveLoop",
-  "download_filename": "daveloop-1.2.0.tar.gz",
-  "download_time": "2026-01-28T22:21:38.742083",
+  "download_filename": "daveloop-1.4.0.tar.gz",
+  "download_time": "2026-01-31T13:30:26.961152",
   "package_url": "https://pypi.org/project/daveloop/"
 }
