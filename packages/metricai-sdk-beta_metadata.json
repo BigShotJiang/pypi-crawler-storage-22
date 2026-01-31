@@ -1,11 +1,11 @@
 {
   "name": "metricai-sdk-beta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Beta Python SDK for MetricAI API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "metricai_sdk_beta-1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-31T18:30:02.877235",
+  "download_filename": "metricai_sdk_beta-1.0.2.tar.gz",
+  "download_time": "2026-01-31T18:58:51.770323",
   "package_url": "https://pypi.org/project/metricai-sdk-beta/"
 }

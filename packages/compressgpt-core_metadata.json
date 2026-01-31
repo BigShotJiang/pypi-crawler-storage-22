@@ -1,0 +1,11 @@
+{
+  "name": "compressgpt-core",
+  "version": "0.1.2",
+  "summary": "LLM Compression and Optimization Library - Build the smallest runnable models that preserve target accuracy",
+  "author": "chandan678",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "compressgpt_core-0.1.2.tar.gz",
+  "download_time": "2026-01-31T18:58:37.994488",
+  "package_url": "https://pypi.org/project/compressgpt-core/"
+}

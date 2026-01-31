@@ -1,11 +1,11 @@
 {
   "name": "manhattan-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP Server for Manhattan Memory System - Give AI agents persistent memory",
   "author": "Agent Architects Studio",
   "license": null,
   "home_page": null,
-  "download_filename": "manhattan_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-30T21:24:03.168957",
+  "download_filename": "manhattan_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-31T18:58:49.568241",
   "package_url": "https://pypi.org/project/manhattan-mcp/"
 }

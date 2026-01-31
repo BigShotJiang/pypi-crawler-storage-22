@@ -1,11 +1,11 @@
 {
   "name": "ipyvasp",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "A processing tool for VASP DFT input/output processing in Jupyter Notebook.",
   "author": "Abdul Saboor",
   "license": "MIT",
   "home_page": "https://github.com/massgh/ipyvasp",
-  "download_filename": "ipyvasp-1.1.4.tar.gz",
-  "download_time": "2026-01-31T07:32:50.955183",
+  "download_filename": "ipyvasp-1.1.5.tar.gz",
+  "download_time": "2026-01-31T18:58:22.874084",
   "package_url": "https://pypi.org/project/ipyvasp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nobi-dl",
-  "version": "2026.1.31",
+  "version": "2026.1.31.post1",
   "summary": "A scraping-based movie downloader. No own database; sources are scraped from the web.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nobi_dl-2026.1.31.tar.gz",
-  "download_time": "2026-01-31T14:27:00.643685",
+  "download_filename": "nobi_dl-2026.1.31.post1.tar.gz",
+  "download_time": "2026-01-31T18:58:53.406926",
   "package_url": "https://pypi.org/project/nobi-dl/"
 }

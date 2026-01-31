@@ -1,11 +1,11 @@
 {
   "name": "zmlx",
-  "version": "0.6.0",
-  "summary": "ZMLX: Triton for Apple Silicon. Custom Metal GPU kernels for MLX with Triton-like ergonomics. Killer feature: 1.3-1.6x MoE inference speedup via fused expert routing.",
+  "version": "0.7.0",
+  "summary": "ZMLX: Metal-kernel toolkit and optimization lab for MLX on Apple Silicon. Fused MoE decode (+5-26%), custom GPU kernels in one line, 70+ kernel catalog.",
   "author": "Hunter Bown",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zmlx-0.6.0.tar.gz",
-  "download_time": "2026-01-30T17:58:37.597003",
+  "download_filename": "zmlx-0.7.0.tar.gz",
+  "download_time": "2026-01-31T18:58:44.054626",
   "package_url": "https://pypi.org/project/zmlx/"
 }

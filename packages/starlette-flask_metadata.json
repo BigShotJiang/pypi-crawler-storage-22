@@ -1,0 +1,11 @@
+{
+  "name": "starlette-flask",
+  "version": "0.1.0",
+  "summary": "Session Middleware for Starlette/FastAPI Applications based on Flask Session Decoding and Encoding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette_flask-0.1.0.tar.gz",
+  "download_time": "2026-01-31T18:58:50.653249",
+  "package_url": "https://pypi.org/project/starlette-flask/"
+}

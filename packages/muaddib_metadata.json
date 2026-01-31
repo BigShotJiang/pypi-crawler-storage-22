@@ -1,11 +1,11 @@
 {
   "name": "muaddib",
-  "version": "1.1.0",
-  "summary": "AI chatbot for IRC via irssi-varlink",
+  "version": "1.1.2",
+  "summary": "A secure, multi-user AI agent for IRC, Discord, and Slack",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "muaddib-1.1.0.tar.gz",
-  "download_time": "2026-01-31T17:32:04.295937",
+  "download_filename": "muaddib-1.1.2.tar.gz",
+  "download_time": "2026-01-31T18:58:53.960550",
   "package_url": "https://pypi.org/project/muaddib/"
 }

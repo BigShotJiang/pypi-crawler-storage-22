@@ -1,11 +1,11 @@
 {
   "name": "kcwcache",
-  "version": "3.38",
+  "version": "3.39",
   "summary": "kcwcache",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcwcache-3.38.tar.gz",
-  "download_time": "2026-01-31T15:19:36.274338",
+  "download_filename": "kcwcache-3.39.tar.gz",
+  "download_time": "2026-01-31T18:58:13.894513",
   "package_url": "https://pypi.org/project/kcwcache/"
 }

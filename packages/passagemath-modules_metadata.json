@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-modules",
+  "version": "10.6.47",
+  "summary": "passagemath: Vectors, matrices, tensors, vector spaces, affine spaces, modules and algebras, additive groups, quadratic forms, homology, coding theory, matroids",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_modules-10.6.47.tar.gz",
+  "download_time": "2026-01-31T18:58:34.682648",
+  "package_url": "https://pypi.org/project/passagemath-modules/"
+}

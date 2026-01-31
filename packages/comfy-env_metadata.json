@@ -1,11 +1,11 @@
 {
   "name": "comfy-env",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Environment management for ComfyUI custom nodes - CUDA wheel resolution and process isolation",
   "author": "Andrea Pozzetti",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "comfy_env-0.1.15.tar.gz",
-  "download_time": "2026-01-31T17:57:43.400538",
+  "download_filename": "comfy_env-0.1.16.tar.gz",
+  "download_time": "2026-01-31T18:58:20.045086",
   "package_url": "https://pypi.org/project/comfy-env/"
 }

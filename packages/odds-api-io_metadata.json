@@ -1,0 +1,11 @@
+{
+  "name": "odds-api-io",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for Odds-API.io - Real-time sports betting odds from 250+ bookmakers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "odds_api_io-1.0.0.tar.gz",
+  "download_time": "2026-01-31T18:58:47.426902",
+  "package_url": "https://pypi.org/project/odds-api-io/"
+}
