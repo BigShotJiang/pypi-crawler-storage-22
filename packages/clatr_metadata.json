@@ -1,0 +1,11 @@
+{
+  "name": "clatr",
+  "version": "0.0.1a1",
+  "summary": "Comprehensive Linguistic Analysis of Text for Research",
+  "author": "Nick McCloskey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "clatr-0.0.1a1.tar.gz",
+  "download_time": "2026-01-31T18:30:07.679997",
+  "package_url": "https://pypi.org/project/clatr/"
+}

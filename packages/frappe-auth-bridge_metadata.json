@@ -1,11 +1,11 @@
 {
   "name": "frappe-auth-bridge",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A Python authentication bridge that integrates with frappe-client to enable SSO across Django, Flask, FastAPI, and vanilla Python apps",
   "author": "Anthony",
   "license": "MIT",
   "home_page": "https://github.com/mymi14s/frappe-auth-bridge",
-  "download_filename": "frappe_auth_bridge-0.2.2.tar.gz",
-  "download_time": "2026-01-31T15:59:42.124292",
+  "download_filename": "frappe_auth_bridge-0.2.3.tar.gz",
+  "download_time": "2026-01-31T18:30:27.691659",
   "package_url": "https://pypi.org/project/frappe-auth-bridge/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "package-version-check-mcp",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A MCP server that returns the current, up-to-date version of packages you use as dependencies in a variety of ecosystems, such as Python, NPM, Go, or GitHub Actions",
   "author": "Marius Shekow",
   "license": null,
   "home_page": null,
-  "download_filename": "package_version_check_mcp-0.0.4.tar.gz",
-  "download_time": "2026-01-31T08:54:13.080035",
+  "download_filename": "package_version_check_mcp-0.0.5.tar.gz",
+  "download_time": "2026-01-31T18:30:42.196361",
   "package_url": "https://pypi.org/project/package-version-check-mcp/"
 }

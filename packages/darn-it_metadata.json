@@ -1,11 +1,11 @@
 {
   "name": "darn-it",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "An opinionated chunker for markdown formatted text",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "darn_it-0.2.2.tar.gz",
-  "download_time": "2026-01-31T14:50:39.983428",
+  "download_filename": "darn_it-0.2.3.tar.gz",
+  "download_time": "2026-01-31T18:30:39.025736",
   "package_url": "https://pypi.org/project/darn-it/"
 }

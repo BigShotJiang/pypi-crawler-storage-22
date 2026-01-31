@@ -1,0 +1,11 @@
+{
+  "name": "selenium-selector-autocorrect",
+  "version": "0.1.0",
+  "summary": "Automatic Selenium selector correction using AI when elements fail to be found",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "selenium_selector_autocorrect-0.1.0.tar.gz",
+  "download_time": "2026-01-31T18:30:23.518164",
+  "package_url": "https://pypi.org/project/selenium-selector-autocorrect/"
+}

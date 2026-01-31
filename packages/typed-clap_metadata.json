@@ -1,0 +1,11 @@
+{
+  "name": "typed-clap",
+  "version": "0.11.1",
+  "summary": "A declarative and type-safe command-line argument parser.",
+  "author": "Aditya Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_clap-0.11.1.tar.gz",
+  "download_time": "2026-01-31T18:30:34.873179",
+  "package_url": "https://pypi.org/project/typed-clap/"
+}

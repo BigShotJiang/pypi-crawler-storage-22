@@ -1,0 +1,11 @@
+{
+  "name": "ovos-stt-plugin-onnx-asr",
+  "version": "0.0.1",
+  "summary": "A onnx stt plugin for OVOS",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-stt-plugin-onnx-asr",
+  "download_filename": "ovos_stt_plugin_onnx_asr-0.0.1.tar.gz",
+  "download_time": "2026-01-31T18:30:19.374580",
+  "package_url": "https://pypi.org/project/ovos-stt-plugin-onnx-asr/"
+}

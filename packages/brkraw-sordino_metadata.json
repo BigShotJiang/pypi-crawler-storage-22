@@ -1,11 +1,11 @@
 {
   "name": "brkraw-sordino",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "BrkRaw converter hook for SORDINO-ZTE reconstruction",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "brkraw_sordino-0.2.3.tar.gz",
-  "download_time": "2026-01-29T01:28:43.410352",
+  "download_filename": "brkraw_sordino-0.2.4.tar.gz",
+  "download_time": "2026-01-31T18:30:14.113817",
   "package_url": "https://pypi.org/project/brkraw-sordino/"
 }

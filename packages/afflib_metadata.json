@@ -1,0 +1,11 @@
+{
+  "name": "afflib",
+  "version": "0.0.1",
+  "summary": "A library for processing charts for game Arcaea",
+  "author": "chitake",
+  "license": "The Unlicense",
+  "home_page": null,
+  "download_filename": "afflib-0.0.1.tar.gz",
+  "download_time": "2026-01-31T18:30:00.733850",
+  "package_url": "https://pypi.org/project/afflib/"
+}

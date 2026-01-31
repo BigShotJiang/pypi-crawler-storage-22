@@ -1,11 +1,11 @@
 {
   "name": "kitedb",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "High-performance embedded graph database with vector search",
   "author": "KiteDB Contributors",
   "license": "MIT",
-  "home_page": "https://github.com/maskdotdev/kitedb",
-  "download_filename": "kitedb-0.2.2.tar.gz",
-  "download_time": "2026-01-31T15:59:37.212882",
+  "home_page": "https://github.com/mask-software/kitedb",
+  "download_filename": "kitedb-0.2.5.tar.gz",
+  "download_time": "2026-01-31T18:30:02.364780",
   "package_url": "https://pypi.org/project/kitedb/"
 }

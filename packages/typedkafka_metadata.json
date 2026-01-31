@@ -1,0 +1,11 @@
+{
+  "name": "typedkafka",
+  "version": "0.2.0",
+  "summary": "A well-documented, fully type-hinted Kafka client for Python",
+  "author": "typedkafka contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typedkafka-0.2.0.tar.gz",
+  "download_time": "2026-01-31T18:30:18.326757",
+  "package_url": "https://pypi.org/project/typedkafka/"
+}
