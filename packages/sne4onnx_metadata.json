@@ -1,0 +1,11 @@
+{
+  "name": "sne4onnx",
+  "version": "1.0.15",
+  "summary": "A very simple tool for situations where optimization with onnx-simplifier would exceed the Protocol Buffers upper file size limit of 2GB, or simply to separate onnx files to any size you want. Simple Network Extraction for ONNX.",
+  "author": "Katsuya Hyodo",
+  "license": "MIT License",
+  "home_page": "https://github.com/PINTO0309/sne4onnx",
+  "download_filename": "sne4onnx-1.0.15.tar.gz",
+  "download_time": "2026-01-31T01:26:26.621743",
+  "package_url": "https://pypi.org/project/sne4onnx/"
+}

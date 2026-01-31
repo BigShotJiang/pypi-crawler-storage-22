@@ -1,0 +1,11 @@
+{
+  "name": "micropython-microbit-fs",
+  "version": "0.1.1",
+  "summary": "Library and cli app to add and extract files from MicroPython Hex files for micro:bit",
+  "author": "Carlos Pereira Atencio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "micropython_microbit_fs-0.1.1.tar.gz",
+  "download_time": "2026-01-31T01:26:42.397262",
+  "package_url": "https://pypi.org/project/micropython-microbit-fs/"
+}

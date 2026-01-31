@@ -1,0 +1,11 @@
+{
+  "name": "argsl",
+  "version": "0.1.4",
+  "summary": "A convenience DSL layer over the `argparse` package.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argsl-0.1.4.tar.gz",
+  "download_time": "2026-01-31T01:26:37.662038",
+  "package_url": "https://pypi.org/project/argsl/"
+}

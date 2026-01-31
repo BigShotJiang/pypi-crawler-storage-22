@@ -1,0 +1,11 @@
+{
+  "name": "sync-ssh-keys",
+  "version": "0.0.4",
+  "summary": "Sync SSH keys from GitHub",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sync_ssh_keys-0.0.4.tar.gz",
+  "download_time": "2026-01-31T01:27:04.379171",
+  "package_url": "https://pypi.org/project/sync-ssh-keys/"
+}

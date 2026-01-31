@@ -1,0 +1,11 @@
+{
+  "name": "libxrk",
+  "version": "0.7.0",
+  "summary": "Library for reading AIM XRK files from AIM automotive data loggers",
+  "author": "Christopher Dewan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libxrk-0.7.0.tar.gz",
+  "download_time": "2026-01-31T01:26:39.776702",
+  "package_url": "https://pypi.org/project/libxrk/"
+}

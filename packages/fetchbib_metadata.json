@@ -1,0 +1,11 @@
+{
+  "name": "fetchbib",
+  "version": "0.6.0",
+  "summary": "Resolve DOIs and search queries into formatted BibTeX entries.",
+  "author": "Matthew DeVerna",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetchbib-0.6.0.tar.gz",
+  "download_time": "2026-01-31T01:27:06.940168",
+  "package_url": "https://pypi.org/project/fetchbib/"
+}

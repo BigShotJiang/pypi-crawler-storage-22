@@ -1,0 +1,11 @@
+{
+  "name": "parallel-web-tools",
+  "version": "0.0.11",
+  "summary": "Parallel Tools: CLI and data enrichment utilities for the Parallel API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parallel_web_tools-0.0.11.tar.gz",
+  "download_time": "2026-01-31T01:26:49.223859",
+  "package_url": "https://pypi.org/project/parallel-web-tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plotly-calheatmap",
+  "version": "0.5",
+  "summary": "Calendar Plot made with Plotly",
+  "author": "Bruno Rodrigues Silva",
+  "license": "MIT",
+  "home_page": "https://github.com/thomazyujibaba/plotly-calheatmap",
+  "download_filename": "plotly_calheatmap-0.5.tar.gz",
+  "download_time": "2026-01-31T01:26:52.935217",
+  "package_url": "https://pypi.org/project/plotly-calheatmap/"
+}
