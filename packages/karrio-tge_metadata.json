@@ -1,11 +1,11 @@
 {
   "name": "karrio-tge",
-  "version": "2026.1.3",
+  "version": "2026.1.4",
   "summary": "Karrio - TGE Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_tge-2026.1.3-py3-none-any.whl",
-  "download_time": "2026-01-30T01:28:40.188259",
+  "download_filename": "karrio_tge-2026.1.4-py3-none-any.whl",
+  "download_time": "2026-01-31T06:59:17.370357",
   "package_url": "https://pypi.org/project/karrio-tge/"
 }

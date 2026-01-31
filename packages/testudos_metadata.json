@@ -1,0 +1,11 @@
+{
+  "name": "testudos",
+  "version": "0.14.0",
+  "summary": "A testing harness for Python packages using uv's isolated environments",
+  "author": "Martin Ristovski",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "testudos-0.14.0.tar.gz",
+  "download_time": "2026-01-31T06:59:57.825425",
+  "package_url": "https://pypi.org/project/testudos/"
+}

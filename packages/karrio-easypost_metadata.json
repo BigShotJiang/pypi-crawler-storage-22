@@ -1,11 +1,11 @@
 {
   "name": "karrio-easypost",
-  "version": "2026.1.3",
+  "version": "2026.1.4",
   "summary": "Karrio - EasyPost Shipping extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_easypost-2026.1.3-py3-none-any.whl",
-  "download_time": "2026-01-30T01:29:00.670086",
+  "download_filename": "karrio_easypost-2026.1.4-py3-none-any.whl",
+  "download_time": "2026-01-31T06:59:35.986724",
   "package_url": "https://pypi.org/project/karrio-easypost/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "x402-xrpl",
+  "version": "0.1.4",
+  "summary": "XRPL implementation of x402 payments (presigned Payment scheme) with client + FastAPI/Starlette helpers",
+  "author": "Facilitator Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "x402_xrpl-0.1.4.tar.gz",
+  "download_time": "2026-01-31T06:59:49.942710",
+  "package_url": "https://pypi.org/project/x402-xrpl/"
+}
