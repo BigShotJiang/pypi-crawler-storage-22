@@ -1,0 +1,11 @@
+{
+  "name": "aerosim-drone",
+  "version": "0.1.2",
+  "summary": "WebSocket drone client for AeroSim",
+  "author": "aerosim",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aerosim_drone-0.1.2.tar.gz",
+  "download_time": "2026-01-31T14:26:29.412198",
+  "package_url": "https://pypi.org/project/aerosim-drone/"
+}

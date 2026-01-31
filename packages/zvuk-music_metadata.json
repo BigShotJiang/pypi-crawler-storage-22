@@ -1,11 +1,11 @@
 {
   "name": "zvuk-music",
-  "version": "0.3.0",
+  "version": "0.5.3",
   "summary": "Unofficial Python library for the Zvuk.com music streaming API",
   "author": "trudenboy",
   "license": null,
   "home_page": null,
-  "download_filename": "zvuk_music-0.3.0.tar.gz",
-  "download_time": "2026-01-31T08:25:18.503673",
+  "download_filename": "zvuk_music-0.5.3.tar.gz",
+  "download_time": "2026-01-31T14:26:39.247981",
   "package_url": "https://pypi.org/project/zvuk-music/"
 }

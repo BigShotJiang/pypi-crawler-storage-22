@@ -1,11 +1,11 @@
 {
   "name": "TRSFX",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Crystallographic Utilities from the Standfuss group out of PSI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "trsfx-0.3.1.tar.gz",
-  "download_time": "2026-01-31T13:58:29.521330",
+  "download_filename": "trsfx-0.3.2.tar.gz",
+  "download_time": "2026-01-31T14:26:47.469005",
   "package_url": "https://pypi.org/project/TRSFX/"
 }

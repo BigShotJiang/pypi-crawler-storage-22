@@ -1,0 +1,11 @@
+{
+  "name": "tortoise-imagefield",
+  "version": "0.2.0",
+  "summary": "Asynchronous Tortoise ORM field for handling image uploads with cropping, caching, and support for AWS S3 or local storage.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tortoise_imagefield-0.2.0.tar.gz",
+  "download_time": "2026-01-31T14:26:28.768876",
+  "package_url": "https://pypi.org/project/tortoise-imagefield/"
+}

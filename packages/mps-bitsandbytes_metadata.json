@@ -1,11 +1,11 @@
 {
   "name": "mps-bitsandbytes",
-  "version": "0.4.4",
+  "version": "0.4.7",
   "summary": "NF4/FP4/FP8/INT8 quantization for PyTorch on Apple Silicon with Metal GPU acceleration",
   "author": "imperatormk",
   "license": null,
   "home_page": null,
-  "download_filename": "mps_bitsandbytes-0.4.4-cp314-cp314-macosx_15_0_arm64.whl",
-  "download_time": "2026-01-31T11:42:36.838493",
+  "download_filename": "mps_bitsandbytes-0.4.7.tar.gz",
+  "download_time": "2026-01-31T14:26:32.518206",
   "package_url": "https://pypi.org/project/mps-bitsandbytes/"
 }
