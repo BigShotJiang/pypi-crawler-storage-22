@@ -1,11 +1,11 @@
 {
   "name": "ai-code-compass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Fast code map generator for AI coding assistants - Save 99%+ tokens",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_code_compass-0.1.1.tar.gz",
-  "download_time": "2026-01-31T09:50:59.198280",
+  "download_filename": "ai_code_compass-0.1.2.tar.gz",
+  "download_time": "2026-01-31T11:17:19.348812",
   "package_url": "https://pypi.org/project/ai-code-compass/"
 }

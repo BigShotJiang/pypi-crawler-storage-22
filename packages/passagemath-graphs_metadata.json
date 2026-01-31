@@ -1,0 +1,11 @@
+{
+  "name": "passagemath-graphs",
+  "version": "10.6.47",
+  "summary": "passagemath: Graphs, posets, hypergraphs, designs, abstract complexes, combinatorial polyhedra, abelian sandpiles, quivers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passagemath_graphs-10.6.47.tar.gz",
+  "download_time": "2026-01-31T11:17:36.065056",
+  "package_url": "https://pypi.org/project/passagemath-graphs/"
+}

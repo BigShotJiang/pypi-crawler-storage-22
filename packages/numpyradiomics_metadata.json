@@ -1,0 +1,11 @@
+{
+  "name": "numpyradiomics",
+  "version": "0.0.4",
+  "summary": "A light-weight python-native implementation of pyradiomics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numpyradiomics-0.0.4.tar.gz",
+  "download_time": "2026-01-31T11:17:36.575273",
+  "package_url": "https://pypi.org/project/numpyradiomics/"
+}

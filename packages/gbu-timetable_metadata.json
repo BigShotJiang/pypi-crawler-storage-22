@@ -1,0 +1,11 @@
+{
+  "name": "gbu-timetable",
+  "version": "0.1.2",
+  "summary": "Terminal-based timetable viewer for Gautam Buddha University",
+  "author": "Shashank Shekhar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gbu_timetable-0.1.2.tar.gz",
+  "download_time": "2026-01-31T11:17:20.989418",
+  "package_url": "https://pypi.org/project/gbu-timetable/"
+}
