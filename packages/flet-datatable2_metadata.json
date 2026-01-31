@@ -1,11 +1,11 @@
 {
   "name": "flet-datatable2",
-  "version": "0.80.4",
+  "version": "0.80.5",
   "summary": "Enhanced data table widgets for Flet apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flet_datatable2-0.80.4.tar.gz",
-  "download_time": "2026-01-29T23:22:36.291354",
+  "download_filename": "flet_datatable2-0.80.5.tar.gz",
+  "download_time": "2026-01-31T20:21:16.705246",
   "package_url": "https://pypi.org/project/flet-datatable2/"
 }

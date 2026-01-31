@@ -1,11 +1,11 @@
 {
   "name": "pixelbyte-figma-mcp",
-  "version": "3.2.0",
+  "version": "3.2.3",
   "summary": "MCP Server for Figma API - Design tokens, gradients, effects, interactions, accessibility checks, Code Connect, and code generation for React, Vue, SwiftUI, Kotlin",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pixelbyte_figma_mcp-3.2.0.tar.gz",
-  "download_time": "2026-01-31T19:21:29.176632",
+  "download_filename": "pixelbyte_figma_mcp-3.2.3.tar.gz",
+  "download_time": "2026-01-31T20:21:02.099127",
   "package_url": "https://pypi.org/project/pixelbyte-figma-mcp/"
 }

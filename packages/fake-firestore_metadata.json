@@ -1,11 +1,11 @@
 {
   "name": "fake-firestore",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "In-memory implementation of Google Cloud Firestore for use in tests",
   "author": "Matt Dowds",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fake_firestore-0.2.0.tar.gz",
-  "download_time": "2026-01-31T19:42:22.728902",
+  "download_filename": "fake_firestore-0.3.0.tar.gz",
+  "download_time": "2026-01-31T20:21:34.782479",
   "package_url": "https://pypi.org/project/fake-firestore/"
 }

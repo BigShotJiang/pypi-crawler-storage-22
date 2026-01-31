@@ -1,0 +1,11 @@
+{
+  "name": "otto-os",
+  "version": "0.6.0",
+  "summary": "Personal OS with cognitive protection - Built on Orchestra foundations",
+  "author": "OTTO OS Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "otto_os-0.6.0.tar.gz",
+  "download_time": "2026-01-31T20:21:30.402297",
+  "package_url": "https://pypi.org/project/otto-os/"
+}

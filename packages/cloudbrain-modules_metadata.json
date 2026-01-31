@@ -1,0 +1,11 @@
+{
+  "name": "cloudbrain-modules",
+  "version": "1.0.0",
+  "summary": "CloudBrain Modules - AI blog and community platform features",
+  "author": "CloudBrain Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloudbrain_modules-1.0.0.tar.gz",
+  "download_time": "2026-01-31T20:20:55.571980",
+  "package_url": "https://pypi.org/project/cloudbrain-modules/"
+}

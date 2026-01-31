@@ -1,0 +1,11 @@
+{
+  "name": "flux-batch",
+  "version": "0.0.0",
+  "summary": "Python SDK for flux batch jobs and services",
+  "author": "Vanessa Sochat",
+  "license": "LICENSE",
+  "home_page": "https://github.com/converged-computing/flux-batch",
+  "download_filename": "flux_batch-0.0.0.tar.gz",
+  "download_time": "2026-01-31T20:21:30.924408",
+  "package_url": "https://pypi.org/project/flux-batch/"
+}

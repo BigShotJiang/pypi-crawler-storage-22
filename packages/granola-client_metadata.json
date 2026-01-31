@@ -1,0 +1,11 @@
+{
+  "name": "granola-client",
+  "version": "0.2.0",
+  "summary": "A Python client for the Granola API",
+  "author": "Anjor Kanekar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "granola_client-0.2.0.tar.gz",
+  "download_time": "2026-01-31T20:20:52.762965",
+  "package_url": "https://pypi.org/project/granola-client/"
+}
