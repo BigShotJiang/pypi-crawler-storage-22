@@ -1,0 +1,11 @@
+{
+  "name": "trainwatch",
+  "version": "0.1.0",
+  "summary": "Monitor PyTorch training health with one line of code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "trainwatch-0.1.0.tar.gz",
+  "download_time": "2026-01-31T20:48:25.999542",
+  "package_url": "https://pypi.org/project/trainwatch/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wholemail",
+  "version": "0.1.8",
+  "summary": "A lucid Python package built to facilitate easy sending of emails and other common generic functionality like sending authentication code emails",
+  "author": "Victor Kipkemboi",
+  "license": null,
+  "home_page": "https://github.com/victhepythonista/wholemail",
+  "download_filename": "wholemail-0.1.8.tar.gz",
+  "download_time": "2026-01-31T20:48:14.201469",
+  "package_url": "https://pypi.org/project/wholemail/"
+}

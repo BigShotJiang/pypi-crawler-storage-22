@@ -1,0 +1,11 @@
+{
+  "name": "mmrelay",
+  "version": "1.2.10",
+  "summary": "Bridge between Meshtastic mesh networks and Matrix chat rooms",
+  "author": "Geoff Whittington, Jeremiah K., and contributors",
+  "license": null,
+  "home_page": "https://github.com/jeremiah-k/meshtastic-matrix-relay",
+  "download_filename": "mmrelay-1.2.10.tar.gz",
+  "download_time": "2026-01-31T20:48:26.535918",
+  "package_url": "https://pypi.org/project/mmrelay/"
+}

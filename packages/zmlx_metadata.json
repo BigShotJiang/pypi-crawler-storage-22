@@ -1,11 +1,11 @@
 {
   "name": "zmlx",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "ZMLX: Metal-kernel toolkit and optimization lab for MLX on Apple Silicon. Fused MoE decode (+5-26%), custom GPU kernels in one line, 70+ kernel catalog.",
   "author": "Hunter Bown",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zmlx-0.7.0.tar.gz",
-  "download_time": "2026-01-31T18:58:44.054626",
+  "download_filename": "zmlx-0.7.1.tar.gz",
+  "download_time": "2026-01-31T20:48:22.765819",
   "package_url": "https://pypi.org/project/zmlx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "uniovi-simur-wearablepermed-ml",
+  "version": "1.9.0",
+  "summary": "Uniovi Simur WearablePerMed Machine Learning.",
+  "author": "Miguel Salinas Gancedo",
+  "license": "MIT",
+  "home_page": "https://github.com/Simur-project/uniovi-simur-wearablepermed-ml.git",
+  "download_filename": "uniovi_simur_wearablepermed_ml-1.9.0.tar.gz",
+  "download_time": "2026-01-31T20:48:29.175104",
+  "package_url": "https://pypi.org/project/uniovi-simur-wearablepermed-ml/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hackmenot",
+  "version": "1.0.0",
+  "summary": "AI-Era Code Security Scanner - catches vulnerabilities AI coding assistants introduce",
+  "author": "b0rd3aux",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hackmenot-1.0.0.tar.gz",
+  "download_time": "2026-01-31T20:48:16.400071",
+  "package_url": "https://pypi.org/project/hackmenot/"
+}

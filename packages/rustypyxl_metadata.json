@@ -1,11 +1,11 @@
 {
   "name": "rustypyxl",
-  "version": "0.1.0",
-  "summary": null,
+  "version": "0.3.0",
+  "summary": "A fast, Rust-powered Excel xlsx library for Python with openpyxl-compatible API",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "rustypyxl-0.1.0.tar.gz",
-  "download_time": "2026-01-29T20:01:21.055199",
+  "download_filename": "rustypyxl-0.3.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-31T20:48:32.396271",
   "package_url": "https://pypi.org/project/rustypyxl/"
 }
