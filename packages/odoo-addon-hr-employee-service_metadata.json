@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-employee-service",
+  "version": "18.0.1.0.0.4",
+  "summary": "Employee service information & duration",
+  "author": "CorporateHub, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr",
+  "download_filename": "odoo_addon_hr_employee_service-18.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-31T03:37:34.030681",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-employee-service/"
+}

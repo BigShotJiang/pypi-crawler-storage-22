@@ -1,0 +1,11 @@
+{
+  "name": "dvr-ftp-tools",
+  "version": "0.1.0",
+  "summary": "Ferramentas para listar e baixar arquivos de DVR via FTP",
+  "author": "Edilson claudino da silva",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dvr_ftp_tools-0.1.0.tar.gz",
+  "download_time": "2026-01-31T03:37:47.535049",
+  "package_url": "https://pypi.org/project/dvr-ftp-tools/"
+}

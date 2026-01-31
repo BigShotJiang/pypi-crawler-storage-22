@@ -1,0 +1,11 @@
+{
+  "name": "colbert-matryoshka",
+  "version": "0.1.5",
+  "summary": "Matryoshka ColBERT: Multi-dimensional ColBERT embeddings with PyLate",
+  "author": "dragonkue",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "colbert_matryoshka-0.1.5.tar.gz",
+  "download_time": "2026-01-31T03:37:26.112933",
+  "package_url": "https://pypi.org/project/colbert-matryoshka/"
+}

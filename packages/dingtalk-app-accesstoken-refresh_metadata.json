@@ -1,0 +1,11 @@
+{
+  "name": "dingtalk-app-accesstoken-refresh",
+  "version": "0.1.0",
+  "summary": "DingTalk App AccessToken Refresh Tool",
+  "author": "Martian Bugs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dingtalk_app_accesstoken_refresh-0.1.0.tar.gz",
+  "download_time": "2026-01-31T03:37:16.059319",
+  "package_url": "https://pypi.org/project/dingtalk-app-accesstoken-refresh/"
+}

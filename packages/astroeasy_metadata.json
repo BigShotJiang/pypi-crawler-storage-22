@@ -1,0 +1,11 @@
+{
+  "name": "astroeasy",
+  "version": "0.2.0",
+  "summary": "Astrometry.net made easy - plate solving and index management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astroeasy-0.2.0.tar.gz",
+  "download_time": "2026-01-31T03:37:04.828735",
+  "package_url": "https://pypi.org/project/astroeasy/"
+}

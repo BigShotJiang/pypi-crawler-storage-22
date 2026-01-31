@@ -1,0 +1,11 @@
+{
+  "name": "mas-algo-cli",
+  "version": "0.2.1",
+  "summary": "CLI tool for managing MAS hosting platform algorithm services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mas_algo_cli-0.2.1.tar.gz",
+  "download_time": "2026-01-31T03:37:22.503386",
+  "package_url": "https://pypi.org/project/mas-algo-cli/"
+}

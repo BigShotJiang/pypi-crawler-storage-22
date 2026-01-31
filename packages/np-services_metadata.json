@@ -1,11 +1,11 @@
 {
   "name": "np-services",
-  "version": "0.1.71",
+  "version": "0.1.73",
   "summary": "Tools for interfacing with devices and services used in Mindscope Neuropixels experiments at the Allen Institute.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "np_services-0.1.71.tar.gz",
-  "download_time": "2026-01-30T23:22:04.711048",
+  "download_filename": "np_services-0.1.73.tar.gz",
+  "download_time": "2026-01-31T03:37:35.632832",
   "package_url": "https://pypi.org/project/np-services/"
 }
