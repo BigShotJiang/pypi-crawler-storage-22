@@ -1,0 +1,11 @@
+{
+  "name": "jsocket",
+  "version": "1.9.6",
+  "summary": "Python JSON Server & Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jsocket-1.9.6.tar.gz",
+  "download_time": "2026-01-31T17:32:07.919899",
+  "package_url": "https://pypi.org/project/jsocket/"
+}

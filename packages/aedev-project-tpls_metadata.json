@@ -1,0 +1,11 @@
+{
+  "name": "aedev-project-tpls",
+  "version": "0.3.75",
+  "summary": "aedev namespace package portion project_tpls: managed Python project files templates",
+  "author": "AndiEcker",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/aedev-group/aedev_project_tpls",
+  "download_filename": "aedev_project_tpls-0.3.75.tar.gz",
+  "download_time": "2026-01-31T17:32:06.373946",
+  "package_url": "https://pypi.org/project/aedev-project-tpls/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "caffee",
+  "version": "2.9.1",
+  "summary": "A simple CUI editor for Caffee.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "caffee-2.9.1.tar.gz",
+  "download_time": "2026-01-31T17:32:08.992472",
+  "package_url": "https://pypi.org/project/caffee/"
+}

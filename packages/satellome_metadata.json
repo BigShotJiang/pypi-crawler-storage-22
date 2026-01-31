@@ -1,0 +1,11 @@
+{
+  "name": "satellome",
+  "version": "1.6.0",
+  "summary": "A comprehensive tool for satellite DNA analysis in T2T genome assemblies",
+  "author": "Aleksey Komissarov",
+  "license": "MIT",
+  "home_page": "https://github.com/aglabx/Satellome",
+  "download_filename": "satellome-1.6.0.tar.gz",
+  "download_time": "2026-01-31T17:31:59.540672",
+  "package_url": "https://pypi.org/project/satellome/"
+}

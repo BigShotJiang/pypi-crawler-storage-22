@@ -1,11 +1,11 @@
 {
   "name": "planalytix-airflow",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Apache Airflow provider for Planalytix data integration platform",
   "author": "Planalytix",
   "license": null,
   "home_page": "https://github.com/planalytix/planalytix-airflow",
-  "download_filename": "planalytix_airflow-1.0.2.tar.gz",
-  "download_time": "2026-01-31T17:01:11.527858",
+  "download_filename": "planalytix_airflow-1.0.3.tar.gz",
+  "download_time": "2026-01-31T17:32:00.054743",
   "package_url": "https://pypi.org/project/planalytix-airflow/"
 }

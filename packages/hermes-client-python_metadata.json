@@ -1,11 +1,11 @@
 {
   "name": "hermes-client-python",
-  "version": "1.4.36",
+  "version": "1.4.37",
   "summary": "Async Python client for Hermes search server",
   "author": "izihawa",
   "license": null,
   "home_page": null,
-  "download_filename": "hermes_client_python-1.4.36.tar.gz",
-  "download_time": "2026-01-31T16:35:31.266541",
+  "download_filename": "hermes_client_python-1.4.37.tar.gz",
+  "download_time": "2026-01-31T17:32:05.862489",
   "package_url": "https://pypi.org/project/hermes-client-python/"
 }

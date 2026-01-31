@@ -1,0 +1,11 @@
+{
+  "name": "dataairlock",
+  "version": "0.3.1",
+  "summary": "個人情報を仮名化してクラウドLLMに安全に渡すためのツール",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dataairlock-0.3.1.tar.gz",
+  "download_time": "2026-01-31T17:31:52.843399",
+  "package_url": "https://pypi.org/project/dataairlock/"
+}

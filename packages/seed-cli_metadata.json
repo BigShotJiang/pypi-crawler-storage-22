@@ -1,0 +1,11 @@
+{
+  "name": "seed-cli",
+  "version": "1.0.5",
+  "summary": "The perfect pair for the `tree` program. Seed creates, updates and deletes file and folder structures in your codebase.",
+  "author": null,
+  "license": "ModifiedMIT",
+  "home_page": null,
+  "download_filename": "seed_cli-1.0.5.tar.gz",
+  "download_time": "2026-01-31T17:32:11.572798",
+  "package_url": "https://pypi.org/project/seed-cli/"
+}

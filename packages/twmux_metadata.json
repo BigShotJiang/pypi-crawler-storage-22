@@ -1,0 +1,11 @@
+{
+  "name": "twmux",
+  "version": "0.1.0",
+  "summary": "Race-condition-safe tmux wrapper for coding agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "twmux-0.1.0.tar.gz",
+  "download_time": "2026-01-31T17:31:54.391943",
+  "package_url": "https://pypi.org/project/twmux/"
+}
