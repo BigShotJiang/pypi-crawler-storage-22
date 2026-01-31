@@ -1,0 +1,11 @@
+{
+  "name": "chunk-metadata-adapter",
+  "version": "3.3.4",
+  "summary": "Reusable metadata builder for chunk-based systems with BM25 tokens support",
+  "author": "Vasiliy zdanovskiy vasilyvz@gmail.com",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chunk_metadata_adapter-3.3.4.tar.gz",
+  "download_time": "2026-01-31T21:56:12.114929",
+  "package_url": "https://pypi.org/project/chunk-metadata-adapter/"
+}

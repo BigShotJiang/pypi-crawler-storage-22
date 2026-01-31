@@ -1,0 +1,11 @@
+{
+  "name": "t87s",
+  "version": "0.1.0",
+  "summary": "Declarative cache invalidation for Python",
+  "author": "t87s",
+  "license": null,
+  "home_page": null,
+  "download_filename": "t87s-0.1.0.tar.gz",
+  "download_time": "2026-01-31T21:55:57.906976",
+  "package_url": "https://pypi.org/project/t87s/"
+}

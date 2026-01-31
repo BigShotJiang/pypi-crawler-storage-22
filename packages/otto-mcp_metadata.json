@@ -1,11 +1,11 @@
 {
   "name": "otto-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MCP server for Otto cognitive safety layer - ThinkingMachines [He2025] compliant",
   "author": "Otto Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "otto_mcp-1.0.0.tar.gz",
-  "download_time": "2026-01-31T20:21:29.362749",
+  "download_filename": "otto_mcp-1.0.1.tar.gz",
+  "download_time": "2026-01-31T21:56:06.960086",
   "package_url": "https://pypi.org/project/otto-mcp/"
 }

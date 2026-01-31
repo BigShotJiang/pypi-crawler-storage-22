@@ -1,11 +1,11 @@
 {
   "name": "nbdev",
-  "version": "3.0.7",
+  "version": "3.0.8",
   "summary": "Create delightful software with Jupyter Notebooks",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nbdev-3.0.7.tar.gz",
-  "download_time": "2026-01-29T17:34:16.757543",
+  "download_filename": "nbdev-3.0.8.tar.gz",
+  "download_time": "2026-01-31T21:56:01.320668",
   "package_url": "https://pypi.org/project/nbdev/"
 }

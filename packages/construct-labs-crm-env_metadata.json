@@ -1,11 +1,11 @@
 {
   "name": "construct-labs-crm-env",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "CRM Agent Environment SDK by Construct Labs - Train RL agents to interact with CRM systems",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "construct_labs_crm_env-0.1.3.tar.gz",
-  "download_time": "2026-01-31T14:50:55.769202",
+  "download_filename": "construct_labs_crm_env-0.1.5.tar.gz",
+  "download_time": "2026-01-31T21:56:04.103997",
   "package_url": "https://pypi.org/project/construct-labs-crm-env/"
 }

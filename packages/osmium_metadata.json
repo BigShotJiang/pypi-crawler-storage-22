@@ -1,0 +1,11 @@
+{
+  "name": "osmium",
+  "version": "4.3.0",
+  "summary": "Python bindings for libosmium, the data processing library for OSM data",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "osmium-4.3.0.tar.gz",
+  "download_time": "2026-01-31T21:56:08.747040",
+  "package_url": "https://pypi.org/project/osmium/"
+}
