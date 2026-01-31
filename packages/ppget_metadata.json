@@ -1,0 +1,11 @@
+{
+  "name": "ppget",
+  "version": "0.1.9",
+  "summary": "A simple CLI tool to download PubMed articles without the complexity of EDirect",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ppget-0.1.9.tar.gz",
+  "download_time": "2026-01-31T11:54:44.262817",
+  "package_url": "https://pypi.org/project/ppget/"
+}

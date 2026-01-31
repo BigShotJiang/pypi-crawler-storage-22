@@ -1,11 +1,11 @@
 {
   "name": "codebrick",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A Python library for codebrick",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codebrick-1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-31T11:42:44.161131",
+  "download_filename": "codebrick-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-31T11:54:50.927404",
   "package_url": "https://pypi.org/project/codebrick/"
 }

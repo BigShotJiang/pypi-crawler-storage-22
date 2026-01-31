@@ -1,0 +1,11 @@
+{
+  "name": "pykrx-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for pykrx - Korean stock market data library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pykrx_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-31T11:54:52.010962",
+  "package_url": "https://pypi.org/project/pykrx-mcp/"
+}

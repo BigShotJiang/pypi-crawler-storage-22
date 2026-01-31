@@ -1,11 +1,11 @@
 {
   "name": "step-cli-tools",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "Prebuilt tools for the smallstep step-cli",
   "author": "LeoTN",
   "license": null,
   "home_page": "https://github.com/LeoTN/step-cli-tools#readme",
-  "download_filename": "step_cli_tools-0.2.3.tar.gz",
-  "download_time": "2026-01-31T11:42:58.868122",
+  "download_filename": "step_cli_tools-0.3.0.tar.gz",
+  "download_time": "2026-01-31T11:54:51.438010",
   "package_url": "https://pypi.org/project/step-cli-tools/"
 }

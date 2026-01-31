@@ -1,0 +1,11 @@
+{
+  "name": "pybgworker",
+  "version": "0.2.1",
+  "summary": "Lightweight production-ready background task worker with cron, rate limiting and JSON observability",
+  "author": "Prabhat Verma",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybgworker-0.2.1.tar.gz",
+  "download_time": "2026-01-31T11:54:53.096059",
+  "package_url": "https://pypi.org/project/pybgworker/"
+}

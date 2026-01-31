@@ -1,0 +1,11 @@
+{
+  "name": "croniter_rs",
+  "version": "0.1.0",
+  "summary": "High-performance Rust implementation of Python croniter",
+  "author": "croniter-rs contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "croniter_rs-0.1.0.tar.gz",
+  "download_time": "2026-01-31T11:54:48.190772",
+  "package_url": "https://pypi.org/project/croniter_rs/"
+}
