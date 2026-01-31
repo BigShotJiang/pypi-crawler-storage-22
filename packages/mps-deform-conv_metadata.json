@@ -1,0 +1,11 @@
+{
+  "name": "mps-deform-conv",
+  "version": "0.1.4",
+  "summary": "Deformable Convolution 2D for PyTorch on Apple Silicon (MPS)",
+  "author": "imperatormk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mps_deform_conv-0.1.4.tar.gz",
+  "download_time": "2026-01-31T16:35:34.467312",
+  "package_url": "https://pypi.org/project/mps-deform-conv/"
+}

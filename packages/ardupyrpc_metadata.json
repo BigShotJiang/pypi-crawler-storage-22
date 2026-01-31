@@ -1,0 +1,11 @@
+{
+  "name": "ardupyrpc",
+  "version": "0.1.0",
+  "summary": "Python client for an Arduino RPC bridge using MsgPack over serial.",
+  "author": "Luca Macavero",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ardupyrpc-0.1.0.tar.gz",
+  "download_time": "2026-01-31T16:35:00.806244",
+  "package_url": "https://pypi.org/project/ardupyrpc/"
+}

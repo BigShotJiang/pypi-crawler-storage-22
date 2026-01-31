@@ -1,11 +1,11 @@
 {
   "name": "mgz",
-  "version": "1.8.48",
+  "version": "1.8.49",
   "summary": "Parse Age of Empires 2 recorded games.",
   "author": "happyleaves",
   "license": "MIT",
   "home_page": "https://github.com/happyleavesaoc/aoc-mgz/",
-  "download_filename": "mgz-1.8.48.tar.gz",
-  "download_time": "2026-01-30T15:52:47.696027",
+  "download_filename": "mgz-1.8.49.tar.gz",
+  "download_time": "2026-01-31T16:34:53.632808",
   "package_url": "https://pypi.org/project/mgz/"
 }

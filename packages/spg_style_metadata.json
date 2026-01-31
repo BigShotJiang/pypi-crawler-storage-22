@@ -1,0 +1,11 @@
+{
+  "name": "spg_style",
+  "version": "0.1.2",
+  "summary": "S&P Global charting style according to EDP style guideline",
+  "author": "Kunfeng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spg_style-0.1.2.tar.gz",
+  "download_time": "2026-01-31T16:34:50.419306",
+  "package_url": "https://pypi.org/project/spg_style/"
+}

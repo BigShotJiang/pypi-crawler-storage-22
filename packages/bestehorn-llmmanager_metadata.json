@@ -1,11 +1,11 @@
 {
   "name": "bestehorn-llmmanager",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "A comprehensive Python library for managing AWS Bedrock Converse API interactions with multi-model support, intelligent retry logic, and parallel processing capabilities",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bestehorn_llmmanager-0.7.2.tar.gz",
-  "download_time": "2026-01-31T14:50:58.858695",
+  "download_filename": "bestehorn_llmmanager-0.7.3.tar.gz",
+  "download_time": "2026-01-31T16:35:20.228408",
   "package_url": "https://pypi.org/project/bestehorn-llmmanager/"
 }
