@@ -1,0 +1,11 @@
+{
+  "name": "py4agent-mcp",
+  "version": "0.1.1",
+  "summary": "MCP (Model Context Protocol) Server for py4agent - Provides code execution capabilities through Jupyter kernels",
+  "author": "LinXueyuanStdio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py4agent_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-01T11:44:46.662301",
+  "package_url": "https://pypi.org/project/py4agent-mcp/"
+}

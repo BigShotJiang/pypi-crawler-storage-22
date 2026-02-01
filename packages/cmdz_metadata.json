@@ -1,11 +1,11 @@
 {
   "name": "cmdz",
-  "version": "0.5",
+  "version": "0.7",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cmdz-0.5.tar.gz",
-  "download_time": "2026-02-01T10:21:38.753977",
+  "download_filename": "cmdz-0.7.tar.gz",
+  "download_time": "2026-02-01T11:44:47.173076",
   "package_url": "https://pypi.org/project/cmdz/"
 }

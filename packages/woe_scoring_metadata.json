@@ -1,11 +1,11 @@
 {
   "name": "woe_scoring",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "summary": "Weight Of Evidence Transformer and LogisticRegression model with scikit-learn API",
   "author": "Stroganov Kirill",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "woe_scoring-1.1.0.tar.gz",
-  "download_time": "2026-02-01T08:28:18.093246",
+  "download_filename": "woe_scoring-2.0.0.tar.gz",
+  "download_time": "2026-02-01T11:44:52.856371",
   "package_url": "https://pypi.org/project/woe_scoring/"
 }

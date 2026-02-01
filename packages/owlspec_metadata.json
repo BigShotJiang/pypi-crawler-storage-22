@@ -1,11 +1,11 @@
 {
   "name": "owlspec",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "Library for optical emission spectroscopy of low-temperature plasmas.",
   "author": "Julian Held",
   "license": "MIT",
   "home_page": "https://github.com/mimurrayy/owl",
-  "download_filename": "owlspec-0.3.3.tar.gz",
-  "download_time": "2026-02-01T09:54:52.135250",
+  "download_filename": "owlspec-0.3.4.tar.gz",
+  "download_time": "2026-02-01T11:45:02.652287",
   "package_url": "https://pypi.org/project/owlspec/"
 }

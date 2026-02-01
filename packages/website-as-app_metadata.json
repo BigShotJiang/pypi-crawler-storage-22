@@ -1,0 +1,11 @@
+{
+  "name": "website-as-app",
+  "version": "1.8.1",
+  "summary": "Opens any web site as standalone desktop app.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "website_as_app-1.8.1.tar.gz",
+  "download_time": "2026-02-01T11:44:53.367484",
+  "package_url": "https://pypi.org/project/website-as-app/"
+}

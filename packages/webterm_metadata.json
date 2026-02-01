@@ -1,0 +1,11 @@
+{
+  "name": "webterm",
+  "version": "0.0.1",
+  "summary": "webterm: web based terminal",
+  "author": "Abhishek Thakur",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "webterm-0.0.1.tar.gz",
+  "download_time": "2026-02-01T11:44:49.216730",
+  "package_url": "https://pypi.org/project/webterm/"
+}
