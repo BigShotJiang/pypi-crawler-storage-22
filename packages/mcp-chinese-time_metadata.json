@@ -1,0 +1,11 @@
+{
+  "name": "mcp-chinese-time",
+  "version": "0.1.0",
+  "summary": "MCP server for parsing Chinese fuzzy time expressions to standard datetime formats",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_chinese_time-0.1.0.tar.gz",
+  "download_time": "2026-02-01T11:18:56.918840",
+  "package_url": "https://pypi.org/project/mcp-chinese-time/"
+}

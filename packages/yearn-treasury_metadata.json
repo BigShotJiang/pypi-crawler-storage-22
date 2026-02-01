@@ -1,0 +1,11 @@
+{
+  "name": "yearn-treasury",
+  "version": "0.2.0",
+  "summary": "This WIP library runs the eth-portfolio and dao-treasury exporters for the Yearn Finance treasury.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yearn_treasury-0.2.0.tar.gz",
+  "download_time": "2026-02-01T11:19:04.134895",
+  "package_url": "https://pypi.org/project/yearn-treasury/"
+}

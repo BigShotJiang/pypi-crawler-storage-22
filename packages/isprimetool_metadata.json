@@ -1,0 +1,11 @@
+{
+  "name": "isprimetool",
+  "version": "0.1.0",
+  "summary": "a tool to calculate if number is prime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isprimetool-0.1.0.tar.gz",
+  "download_time": "2026-02-01T11:19:01.563820",
+  "package_url": "https://pypi.org/project/isprimetool/"
+}

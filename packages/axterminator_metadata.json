@@ -1,0 +1,11 @@
+{
+  "name": "axterminator",
+  "version": "0.3.2",
+  "summary": "World's most superior macOS GUI testing framework with background testing",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "axterminator-0.3.2-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-01T11:19:17.000941",
+  "package_url": "https://pypi.org/project/axterminator/"
+}

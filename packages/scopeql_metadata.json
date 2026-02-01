@@ -1,0 +1,11 @@
+{
+  "name": "scopeql",
+  "version": "0.3.1",
+  "summary": "A command-line interface for ScopeDB",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/scopedb/scopeql",
+  "download_filename": "scopeql-0.3.1-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-01T11:19:00.533675",
+  "package_url": "https://pypi.org/project/scopeql/"
+}

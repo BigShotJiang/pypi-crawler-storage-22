@@ -1,0 +1,11 @@
+{
+  "name": "concierge-sdk",
+  "version": "0.3.3",
+  "summary": "Deploy production grade MCP apps in seconds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "concierge_sdk-0.3.3.tar.gz",
+  "download_time": "2026-02-01T11:19:05.668219",
+  "package_url": "https://pypi.org/project/concierge-sdk/"
+}
