@@ -1,11 +1,11 @@
 {
   "name": "unused-path",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Generate unused file and directory paths by auto-incrementing numeric suffixes. Similar to how browsers handle duplicate downloads.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unused_path-1.0.0.tar.gz",
-  "download_time": "2026-01-31T16:35:25.976314",
+  "download_filename": "unused_path-1.1.0.tar.gz",
+  "download_time": "2026-02-01T08:57:50.486652",
   "package_url": "https://pypi.org/project/unused-path/"
 }

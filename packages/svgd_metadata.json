@@ -1,0 +1,11 @@
+{
+  "name": "svgd",
+  "version": "0.0.4",
+  "summary": "A library for particle-based variational inference, supporting SVGD and MET-SVGD for scalable entropy estimation of unnormalized distributions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "svgd-0.0.4.tar.gz",
+  "download_time": "2026-02-01T08:57:15.562968",
+  "package_url": "https://pypi.org/project/svgd/"
+}

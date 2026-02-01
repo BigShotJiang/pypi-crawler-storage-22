@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-fetchmail-attach-from-folder",
+  "version": "18.0.1.1.0.2",
+  "summary": "Attach mails in an IMAP folder to existing objects",
+  "author": "Therp BV,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-tools",
+  "download_filename": "odoo_addon_fetchmail_attach_from_folder-18.0.1.1.0.2-py3-none-any.whl",
+  "download_time": "2026-02-01T08:57:39.580340",
+  "package_url": "https://pypi.org/project/odoo-addon-fetchmail-attach-from-folder/"
+}

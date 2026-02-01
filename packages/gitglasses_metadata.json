@@ -1,11 +1,11 @@
 {
   "name": "gitglasses",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Visualize git branch relationships in a commit range",
   "author": "Sander Teunissen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitglasses-0.1.0.tar.gz",
-  "download_time": "2026-02-01T07:55:40.839722",
+  "download_filename": "gitglasses-0.2.0.tar.gz",
+  "download_time": "2026-02-01T08:57:27.124440",
   "package_url": "https://pypi.org/project/gitglasses/"
 }

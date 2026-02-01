@@ -1,0 +1,11 @@
+{
+  "name": "mediathek-py",
+  "version": "0.1.1",
+  "summary": "Python API wrapper and CLI for MediathekViewWeb",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mediathek_py-0.1.1.tar.gz",
+  "download_time": "2026-02-01T08:57:20.851522",
+  "package_url": "https://pypi.org/project/mediathek-py/"
+}

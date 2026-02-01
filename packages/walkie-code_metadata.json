@@ -1,11 +1,11 @@
 {
   "name": "walkie-code",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Desktop client for WalkieCode with AI tool use - read/write files, run commands, search code",
   "author": "WalkieCode Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "walkie_code-0.2.1.tar.gz",
-  "download_time": "2026-01-31T21:44:17.714157",
+  "download_filename": "walkie_code-0.2.2.tar.gz",
+  "download_time": "2026-02-01T08:57:54.605532",
   "package_url": "https://pypi.org/project/walkie-code/"
 }

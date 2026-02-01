@@ -1,0 +1,11 @@
+{
+  "name": "spotipy-types",
+  "version": "2025.5.18",
+  "summary": "Complete Python type hints for the Spotify Web API using Pydantic models",
+  "author": "Spotipy Types Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spotipy_types-2025.5.18.tar.gz",
+  "download_time": "2026-02-01T08:57:28.149629",
+  "package_url": "https://pypi.org/project/spotipy-types/"
+}

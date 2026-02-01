@@ -1,11 +1,11 @@
 {
   "name": "tinysexpr",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "summary": "A very simple S-expression parser that tries to make as little fuss as possible.",
-  "author": null,
+  "author": "Sebastian Hack",
   "license": null,
   "home_page": null,
-  "download_filename": "tinysexpr-1.4.1.tar.gz",
-  "download_time": "2026-02-01T08:28:03.903253",
+  "download_filename": "tinysexpr-1.4.2.tar.gz",
+  "download_time": "2026-02-01T08:57:37.924355",
   "package_url": "https://pypi.org/project/tinysexpr/"
 }

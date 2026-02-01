@@ -1,0 +1,11 @@
+{
+  "name": "coconut-develop",
+  "version": "3.2.0.post0.dev9",
+  "summary": "Simple, elegant, Pythonic functional programming.",
+  "author": "Evan Hubinger",
+  "license": "Apache-2.0",
+  "home_page": "http://coconut-lang.org",
+  "download_filename": "coconut_develop-3.2.0.post0.dev9.tar.gz",
+  "download_time": "2026-02-01T08:57:24.575333",
+  "package_url": "https://pypi.org/project/coconut-develop/"
+}

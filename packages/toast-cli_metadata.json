@@ -1,0 +1,11 @@
+{
+  "name": "toast-cli",
+  "version": "4.0.2",
+  "summary": "A Python-based CLI utility with a plugin architecture for AWS, Kubernetes, Git, and more",
+  "author": "nalbam",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/opspresso/toast-cli",
+  "download_filename": "toast_cli-4.0.2.tar.gz",
+  "download_time": "2026-02-01T08:57:58.715245",
+  "package_url": "https://pypi.org/project/toast-cli/"
+}

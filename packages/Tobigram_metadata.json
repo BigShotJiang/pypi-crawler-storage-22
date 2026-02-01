@@ -1,0 +1,11 @@
+{
+  "name": "Tobigram",
+  "version": "2.2.18",
+  "summary": "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tobigram-2.2.18.tar.gz",
+  "download_time": "2026-02-01T08:57:55.631826",
+  "package_url": "https://pypi.org/project/Tobigram/"
+}

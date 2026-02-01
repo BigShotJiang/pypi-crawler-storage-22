@@ -1,11 +1,11 @@
 {
   "name": "beancount-ast",
-  "version": "0.0.1a0",
+  "version": "0.0.1a2",
   "summary": "Parse Beancount content into AST",
   "author": null,
   "license": null,
   "home_page": "https://github.com/trim21/beancount-ast",
-  "download_filename": "beancount_ast-0.0.1a0.tar.gz",
-  "download_time": "2026-01-31T18:58:25.104797",
+  "download_filename": "beancount_ast-0.0.1a2.tar.gz",
+  "download_time": "2026-02-01T08:57:40.597985",
   "package_url": "https://pypi.org/project/beancount-ast/"
 }
