@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-tag-view",
+  "version": "18.0.1.0.0.2",
+  "summary": "Show product tags on General Information tab",
+  "author": "Quartile, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_tag_view-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-01T19:34:28.001892",
+  "package_url": "https://pypi.org/project/odoo-addon-product-tag-view/"
+}

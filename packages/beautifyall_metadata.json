@@ -1,0 +1,11 @@
+{
+  "name": "beautifyall",
+  "version": "0.1.0",
+  "summary": "Библиотека для красивого вывода списков в консоль",
+  "author": "MineMish",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beautifyall-0.1.0.tar.gz",
+  "download_time": "2026-02-01T19:35:02.028788",
+  "package_url": "https://pypi.org/project/beautifyall/"
+}

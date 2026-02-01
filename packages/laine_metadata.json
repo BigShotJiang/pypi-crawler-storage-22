@@ -1,0 +1,11 @@
+{
+  "name": "laine",
+  "version": "0.1.10",
+  "summary": "command-line tool to deobfuscate & download manga chapters from multiple official Japanese providers.",
+  "author": "syvixor",
+  "license": "MIT",
+  "home_page": "https://github.com/syvixor/laine",
+  "download_filename": "laine-0.1.10.tar.gz",
+  "download_time": "2026-02-01T19:34:33.404130",
+  "package_url": "https://pypi.org/project/laine/"
+}
