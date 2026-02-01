@@ -1,0 +1,11 @@
+{
+  "name": "upgrade-policy-optimizer",
+  "version": "0.1.2",
+  "summary": "A Python library for solving finite Markov Decision Processes using value iteration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "upgrade_policy_optimizer-0.1.2.tar.gz",
+  "download_time": "2026-02-01T16:56:07.095578",
+  "package_url": "https://pypi.org/project/upgrade-policy-optimizer/"
+}

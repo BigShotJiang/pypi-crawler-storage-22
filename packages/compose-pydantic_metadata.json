@@ -1,0 +1,11 @@
+{
+  "name": "compose-pydantic",
+  "version": "0.2.2",
+  "summary": "Parse Compose Specification data using Pydantic",
+  "author": "Alexandros Monastiriotis",
+  "license": "MIT",
+  "home_page": "https://github.com/alexmon/compose-pydantic",
+  "download_filename": "compose_pydantic-0.2.2.tar.gz",
+  "download_time": "2026-02-01T16:55:58.321465",
+  "package_url": "https://pypi.org/project/compose-pydantic/"
+}

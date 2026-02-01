@@ -1,0 +1,11 @@
+{
+  "name": "bcscraper",
+  "version": "0.0.4",
+  "summary": "Un scraper para buscacursos.uc.cl.",
+  "author": "Víctor Moreno",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bcscraper-0.0.4.tar.gz",
+  "download_time": "2026-02-01T16:56:28.376983",
+  "package_url": "https://pypi.org/project/bcscraper/"
+}

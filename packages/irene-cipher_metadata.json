@@ -1,0 +1,11 @@
+{
+  "name": "irene-cipher",
+  "version": "0.1.0",
+  "summary": "Production-grade cryptographic library for text and file encryption",
+  "author": "Irene Cipher Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "irene_cipher-0.1.0-cp313-cp313-win_amd64.whl",
+  "download_time": "2026-02-01T16:55:50.993963",
+  "package_url": "https://pypi.org/project/irene-cipher/"
+}

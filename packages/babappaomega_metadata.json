@@ -1,11 +1,11 @@
 {
   "name": "babappaomega",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "BABAPPAΩ: Likelihood-free branch-aware episodic selection burden inference",
   "author": "Krishnendu Sinha",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "babappaomega-1.2.1.tar.gz",
-  "download_time": "2026-02-01T09:30:22.458278",
+  "download_filename": "babappaomega-1.2.2.tar.gz",
+  "download_time": "2026-02-01T16:56:02.198520",
   "package_url": "https://pypi.org/project/babappaomega/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "aioWiserHeatAPI",
+  "version": "1.7.1",
+  "summary": "An AsyncIO API for controlling the Drayton Wiser Heating system",
+  "author": "Mark Parker",
+  "license": null,
+  "home_page": "https://github.com/msp1974/aioWiserHeatAPI",
+  "download_filename": "aiowiserheatapi-1.7.1.tar.gz",
+  "download_time": "2026-02-01T16:55:45.388467",
+  "package_url": "https://pypi.org/project/aioWiserHeatAPI/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ndtools-duco",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ndtools_duco-0.1.8.tar.gz",
-  "download_time": "2026-01-31T16:35:35.114688",
+  "download_filename": "ndtools_duco-0.1.9.tar.gz",
+  "download_time": "2026-02-01T16:56:15.841931",
   "package_url": "https://pypi.org/project/ndtools-duco/"
 }

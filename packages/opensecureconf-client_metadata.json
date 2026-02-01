@@ -1,11 +1,11 @@
 {
   "name": "opensecureconf-client",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "summary": "Python client library for OpenSecureConf encrypted configuration management API with clustering support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opensecureconf_client-2.3.0.tar.gz",
-  "download_time": "2026-02-01T16:24:07.128326",
+  "download_filename": "opensecureconf_client-2.3.1.tar.gz",
+  "download_time": "2026-02-01T16:56:17.497816",
   "package_url": "https://pypi.org/project/opensecureconf-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "walkmygraph",
+  "version": "0.0.3",
+  "summary": "WalkMyGraph (WMG) is a specification by example software development using Knowledge Graph Traversals and Named Parameterized Queries",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "walkmygraph-0.0.3.tar.gz",
+  "download_time": "2026-02-01T16:56:03.283943",
+  "package_url": "https://pypi.org/project/walkmygraph/"
+}

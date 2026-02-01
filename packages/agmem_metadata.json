@@ -1,11 +1,11 @@
 {
   "name": "agmem",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Agentic Memory Version Control System - Git for AI agent memories",
   "author": "agmem Team",
   "license": "MIT",
   "home_page": "https://github.com/vivek-tiwari-vt/agmem",
-  "download_filename": "agmem-0.1.3.tar.gz",
-  "download_time": "2026-02-01T15:31:11.338273",
+  "download_filename": "agmem-0.1.5.tar.gz",
+  "download_time": "2026-02-01T16:56:12.550036",
   "package_url": "https://pypi.org/project/agmem/"
 }
