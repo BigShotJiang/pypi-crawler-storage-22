@@ -1,0 +1,11 @@
+{
+  "name": "rtd-bin-server",
+  "version": "1.4.1",
+  "summary": "A pastebin for Read The Docs discord community",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtd_bin_server-1.4.1.tar.gz",
+  "download_time": "2026-02-01T15:51:23.341543",
+  "package_url": "https://pypi.org/project/rtd-bin-server/"
+}

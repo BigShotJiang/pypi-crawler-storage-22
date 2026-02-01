@@ -1,0 +1,11 @@
+{
+  "name": "manga-translator-cli",
+  "version": "1.0.0",
+  "summary": "A CLI tool for automatically translating manga pages from Japanese to English. Detects speech bubbles, extracts Japanese text using OCR, translates to English, and renders the translated text back onto images with proper alignment.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "manga_translator_cli-1.0.0.tar.gz",
+  "download_time": "2026-02-01T15:51:36.947862",
+  "package_url": "https://pypi.org/project/manga-translator-cli/"
+}

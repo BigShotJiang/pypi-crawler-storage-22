@@ -1,11 +1,11 @@
 {
   "name": "mastermind-tk",
-  "version": "1.1.1",
+  "version": "1.1.3",
   "summary": "Jeu du mastermind en version graphique",
   "author": "Bouquet Cédric",
   "license": null,
   "home_page": "https://github.com/bouquet-cedric/module-python",
-  "download_filename": "mastermind_tk-1.1.1.tar.gz",
-  "download_time": "2026-02-01T15:30:58.948896",
+  "download_filename": "mastermind_tk-1.1.3.tar.gz",
+  "download_time": "2026-02-01T15:51:38.514377",
   "package_url": "https://pypi.org/project/mastermind-tk/"
 }
