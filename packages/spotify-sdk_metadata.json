@@ -1,0 +1,11 @@
+{
+  "name": "spotify-sdk",
+  "version": "0.3.0",
+  "summary": "A Python SDK for the Spotify Web API.",
+  "author": "jonathan343",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_sdk-0.3.0.tar.gz",
+  "download_time": "2026-02-01T07:55:38.255517",
+  "package_url": "https://pypi.org/project/spotify-sdk/"
+}

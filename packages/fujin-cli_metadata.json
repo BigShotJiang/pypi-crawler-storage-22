@@ -1,11 +1,11 @@
 {
   "name": "fujin-cli",
-  "version": "0.20.1",
+  "version": "0.20.2",
   "summary": "Get your project up and running in a few minutes on your own vps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fujin_cli-0.20.1.tar.gz",
-  "download_time": "2026-01-31T17:01:34.659256",
+  "download_filename": "fujin_cli-0.20.2.tar.gz",
+  "download_time": "2026-02-01T07:55:52.640547",
   "package_url": "https://pypi.org/project/fujin-cli/"
 }

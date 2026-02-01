@@ -1,0 +1,11 @@
+{
+  "name": "storey",
+  "version": "1.11.10",
+  "summary": "Async flows",
+  "author": "Iguazio",
+  "license": "Apache",
+  "home_page": "https://github.com/mlrun/storey",
+  "download_filename": "storey-1.11.10-py3-none-any.whl",
+  "download_time": "2026-02-01T07:55:46.492482",
+  "package_url": "https://pypi.org/project/storey/"
+}

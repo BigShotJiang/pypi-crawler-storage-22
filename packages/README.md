@@ -1,11 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-01T07:28:01.998469
-- **Total Packages**: 81
-- **Total Size**: 49.54 MB
+- **Download Time**: 2026-02-01T07:56:14.673208
+- **Total Packages**: 83
+- **Total Size**: 22.73 MB
 
 ## Packages List
+- oasr
+- duravoke
+- omni-message-provider
+- agent-skills-hub
+- fastapi-voyager
+- obsidian-vault-rag
+- torch-ivf
+- promptshields
+- cellcog
+- armor-mcp
+- onnx2tf
+- anomalyarmor-cli
+- gptcomet
+- cortex-mcp
+- spotify-sdk
+- boto3-refresh-session
+- pycodesage
+- plover
+- portacode
+- gitglasses
+- cal-pystats
+- gitlab-pages-upload
+- cal-gitlab-mirror
+- codegraphcontext
+- git-rewrite
+- yee88
+- pipecat-ai-mcp-server
+- pixie-examples
+- packer-config-gen
+- minicpmo-utils
+- storey
+- cmdz
+- noie-nds-api
+- ibauth
+- sane-settings
+- i21y
+- claude-sage
+- hackmenot
+- fujin-secrets-doppler
+- fujin-secrets-bitwarden
+- fujin-secrets-1password
+- fujin-cli
+- synapse-a2a
+- passagemath-rankwidth
+- passagemath-plot
+- passagemath-planarity
 - passagemath-objects
 - passagemath-modules
 - passagemath-m4ri-m4rie
@@ -15,24 +61,20 @@
 - passagemath-glpk
 - passagemath-combinat
 - passagemath-cmr
-- promptshields
 - passagemath-cliquer
 - multidb-mcp
 - passagemath-cddlib
 - passagemath-categories
-- sane-settings
 - KalturaApiClient
 - embed_lab
 - pantoqa-bridge
 - impact-preview
 - semantic-kernel-builtsimple
 - instructor-builtsimple
-- minicpmo-utils
 - dspy-builtsimple
 - mashell
 - rnet-client
 - appium-utility
-- fastapi-voyager
 - mytunes-pro
 - tenforty
 - aiinbx
@@ -44,46 +86,6 @@
 - iris-vector-graph
 - vibe-remote
 - yta-editor-parameters
-- codegraphcontext
 - html-to-markdown
 - pixie-sdk
 - secretting
-- isagellm-dev-tools
-- aegea
-- cal-publish-python
-- unrealon
-- cista
-- attune-ai
-- fastapi-vue
-- ryora-atlas-sdk
-- streamlit-nightly
-- checkamg
-- maque
-- wandb-widget
-- dtflow
-- tibet-audit
-- oasr
-- duravoke
-- woe_scoring
-- bear-config
-- syncset-db
-- security-controls-mcp
-- sparqlx
-- souleyez
-- crimsonland
-- cloudbrain-modules
-- Xcedl-Image-Detection
-- simplepyble
-- raydp
-- sdevpy
-- coaxial-terminal-ai
-- yta-parameters
-- ruleset-checking-tool
-- greenmining
-- charm-crypto-framework
-- llmtokens
-- ucon
-- compressgpt-core
-- sqlsaber
-- prismatoid
-- browser-use
