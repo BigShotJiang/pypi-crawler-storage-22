@@ -1,0 +1,11 @@
+{
+  "name": "envlint",
+  "version": "0.3.0",
+  "summary": "Validate .env files against a schema. Catch missing and invalid environment variables before runtime.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envlint-0.3.0.tar.gz",
+  "download_time": "2026-02-01T23:21:42.505618",
+  "package_url": "https://pypi.org/project/envlint/"
+}

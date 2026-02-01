@@ -1,11 +1,11 @@
 {
   "name": "codrsync",
-  "version": "1.0.0",
-  "summary": "Turn any dev into jedi ninja codr",
+  "version": "1.0.1",
+  "summary": "Your AI's AI — Context engineering that makes Claude, GPT & Gemini 10x smarter",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codrsync-1.0.0.tar.gz",
-  "download_time": "2026-01-30T20:54:57.719824",
+  "download_filename": "codrsync-1.0.1.tar.gz",
+  "download_time": "2026-02-01T23:21:47.309186",
   "package_url": "https://pypi.org/project/codrsync/"
 }

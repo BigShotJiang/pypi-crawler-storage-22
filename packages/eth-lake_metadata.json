@@ -1,11 +1,11 @@
 {
   "name": "eth-lake",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eth_lake-0.1.2.tar.gz",
-  "download_time": "2026-02-01T21:20:11.642785",
+  "download_filename": "eth_lake-0.1.8.tar.gz",
+  "download_time": "2026-02-01T23:21:40.916494",
   "package_url": "https://pypi.org/project/eth-lake/"
 }

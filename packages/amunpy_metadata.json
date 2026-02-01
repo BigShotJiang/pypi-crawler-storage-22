@@ -1,0 +1,11 @@
+{
+  "name": "amunpy",
+  "version": "1.0.0",
+  "summary": "A high-performance Python interface for the analysis of AMUN code simulations",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "amunpy-1.0.0.tar.gz",
+  "download_time": "2026-02-01T23:21:12.008811",
+  "package_url": "https://pypi.org/project/amunpy/"
+}

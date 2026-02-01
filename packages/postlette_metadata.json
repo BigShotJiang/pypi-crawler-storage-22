@@ -1,11 +1,11 @@
 {
   "name": "postlette",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A tiny desktop editor that adds Unicode emphasis for social posts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "postlette-0.2.0.tar.gz",
-  "download_time": "2026-02-01T22:51:54.308205",
+  "download_filename": "postlette-0.2.2.tar.gz",
+  "download_time": "2026-02-01T23:21:31.005051",
   "package_url": "https://pypi.org/project/postlette/"
 }

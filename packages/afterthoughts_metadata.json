@@ -1,0 +1,11 @@
+{
+  "name": "afterthoughts",
+  "version": "0.1.2",
+  "summary": "Sentence-aware embeddings using late chunking with transformers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "afterthoughts-0.1.2.tar.gz",
+  "download_time": "2026-02-01T23:21:41.437374",
+  "package_url": "https://pypi.org/project/afterthoughts/"
+}

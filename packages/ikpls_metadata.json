@@ -1,0 +1,11 @@
+{
+  "name": "ikpls",
+  "version": "4.0.1.post1",
+  "summary": "Improved Kernel PLS and Fast Cross-Validation.",
+  "author": "sm00thix",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ikpls-4.0.1.post1.tar.gz",
+  "download_time": "2026-02-01T23:21:36.206388",
+  "package_url": "https://pypi.org/project/ikpls/"
+}

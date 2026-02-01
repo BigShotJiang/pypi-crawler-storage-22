@@ -1,0 +1,11 @@
+{
+  "name": "agentns-client",
+  "version": "0.1.0",
+  "summary": "Python client for AgentNS - wallet-based ICANN domain registrar for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentns_client-0.1.0.tar.gz",
+  "download_time": "2026-02-01T23:21:49.389204",
+  "package_url": "https://pypi.org/project/agentns-client/"
+}

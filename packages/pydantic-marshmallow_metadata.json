@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-marshmallow",
+  "version": "1.0.0",
+  "summary": "Bring Pydantic's power to Marshmallow: type annotations, validators, and automatic schema generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_marshmallow-1.0.0.tar.gz",
+  "download_time": "2026-02-01T23:21:17.752531",
+  "package_url": "https://pypi.org/project/pydantic-marshmallow/"
+}

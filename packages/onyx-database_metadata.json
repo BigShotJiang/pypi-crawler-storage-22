@@ -1,0 +1,11 @@
+{
+  "name": "onyx-database",
+  "version": "2.0.1",
+  "summary": "Python client SDK for Onyx Cloud Database (builder-pattern API and schema helpers)",
+  "author": "Onyx Dev Tools",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onyx_database-2.0.1.tar.gz",
+  "download_time": "2026-02-01T23:21:46.266778",
+  "package_url": "https://pypi.org/project/onyx-database/"
+}

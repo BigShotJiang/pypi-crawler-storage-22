@@ -1,0 +1,11 @@
+{
+  "name": "airos-sdk",
+  "version": "0.4.1",
+  "summary": "One decorator to make any AI agent reliable. Loop detection, auto-repair, output validation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "airos_sdk-0.4.1.tar.gz",
+  "download_time": "2026-02-01T23:21:18.271573",
+  "package_url": "https://pypi.org/project/airos-sdk/"
+}
