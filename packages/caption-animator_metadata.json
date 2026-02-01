@@ -1,11 +1,11 @@
 {
   "name": "caption-animator",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Render SRT/ASS subtitle files into animated, alpha-channel video overlays with plugin-based animation system.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "caption_animator-0.2.0.tar.gz",
-  "download_time": "2026-02-01T17:21:35.221261",
+  "download_filename": "caption_animator-0.2.1.tar.gz",
+  "download_time": "2026-02-01T17:50:37.034637",
   "package_url": "https://pypi.org/project/caption-animator/"
 }

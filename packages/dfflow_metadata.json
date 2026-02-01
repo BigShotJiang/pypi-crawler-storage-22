@@ -1,0 +1,11 @@
+{
+  "name": "dfflow",
+  "version": "0.2.0",
+  "summary": "Lightweight DataFrame logging and pipeline tracking for Pandas workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dfflow-0.2.0.tar.gz",
+  "download_time": "2026-02-01T17:51:06.168018",
+  "package_url": "https://pypi.org/project/dfflow/"
+}

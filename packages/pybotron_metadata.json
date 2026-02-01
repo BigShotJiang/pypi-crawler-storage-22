@@ -1,0 +1,11 @@
+{
+  "name": "pybotron",
+  "version": "1.0.3",
+  "summary": "a package that makes simulating robots on python more like matlab",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pybotron-1.0.3.tar.gz",
+  "download_time": "2026-02-01T17:50:31.340655",
+  "package_url": "https://pypi.org/project/pybotron/"
+}

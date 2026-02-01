@@ -1,0 +1,11 @@
+{
+  "name": "dotman-cli",
+  "version": "0.3.0",
+  "summary": "One more dot file manager but an interesting and easy to use one.",
+  "author": "Nimit Bhardwaj",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotman_cli-0.3.0.tar.gz",
+  "download_time": "2026-02-01T17:50:45.858427",
+  "package_url": "https://pypi.org/project/dotman-cli/"
+}

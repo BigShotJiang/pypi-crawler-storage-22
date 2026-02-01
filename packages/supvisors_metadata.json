@@ -1,0 +1,11 @@
+{
+  "name": "supvisors",
+  "version": "0.19.1",
+  "summary": "A Control System for Distributed Applications",
+  "author": "Julien Le Cléach",
+  "license": null,
+  "home_page": "https://github.com/julien6387/supvisors",
+  "download_filename": "supvisors-0.19.1.tar.gz",
+  "download_time": "2026-02-01T17:50:29.273645",
+  "package_url": "https://pypi.org/project/supvisors/"
+}
