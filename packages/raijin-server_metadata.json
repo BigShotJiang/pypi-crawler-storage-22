@@ -1,11 +1,11 @@
 {
   "name": "raijin-server",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "CLI para automacao de setup e hardening de servidores Ubuntu Server.",
   "author": "Equipe Raijin",
   "license": "MIT",
   "home_page": "https://example.com/raijin-server",
-  "download_filename": "raijin_server-0.3.1.tar.gz",
-  "download_time": "2026-02-01T20:22:00.729949",
+  "download_filename": "raijin_server-0.3.2.tar.gz",
+  "download_time": "2026-02-01T20:50:45.295245",
   "package_url": "https://pypi.org/project/raijin-server/"
 }
