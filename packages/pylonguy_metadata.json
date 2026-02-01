@@ -1,0 +1,11 @@
+{
+  "name": "pylonguy",
+  "version": "1.9.0",
+  "summary": "PyQt5 wrapper for pypylon SDK for Basler camera manipulation, aimed for microfluidics and slow motion.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylonguy-1.9.0.tar.gz",
+  "download_time": "2026-02-01T14:35:59.205725",
+  "package_url": "https://pypi.org/project/pylonguy/"
+}

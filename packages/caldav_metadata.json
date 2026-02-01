@@ -1,11 +1,11 @@
 {
   "name": "caldav",
-  "version": "2.2.4",
+  "version": "2.2.6",
   "summary": "CalDAV (RFC4791) client library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "caldav-2.2.4.tar.gz",
-  "download_time": "2026-02-01T14:01:36.430473",
+  "download_filename": "caldav-2.2.6.tar.gz",
+  "download_time": "2026-02-01T14:35:58.156943",
   "package_url": "https://pypi.org/project/caldav/"
 }

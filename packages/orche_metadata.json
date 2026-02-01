@@ -1,0 +1,11 @@
+{
+  "name": "orche",
+  "version": "0.3.0",
+  "summary": "A Python orchestrator for Docker Compose stacks",
+  "author": "Pietro Agazzi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orche-0.3.0.tar.gz",
+  "download_time": "2026-02-01T14:36:27.888373",
+  "package_url": "https://pypi.org/project/orche/"
+}

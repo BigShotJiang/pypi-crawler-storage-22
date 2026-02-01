@@ -1,0 +1,11 @@
+{
+  "name": "sdmdata",
+  "version": "0.1.1",
+  "summary": "A library for Species Distribution Modeling data retrieval from GBIF, iNaturalist, and SpeciesLink APIs.",
+  "author": "Ane Simões",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sdmdata-0.1.1.tar.gz",
+  "download_time": "2026-02-01T14:35:56.010975",
+  "package_url": "https://pypi.org/project/sdmdata/"
+}

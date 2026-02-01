@@ -1,0 +1,11 @@
+{
+  "name": "pygenalgo",
+  "version": "1.9.0",
+  "summary": "Genetic Algorithms toolbox in Python3",
+  "author": "Michalis Vrettas, PhD",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/vrettasm/PyGeneticAlgorithms",
+  "download_filename": "pygenalgo-1.9.0.tar.gz",
+  "download_time": "2026-02-01T14:36:13.268300",
+  "package_url": "https://pypi.org/project/pygenalgo/"
+}

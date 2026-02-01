@@ -1,0 +1,11 @@
+{
+  "name": "gsheet-loader",
+  "version": "1.0.2",
+  "summary": "A simple package to load Google Sheets into pandas DataFrame",
+  "author": "Arshad Ziban",
+  "license": null,
+  "home_page": "https://github.com/arshadziban/gsheet_loader",
+  "download_filename": "gsheet_loader-1.0.2.tar.gz",
+  "download_time": "2026-02-01T14:36:08.079483",
+  "package_url": "https://pypi.org/project/gsheet-loader/"
+}
