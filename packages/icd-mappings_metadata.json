@@ -1,0 +1,11 @@
+{
+  "name": "icd-mappings",
+  "version": "0.5.0",
+  "summary": "This python tool enables a variety of mappings between ICD diagnostic codes (International Classification of Diseases) with a single line of code.",
+  "author": "Simao Novais",
+  "license": "MIT",
+  "home_page": "https://github.com/snovaisg/ICDMappings",
+  "download_filename": "icd_mappings-0.5.0.tar.gz",
+  "download_time": "2026-02-01T17:21:45.708372",
+  "package_url": "https://pypi.org/project/icd-mappings/"
+}

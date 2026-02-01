@@ -1,11 +1,11 @@
 {
   "name": "jsonl-resumable",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "O(1) resume for large JSONL streams via byte-offset indexing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jsonl_resumable-0.4.0.tar.gz",
-  "download_time": "2026-02-01T16:55:49.359586",
+  "download_filename": "jsonl_resumable-0.5.0.tar.gz",
+  "download_time": "2026-02-01T17:21:36.276154",
   "package_url": "https://pypi.org/project/jsonl-resumable/"
 }

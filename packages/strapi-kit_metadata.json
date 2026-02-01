@@ -1,11 +1,11 @@
 {
   "name": "strapi-kit",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A modern Python client for Strapi CMS with import/export capabilities",
   "author": "Mehdi Zare",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "strapi_kit-0.0.2.tar.gz",
-  "download_time": "2026-02-01T13:31:31.742087",
+  "download_filename": "strapi_kit-0.0.3.tar.gz",
+  "download_time": "2026-02-01T17:21:30.025066",
   "package_url": "https://pypi.org/project/strapi-kit/"
 }

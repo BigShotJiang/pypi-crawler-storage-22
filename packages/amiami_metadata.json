@@ -1,0 +1,11 @@
+{
+  "name": "amiami",
+  "version": "0.3.0",
+  "summary": "amiami api wrapper",
+  "author": "marvinody",
+  "license": null,
+  "home_page": "https://github.com/marvinody/amiami",
+  "download_filename": "amiami-0.3.0.tar.gz",
+  "download_time": "2026-02-01T17:21:39.881122",
+  "package_url": "https://pypi.org/project/amiami/"
+}

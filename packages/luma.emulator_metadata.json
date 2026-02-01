@@ -1,0 +1,11 @@
+{
+  "name": "luma.emulator",
+  "version": "1.7.0",
+  "summary": "A suite of pseudo-devices for luma.core components",
+  "author": "Richard Hull",
+  "license": "MIT",
+  "home_page": "https://github.com/rm-hull/luma.emulator",
+  "download_filename": "luma_emulator-1.7.0.tar.gz",
+  "download_time": "2026-02-01T17:21:26.913947",
+  "package_url": "https://pypi.org/project/luma.emulator/"
+}

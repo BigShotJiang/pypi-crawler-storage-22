@@ -1,0 +1,11 @@
+{
+  "name": "luma.lcd",
+  "version": "2.13.0",
+  "summary": "A library to drive PCD8544, HD44780, HT1621, ST7735, ST7789, ST7567, UC1701X and ILI9341-based LCD displays",
+  "author": "Richard Hull",
+  "license": "MIT",
+  "home_page": "https://github.com/rm-hull/luma.lcd",
+  "download_filename": "luma_lcd-2.13.0-py2.py3-none-any.whl",
+  "download_time": "2026-02-01T17:21:48.286707",
+  "package_url": "https://pypi.org/project/luma.lcd/"
+}

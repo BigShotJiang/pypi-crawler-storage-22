@@ -1,0 +1,11 @@
+{
+  "name": "mangum",
+  "version": "0.21.0",
+  "summary": "AWS Lambda support for ASGI applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mangum-0.21.0.tar.gz",
+  "download_time": "2026-02-01T17:21:22.191427",
+  "package_url": "https://pypi.org/project/mangum/"
+}

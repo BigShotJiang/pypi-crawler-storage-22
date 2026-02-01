@@ -1,11 +1,11 @@
 {
   "name": "http2md",
-  "version": "0.9",
-  "summary": "A CLI tool to convert HTTP content to Markdown",
+  "version": "0.9.1",
+  "summary": "A CLI tool to convert browser rendered HTTP content to Markdown with playwright",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "http2md-0.9.tar.gz",
-  "download_time": "2026-01-31T15:59:47.258413",
+  "download_filename": "http2md-0.9.1.tar.gz",
+  "download_time": "2026-02-01T17:21:47.264056",
   "package_url": "https://pypi.org/project/http2md/"
 }
