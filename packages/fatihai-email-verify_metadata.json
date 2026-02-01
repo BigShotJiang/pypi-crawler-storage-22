@@ -1,0 +1,11 @@
+{
+  "name": "fatihai-email-verify",
+  "version": "1.0.0",
+  "summary": "Fast and accurate email verification API client",
+  "author": "FatihAI",
+  "license": "MIT",
+  "home_page": "https://fatihai.app/tools/email-verify",
+  "download_filename": "fatihai_email_verify-1.0.0.tar.gz",
+  "download_time": "2026-02-01T20:22:13.739870",
+  "package_url": "https://pypi.org/project/fatihai-email-verify/"
+}

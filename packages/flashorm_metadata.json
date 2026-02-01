@@ -1,0 +1,11 @@
+{
+  "name": "flashorm",
+  "version": "2.3.0",
+  "summary": "A powerful, database-agnostic ORM with multi-database support and type-safe code generation",
+  "author": "Rana718",
+  "license": null,
+  "home_page": "https://github.com/Lumos-Labs-HQ/flash",
+  "download_filename": "flashorm-2.3.0.tar.gz",
+  "download_time": "2026-02-01T20:21:59.697223",
+  "package_url": "https://pypi.org/project/flashorm/"
+}

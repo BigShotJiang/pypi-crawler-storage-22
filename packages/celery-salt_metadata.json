@@ -1,11 +1,11 @@
 {
   "name": "celery-salt",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "summary": "Event-driven architecture library for Python that extends Celery with event publishing/subscribing patterns",
   "author": "David Sigley",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "celery_salt-1.5.1.tar.gz",
-  "download_time": "2026-02-01T16:56:12.021743",
+  "download_filename": "celery_salt-1.5.2.tar.gz",
+  "download_time": "2026-02-01T20:21:57.098120",
   "package_url": "https://pypi.org/project/celery-salt/"
 }

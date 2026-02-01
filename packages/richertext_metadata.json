@@ -1,11 +1,11 @@
 {
   "name": "richertext",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "LLM-powered CSV enrichment made easy",
   "author": "RicherText Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "richertext-0.1.0.tar.gz",
-  "download_time": "2026-02-01T07:27:20.008028",
+  "download_filename": "richertext-0.1.1.tar.gz",
+  "download_time": "2026-02-01T20:22:03.308456",
   "package_url": "https://pypi.org/project/richertext/"
 }

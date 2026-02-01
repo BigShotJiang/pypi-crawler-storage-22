@@ -1,0 +1,11 @@
+{
+  "name": "daily-research-digest",
+  "version": "0.2.0",
+  "summary": "AI-powered research paper digest with LLM-based ranking, quality scoring, and scheduling",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "daily_research_digest-0.2.0.tar.gz",
+  "download_time": "2026-02-01T20:22:08.582313",
+  "package_url": "https://pypi.org/project/daily-research-digest/"
+}

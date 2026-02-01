@@ -1,11 +1,11 @@
 {
   "name": "brilliance-admin",
-  "version": "0.44.14",
+  "version": "0.44.15",
   "summary": "Simple and lightweight data managment framework powered by FastAPI and Vue3 Vuetify all-in-one. Some call it heavenly in its brilliance.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "brilliance_admin-0.44.14.tar.gz",
-  "download_time": "2026-02-01T19:54:50.097007",
+  "download_filename": "brilliance_admin-0.44.15.tar.gz",
+  "download_time": "2026-02-01T20:22:24.259858",
   "package_url": "https://pypi.org/project/brilliance-admin/"
 }

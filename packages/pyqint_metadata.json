@@ -1,0 +1,11 @@
+{
+  "name": "pyqint",
+  "version": "1.4.2",
+  "summary": "Python package for evaluating integrals of Gaussian type orbitals",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pyqint-1.4.2.tar.gz",
+  "download_time": "2026-02-01T20:22:20.609429",
+  "package_url": "https://pypi.org/project/pyqint/"
+}

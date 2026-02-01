@@ -1,0 +1,11 @@
+{
+  "name": "singularity-ai",
+  "version": "0.1.0",
+  "summary": "An open-source framework for building autonomous AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "singularity_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-01T20:21:52.936297",
+  "package_url": "https://pypi.org/project/singularity-ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fatihai-chatbot",
+  "version": "1.0.0",
+  "summary": "AI-powered chatbot client for websites and applications",
+  "author": "FatihAI",
+  "license": "MIT",
+  "home_page": "https://fatihai.app",
+  "download_filename": "fatihai_chatbot-1.0.0.tar.gz",
+  "download_time": "2026-02-01T20:22:13.223392",
+  "package_url": "https://pypi.org/project/fatihai-chatbot/"
+}

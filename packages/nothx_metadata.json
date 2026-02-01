@@ -1,11 +1,11 @@
 {
   "name": "nothx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-powered email unsubscribe tool. Set it up once, AI handles your inbox forever.",
   "author": "nothx contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "nothx-0.1.0.tar.gz",
-  "download_time": "2026-02-01T19:54:47.360339",
+  "download_filename": "nothx-0.1.1.tar.gz",
+  "download_time": "2026-02-01T20:22:11.160814",
   "package_url": "https://pypi.org/project/nothx/"
 }
