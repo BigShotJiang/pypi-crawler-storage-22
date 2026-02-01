@@ -1,0 +1,11 @@
+{
+  "name": "kryptoon",
+  "version": "2026.2.1",
+  "summary": "Python Cryptography",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": "https://github.com/bitmolester/kryptoon",
+  "download_filename": "kryptoon-2026.2.1.tar.gz",
+  "download_time": "2026-02-01T21:59:20.069073",
+  "package_url": "https://pypi.org/project/kryptoon/"
+}

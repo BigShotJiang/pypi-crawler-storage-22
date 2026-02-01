@@ -1,0 +1,11 @@
+{
+  "name": "omgen",
+  "version": "1.0.0",
+  "summary": "Telegram based friendly library",
+  "author": "OM DIVINE",
+  "license": null,
+  "home_page": "https://github.com/omdivine/omgen",
+  "download_filename": "omgen-1.0.0.tar.gz",
+  "download_time": "2026-02-01T21:58:56.289288",
+  "package_url": "https://pypi.org/project/omgen/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opentools-sdk",
+  "version": "0.1.0",
+  "summary": "An open registry of pre-made integrations that can work with any frameworks",
+  "author": "OpenTools",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opentools_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-01T21:59:17.914411",
+  "package_url": "https://pypi.org/project/opentools-sdk/"
+}

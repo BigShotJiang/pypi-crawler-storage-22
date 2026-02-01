@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-engine-backend",
+  "version": "0.1.0",
+  "summary": "Pure-Python port of the Knowledge Engine backend",
+  "author": "Knowledge Engine",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "knowledge_engine_backend-0.1.0.tar.gz",
+  "download_time": "2026-02-01T21:59:16.873797",
+  "package_url": "https://pypi.org/project/knowledge-engine-backend/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "llm-semantic-cache",
+  "version": "0.1.1",
+  "summary": "Multi-tier caching platform for LLM embeddings, semantic search, and graph-based conversation memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llm_semantic_cache-0.1.1.tar.gz",
+  "download_time": "2026-02-01T21:58:59.629037",
+  "package_url": "https://pypi.org/project/llm-semantic-cache/"
+}

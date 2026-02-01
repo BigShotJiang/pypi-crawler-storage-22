@@ -1,11 +1,11 @@
 {
   "name": "mlbi-scodia",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "summary": "MLBI Lab SCODIA",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlbi_scodia-0.0.15-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
-  "download_time": "2026-02-01T19:01:43.873174",
+  "download_filename": "mlbi_scodia-0.0.16-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-01T21:58:39.271766",
   "package_url": "https://pypi.org/project/mlbi-scodia/"
 }
