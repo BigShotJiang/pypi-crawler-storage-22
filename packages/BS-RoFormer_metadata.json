@@ -1,0 +1,11 @@
+{
+  "name": "BS-RoFormer",
+  "version": "1.1.0",
+  "summary": "BS-RoFormer - Band-Split Rotary Transformer for SOTA Music Source Separation",
+  "author": "Phil Wang",
+  "license": "MIT",
+  "home_page": "https://github.com/lucidrains/BS-RoFormer",
+  "download_filename": "bs_roformer-1.1.0.tar.gz",
+  "download_time": "2026-02-01T15:00:30.234334",
+  "package_url": "https://pypi.org/project/BS-RoFormer/"
+}

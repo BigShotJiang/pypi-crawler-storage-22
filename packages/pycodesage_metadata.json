@@ -1,11 +1,11 @@
 {
   "name": "pycodesage",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Local-first CLI code intelligence tool with LangChain-powered RAG",
   "author": "Keshav Ashiya",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pycodesage-0.2.5.tar.gz",
-  "download_time": "2026-02-01T11:19:15.422937",
+  "download_filename": "pycodesage-0.2.6.tar.gz",
+  "download_time": "2026-02-01T15:00:10.399918",
   "package_url": "https://pypi.org/project/pycodesage/"
 }

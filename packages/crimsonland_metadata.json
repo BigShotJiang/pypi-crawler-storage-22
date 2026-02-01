@@ -1,11 +1,11 @@
 {
   "name": "crimsonland",
-  "version": "0.1.0.dev10",
+  "version": "0.1.0.dev11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crimsonland-0.1.0.dev10.tar.gz",
-  "download_time": "2026-02-01T12:38:59.210140",
+  "download_filename": "crimsonland-0.1.0.dev11.tar.gz",
+  "download_time": "2026-02-01T14:59:51.472266",
   "package_url": "https://pypi.org/project/crimsonland/"
 }

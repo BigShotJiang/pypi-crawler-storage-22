@@ -1,0 +1,11 @@
+{
+  "name": "credkit",
+  "version": "0.5.1",
+  "summary": "An open credit modeling tool kit",
+  "author": "jt-hill",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "credkit-0.5.1.tar.gz",
+  "download_time": "2026-02-01T15:00:08.320070",
+  "package_url": "https://pypi.org/project/credkit/"
+}

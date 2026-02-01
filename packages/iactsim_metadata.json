@@ -1,11 +1,11 @@
 {
   "name": "iactsim",
-  "version": "0.13.3",
+  "version": "0.13.4",
   "summary": "Imaging Atmospheric Cherenkov Telescopes simulation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iactsim-0.13.3.tar.gz",
-  "download_time": "2026-02-01T12:38:29.769530",
+  "download_filename": "iactsim-0.13.4.tar.gz",
+  "download_time": "2026-02-01T15:00:05.198500",
   "package_url": "https://pypi.org/project/iactsim/"
 }

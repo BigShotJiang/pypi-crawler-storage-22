@@ -1,0 +1,11 @@
+{
+  "name": "enochecker-core",
+  "version": "0.13.0",
+  "summary": "Library for enochecker data structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "enochecker_core-0.13.0.tar.gz",
+  "download_time": "2026-02-01T14:59:59.409125",
+  "package_url": "https://pypi.org/project/enochecker-core/"
+}

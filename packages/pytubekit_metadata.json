@@ -1,11 +1,11 @@
 {
   "name": "pytubekit",
-  "version": "0.0.34",
+  "version": "0.0.35",
   "summary": "Pytubekit will allow you to perform operations in your youtube account en masse",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytubekit-0.0.34.tar.gz",
-  "download_time": "2026-01-31T18:58:11.685612",
+  "download_filename": "pytubekit-0.0.35.tar.gz",
+  "download_time": "2026-02-01T15:00:08.839008",
   "package_url": "https://pypi.org/project/pytubekit/"
 }

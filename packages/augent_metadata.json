@@ -1,11 +1,11 @@
 {
   "name": "augent",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Lean package manager for various AI coding platforms",
   "author": "Anssi Syrjäsalo",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "augent-0.6.2-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-01-31T17:01:25.192483",
+  "download_filename": "augent-0.6.3-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-01T15:00:03.629156",
   "package_url": "https://pypi.org/project/augent/"
 }

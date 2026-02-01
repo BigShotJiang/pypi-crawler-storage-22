@@ -1,11 +1,11 @@
 {
   "name": "strippng",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "summary": "Fast PNG stripper",
   "author": "cielavenir",
   "license": "BSD-2-Clause",
   "home_page": "https://github.com/cielavenir/python-strippng",
-  "download_filename": "strippng-0.0.0.1.tar.gz",
-  "download_time": "2026-02-01T14:35:59.724902",
+  "download_filename": "strippng-0.0.0.2.tar.gz",
+  "download_time": "2026-02-01T15:00:27.118532",
   "package_url": "https://pypi.org/project/strippng/"
 }
