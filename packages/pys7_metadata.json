@@ -1,0 +1,11 @@
+{
+  "name": "pys7",
+  "version": "2.6.0",
+  "summary": "Lightweight Python library for Siemens S7 over ISO-on-TCP (RFC1006).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pys7-2.6.0.tar.gz",
+  "download_time": "2026-02-01T15:31:11.899425",
+  "package_url": "https://pypi.org/project/pys7/"
+}

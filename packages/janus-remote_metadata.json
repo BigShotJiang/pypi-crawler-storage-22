@@ -1,11 +1,11 @@
 {
   "name": "janus-remote",
-  "version": "0.9.10",
+  "version": "0.9.12",
   "summary": "Voice-to-text paste and approval bridge for Claude CLI on remote SSH sessions",
   "author": "He Who Seeks",
   "license": null,
   "home_page": null,
-  "download_filename": "janus_remote-0.9.10.tar.gz",
-  "download_time": "2026-01-31T19:42:14.797604",
+  "download_filename": "janus_remote-0.9.12.tar.gz",
+  "download_time": "2026-02-01T15:31:12.991635",
   "package_url": "https://pypi.org/project/janus-remote/"
 }

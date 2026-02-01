@@ -1,11 +1,11 @@
 {
   "name": "datalab-kernel",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A standalone Xeus-Python-based Jupyter kernel for DataLab with optional live synchronization",
   "author": null,
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "datalab_kernel-0.2.7.tar.gz",
-  "download_time": "2026-02-01T11:44:42.578640",
+  "download_filename": "datalab_kernel-0.2.8.tar.gz",
+  "download_time": "2026-02-01T15:31:16.449354",
   "package_url": "https://pypi.org/project/datalab-kernel/"
 }

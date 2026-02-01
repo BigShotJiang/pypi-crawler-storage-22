@@ -1,0 +1,11 @@
+{
+  "name": "aibox-data-lake",
+  "version": "1.2.0",
+  "summary": "AiBox Data Lake Toolkit.",
+  "author": "AiBox Lab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aibox_data_lake-1.2.0.tar.gz",
+  "download_time": "2026-02-01T15:31:28.206224",
+  "package_url": "https://pypi.org/project/aibox-data-lake/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "postgresql-server-mcp",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A simplified PostgreSQL MCP server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "postgresql_server_mcp-0.1.1.tar.gz",
-  "download_time": "2026-02-01T15:00:25.560326",
+  "download_filename": "postgresql_server_mcp-0.1.3.tar.gz",
+  "download_time": "2026-02-01T15:31:30.376934",
   "package_url": "https://pypi.org/project/postgresql-server-mcp/"
 }

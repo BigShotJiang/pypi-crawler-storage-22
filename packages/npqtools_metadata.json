@@ -1,0 +1,11 @@
+{
+  "name": "npqtools",
+  "version": "0.1.16",
+  "summary": "Library for reinterpretation main np-problems into Ising model for quantum computer",
+  "author": "Mikhail Tseytlin",
+  "license": null,
+  "home_page": "https://gitverse.ru/mits2406/npqtools",
+  "download_filename": "npqtools-0.1.16.tar.gz",
+  "download_time": "2026-02-01T15:30:56.762238",
+  "package_url": "https://pypi.org/project/npqtools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-custom-cache-page",
+  "version": "1.0.0",
+  "summary": "A customizable cache_page decorator with surrogate-key support and pluggable backends.",
+  "author": "Mohamad Bahamdain",
+  "license": "MIT",
+  "home_page": "https://github.com/zidsa/django-custom-cache-page",
+  "download_filename": "django_custom_cache_page-1.0.0.tar.gz",
+  "download_time": "2026-02-01T15:31:07.008867",
+  "package_url": "https://pypi.org/project/django-custom-cache-page/"
+}

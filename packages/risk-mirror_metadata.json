@@ -1,11 +1,11 @@
 {
   "name": "risk-mirror",
-  "version": "1.0.0",
-  "summary": "Deterministic AI Safety Toolkit - Python SDK",
+  "version": "1.0.2",
+  "summary": "Deterministic AI Safety Toolkit - Python SDK & CLI",
   "author": "RTN Labs",
   "license": null,
   "home_page": "https://github.com/myProjectsRavi/risk-mirror-core",
-  "download_filename": "risk_mirror-1.0.0.tar.gz",
-  "download_time": "2026-01-31T08:53:54.429699",
+  "download_filename": "risk_mirror-1.0.2.tar.gz",
+  "download_time": "2026-02-01T15:31:08.641022",
   "package_url": "https://pypi.org/project/risk-mirror/"
 }
