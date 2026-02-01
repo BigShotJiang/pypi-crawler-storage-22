@@ -1,0 +1,11 @@
+{
+  "name": "pip-boy-llm",
+  "version": "1.0.4",
+  "summary": "PIP-BOY LLM - Vault-Tec Local AI Terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pip_boy_llm-1.0.4.tar.gz",
+  "download_time": "2026-02-01T10:53:06.741464",
+  "package_url": "https://pypi.org/project/pip-boy-llm/"
+}

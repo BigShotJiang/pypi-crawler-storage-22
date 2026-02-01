@@ -1,0 +1,11 @@
+{
+  "name": "trytond-edocument-ubl",
+  "version": "7.8.5",
+  "summary": "Tryton module for electronic document UBL",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_edocument_ubl-7.8.5.tar.gz",
+  "download_time": "2026-02-01T10:53:31.163344",
+  "package_url": "https://pypi.org/project/trytond-edocument-ubl/"
+}

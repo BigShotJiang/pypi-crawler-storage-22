@@ -1,11 +1,11 @@
 {
   "name": "dycw-restic",
-  "version": "0.6.4",
+  "version": "0.6.6",
   "summary": "Library to operate `restic`",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_restic-0.6.4-py3-none-any.whl",
-  "download_time": "2026-02-01T08:57:43.155274",
+  "download_filename": "dycw_restic-0.6.6-py3-none-any.whl",
+  "download_time": "2026-02-01T10:53:12.143074",
   "package_url": "https://pypi.org/project/dycw-restic/"
 }

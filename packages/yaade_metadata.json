@@ -1,0 +1,11 @@
+{
+  "name": "yaade",
+  "version": "0.1.0",
+  "summary": "Yaade (यादें) - Local MCP-compatible memory storage for AI agents with semantic search",
+  "author": "Reyansh Gupta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yaade-0.1.0.tar.gz",
+  "download_time": "2026-02-01T10:53:17.265031",
+  "package_url": "https://pypi.org/project/yaade/"
+}

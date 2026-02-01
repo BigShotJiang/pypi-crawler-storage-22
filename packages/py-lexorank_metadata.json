@@ -1,0 +1,11 @@
+{
+  "name": "py-lexorank",
+  "version": "1.0.0",
+  "summary": "Lightweight, dependency-free Python implementation of LexoRank algorithm for fractional indexing",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/ixfcao/lexorank-py",
+  "download_filename": "py_lexorank-1.0.0.tar.gz",
+  "download_time": "2026-02-01T10:53:19.342257",
+  "package_url": "https://pypi.org/project/py-lexorank/"
+}

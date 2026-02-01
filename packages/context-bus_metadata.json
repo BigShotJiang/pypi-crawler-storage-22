@@ -1,11 +1,11 @@
 {
   "name": "context-bus",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Automatic model switching for AI coding agents with full context preservation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "context_bus-0.2.0.tar.gz",
-  "download_time": "2026-02-01T10:21:28.416860",
+  "download_filename": "context_bus-0.2.1.tar.gz",
+  "download_time": "2026-02-01T10:53:40.920883",
   "package_url": "https://pypi.org/project/context-bus/"
 }

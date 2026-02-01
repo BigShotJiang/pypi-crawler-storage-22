@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-test-framework",
+  "version": "1.0.3",
+  "summary": "A testing framework for Aiogram 3.x Telegram bots",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogram_test_framework-1.0.3.tar.gz",
+  "download_time": "2026-02-01T10:53:41.431270",
+  "package_url": "https://pypi.org/project/aiogram-test-framework/"
+}
