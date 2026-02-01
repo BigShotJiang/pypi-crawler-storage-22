@@ -1,0 +1,11 @@
+{
+  "name": "iso2mesh",
+  "version": "0.5.4",
+  "summary": "One-liner 3D Surface and Tetrahedral Mesh Generation Toolbox",
+  "author": "Qianqian Fang",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/NeuroJSON/pyiso2mesh",
+  "download_filename": "iso2mesh-0.5.4.tar.gz",
+  "download_time": "2026-02-01T05:50:07.104107",
+  "package_url": "https://pypi.org/project/iso2mesh/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "underthesea-core",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "summary": "Underthesea Core",
   "author": null,
   "license": "GPL-3.0",
   "home_page": "https://github.com/undertheseanlp/underthesea/tree/main/extensions/underthesea_core",
-  "download_filename": "underthesea_core-3.0.2.tar.gz",
-  "download_time": "2026-02-01T04:38:07.902397",
+  "download_filename": "underthesea_core-3.0.4.tar.gz",
+  "download_time": "2026-02-01T05:50:05.813862",
   "package_url": "https://pypi.org/project/underthesea-core/"
 }

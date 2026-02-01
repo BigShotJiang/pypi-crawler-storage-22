@@ -1,0 +1,11 @@
+{
+  "name": "fauxtp",
+  "version": "0.3.1",
+  "summary": "Erlang/OTP primitives for Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fauxtp-0.3.1.tar.gz",
+  "download_time": "2026-02-01T05:49:37.510347",
+  "package_url": "https://pypi.org/project/fauxtp/"
+}

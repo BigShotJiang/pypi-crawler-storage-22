@@ -1,11 +1,11 @@
 {
   "name": "meshagent-tools",
-  "version": "0.25.0",
+  "version": "0.25.1",
   "summary": "Tools for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_tools-0.25.0.tar.gz",
-  "download_time": "2026-01-31T22:48:29.615649",
+  "download_filename": "meshagent_tools-0.25.1.tar.gz",
+  "download_time": "2026-02-01T05:49:18.068166",
   "package_url": "https://pypi.org/project/meshagent-tools/"
 }

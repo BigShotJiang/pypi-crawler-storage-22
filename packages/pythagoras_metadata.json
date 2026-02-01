@@ -1,11 +1,11 @@
 {
   "name": "pythagoras",
-  "version": "0.50.0",
+  "version": "0.50.1",
   "summary": "Planet-scale distributed computing in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pythagoras-0.50.0.tar.gz",
-  "download_time": "2026-01-30T07:53:39.830965",
+  "download_filename": "pythagoras-0.50.1.tar.gz",
+  "download_time": "2026-02-01T05:49:58.082573",
   "package_url": "https://pypi.org/project/pythagoras/"
 }

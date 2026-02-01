@@ -1,0 +1,11 @@
+{
+  "name": "simple-maps",
+  "version": "0.2.0",
+  "summary": "Tool to create maps with markers using cartes.io API",
+  "author": "Julio Batista Silva",
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_maps-0.2.0.tar.gz",
+  "download_time": "2026-02-01T05:49:25.174590",
+  "package_url": "https://pypi.org/project/simple-maps/"
+}

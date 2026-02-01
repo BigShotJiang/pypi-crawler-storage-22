@@ -1,0 +1,11 @@
+{
+  "name": "django-ninja-extra",
+  "version": "0.31.0",
+  "summary": "Django Ninja Extra - Class Based Utility and more for Django Ninja(Fast Django REST framework)",
+  "author": "Ezeudoh Tochukwu",
+  "license": null,
+  "home_page": "https://github.com/eadwinCode/django-ninja-extra",
+  "download_filename": "django_ninja_extra-0.31.0.tar.gz",
+  "download_time": "2026-02-01T05:49:41.467366",
+  "package_url": "https://pypi.org/project/django-ninja-extra/"
+}

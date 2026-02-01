@@ -1,0 +1,11 @@
+{
+  "name": "kycli",
+  "version": "0.2.3",
+  "summary": "**kycli** is a high-performance Python CLI toolkit built with Cython for speed.",
+  "author": "Balakrishna Maduru",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kycli-0.2.3.tar.gz",
+  "download_time": "2026-02-01T05:50:06.460995",
+  "package_url": "https://pypi.org/project/kycli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flask-flare",
+  "version": "0.1.1",
+  "summary": "Give a little flare to your Flask application with componet-style Jinja Tags",
+  "author": "Drew Butcher",
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_flare-0.1.1.tar.gz",
+  "download_time": "2026-02-01T05:49:23.240903",
+  "package_url": "https://pypi.org/project/flask-flare/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepai-chat",
+  "version": "1.0.1",
+  "summary": "Python client library for DeepAI Chat API",
+  "author": "DeepAI API Client",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepai_chat-1.0.1.tar.gz",
+  "download_time": "2026-02-01T05:49:10.262294",
+  "package_url": "https://pypi.org/project/deepai-chat/"
+}

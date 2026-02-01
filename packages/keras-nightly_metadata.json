@@ -1,11 +1,11 @@
 {
   "name": "keras-nightly",
-  "version": "3.14.0.dev2026013104",
+  "version": "3.14.0.dev2026020104",
   "summary": "Multi-backend Keras",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "keras_nightly-3.14.0.dev2026013104.tar.gz",
-  "download_time": "2026-01-31T04:52:44.739522",
+  "download_filename": "keras_nightly-3.14.0.dev2026020104.tar.gz",
+  "download_time": "2026-02-01T05:50:03.274316",
   "package_url": "https://pypi.org/project/keras-nightly/"
 }
