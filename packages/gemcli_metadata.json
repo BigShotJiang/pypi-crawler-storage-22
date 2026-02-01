@@ -1,0 +1,11 @@
+{
+  "name": "gemcli",
+  "version": "1.0.8",
+  "summary": "GemCLI: Use consumer Gemini for unlimited code completions, system automation, and image generation via command-line interface",
+  "author": "89P13",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemcli-1.0.8.tar.gz",
+  "download_time": "2026-02-01T14:01:50.517579",
+  "package_url": "https://pypi.org/project/gemcli/"
+}

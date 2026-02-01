@@ -1,0 +1,11 @@
+{
+  "name": "javdb",
+  "version": "0.1.2",
+  "summary": "Command-line scraper for javdatabase.com. Search movies, extract metadata, and download preview images or NFO files for media centers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "javdb-0.1.2.tar.gz",
+  "download_time": "2026-02-01T14:01:57.295440",
+  "package_url": "https://pypi.org/project/javdb/"
+}

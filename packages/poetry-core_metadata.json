@@ -1,0 +1,11 @@
+{
+  "name": "poetry-core",
+  "version": "2.3.1",
+  "summary": "Poetry PEP 517 Build Backend",
+  "author": "Sébastien Eustace",
+  "license": null,
+  "home_page": null,
+  "download_filename": "poetry_core-2.3.1.tar.gz",
+  "download_time": "2026-02-01T14:01:35.847560",
+  "package_url": "https://pypi.org/project/poetry-core/"
+}

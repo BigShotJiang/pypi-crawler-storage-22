@@ -1,0 +1,11 @@
+{
+  "name": "jmap-engine",
+  "version": "0.3.0",
+  "summary": "Python library for viewing and sending emails through the JMAP protocol",
+  "author": "cocdeshijie",
+  "license": null,
+  "home_page": "https://github.com/cocdeshijie/jmap-engine",
+  "download_filename": "jmap_engine-0.3.0.tar.gz",
+  "download_time": "2026-02-01T14:01:33.770971",
+  "package_url": "https://pypi.org/project/jmap-engine/"
+}

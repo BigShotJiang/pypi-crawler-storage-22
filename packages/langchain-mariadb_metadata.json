@@ -1,11 +1,11 @@
 {
   "name": "langchain-mariadb",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "An integration package connecting MariaDB and LangChain",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langchain_mariadb-0.0.19.tar.gz",
-  "download_time": "2026-01-30T17:59:06.876128",
+  "download_filename": "langchain_mariadb-0.0.20.tar.gz",
+  "download_time": "2026-02-01T14:01:41.120853",
   "package_url": "https://pypi.org/project/langchain-mariadb/"
 }

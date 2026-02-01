@@ -1,0 +1,11 @@
+{
+  "name": "ckanext-upload-via-email",
+  "version": "0.1.5",
+  "summary": "Upload packages to CKAN via Email",
+  "author": "Ori Hoch",
+  "license": "AGPL",
+  "home_page": "https://github.com/OriHoch/ckanext-upload_via_email",
+  "download_filename": "ckanext_upload_via_email-0.1.5.tar.gz",
+  "download_time": "2026-02-01T14:01:23.767505",
+  "package_url": "https://pypi.org/project/ckanext-upload-via-email/"
+}

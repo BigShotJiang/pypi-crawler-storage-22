@@ -1,0 +1,11 @@
+{
+  "name": "unity-yaml-normalize",
+  "version": "0.1.5",
+  "summary": "Unity yaml file normalize.",
+  "author": "srz_zumix",
+  "license": "MIT",
+  "home_page": "https://github.com/srz-zumix/unity-yaml-normalize/",
+  "download_filename": "unity_yaml_normalize-0.1.5.tar.gz",
+  "download_time": "2026-02-01T14:01:45.801128",
+  "package_url": "https://pypi.org/project/unity-yaml-normalize/"
+}

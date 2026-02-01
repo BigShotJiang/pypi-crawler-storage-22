@@ -1,0 +1,11 @@
+{
+  "name": "dremio-simple-query",
+  "version": "2.0.0",
+  "summary": "Simple tool to query Dremio with Apache Arrow Flight",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dremio_simple_query-2.0.0.tar.gz",
+  "download_time": "2026-02-01T14:01:32.727848",
+  "package_url": "https://pypi.org/project/dremio-simple-query/"
+}

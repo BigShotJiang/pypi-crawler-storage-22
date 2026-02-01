@@ -1,0 +1,11 @@
+{
+  "name": "gst-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for GStreamer introspection and pipeline development",
+  "author": "David Maseda Neira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gst_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-01T14:01:52.599315",
+  "package_url": "https://pypi.org/project/gst-mcp/"
+}

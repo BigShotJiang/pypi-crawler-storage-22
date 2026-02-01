@@ -1,0 +1,11 @@
+{
+  "name": "monarchmoneycommunity",
+  "version": "1.2.0",
+  "summary": "Monarch Money API for Python",
+  "author": "bradleyseanf",
+  "license": "MIT",
+  "home_page": "https://github.com/bradleyseanf/monarchmoneycommunity",
+  "download_filename": "monarchmoneycommunity-1.2.0.tar.gz",
+  "download_time": "2026-02-01T14:01:24.289263",
+  "package_url": "https://pypi.org/project/monarchmoneycommunity/"
+}

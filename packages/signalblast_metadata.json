@@ -1,0 +1,11 @@
+{
+  "name": "signalblast",
+  "version": "0.11.0",
+  "summary": "Broadcast bot for Signal",
+  "author": "Era Dorta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "signalblast-0.11.0.tar.gz",
+  "download_time": "2026-02-01T14:01:25.972950",
+  "package_url": "https://pypi.org/project/signalblast/"
+}

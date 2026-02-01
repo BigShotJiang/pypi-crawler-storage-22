@@ -1,0 +1,11 @@
+{
+  "name": "opencld",
+  "version": "0.3.3",
+  "summary": "OpenCLD - A hybrid System Dynamics and AI simulation library for building, running, and analyzing dynamic system models with unit-aware computations.",
+  "author": "Pietro Viero",
+  "license": "CC-BY-NC-ND-4.0",
+  "home_page": "https://github.com/log-lab-polito/OpenCLD",
+  "download_filename": "opencld-0.3.3.tar.gz",
+  "download_time": "2026-02-01T14:01:59.377599",
+  "package_url": "https://pypi.org/project/opencld/"
+}

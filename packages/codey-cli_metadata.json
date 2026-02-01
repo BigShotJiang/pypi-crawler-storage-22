@@ -1,0 +1,11 @@
+{
+  "name": "codey-cli",
+  "version": "0.1.2",
+  "summary": "Save code agent conversations aligned with git commits.",
+  "author": "Joway",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codey_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-01T14:01:35.326419",
+  "package_url": "https://pypi.org/project/codey-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vibetuner",
-  "version": "4.0.1",
+  "version": "5.0.2",
   "summary": "Core Python framework and blessed dependencies for production-ready FastAPI + MongoDB + HTMX projects",
   "author": "All Tuner Labs, S.L.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibetuner-4.0.1.tar.gz",
-  "download_time": "2026-02-01T10:53:23.988017",
+  "download_filename": "vibetuner-5.0.2.tar.gz",
+  "download_time": "2026-02-01T14:01:33.251909",
   "package_url": "https://pypi.org/project/vibetuner/"
 }
