@@ -1,0 +1,11 @@
+{
+  "name": "pitlane-web",
+  "version": "0.1.1.dev1",
+  "summary": "Web interface for PitLane AI",
+  "author": "John Hudzina",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pitlane_web-0.1.1.dev1.tar.gz",
+  "download_time": "2026-02-01T21:19:45.490915",
+  "package_url": "https://pypi.org/project/pitlane-web/"
+}

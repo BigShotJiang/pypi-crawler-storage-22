@@ -1,11 +1,11 @@
 {
   "name": "ticket2pr",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Automate Jira ticket to GitHub PR workflow",
   "author": "Ben Gabay",
   "license": null,
   "home_page": "https://github.com/bengabay11/ticket2pr",
-  "download_filename": "ticket2pr-0.2.0.tar.gz",
-  "download_time": "2026-02-01T17:50:45.341227",
+  "download_filename": "ticket2pr-0.3.0.tar.gz",
+  "download_time": "2026-02-01T21:19:39.814810",
   "package_url": "https://pypi.org/project/ticket2pr/"
 }

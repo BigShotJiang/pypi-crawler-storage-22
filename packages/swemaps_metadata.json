@@ -1,0 +1,11 @@
+{
+  "name": "swemaps",
+  "version": "0.2.2",
+  "summary": "Maps of Sweden in GeoParquet for easy usage.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swemaps-0.2.2.tar.gz",
+  "download_time": "2026-02-01T21:20:10.615320",
+  "package_url": "https://pypi.org/project/swemaps/"
+}

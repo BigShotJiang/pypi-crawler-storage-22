@@ -1,0 +1,11 @@
+{
+  "name": "md-resume-builder",
+  "version": "0.1.0",
+  "summary": "A lightweight tool to convert Markdown sections and CSS into a polished resume PDF",
+  "author": "Shreyansh Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md_resume_builder-0.1.0.tar.gz",
+  "download_time": "2026-02-01T21:19:58.615324",
+  "package_url": "https://pypi.org/project/md-resume-builder/"
+}

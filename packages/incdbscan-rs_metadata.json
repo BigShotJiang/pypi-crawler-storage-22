@@ -1,0 +1,11 @@
+{
+  "name": "incdbscan-rs",
+  "version": "0.1.0",
+  "summary": "High-performance Rust implementation of IncrementalDBSCAN with Python bindings.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "incdbscan_rs-0.1.0.tar.gz",
+  "download_time": "2026-02-01T21:19:39.301639",
+  "package_url": "https://pypi.org/project/incdbscan-rs/"
+}

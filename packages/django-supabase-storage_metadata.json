@@ -1,11 +1,11 @@
 {
   "name": "django-supabase-storage",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "summary": "Django storage backend for Supabase buckets",
   "author": "Madhav Sharma",
   "license": "MIT",
   "home_page": "https://github.com/madhav89755/django-supabase-storage",
-  "download_filename": "django_supabase_storage-0.1.1.tar.gz",
-  "download_time": "2026-02-01T19:55:07.921400",
+  "download_filename": "django_supabase_storage-1.0.0.tar.gz",
+  "download_time": "2026-02-01T21:19:32.967778",
   "package_url": "https://pypi.org/project/django-supabase-storage/"
 }

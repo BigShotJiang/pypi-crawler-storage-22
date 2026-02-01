@@ -1,0 +1,11 @@
+{
+  "name": "astrai-sdk",
+  "version": "0.1.0",
+  "summary": "Astrai SDK – cost, routing, and privacy control layer for AI agents",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "astrai_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-01T21:19:38.785392",
+  "package_url": "https://pypi.org/project/astrai-sdk/"
+}
