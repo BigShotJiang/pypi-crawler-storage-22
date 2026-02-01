@@ -1,11 +1,11 @@
 {
   "name": "ifgen",
-  "version": "4.6.4",
+  "version": "4.6.5",
   "summary": "An interface generator for distributed computing.",
   "author": "Libre Embedded",
   "license": null,
   "home_page": "https://github.com/libre-embedded/ifgen",
-  "download_filename": "ifgen-4.6.4.tar.gz",
-  "download_time": "2026-01-31T22:18:10.287867",
+  "download_filename": "ifgen-4.6.5.tar.gz",
+  "download_time": "2026-02-01T02:02:45.374035",
   "package_url": "https://pypi.org/project/ifgen/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "jleechanorg-orchestration",
-  "version": "0.1.30",
+  "version": "0.1.32",
   "summary": "AI Orchestration - tmux-based interactive AI CLI wrapper and multi-agent orchestration system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jleechanorg_orchestration-0.1.30.tar.gz",
-  "download_time": "2026-01-31T23:45:10.879104",
+  "download_filename": "jleechanorg_orchestration-0.1.32.tar.gz",
+  "download_time": "2026-02-01T02:03:11.347159",
   "package_url": "https://pypi.org/project/jleechanorg-orchestration/"
 }
