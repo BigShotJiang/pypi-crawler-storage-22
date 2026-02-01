@@ -1,11 +1,11 @@
 {
   "name": "vm-tool",
-  "version": "1.0.42",
+  "version": "1.0.44",
   "summary": "A Comprehensive Tool for Setting Up Virtual Machines.",
   "author": "Sunny Sinha",
   "license": "MIT",
   "home_page": "https://github.com/thesunnysinha/vm_tool",
-  "download_filename": "vm_tool-1.0.42.tar.gz",
-  "download_time": "2026-02-01T16:24:19.698196",
+  "download_filename": "vm_tool-1.0.44.tar.gz",
+  "download_time": "2026-02-01T18:29:14.389240",
   "package_url": "https://pypi.org/project/vm-tool/"
 }
