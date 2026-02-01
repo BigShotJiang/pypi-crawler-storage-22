@@ -1,0 +1,11 @@
+{
+  "name": "scholarinboxcli",
+  "version": "0.1.1",
+  "summary": "CLI for Scholar Inbox (authenticated web API)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scholarinboxcli-0.1.1.tar.gz",
+  "download_time": "2026-02-01T22:26:06.906325",
+  "package_url": "https://pypi.org/project/scholarinboxcli/"
+}

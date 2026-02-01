@@ -1,0 +1,11 @@
+{
+  "name": "pymkv2",
+  "version": "2.2.0.post2",
+  "summary": "A Python wrapper for mkvmerge. It provides support for muxing, splitting, linking, chapters, tags, and attachments through the use of mkvmerge.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymkv2-2.2.0.post2.tar.gz",
+  "download_time": "2026-02-01T22:26:17.315569",
+  "package_url": "https://pypi.org/project/pymkv2/"
+}

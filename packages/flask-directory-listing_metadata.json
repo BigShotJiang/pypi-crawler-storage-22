@@ -1,0 +1,11 @@
+{
+  "name": "flask-directory-listing",
+  "version": "0.0.1",
+  "summary": "Flask app that replicates Apache-style directory listings. Supports file uploads and folder downloads as ZIP archives.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_directory_listing-0.0.1.tar.gz",
+  "download_time": "2026-02-01T22:26:33.455729",
+  "package_url": "https://pypi.org/project/flask-directory-listing/"
+}

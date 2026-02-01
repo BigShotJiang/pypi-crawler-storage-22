@@ -1,11 +1,11 @@
 {
   "name": "rrq",
-  "version": "0.9.9",
+  "version": "0.9.10",
   "summary": "RRQ is a library for creating reliable job queues using Rust, Redis. with language-agnostic producers and workers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rrq-0.9.9-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-31T21:18:14.057970",
+  "download_filename": "rrq-0.9.10-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-01T22:26:22.577165",
   "package_url": "https://pypi.org/project/rrq/"
 }

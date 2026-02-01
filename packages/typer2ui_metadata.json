@@ -1,0 +1,11 @@
+{
+  "name": "typer2ui",
+  "version": "0.16.0",
+  "summary": "Automatically generate desktop GUIs for Typer CLI applications using Flet",
+  "author": "Typer2UI Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typer2ui-0.16.0.tar.gz",
+  "download_time": "2026-02-01T22:26:36.673600",
+  "package_url": "https://pypi.org/project/typer2ui/"
+}

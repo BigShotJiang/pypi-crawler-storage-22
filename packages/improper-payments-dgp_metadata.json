@@ -1,11 +1,11 @@
 {
   "name": "improper-payments-dgp",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A Python package to simulate data for improper payments.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "improper_payments_dgp-0.1.6.tar.gz",
-  "download_time": "2026-02-01T21:20:03.268830",
+  "download_filename": "improper_payments_dgp-0.1.7.tar.gz",
+  "download_time": "2026-02-01T22:26:09.577999",
   "package_url": "https://pypi.org/project/improper-payments-dgp/"
 }
