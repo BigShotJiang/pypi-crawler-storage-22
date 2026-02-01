@@ -1,0 +1,11 @@
+{
+  "name": "gtime",
+  "version": "0.5.0",
+  "summary": "Global Time Utility (gtime) - A modern, colorful Python CLI utility for global time zone lookup, comparison, and management. It supports fuzzy search, favorites, city comparison, meeting time conversion, and a live/watch mode",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gtime-0.5.0.tar.gz",
+  "download_time": "2026-02-01T04:38:00.888396",
+  "package_url": "https://pypi.org/project/gtime/"
+}

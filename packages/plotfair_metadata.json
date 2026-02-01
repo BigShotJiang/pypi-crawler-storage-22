@@ -1,0 +1,11 @@
+{
+  "name": "plotfair",
+  "version": "0.1.0",
+  "summary": "Beautiful color and plotting utilities using matplotlib & plotly",
+  "author": "Barton Muller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plotfair-0.1.0.tar.gz",
+  "download_time": "2026-02-01T04:38:36.012099",
+  "package_url": "https://pypi.org/project/plotfair/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cloudbrain-client",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "CloudBrain Client - AI collaboration and communication system",
   "author": "CloudBrain Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudbrain_client-1.0.0.tar.gz",
-  "download_time": "2026-01-31T21:56:06.426482",
+  "download_filename": "cloudbrain_client-1.0.3.tar.gz",
+  "download_time": "2026-02-01T04:38:37.652159",
   "package_url": "https://pypi.org/project/cloudbrain-client/"
 }

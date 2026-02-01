@@ -1,0 +1,11 @@
+{
+  "name": "fdby-stt",
+  "version": "0.1.1",
+  "summary": "this is a speech to text package created by Sachin Gadwal",
+  "author": "Sachin Gadwal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fdby_stt-0.1.1.tar.gz",
+  "download_time": "2026-02-01T04:38:21.361518",
+  "package_url": "https://pypi.org/project/fdby-stt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rotavision",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for Rotavision AI Trust Infrastructure",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotavision-0.1.0.tar.gz",
+  "download_time": "2026-02-01T04:38:20.815607",
+  "package_url": "https://pypi.org/project/rotavision/"
+}

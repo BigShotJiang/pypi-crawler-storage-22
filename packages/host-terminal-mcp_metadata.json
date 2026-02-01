@@ -1,0 +1,11 @@
+{
+  "name": "host-terminal-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for executing terminal commands on the host machine with configurable permissions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "host_terminal_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-01T04:38:36.561356",
+  "package_url": "https://pypi.org/project/host-terminal-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "prompture",
-  "version": "0.0.40",
+  "version": "0.0.42",
   "summary": "Ask LLMs to return structured JSON and run cross-model tests. API-first.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prompture-0.0.40.tar.gz",
-  "download_time": "2026-01-31T23:18:20.352447",
+  "download_filename": "prompture-0.0.42.tar.gz",
+  "download_time": "2026-02-01T04:38:30.443664",
   "package_url": "https://pypi.org/project/prompture/"
 }

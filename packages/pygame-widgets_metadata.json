@@ -1,0 +1,11 @@
+{
+  "name": "pygame-widgets",
+  "version": "1.2.5",
+  "summary": "Widgets for use with Pygame",
+  "author": "AustL",
+  "license": "MIT",
+  "home_page": "https://github.com/AustL/PygameWidgets",
+  "download_filename": "pygame_widgets-1.2.5.tar.gz",
+  "download_time": "2026-02-01T04:38:19.104266",
+  "package_url": "https://pypi.org/project/pygame-widgets/"
+}
