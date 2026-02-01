@@ -1,11 +1,11 @@
 {
   "name": "minicpmo-utils",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Unified utilities package for MiniCPM-o: includes cosyvoice + stepaudio2 and extensible utils.",
   "author": "MiniCPM-o Utils Maintainers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "minicpmo_utils-0.1.4.tar.gz",
-  "download_time": "2026-02-01T04:38:12.977246",
+  "download_filename": "minicpmo_utils-0.1.6.tar.gz",
+  "download_time": "2026-02-01T07:27:29.500474",
   "package_url": "https://pypi.org/project/minicpmo-utils/"
 }

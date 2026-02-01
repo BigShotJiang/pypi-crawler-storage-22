@@ -1,11 +1,11 @@
 {
   "name": "ucon",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "summary": "a tool for dimensional analysis: a \"Unit CONverter\"",
   "author": "Emmanuel I. Obi",
   "license": "Apache-2.0",
   "home_page": "https://github.com/withtwoemms/ucon",
-  "download_filename": "ucon-0.4.2.tar.gz",
-  "download_time": "2026-01-31T03:37:48.561972",
+  "download_filename": "ucon-0.5.0.tar.gz",
+  "download_time": "2026-02-01T07:27:59.375227",
   "package_url": "https://pypi.org/project/ucon/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "embed_lab",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Add your description here",
   "author": "mohamad-tohidi",
   "license": null,
   "home_page": null,
-  "download_filename": "embed_lab-0.4.0.tar.gz",
-  "download_time": "2026-01-31T07:56:20.570820",
+  "download_filename": "embed_lab-0.5.0.tar.gz",
+  "download_time": "2026-02-01T07:27:26.882290",
   "package_url": "https://pypi.org/project/embed_lab/"
 }

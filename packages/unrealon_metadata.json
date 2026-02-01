@@ -1,11 +1,11 @@
 {
   "name": "unrealon",
-  "version": "0.1.8",
+  "version": "0.1.12",
   "summary": "Unrealon SDK - Service management for Django backend (registration, heartbeat, logging, commands)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unrealon-0.1.8.tar.gz",
-  "download_time": "2026-01-31T17:01:05.081125",
+  "download_filename": "unrealon-0.1.12.tar.gz",
+  "download_time": "2026-02-01T07:27:42.552075",
   "package_url": "https://pypi.org/project/unrealon/"
 }

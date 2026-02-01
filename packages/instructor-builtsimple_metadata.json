@@ -1,0 +1,11 @@
+{
+  "name": "instructor-builtsimple",
+  "version": "0.1.0",
+  "summary": "Instructor integration for Built-Simple research APIs - structured extraction from PubMed, ArXiv, and Wikipedia",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "instructor_builtsimple-0.1.0.tar.gz",
+  "download_time": "2026-02-01T07:27:28.983742",
+  "package_url": "https://pypi.org/project/instructor-builtsimple/"
+}

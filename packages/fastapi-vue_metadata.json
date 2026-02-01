@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-vue",
+  "version": "0.5.2",
+  "summary": "Serves Vue assets on a FastAPI app. Use fastapi-vue-setup tool to add Vue build to your package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_vue-0.5.2.tar.gz",
+  "download_time": "2026-02-01T07:27:44.115950",
+  "package_url": "https://pypi.org/project/fastapi-vue/"
+}

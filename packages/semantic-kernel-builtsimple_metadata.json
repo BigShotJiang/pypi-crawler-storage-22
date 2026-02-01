@@ -1,0 +1,11 @@
+{
+  "name": "semantic-kernel-builtsimple",
+  "version": "0.1.0",
+  "summary": "Semantic Kernel plugins for Built-Simple research APIs (PubMed, ArXiv, Wikipedia)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "semantic_kernel_builtsimple-0.1.0.tar.gz",
+  "download_time": "2026-02-01T07:27:28.434841",
+  "package_url": "https://pypi.org/project/semantic-kernel-builtsimple/"
+}
