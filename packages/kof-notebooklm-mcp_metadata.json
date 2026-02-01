@@ -1,0 +1,11 @@
+{
+  "name": "kof-notebooklm-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Google NotebookLM - Create notebooks, add sources, and query AI with citations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kof_notebooklm_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-01T12:38:25.634422",
+  "package_url": "https://pypi.org/project/kof-notebooklm-mcp/"
+}

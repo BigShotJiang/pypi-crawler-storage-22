@@ -1,0 +1,11 @@
+{
+  "name": "honeybadger",
+  "version": "1.1.1",
+  "summary": "Send Python and Django errors to Honeybadger",
+  "author": "Dave Sullivan",
+  "license": "MIT",
+  "home_page": "https://github.com/honeybadger-io/honeybadger-python",
+  "download_filename": "honeybadger-1.1.1-py3-none-any.whl",
+  "download_time": "2026-02-01T12:38:40.081128",
+  "package_url": "https://pypi.org/project/honeybadger/"
+}

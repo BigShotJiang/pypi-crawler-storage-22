@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-utils",
+  "version": "0.2.5",
+  "summary": "Utils for benchmark.",
+  "author": "Yasyrev Andrei",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "benchmark_utils-0.2.5.tar.gz",
+  "download_time": "2026-02-01T12:39:01.799912",
+  "package_url": "https://pypi.org/project/benchmark-utils/"
+}

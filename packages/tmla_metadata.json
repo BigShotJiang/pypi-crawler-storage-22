@@ -1,0 +1,11 @@
+{
+  "name": "tmla",
+  "version": "0.1.1",
+  "summary": "T-MLA: Targeted Multiscale Log-Exponential Attack for Neural Image Compression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tmla-0.1.1.tar.gz",
+  "download_time": "2026-02-01T12:38:37.007071",
+  "package_url": "https://pypi.org/project/tmla/"
+}

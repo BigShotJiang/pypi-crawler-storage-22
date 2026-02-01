@@ -1,11 +1,11 @@
 {
   "name": "yta-editor-parameters",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Youtube Autonomous Editor Parameters Module.",
   "author": "danialcala94",
   "license": null,
   "home_page": null,
-  "download_filename": "yta_editor_parameters-0.0.5.tar.gz",
-  "download_time": "2026-02-01T07:27:38.413407",
+  "download_filename": "yta_editor_parameters-0.0.6.tar.gz",
+  "download_time": "2026-02-01T12:39:06.934408",
   "package_url": "https://pypi.org/project/yta-editor-parameters/"
 }

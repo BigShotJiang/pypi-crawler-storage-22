@@ -1,11 +1,11 @@
 {
   "name": "terminalcp",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "MCP server for spawning and controlling background processes with virtual terminals (Python port)",
   "author": "Mario Zechner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "terminalcp-1.0.1.tar.gz",
-  "download_time": "2026-02-01T10:53:20.369830",
+  "download_filename": "terminalcp-1.0.3.tar.gz",
+  "download_time": "2026-02-01T12:38:23.012958",
   "package_url": "https://pypi.org/project/terminalcp/"
 }

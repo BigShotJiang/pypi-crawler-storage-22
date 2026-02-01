@@ -1,0 +1,11 @@
+{
+  "name": "adi-crontab-tool",
+  "version": "0.1.2",
+  "summary": "A small CLI to validate and explain cron expressions",
+  "author": "Adi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adi_crontab_tool-0.1.2.tar.gz",
+  "download_time": "2026-02-01T12:38:22.500095",
+  "package_url": "https://pypi.org/project/adi-crontab-tool/"
+}

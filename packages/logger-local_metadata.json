@@ -1,0 +1,11 @@
+{
+  "name": "logger-local",
+  "version": "0.0.180.post2614",
+  "summary": "PyPI Package for Circles Logger Python Local",
+  "author": "Circles",
+  "license": null,
+  "home_page": "https://github.com/circles-zone/logger-local-python-package",
+  "download_filename": "logger_local-0.0.180.post2614.tar.gz",
+  "download_time": "2026-02-01T12:38:38.537294",
+  "package_url": "https://pypi.org/project/logger-local/"
+}

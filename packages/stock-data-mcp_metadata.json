@@ -1,0 +1,11 @@
+{
+  "name": "stock-data-mcp",
+  "version": "0.2.1",
+  "summary": "MCP Server for stock and crypto with multi-source failover",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stock_data_mcp-0.2.1.tar.gz",
+  "download_time": "2026-02-01T12:38:28.724052",
+  "package_url": "https://pypi.org/project/stock-data-mcp/"
+}
