@@ -1,0 +1,11 @@
+{
+  "name": "alembic-verify",
+  "version": "1.0.0",
+  "summary": "A library to verify alembic migrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "alembic_verify-1.0.0.tar.gz",
+  "download_time": "2026-02-01T21:47:28.201578",
+  "package_url": "https://pypi.org/project/alembic-verify/"
+}

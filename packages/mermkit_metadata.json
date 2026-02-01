@@ -1,11 +1,11 @@
 {
   "name": "mermkit",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Python bindings for mermkit (Mermaid rendering toolkit)",
   "author": "mermkit contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mermkit-0.2.5.tar.gz",
-  "download_time": "2026-02-01T21:20:10.096748",
+  "download_filename": "mermkit-0.2.6.tar.gz",
+  "download_time": "2026-02-01T21:47:47.183317",
   "package_url": "https://pypi.org/project/mermkit/"
 }

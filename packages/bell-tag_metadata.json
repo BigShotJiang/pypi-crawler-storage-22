@@ -1,11 +1,11 @@
 {
   "name": "bell-tag",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "summary": "Secure Flask analytics tracking library",
-  "author": "Bell Network",
-  "license": "MIT",
-  "home_page": "https://belltagmanager.com",
-  "download_filename": "bell_tag-1.0.0.tar.gz",
-  "download_time": "2026-02-01T19:01:31.334828",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bell_tag-1.0.5.tar.gz",
+  "download_time": "2026-02-01T21:47:18.043604",
   "package_url": "https://pypi.org/project/bell-tag/"
 }

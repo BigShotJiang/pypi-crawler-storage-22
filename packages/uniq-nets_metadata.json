@@ -1,0 +1,11 @@
+{
+  "name": "uniq-nets",
+  "version": "0.0.1",
+  "summary": "Uniqueness in Deep Neural Networks: The Inevitable Singularity of Learning Trajectories (Initial Release)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uniq_nets-0.0.1.tar.gz",
+  "download_time": "2026-02-01T21:47:30.900579",
+  "package_url": "https://pypi.org/project/uniq-nets/"
+}

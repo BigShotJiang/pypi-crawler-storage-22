@@ -1,0 +1,11 @@
+{
+  "name": "turbocrawler",
+  "version": "0.0.3",
+  "summary": "Scraping and Crawling Micro-Framework",
+  "author": "toriium",
+  "license": "MIT",
+  "home_page": "https://github.com/toriium/turbocrawler",
+  "download_filename": "turbocrawler-0.0.3.tar.gz",
+  "download_time": "2026-02-01T21:47:36.314291",
+  "package_url": "https://pypi.org/project/turbocrawler/"
+}
