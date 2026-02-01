@@ -1,11 +1,11 @@
 {
   "name": "jaymd96-pants-baseline",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Opinionated Python code quality baseline plugin for Pants build system",
   "author": "James",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jaymd96_pants_baseline-0.1.0.tar.gz",
-  "download_time": "2026-02-01T23:21:28.354459",
+  "download_filename": "jaymd96_pants_baseline-0.1.2.tar.gz",
+  "download_time": "2026-02-01T23:48:21.389511",
   "package_url": "https://pypi.org/project/jaymd96-pants-baseline/"
 }

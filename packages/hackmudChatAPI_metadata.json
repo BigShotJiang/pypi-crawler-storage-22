@@ -1,11 +1,11 @@
 {
   "name": "hackmudChatAPI",
-  "version": "0.0.20.5",
+  "version": "0.0.20.6",
   "summary": "A python implementation of the hackmud chat API, using the requests module.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hackmudchatapi-0.0.20.5.tar.gz",
-  "download_time": "2026-02-01T23:21:17.227914",
+  "download_filename": "hackmudchatapi-0.0.20.6.tar.gz",
+  "download_time": "2026-02-01T23:48:17.613351",
   "package_url": "https://pypi.org/project/hackmudChatAPI/"
 }

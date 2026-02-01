@@ -1,11 +1,11 @@
 {
   "name": "blog-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A toolkit for collecting, storing, and analyzing multiple blogs with RSS feed and web crawler support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "blog_toolkit-0.1.1.tar.gz",
-  "download_time": "2026-02-01T22:26:21.501185",
+  "download_filename": "blog_toolkit-0.1.3.tar.gz",
+  "download_time": "2026-02-01T23:48:29.583238",
   "package_url": "https://pypi.org/project/blog-toolkit/"
 }

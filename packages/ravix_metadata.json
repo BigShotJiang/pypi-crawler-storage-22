@@ -1,0 +1,11 @@
+{
+  "name": "ravix",
+  "version": "0.1.2",
+  "summary": "Applied regression modeling and visualization for business analytics",
+  "author": "Daniel McGibney",
+  "license": "MIT",
+  "home_page": "https://github.com/danmcgib/ravix",
+  "download_filename": "ravix-0.1.2.tar.gz",
+  "download_time": "2026-02-01T23:48:05.868563",
+  "package_url": "https://pypi.org/project/ravix/"
+}

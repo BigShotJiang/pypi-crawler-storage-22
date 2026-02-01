@@ -1,0 +1,11 @@
+{
+  "name": "traces",
+  "version": "0.7.0",
+  "summary": "A Python library for unevenly-spaced time series analysis",
+  "author": "Mike Stringer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "traces-0.7.0.tar.gz",
+  "download_time": "2026-02-01T23:48:06.407989",
+  "package_url": "https://pypi.org/project/traces/"
+}

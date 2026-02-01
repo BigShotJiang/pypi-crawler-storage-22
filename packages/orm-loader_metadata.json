@@ -1,0 +1,11 @@
+{
+  "name": "orm-loader",
+  "version": "0.3.12",
+  "summary": "Generic base classes to handle ORM functionality for multiple downstream datamodels",
+  "author": "gkennos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "orm_loader-0.3.12.tar.gz",
+  "download_time": "2026-02-01T23:48:33.408536",
+  "package_url": "https://pypi.org/project/orm-loader/"
+}

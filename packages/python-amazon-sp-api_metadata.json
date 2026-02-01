@@ -1,11 +1,11 @@
 {
   "name": "python-amazon-sp-api",
-  "version": "2.0.12",
+  "version": "2.0.15",
   "summary": "Python wrapper for the Amazon Selling-Partner API",
   "author": "Michael Primke",
   "license": "MIT",
   "home_page": "https://github.com/saleweaver/python-amazon-sp-api",
-  "download_filename": "python_amazon_sp_api-2.0.12.tar.gz",
-  "download_time": "2026-02-01T23:21:10.407509",
+  "download_filename": "python_amazon_sp_api-2.0.15.tar.gz",
+  "download_time": "2026-02-01T23:48:21.919987",
   "package_url": "https://pypi.org/project/python-amazon-sp-api/"
 }

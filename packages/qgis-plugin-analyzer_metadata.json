@@ -1,0 +1,11 @@
+{
+  "name": "qgis-plugin-analyzer",
+  "version": "1.5.0",
+  "summary": "A professional static analysis tool for QGIS (PyQGIS) plugins",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "qgis_plugin_analyzer-1.5.0.tar.gz",
+  "download_time": "2026-02-01T23:48:18.702721",
+  "package_url": "https://pypi.org/project/qgis-plugin-analyzer/"
+}
