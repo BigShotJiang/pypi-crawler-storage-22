@@ -1,0 +1,11 @@
+{
+  "name": "ncBacktester",
+  "version": "0.1.1",
+  "summary": "A simple backtesting engine for trading strategies",
+  "author": "ncBacktester Team",
+  "license": null,
+  "home_page": "https://github.com/gjarment/FIM500AlgoTrading",
+  "download_filename": "ncbacktester-0.1.1.tar.gz",
+  "download_time": "2026-02-01T16:24:26.459816",
+  "package_url": "https://pypi.org/project/ncBacktester/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fast-lsh-ann",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Fast Bucketed Random Projection LSH for Approximate Nearest Neighbor search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fast_lsh_ann-0.1.0.tar.gz",
-  "download_time": "2026-02-01T15:00:09.358542",
+  "download_filename": "fast_lsh_ann-0.1.1.tar.gz",
+  "download_time": "2026-02-01T16:24:29.100708",
   "package_url": "https://pypi.org/project/fast-lsh-ann/"
 }

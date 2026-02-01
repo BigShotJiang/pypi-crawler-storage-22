@@ -1,11 +1,11 @@
 {
   "name": "scimesh",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Systematic literature search library for scientific papers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scimesh-0.2.2.tar.gz",
-  "download_time": "2026-01-31T17:57:28.454427",
+  "download_filename": "scimesh-0.2.3.tar.gz",
+  "download_time": "2026-02-01T16:24:14.486339",
   "package_url": "https://pypi.org/project/scimesh/"
 }

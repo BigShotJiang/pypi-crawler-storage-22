@@ -1,11 +1,11 @@
 {
   "name": "harness-utils",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Context window management utilities for LLM-based applications",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "harness_utils-0.1.1.tar.gz",
-  "download_time": "2026-01-31T23:57:30.319457",
+  "download_filename": "harness_utils-0.1.2.tar.gz",
+  "download_time": "2026-02-01T16:24:06.087639",
   "package_url": "https://pypi.org/project/harness-utils/"
 }

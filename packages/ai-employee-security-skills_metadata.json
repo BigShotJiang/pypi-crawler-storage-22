@@ -1,0 +1,11 @@
+{
+  "name": "ai-employee-security-skills",
+  "version": "1.0.0",
+  "summary": "Production-ready security modules: path validation, AES-256-GCM encryption, input sanitization, integrity checking, secure logging, approval verification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_employee_security_skills-1.0.0.tar.gz",
+  "download_time": "2026-02-01T16:24:28.579821",
+  "package_url": "https://pypi.org/project/ai-employee-security-skills/"
+}

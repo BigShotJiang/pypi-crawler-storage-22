@@ -1,11 +1,11 @@
 {
   "name": "virtualdojo",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "summary": "Command-line interface for VirtualDojo CRM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "virtualdojo-0.6.2.tar.gz",
-  "download_time": "2026-02-01T14:36:15.860243",
+  "download_filename": "virtualdojo-0.6.5.tar.gz",
+  "download_time": "2026-02-01T16:23:51.875324",
   "package_url": "https://pypi.org/project/virtualdojo/"
 }

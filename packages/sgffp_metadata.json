@@ -1,11 +1,11 @@
 {
   "name": "sgffp",
-  "version": "0.11.0",
+  "version": "0.13.0",
   "summary": "Read, write, and manipulate SnapGene files (.dna, .rna, .prot)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sgffp-0.11.0.tar.gz",
-  "download_time": "2026-02-01T13:32:06.702405",
+  "download_filename": "sgffp-0.13.0.tar.gz",
+  "download_time": "2026-02-01T16:24:33.272684",
   "package_url": "https://pypi.org/project/sgffp/"
 }

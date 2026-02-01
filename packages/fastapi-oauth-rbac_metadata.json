@@ -1,11 +1,11 @@
 {
   "name": "fastapi-oauth-rbac",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A comprehensive FastAPI library for Authentication and NIST-style Role-Based Access Control (RBAC) with SQLAlchemy support.",
   "author": "Fernando",
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_oauth_rbac-0.1.4.tar.gz",
-  "download_time": "2026-02-01T14:01:29.082255",
+  "download_filename": "fastapi_oauth_rbac-0.1.5.tar.gz",
+  "download_time": "2026-02-01T16:23:48.740981",
   "package_url": "https://pypi.org/project/fastapi-oauth-rbac/"
 }
