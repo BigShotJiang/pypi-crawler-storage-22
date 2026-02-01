@@ -1,0 +1,11 @@
+{
+  "name": "scitex-dataset",
+  "version": "0.1.0",
+  "summary": "Dataset fetcher for neuroscience research (OpenNeuro, BIDS, etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scitex_dataset-0.1.0.tar.gz",
+  "download_time": "2026-02-01T19:55:27.582226",
+  "package_url": "https://pypi.org/project/scitex-dataset/"
+}

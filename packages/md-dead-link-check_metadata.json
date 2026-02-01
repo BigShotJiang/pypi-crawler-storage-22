@@ -1,0 +1,11 @@
+{
+  "name": "md-dead-link-check",
+  "version": "1.3.0",
+  "summary": "This is a lightweight and fast tool to help you keep your Markdown files free of broken links.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md_dead_link_check-1.3.0.tar.gz",
+  "download_time": "2026-02-01T19:55:19.508141",
+  "package_url": "https://pypi.org/project/md-dead-link-check/"
+}

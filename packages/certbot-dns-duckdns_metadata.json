@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-duckdns",
+  "version": "1.8.0",
+  "summary": "Obtain certificates using a DNS TXT record for DuckDNS domains",
+  "author": "infinityofspace",
+  "license": "MIT",
+  "home_page": "https://github.com/infinityofspace/certbot_dns_duckdns",
+  "download_filename": "certbot_dns_duckdns-1.8.0.tar.gz",
+  "download_time": "2026-02-01T19:55:08.432612",
+  "package_url": "https://pypi.org/project/certbot-dns-duckdns/"
+}
