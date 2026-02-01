@@ -1,0 +1,11 @@
+{
+  "name": "qa-pytest-rabbitmq",
+  "version": "0.0.13",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qa_pytest_rabbitmq-0.0.13.tar.gz",
+  "download_time": "2026-02-01T10:21:26.129553",
+  "package_url": "https://pypi.org/project/qa-pytest-rabbitmq/"
+}

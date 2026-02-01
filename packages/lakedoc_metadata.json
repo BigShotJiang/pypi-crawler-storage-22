@@ -1,0 +1,11 @@
+{
+  "name": "lakedoc",
+  "version": "1.1.2",
+  "summary": "Convert Lake documents (Yuque) into the specified format.",
+  "author": "gupingan",
+  "license": null,
+  "home_page": "https://github.com/gupingan/lakedoc",
+  "download_filename": "lakedoc-1.1.2.tar.gz",
+  "download_time": "2026-02-01T10:21:51.908353",
+  "package_url": "https://pypi.org/project/lakedoc/"
+}

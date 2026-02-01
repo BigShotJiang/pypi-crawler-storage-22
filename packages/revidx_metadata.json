@@ -1,0 +1,11 @@
+{
+  "name": "revidx",
+  "version": "1.4.1",
+  "summary": "reVidx: Re-encode video to AVC/MP3 for legacy compatibility.",
+  "author": "voidsnax",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "revidx-1.4.1.tar.gz",
+  "download_time": "2026-02-01T10:21:49.678267",
+  "package_url": "https://pypi.org/project/revidx/"
+}

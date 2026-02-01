@@ -1,0 +1,11 @@
+{
+  "name": "dash-spread-grid",
+  "version": "1.0.0",
+  "summary": "Fast grid for Dash applications",
+  "author": "Tomasz Rewak <tomasz.rewak@gmail.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dash_spread_grid-1.0.0.tar.gz",
+  "download_time": "2026-02-01T10:21:48.572662",
+  "package_url": "https://pypi.org/project/dash-spread-grid/"
+}
