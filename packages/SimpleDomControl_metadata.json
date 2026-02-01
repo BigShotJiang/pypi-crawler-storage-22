@@ -1,0 +1,11 @@
+{
+  "name": "SimpleDomControl",
+  "version": "0.57.20",
+  "summary": "Simple DOM control -> a django MVC framework",
+  "author": "Martin Starman",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/StarmanMartin/sdc",
+  "download_filename": "simpledomcontrol-0.57.20.tar.gz",
+  "download_time": "2026-02-01T06:43:45.704655",
+  "package_url": "https://pypi.org/project/SimpleDomControl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mashell",
-  "version": "0.1.2",
+  "version": "1.0.7",
   "summary": "AI-powered command line assistant - any model, anywhere",
   "author": "Jacob",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "mashell-0.1.2.tar.gz",
-  "download_time": "2026-01-28T23:48:10.721468",
+  "download_filename": "mashell-1.0.7.tar.gz",
+  "download_time": "2026-02-01T06:43:52.403124",
   "package_url": "https://pypi.org/project/mashell/"
 }

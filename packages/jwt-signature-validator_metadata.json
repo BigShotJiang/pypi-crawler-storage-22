@@ -1,0 +1,11 @@
+{
+  "name": "jwt-signature-validator",
+  "version": "0.2.0",
+  "summary": "An ASGI Middleware to sign payload using JWT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jwt_signature_validator-0.2.0.tar.gz",
+  "download_time": "2026-02-01T06:43:38.761404",
+  "package_url": "https://pypi.org/project/jwt-signature-validator/"
+}

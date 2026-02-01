@@ -1,11 +1,11 @@
 {
   "name": "coaxial-terminal-ai",
-  "version": "0.3.9",
+  "version": "0.4.3",
   "summary": "TerminalAI: Command-line AI assistant",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "coaxial_terminal_ai-0.3.9.tar.gz",
-  "download_time": "2026-01-31T23:18:48.779603",
+  "download_filename": "coaxial_terminal_ai-0.4.3.tar.gz",
+  "download_time": "2026-02-01T06:43:40.946140",
   "package_url": "https://pypi.org/project/coaxial-terminal-ai/"
 }

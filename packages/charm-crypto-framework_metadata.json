@@ -1,0 +1,11 @@
+{
+  "name": "charm-crypto-framework",
+  "version": "0.60",
+  "summary": "Charm is a framework for rapid prototyping of cryptosystems",
+  "author": "J. Ayo Akinyele",
+  "license": "LGPL-3.0-or-later",
+  "home_page": "https://charm-crypto.io/",
+  "download_filename": "charm_crypto_framework-0.60.tar.gz",
+  "download_time": "2026-02-01T06:43:33.542199",
+  "package_url": "https://pypi.org/project/charm-crypto-framework/"
+}
