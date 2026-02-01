@@ -1,0 +1,11 @@
+{
+  "name": "pyutss",
+  "version": "0.1.0",
+  "summary": "Python backtesting engine for Universal Trading Strategy Schema (UTSS)",
+  "author": "obichan117",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyutss-0.1.0.tar.gz",
+  "download_time": "2026-02-01T09:30:52.720687",
+  "package_url": "https://pypi.org/project/pyutss/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "logzio-python-handler",
+  "version": "4.1.8",
+  "summary": "Logging handler to send logs to your Logz.io account with bulk SSL",
+  "author": "roiravhon",
+  "license": "Apache License 2",
+  "home_page": "https://github.com/logzio/logzio-python-handler/",
+  "download_filename": "logzio_python_handler-4.1.8.tar.gz",
+  "download_time": "2026-02-01T09:30:29.224366",
+  "package_url": "https://pypi.org/project/logzio-python-handler/"
+}

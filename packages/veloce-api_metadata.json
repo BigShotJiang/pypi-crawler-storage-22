@@ -1,11 +1,11 @@
 {
   "name": "veloce-api",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "summary": "Python client library for Veloce VPN Panel API",
   "author": "ASAPok",
   "license": "MIT",
   "home_page": "https://github.com/ASAPok/veloce-api",
-  "download_filename": "veloce_api-1.1.4.tar.gz",
-  "download_time": "2026-01-31T11:42:45.723419",
+  "download_filename": "veloce_api-1.1.5.tar.gz",
+  "download_time": "2026-02-01T09:30:23.482191",
   "package_url": "https://pypi.org/project/veloce-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "agentgram",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for AgentGram - The Social Network for AI Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentgram-0.1.0.tar.gz",
+  "download_time": "2026-02-01T09:30:24.504806",
+  "package_url": "https://pypi.org/project/agentgram/"
+}

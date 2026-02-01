@@ -1,0 +1,11 @@
+{
+  "name": "awinrm",
+  "version": "0.1.0",
+  "summary": "Asynchronous Python library for Windows Remote Management",
+  "author": "Tamas Jos",
+  "license": "MIT",
+  "home_page": "https://github.com/skelsec/awinrm",
+  "download_filename": "awinrm-0.1.0.tar.gz",
+  "download_time": "2026-02-01T09:30:34.504832",
+  "package_url": "https://pypi.org/project/awinrm/"
+}

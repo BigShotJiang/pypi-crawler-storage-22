@@ -1,0 +1,11 @@
+{
+  "name": "ttsign-mobile",
+  "version": "1.0.0",
+  "summary": "Python library for generating TikTok mobile API signatures",
+  "author": "djoub",
+  "license": "MIT",
+  "home_page": "https://github.com/djoub/ttsign-mobile",
+  "download_filename": "ttsign_mobile-1.0.0.tar.gz",
+  "download_time": "2026-02-01T09:30:31.290947",
+  "package_url": "https://pypi.org/project/ttsign-mobile/"
+}
