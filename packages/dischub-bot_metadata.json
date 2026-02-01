@@ -1,11 +1,11 @@
 {
   "name": "dischub-bot",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Dischub automated scalping bot for MetaTrader 5",
   "author": "DiscHub",
   "license": null,
   "home_page": "https://dischub.co.zw",
-  "download_filename": "dischub_bot-0.1.6.tar.gz",
-  "download_time": "2026-02-01T12:38:47.807835",
+  "download_filename": "dischub_bot-0.1.8.tar.gz",
+  "download_time": "2026-02-01T13:32:01.049931",
   "package_url": "https://pypi.org/project/dischub-bot/"
 }

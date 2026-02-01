@@ -1,0 +1,11 @@
+{
+  "name": "sc-file",
+  "version": "4.2.1",
+  "summary": "Utility & Library for decoding stalcraft assets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sc_file-4.2.1.tar.gz",
+  "download_time": "2026-02-01T13:31:28.197835",
+  "package_url": "https://pypi.org/project/sc-file/"
+}

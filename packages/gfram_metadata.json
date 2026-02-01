@@ -1,0 +1,11 @@
+{
+  "name": "gfram",
+  "version": "3.0.0",
+  "summary": "Professional geometric face recognition library with AI-powered matching",
+  "author": "Ortiqova F.S.",
+  "license": null,
+  "home_page": "https://github.com/feruza-42h/gfram",
+  "download_filename": "gfram-3.0.0.tar.gz",
+  "download_time": "2026-02-01T13:32:10.623848",
+  "package_url": "https://pypi.org/project/gfram/"
+}

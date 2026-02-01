@@ -1,0 +1,11 @@
+{
+  "name": "neocode-ai",
+  "version": "0.1.0",
+  "summary": "The official Python library for the neocode API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "neocode_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-01T13:32:11.270597",
+  "package_url": "https://pypi.org/project/neocode-ai/"
+}
