@@ -1,0 +1,11 @@
+{
+  "name": "cube-to-rag",
+  "version": "0.1.0a2",
+  "summary": "RAG system for Cube.js analytics with vector search capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cube_to_rag-0.1.0a2.tar.gz",
+  "download_time": "2026-02-01T22:51:57.937998",
+  "package_url": "https://pypi.org/project/cube-to-rag/"
+}

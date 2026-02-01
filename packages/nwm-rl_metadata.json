@@ -1,11 +1,11 @@
 {
   "name": "nwm-rl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Negative Weight Mapping - A Reinforcement Learning framework using persistent potential fields",
   "author": "CusterMustOfficial",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nwm_rl-1.0.0.tar.gz",
-  "download_time": "2026-02-01T22:26:04.331799",
+  "download_filename": "nwm_rl-1.0.1.tar.gz",
+  "download_time": "2026-02-01T22:51:56.386337",
   "package_url": "https://pypi.org/project/nwm-rl/"
 }

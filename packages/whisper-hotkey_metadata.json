@@ -1,11 +1,11 @@
 {
   "name": "whisper-hotkey",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Double-tap Control to dictate with Whisper. Transcribes and pastes to any text field. macOS only.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "whisper_hotkey-0.1.0.tar.gz",
-  "download_time": "2026-02-01T21:19:25.189265",
+  "download_filename": "whisper_hotkey-0.1.1.tar.gz",
+  "download_time": "2026-02-01T22:51:48.930592",
   "package_url": "https://pypi.org/project/whisper-hotkey/"
 }

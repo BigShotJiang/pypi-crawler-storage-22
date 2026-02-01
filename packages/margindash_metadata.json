@@ -1,11 +1,11 @@
 {
   "name": "margindash",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MarginDash SDK for tracking AI usage and revenue",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "margindash-0.1.1.tar.gz",
-  "download_time": "2026-02-01T09:54:45.860590",
+  "download_filename": "margindash-0.1.2.tar.gz",
+  "download_time": "2026-02-01T22:51:49.449794",
   "package_url": "https://pypi.org/project/margindash/"
 }

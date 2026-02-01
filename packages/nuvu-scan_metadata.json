@@ -1,11 +1,11 @@
 {
   "name": "nuvu-scan",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Multi-Cloud Data Asset Control - Discover, govern, and optimize your cloud data assets across AWS and GCP",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nuvu_scan-2.0.0.tar.gz",
-  "download_time": "2026-02-01T10:53:38.871282",
+  "download_filename": "nuvu_scan-2.0.1.tar.gz",
+  "download_time": "2026-02-01T22:51:48.408821",
   "package_url": "https://pypi.org/project/nuvu-scan/"
 }
