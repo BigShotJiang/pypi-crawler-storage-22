@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce_mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for searching products on Chinese e-commerce sites (Taobao, Jingdong)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ecommerce_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-01T09:54:37.066163",
+  "package_url": "https://pypi.org/project/ecommerce_mcp/"
+}

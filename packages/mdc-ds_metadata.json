@@ -1,0 +1,11 @@
+{
+  "name": "mdc-ds",
+  "version": "0.1.1",
+  "summary": "Mozilla Data Collective API client with some utilities.",
+  "author": "Allen Chou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdc_ds-0.1.1.tar.gz",
+  "download_time": "2026-02-01T09:54:30.830639",
+  "package_url": "https://pypi.org/project/mdc-ds/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentsystems-notary",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Cryptographic notarization SDK for LLM interactions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agentsystems_notary-0.4.0.tar.gz",
-  "download_time": "2026-02-01T09:30:15.989422",
+  "download_filename": "agentsystems_notary-0.4.1.tar.gz",
+  "download_time": "2026-02-01T09:54:31.359107",
   "package_url": "https://pypi.org/project/agentsystems-notary/"
 }

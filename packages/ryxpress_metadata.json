@@ -1,0 +1,11 @@
+{
+  "name": "ryxpress",
+  "version": "0.2.0",
+  "summary": "Reproducible Analytical Pipelines with Nix",
+  "author": "Bruno Rodrigues",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ryxpress-0.2.0.tar.gz",
+  "download_time": "2026-02-01T09:54:29.790128",
+  "package_url": "https://pypi.org/project/ryxpress/"
+}

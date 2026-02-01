@@ -1,11 +1,11 @@
 {
   "name": "PyRays",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A GitHub template for Python projects using uv",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "pyrays-0.2.5.tar.gz",
-  "download_time": "2026-02-01T09:30:26.035330",
+  "download_filename": "pyrays-0.2.6.tar.gz",
+  "download_time": "2026-02-01T09:54:46.372558",
   "package_url": "https://pypi.org/project/PyRays/"
 }

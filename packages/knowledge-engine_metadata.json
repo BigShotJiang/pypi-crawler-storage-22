@@ -1,0 +1,11 @@
+{
+  "name": "knowledge-engine",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Knowledge Engine backend",
+  "author": "Knowledge Engine",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "knowledge_engine-0.1.0.tar.gz",
+  "download_time": "2026-02-01T09:54:48.004574",
+  "package_url": "https://pypi.org/project/knowledge-engine/"
+}

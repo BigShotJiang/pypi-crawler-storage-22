@@ -1,11 +1,11 @@
 {
   "name": "pulumi-danubedata",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "A Pulumi provider for managing DanubeData cloud infrastructure resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": "https://danubedata.ro",
-  "download_filename": "pulumi_danubedata-0.1.5.tar.gz",
-  "download_time": "2026-02-01T09:30:21.428015",
+  "download_filename": "pulumi_danubedata-0.1.6.tar.gz",
+  "download_time": "2026-02-01T09:54:55.217678",
   "package_url": "https://pypi.org/project/pulumi-danubedata/"
 }
