@@ -1,0 +1,11 @@
+{
+  "name": "cluster-tuner",
+  "version": "0.1.0",
+  "summary": "A GridSearchCV-like hyperparameter tuner for clustering algorithms.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cluster_tuner-0.1.0.tar.gz",
+  "download_time": "2026-02-01T19:01:29.226189",
+  "package_url": "https://pypi.org/project/cluster-tuner/"
+}

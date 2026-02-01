@@ -1,0 +1,11 @@
+{
+  "name": "luma.led-matrix",
+  "version": "1.9.0",
+  "summary": "A library to drive a MAX7219 LED serializer (using SPI) and WS2812 NeoPixels (using DMA)",
+  "author": "Richard Hull",
+  "license": "MIT",
+  "home_page": "https://github.com/rm-hull/luma.led_matrix",
+  "download_filename": "luma_led_matrix-1.9.0.tar.gz",
+  "download_time": "2026-02-01T19:01:27.144597",
+  "package_url": "https://pypi.org/project/luma.led-matrix/"
+}

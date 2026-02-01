@@ -1,11 +1,11 @@
 {
   "name": "appium-utility",
-  "version": "0.3.12",
+  "version": "0.3.14",
   "summary": "Reusable Appium utility helpers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "appium_utility-0.3.12-py3-none-any.whl",
-  "download_time": "2026-02-01T16:56:19.702350",
+  "download_filename": "appium_utility-0.3.14-py3-none-any.whl",
+  "download_time": "2026-02-01T19:01:38.114826",
   "package_url": "https://pypi.org/project/appium-utility/"
 }

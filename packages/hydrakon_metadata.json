@@ -1,0 +1,11 @@
+{
+  "name": "hydrakon",
+  "version": "0.1.0",
+  "summary": "CLI tool for testing Hydrakon packages",
+  "author": "Aditya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydrakon-0.1.0.tar.gz",
+  "download_time": "2026-02-01T19:02:05.068545",
+  "package_url": "https://pypi.org/project/hydrakon/"
+}

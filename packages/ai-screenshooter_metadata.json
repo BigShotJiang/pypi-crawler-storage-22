@@ -1,0 +1,11 @@
+{
+  "name": "ai-screenshooter",
+  "version": "1.2.3",
+  "summary": "A CLI tool to capture and send AI-powered screenshots",
+  "author": "Last Shot AI",
+  "license": null,
+  "home_page": "https://github.com/tech4vision/ai-screenshoter",
+  "download_filename": "ai_screenshooter-1.2.3.tar.gz",
+  "download_time": "2026-02-01T19:01:33.414600",
+  "package_url": "https://pypi.org/project/ai-screenshooter/"
+}

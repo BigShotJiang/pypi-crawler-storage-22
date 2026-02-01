@@ -1,11 +1,11 @@
 {
   "name": "llm-to-json",
-  "version": "0.0.42",
+  "version": "0.0.43",
   "summary": "Tiny wrapper exposing Prompture helpers to convert LLM output into JSON.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llm_to_json-0.0.42.tar.gz",
-  "download_time": "2026-02-01T04:38:29.839555",
+  "download_filename": "llm_to_json-0.0.43.tar.gz",
+  "download_time": "2026-02-01T19:01:56.546958",
   "package_url": "https://pypi.org/project/llm-to-json/"
 }

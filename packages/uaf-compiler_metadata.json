@@ -1,11 +1,11 @@
 {
   "name": "uaf-compiler",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Universal Agent File (UAF) Compiler & Protocol",
   "author": "Vaibhav Haswani",
   "license": null,
-  "home_page": "https://github.com/DefaultLoop/uaf-compiler",
-  "download_filename": "uaf_compiler-0.1.1.tar.gz",
-  "download_time": "2026-02-01T10:53:29.627258",
+  "home_page": "https://github.com/vaibhavhaswani/UAF-Compiler",
+  "download_filename": "uaf_compiler-0.1.3.tar.gz",
+  "download_time": "2026-02-01T19:01:28.179093",
   "package_url": "https://pypi.org/project/uaf-compiler/"
 }
