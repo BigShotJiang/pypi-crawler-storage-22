@@ -1,11 +1,11 @@
 {
   "name": "reporails-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Validate and score CLAUDE.md files — MCP-first AI context governance",
   "author": "Reporails Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "reporails_cli-0.1.0.tar.gz",
-  "download_time": "2026-02-01T21:59:15.304706",
+  "download_filename": "reporails_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-02T17:25:49.927882",
   "package_url": "https://pypi.org/project/reporails-cli/"
 }

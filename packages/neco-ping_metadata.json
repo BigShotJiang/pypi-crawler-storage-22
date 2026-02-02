@@ -1,11 +1,11 @@
 {
   "name": "neco-ping",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Minimalistic silent Telegram notifier for ML pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neco_ping-1.0.1.tar.gz",
-  "download_time": "2026-02-02T16:43:08.284084",
+  "download_filename": "neco_ping-1.0.2.tar.gz",
+  "download_time": "2026-02-02T17:25:54.999042",
   "package_url": "https://pypi.org/project/neco-ping/"
 }

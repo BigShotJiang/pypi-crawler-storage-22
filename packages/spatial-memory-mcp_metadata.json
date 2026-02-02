@@ -1,11 +1,11 @@
 {
   "name": "spatial-memory-mcp",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "Spatial bidirectional persistent memory MCP server for LLMs - vector-based semantic memory as a navigable landscape",
   "author": "arman-tech",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spatial_memory_mcp-1.6.0.tar.gz",
-  "download_time": "2026-02-02T07:41:22.667562",
+  "download_filename": "spatial_memory_mcp-1.6.1.tar.gz",
+  "download_time": "2026-02-02T17:26:00.236770",
   "package_url": "https://pypi.org/project/spatial-memory-mcp/"
 }

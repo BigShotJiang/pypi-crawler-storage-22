@@ -1,11 +1,11 @@
 {
   "name": "maya-umbrella",
-  "version": "0.17.0",
+  "version": "0.18.0",
   "summary": "A better Autodesk Maya antivirus tool detects and removes malicious.",
   "author": "longhao",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "maya_umbrella-0.17.0.tar.gz",
-  "download_time": "2026-02-02T14:39:19.958256",
+  "download_filename": "maya_umbrella-0.18.0.tar.gz",
+  "download_time": "2026-02-02T17:25:57.599337",
   "package_url": "https://pypi.org/project/maya-umbrella/"
 }

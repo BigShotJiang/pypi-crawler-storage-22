@@ -1,11 +1,11 @@
 {
   "name": "termido",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Beginner-friendly Python library to publish HTML, CSS and JavaScript projects online",
   "author": "Shubham",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "termido-0.1.2-py3-none-any.whl",
-  "download_time": "2026-02-02T16:42:44.614255",
+  "download_filename": "termido-0.1.3-py3-none-any.whl",
+  "download_time": "2026-02-02T17:26:16.870078",
   "package_url": "https://pypi.org/project/termido/"
 }

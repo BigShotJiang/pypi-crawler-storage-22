@@ -1,0 +1,11 @@
+{
+  "name": "casbin-postgresql-watcher",
+  "version": "1.5.0",
+  "summary": "Casbin role watcher to be used for monitoring updates to policies for PyCasbin",
+  "author": "hsluoyz",
+  "license": null,
+  "home_page": "https://github.com/officialpycasbin/postgresql-watcher",
+  "download_filename": "casbin_postgresql_watcher-1.5.0.tar.gz",
+  "download_time": "2026-02-02T17:25:56.299174",
+  "package_url": "https://pypi.org/project/casbin-postgresql-watcher/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "console-sucrier",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Module console permettant de suivre le bouillage de sirop d'érable",
   "author": "elfelip",
   "license": null,
   "home_page": null,
-  "download_filename": "console_sucrier-0.1.4.tar.gz",
-  "download_time": "2026-02-02T13:52:17.027506",
+  "download_filename": "console_sucrier-0.1.5.tar.gz",
+  "download_time": "2026-02-02T17:26:18.708507",
   "package_url": "https://pypi.org/project/console-sucrier/"
 }

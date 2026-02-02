@@ -1,0 +1,11 @@
+{
+  "name": "conductor-mcp",
+  "version": "0.1.9",
+  "summary": "MCP server for exposing conductor endpoints.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conductor_mcp-0.1.9.tar.gz",
+  "download_time": "2026-02-02T17:26:20.827810",
+  "package_url": "https://pypi.org/project/conductor-mcp/"
+}

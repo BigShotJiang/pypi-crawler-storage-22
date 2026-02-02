@@ -1,0 +1,11 @@
+{
+  "name": "invenio-subjects-mesh-common",
+  "version": "0.2.0",
+  "summary": "Common MeSH subject terms functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "invenio_subjects_mesh_common-0.2.0.tar.gz",
+  "download_time": "2026-02-02T17:25:58.904621",
+  "package_url": "https://pypi.org/project/invenio-subjects-mesh-common/"
+}
