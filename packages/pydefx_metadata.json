@@ -1,0 +1,11 @@
+{
+  "name": "pydefx",
+  "version": "9.14.0.post8",
+  "summary": "tool for parametric computations of SALOME platform",
+  "author": "EDF R&D",
+  "license": "LGPL",
+  "home_page": "https://github.com/SalomePlatform/ydefx",
+  "download_filename": "pydefx-9.14.0.post8-py3-none-any.whl",
+  "download_time": "2026-02-02T15:58:58.387609",
+  "package_url": "https://pypi.org/project/pydefx/"
+}

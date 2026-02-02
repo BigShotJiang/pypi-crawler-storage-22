@@ -1,0 +1,11 @@
+{
+  "name": "srvc-io-hello-world",
+  "version": "0.2.1",
+  "summary": "Shared Python utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "srvc_io_hello_world-0.2.1.tar.gz",
+  "download_time": "2026-02-02T15:59:05.564567",
+  "package_url": "https://pypi.org/project/srvc-io-hello-world/"
+}

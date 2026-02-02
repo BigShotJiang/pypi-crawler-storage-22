@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-force-invoiced",
+  "version": "19.0.1.0.0.2",
+  "summary": "Allows to force the billing status of the purchase order to \"Invoiced\"",
+  "author": "Forgeflow, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_force_invoiced-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-02T15:58:51.641439",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-force-invoiced/"
+}

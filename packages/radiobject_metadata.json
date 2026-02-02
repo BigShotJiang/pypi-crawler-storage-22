@@ -1,0 +1,11 @@
+{
+  "name": "radiobject",
+  "version": "0.1.1",
+  "summary": "TileDB-backed data structure for radiology data at scale",
+  "author": "Samuel D'Souza",
+  "license": null,
+  "home_page": null,
+  "download_filename": "radiobject-0.1.1.tar.gz",
+  "download_time": "2026-02-02T15:58:52.681232",
+  "package_url": "https://pypi.org/project/radiobject/"
+}

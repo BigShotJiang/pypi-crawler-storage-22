@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-purchase-last-price-info",
+  "version": "18.0.1.0.0.6",
+  "summary": "Purchase Product Last Price Info",
+  "author": "AvanzOSC, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/purchase-workflow",
+  "download_filename": "odoo_addon_purchase_last_price_info-18.0.1.0.0.6-py3-none-any.whl",
+  "download_time": "2026-02-02T15:59:17.890003",
+  "package_url": "https://pypi.org/project/odoo-addon-purchase-last-price-info/"
+}

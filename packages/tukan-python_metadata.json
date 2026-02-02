@@ -1,0 +1,11 @@
+{
+  "name": "tukan-python",
+  "version": "0.2.1",
+  "summary": "SDK de Python para acceder a datos oficiales de México a través de la API de Tukan.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tukan_python-0.2.1.tar.gz",
+  "download_time": "2026-02-02T15:59:11.733198",
+  "package_url": "https://pypi.org/project/tukan-python/"
+}

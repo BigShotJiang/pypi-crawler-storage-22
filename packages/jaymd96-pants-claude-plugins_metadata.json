@@ -1,0 +1,11 @@
+{
+  "name": "jaymd96-pants-claude-plugins",
+  "version": "0.1.0",
+  "summary": "Pants plugin for installing Claude Code plugins into projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jaymd96_pants_claude_plugins-0.1.0.tar.gz",
+  "download_time": "2026-02-02T15:59:17.377816",
+  "package_url": "https://pypi.org/project/jaymd96-pants-claude-plugins/"
+}

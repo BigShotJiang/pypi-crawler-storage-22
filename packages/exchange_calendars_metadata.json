@@ -1,0 +1,11 @@
+{
+  "name": "exchange_calendars",
+  "version": "4.13",
+  "summary": "Calendars for securities exchanges",
+  "author": "Gerry Manoim",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exchange_calendars-4.13.tar.gz",
+  "download_time": "2026-02-02T15:59:25.123578",
+  "package_url": "https://pypi.org/project/exchange_calendars/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libbatch",
+  "version": "2.5.0.post1",
+  "summary": "Generic batch management library",
+  "author": "EDF R&D",
+  "license": "LGPL",
+  "home_page": "https://github.com/SalomePlatform/libbatch",
+  "download_filename": "libbatch-2.5.0.post1-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-02T15:58:59.915895",
+  "package_url": "https://pypi.org/project/libbatch/"
+}

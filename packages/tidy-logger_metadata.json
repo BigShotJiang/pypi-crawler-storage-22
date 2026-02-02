@@ -1,0 +1,11 @@
+{
+  "name": "tidy-logger",
+  "version": "1.0.0rc1",
+  "summary": "A Python logging utility that generates indented log messages with color-coding for different log levels on the console, and also supports logging to files for better tracking and debugging.",
+  "author": "fa-vahidi",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "tidy_logger-1.0.0rc1.tar.gz",
+  "download_time": "2026-02-02T15:59:36.394308",
+  "package_url": "https://pypi.org/project/tidy-logger/"
+}

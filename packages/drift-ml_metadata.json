@@ -1,11 +1,11 @@
 {
   "name": "drift-ml",
-  "version": "0.2.3",
+  "version": "0.2.7",
   "summary": "drift — terminal-first, chat-based AutoML. Open source. No tokens. No auth.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drift_ml-0.2.3.tar.gz",
-  "download_time": "2026-02-02T10:08:33.202646",
+  "download_filename": "drift_ml-0.2.7.tar.gz",
+  "download_time": "2026-02-02T15:59:22.530984",
   "package_url": "https://pypi.org/project/drift-ml/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "octodns-cloudns",
+  "version": "0.0.12",
+  "summary": "ClouDNS API provider for octoDNS",
+  "author": "ClouDNS",
+  "license": "MIT",
+  "home_page": "https://github.com/octodns/octodns-cloudns",
+  "download_filename": "octodns_cloudns-0.0.12.tar.gz",
+  "download_time": "2026-02-02T15:59:18.923191",
+  "package_url": "https://pypi.org/project/octodns-cloudns/"
+}

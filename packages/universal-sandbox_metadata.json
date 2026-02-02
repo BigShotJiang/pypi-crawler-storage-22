@@ -1,0 +1,11 @@
+{
+  "name": "universal-sandbox",
+  "version": "0.0.12",
+  "summary": "Python SDK for Universal Sandbox API",
+  "author": "Universal Sandbox",
+  "license": "MIT",
+  "home_page": "https://github.com/universal-sandbox/sdk-python",
+  "download_filename": "universal_sandbox-0.0.12.tar.gz",
+  "download_time": "2026-02-02T15:59:15.327217",
+  "package_url": "https://pypi.org/project/universal-sandbox/"
+}
