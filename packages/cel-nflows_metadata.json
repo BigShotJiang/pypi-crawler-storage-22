@@ -1,0 +1,11 @@
+{
+  "name": "cel-nflows",
+  "version": "0.14.1",
+  "summary": "Normalizing flows in PyTorch (fork for cel package).",
+  "author": "Conor Durkan, Artur Bekasov, George Papamakarios, Iain Murray",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cel_nflows-0.14.1.tar.gz",
+  "download_time": "2026-02-02T18:07:14.626979",
+  "package_url": "https://pypi.org/project/cel-nflows/"
+}

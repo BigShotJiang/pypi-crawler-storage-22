@@ -1,0 +1,11 @@
+{
+  "name": "validate-pyproject",
+  "version": "0.25",
+  "summary": "Validation library and CLI tool for checking on 'pyproject.toml' files using JSON Schema",
+  "author": null,
+  "license": "MPL-2.0 and MIT and BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "validate_pyproject-0.25.tar.gz",
+  "download_time": "2026-02-02T18:07:20.906926",
+  "package_url": "https://pypi.org/project/validate-pyproject/"
+}

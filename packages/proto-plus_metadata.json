@@ -1,0 +1,11 @@
+{
+  "name": "proto-plus",
+  "version": "1.27.1",
+  "summary": "Beautiful, Pythonic protocol buffers",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "proto_plus-1.27.1.tar.gz",
+  "download_time": "2026-02-02T18:07:11.182913",
+  "package_url": "https://pypi.org/project/proto-plus/"
+}

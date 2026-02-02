@@ -1,0 +1,11 @@
+{
+  "name": "moltbot-ha",
+  "version": "0.1.1",
+  "summary": "Home Assistant control CLI for Moltbot agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "moltbot_ha-0.1.1.tar.gz",
+  "download_time": "2026-02-02T18:06:50.803923",
+  "package_url": "https://pypi.org/project/moltbot-ha/"
+}

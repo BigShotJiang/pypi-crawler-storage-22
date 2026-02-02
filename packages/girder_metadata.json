@@ -1,0 +1,11 @@
+{
+  "name": "girder",
+  "version": "3.2.11",
+  "summary": "Web-based data management platform",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": "https://girder.readthedocs.org",
+  "download_filename": "girder-3.2.11.tar.gz",
+  "download_time": "2026-02-02T18:06:48.447310",
+  "package_url": "https://pypi.org/project/girder/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ce-library",
+  "version": "0.1.0",
+  "summary": "CEL: Counterfactual Explanations Library - A framework for generating probabilistically plausible counterfactual explanations using normalizing flows",
+  "author": "Patryk Wielopolski, Oleksii Furman, Jerzy Stefanowski, Maciej Zieba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ce_library-0.1.0.tar.gz",
+  "download_time": "2026-02-02T18:06:54.451171",
+  "package_url": "https://pypi.org/project/ce-library/"
+}

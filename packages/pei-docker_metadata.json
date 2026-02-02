@@ -1,0 +1,11 @@
+{
+  "name": "pei-docker",
+  "version": "1.2.7",
+  "summary": "A sophisticated Docker automation framework that transforms YAML configurations into reproducible containerized environments",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pei_docker-1.2.7.tar.gz",
+  "download_time": "2026-02-02T18:06:49.646743",
+  "package_url": "https://pypi.org/project/pei-docker/"
+}

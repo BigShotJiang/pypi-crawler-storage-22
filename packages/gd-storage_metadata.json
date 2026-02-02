@@ -1,11 +1,11 @@
 {
   "name": "gd-storage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Encode files into Geometry Dash levels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gd_storage-1.0.2.tar.gz",
-  "download_time": "2026-02-02T17:26:08.788903",
+  "download_filename": "gd_storage-1.0.3.tar.gz",
+  "download_time": "2026-02-02T18:07:27.372416",
   "package_url": "https://pypi.org/project/gd-storage/"
 }

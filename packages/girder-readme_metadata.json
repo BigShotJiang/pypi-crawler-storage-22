@@ -1,0 +1,11 @@
+{
+  "name": "girder-readme",
+  "version": "3.2.11",
+  "summary": "Render READMEs from the folder view",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "girder_readme-3.2.11.tar.gz",
+  "download_time": "2026-02-02T18:06:38.348674",
+  "package_url": "https://pypi.org/project/girder-readme/"
+}

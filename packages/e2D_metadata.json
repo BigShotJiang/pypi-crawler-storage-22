@@ -1,0 +1,11 @@
+{
+  "name": "e2D",
+  "version": "2.0.2",
+  "summary": "High-performance 2D graphics and math library with ultra-optimized vector operations",
+  "author": "Riccardo Mariani",
+  "license": "MIT",
+  "home_page": "https://github.com/marick-py/e2D",
+  "download_filename": "e2d-2.0.2.tar.gz",
+  "download_time": "2026-02-02T18:07:11.760022",
+  "package_url": "https://pypi.org/project/e2D/"
+}

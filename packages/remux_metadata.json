@@ -1,0 +1,11 @@
+{
+  "name": "remux",
+  "version": "1.0.0",
+  "summary": "Secure remote command execution with capability-based access control",
+  "author": "Anthropic",
+  "license": "MIT",
+  "home_page": "https://github.com/anthropics/remux",
+  "download_filename": "remux-1.0.0.tar.gz",
+  "download_time": "2026-02-02T18:06:58.476323",
+  "package_url": "https://pypi.org/project/remux/"
+}

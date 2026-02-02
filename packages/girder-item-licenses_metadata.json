@@ -1,0 +1,11 @@
+{
+  "name": "girder-item-licenses",
+  "version": "3.2.11",
+  "summary": "Add a license field to items.",
+  "author": "Kitware, Inc.",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "girder_item_licenses-3.2.11.tar.gz",
+  "download_time": "2026-02-02T18:06:40.786370",
+  "package_url": "https://pypi.org/project/girder-item-licenses/"
+}

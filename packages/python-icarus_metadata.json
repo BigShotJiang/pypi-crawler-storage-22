@@ -1,11 +1,11 @@
 {
   "name": "python-icarus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "pycarus is a library to calibrate survey weights to match known population totals or proportions.",
   "author": "Nathan Etourneau",
   "license": null,
   "home_page": null,
-  "download_filename": "python_icarus-1.0.1.tar.gz",
-  "download_time": "2026-02-02T16:43:12.924674",
+  "download_filename": "python_icarus-1.0.2.tar.gz",
+  "download_time": "2026-02-02T18:07:10.638346",
   "package_url": "https://pypi.org/project/python-icarus/"
 }
