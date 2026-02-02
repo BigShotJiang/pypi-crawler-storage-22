@@ -1,11 +1,11 @@
 {
   "name": "youngjin-langchain-tools",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "LangGraph utilities for Streamlit - StreamlitLanggraphHandler and more",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "youngjin_langchain_tools-0.1.1.tar.gz",
-  "download_time": "2026-02-01T04:38:03.167901",
+  "download_filename": "youngjin_langchain_tools-0.1.4.tar.gz",
+  "download_time": "2026-02-02T13:52:26.882926",
   "package_url": "https://pypi.org/project/youngjin-langchain-tools/"
 }

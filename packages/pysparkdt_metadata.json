@@ -1,0 +1,11 @@
+{
+  "name": "pysparkdt",
+  "version": "1.1.1",
+  "summary": "An open-source Python library for simplifying local testing of Databricks workflows that use PySpark and Delta tables.",
+  "author": "Juraj Pall",
+  "license": "MIT",
+  "home_page": "https://github.com/datamole-ai/pysparkdt",
+  "download_filename": "pysparkdt-1.1.1.tar.gz",
+  "download_time": "2026-02-02T13:52:00.584457",
+  "package_url": "https://pypi.org/project/pysparkdt/"
+}

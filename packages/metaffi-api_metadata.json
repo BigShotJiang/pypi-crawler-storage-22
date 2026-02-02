@@ -1,11 +1,11 @@
 {
   "name": "metaffi-api",
-  "version": "0.0.71",
+  "version": "0.0.72",
   "summary": "Python MetaFFI API",
   "author": "T. CS.",
   "license": null,
   "home_page": null,
-  "download_filename": "metaffi_api-0.0.71.tar.gz",
-  "download_time": "2026-02-01T05:49:48.567302",
+  "download_filename": "metaffi_api-0.0.72.tar.gz",
+  "download_time": "2026-02-02T13:52:25.134784",
   "package_url": "https://pypi.org/project/metaffi-api/"
 }

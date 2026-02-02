@@ -1,0 +1,11 @@
+{
+  "name": "getred",
+  "version": "0.1.4",
+  "summary": "A CLI tool to fetch Reddit threads and save them as structured JSON",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "getred-0.1.4.tar.gz",
+  "download_time": "2026-02-02T13:52:30.119520",
+  "package_url": "https://pypi.org/project/getred/"
+}

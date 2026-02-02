@@ -1,0 +1,11 @@
+{
+  "name": "ziplus",
+  "version": "2.0.1",
+  "summary": "Lightweight US ZIP code lookup library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ziplus-2.0.1.tar.gz",
+  "download_time": "2026-02-02T13:52:20.213614",
+  "package_url": "https://pypi.org/project/ziplus/"
+}

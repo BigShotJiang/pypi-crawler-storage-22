@@ -1,0 +1,11 @@
+{
+  "name": "norm-findings",
+  "version": "0.4.3",
+  "summary": "A lean CLI tool for normalizing security scanner findings based on DefectDojo parsers.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "norm_findings-0.4.3.tar.gz",
+  "download_time": "2026-02-02T13:52:14.686186",
+  "package_url": "https://pypi.org/project/norm-findings/"
+}

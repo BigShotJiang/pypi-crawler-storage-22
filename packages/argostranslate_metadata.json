@@ -1,0 +1,11 @@
+{
+  "name": "argostranslate",
+  "version": "1.11.0",
+  "summary": "Open-source neural machine translation library based on OpenNMT's CTranslate2",
+  "author": "Argos Open Technologies, LLC",
+  "license": null,
+  "home_page": "https://www.argosopentech.com",
+  "download_filename": "argostranslate-1.11.0.tar.gz",
+  "download_time": "2026-02-02T13:51:48.330527",
+  "package_url": "https://pypi.org/project/argostranslate/"
+}

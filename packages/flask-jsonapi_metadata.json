@@ -1,0 +1,11 @@
+{
+  "name": "flask-jsonapi",
+  "version": "1.4.1",
+  "summary": "JSONAPI 1.0 implementation for Flask.",
+  "author": "Social WiFi",
+  "license": "BSD",
+  "home_page": "https://github.com/socialwifi/flask-jsonapi",
+  "download_filename": "flask_jsonapi-1.4.1.tar.gz",
+  "download_time": "2026-02-02T13:52:09.561201",
+  "package_url": "https://pypi.org/project/flask-jsonapi/"
+}

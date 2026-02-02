@@ -1,0 +1,11 @@
+{
+  "name": "device-detect",
+  "version": "0.2.2",
+  "summary": "SSH-based network device detection and verification",
+  "author": "Device Detect Contributors",
+  "license": "MIT",
+  "home_page": "https://github.com/mdrbh/device-detect",
+  "download_filename": "device_detect-0.2.2.tar.gz",
+  "download_time": "2026-02-02T13:52:03.362386",
+  "package_url": "https://pypi.org/project/device-detect/"
+}

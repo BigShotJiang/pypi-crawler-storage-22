@@ -1,0 +1,11 @@
+{
+  "name": "gardener-cicd-whd",
+  "version": "1.2741.0",
+  "summary": "Gardener CI/CD Webhook Dispatcher",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gardener_cicd_whd-1.2741.0-py3-none-any.whl",
+  "download_time": "2026-02-02T13:51:51.407940",
+  "package_url": "https://pypi.org/project/gardener-cicd-whd/"
+}

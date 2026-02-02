@@ -1,11 +1,11 @@
 {
   "name": "contipay",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "summary": "Official ContiPay Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "contipay-1.0.2.tar.gz",
-  "download_time": "2026-01-30T13:43:01.154461",
+  "download_filename": "contipay-1.0.4.tar.gz",
+  "download_time": "2026-02-02T13:51:59.263223",
   "package_url": "https://pypi.org/project/contipay/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "forgeo-gmlib",
+  "version": "0.6.2",
+  "summary": "A python robust implicit geological surfaces meshing algorithm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forgeo_gmlib-0.6.2-cp312-cp312-win_amd64.whl",
+  "download_time": "2026-02-02T13:51:57.395527",
+  "package_url": "https://pypi.org/project/forgeo-gmlib/"
+}

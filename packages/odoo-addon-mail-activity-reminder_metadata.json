@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-mail-activity-reminder",
+  "version": "19.0.1.0.0.2",
+  "summary": "Reminder notifications about planned activities",
+  "author": "CorporateHub, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/mail",
+  "download_filename": "odoo_addon_mail_activity_reminder-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-02T13:52:21.371787",
+  "package_url": "https://pypi.org/project/odoo-addon-mail-activity-reminder/"
+}
