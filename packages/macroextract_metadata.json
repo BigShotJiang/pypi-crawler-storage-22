@@ -1,0 +1,11 @@
+{
+  "name": "macroextract",
+  "version": "0.2.0",
+  "summary": "Extract causal relation sentences from macroeconomic news articles",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "macroextract-0.2.0.tar.gz",
+  "download_time": "2026-02-02T12:47:20.590233",
+  "package_url": "https://pypi.org/project/macroextract/"
+}

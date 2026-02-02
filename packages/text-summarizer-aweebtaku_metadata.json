@@ -1,11 +1,11 @@
 {
   "name": "text-summarizer-aweebtaku",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "A text summarization tool using GloVe embeddings and PageRank algorithm",
   "author": "Aditya Chaurasiya",
   "license": "MIT",
   "home_page": "https://github.com/AWeebTaku/Summarizer",
-  "download_filename": "text_summarizer_aweebtaku-1.2.3.tar.gz",
-  "download_time": "2026-02-01T15:31:14.601208",
+  "download_filename": "text_summarizer_aweebtaku-1.2.4.tar.gz",
+  "download_time": "2026-02-02T12:47:16.463081",
   "package_url": "https://pypi.org/project/text-summarizer-aweebtaku/"
 }

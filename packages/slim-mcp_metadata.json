@@ -1,0 +1,11 @@
+{
+  "name": "slim-mcp",
+  "version": "0.2.0",
+  "summary": "Model Context Protocol with SLIM as transport",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slim_mcp-0.2.0.tar.gz",
+  "download_time": "2026-02-02T12:47:12.324361",
+  "package_url": "https://pypi.org/project/slim-mcp/"
+}

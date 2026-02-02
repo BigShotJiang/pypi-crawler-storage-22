@@ -1,0 +1,11 @@
+{
+  "name": "langchain-sarvam-integration",
+  "version": "0.1.0",
+  "summary": "Integration of Sarvam AI platform with LangChain",
+  "author": "AMRIT SHANKAR DUTTA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_sarvam_integration-0.1.0.tar.gz",
+  "download_time": "2026-02-02T12:47:27.323652",
+  "package_url": "https://pypi.org/project/langchain-sarvam-integration/"
+}

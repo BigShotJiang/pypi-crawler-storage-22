@@ -1,0 +1,11 @@
+{
+  "name": "gengeneeval",
+  "version": "0.2.0",
+  "summary": "Comprehensive evaluation of generated gene expression data. Computes metrics between real and generated datasets with support for condition matching, train/test splits, and publication-quality visualizations.",
+  "author": "GenEval Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gengeneeval-0.2.0.tar.gz",
+  "download_time": "2026-02-02T12:47:04.459115",
+  "package_url": "https://pypi.org/project/gengeneeval/"
+}
