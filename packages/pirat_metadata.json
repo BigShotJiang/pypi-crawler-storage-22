@@ -1,11 +1,11 @@
 {
   "name": "pirat",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Package allowing to annotate piRNAs clusters from RNA-seq datafiles",
   "author": "Dominik Robak",
   "license": null,
   "home_page": "https://github.com/ylla-lab/piRAT",
-  "download_filename": "pirat-0.1.3.tar.gz",
-  "download_time": "2026-02-02T05:47:29.755172",
+  "download_filename": "pirat-0.1.4.tar.gz",
+  "download_time": "2026-02-02T06:46:11.657098",
   "package_url": "https://pypi.org/project/pirat/"
 }

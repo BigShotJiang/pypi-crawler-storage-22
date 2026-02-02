@@ -1,11 +1,11 @@
 {
   "name": "markdown-task-butler",
-  "version": "0.2.6",
+  "version": "0.2.9",
   "summary": "A task management tool that helps prioritize and recommend actions - your digital butler for tasks",
   "author": "dobachi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "markdown_task_butler-0.2.6.tar.gz",
-  "download_time": "2026-02-01T13:32:23.655611",
+  "download_filename": "markdown_task_butler-0.2.9.tar.gz",
+  "download_time": "2026-02-02T06:46:13.212451",
   "package_url": "https://pypi.org/project/markdown-task-butler/"
 }

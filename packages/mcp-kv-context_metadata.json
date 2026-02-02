@@ -1,0 +1,11 @@
+{
+  "name": "mcp-kv-context",
+  "version": "0.6.2",
+  "summary": "MCP server for lossless LLM context restoration via KV cache persistence",
+  "author": "AI Development Lab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_kv_context-0.6.2.tar.gz",
+  "download_time": "2026-02-02T06:46:25.759455",
+  "package_url": "https://pypi.org/project/mcp-kv-context/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "judge-llm",
-  "version": "1.0.10",
+  "version": "1.0.17",
   "summary": "A lightweight LLM evaluation framework for comparing and testing AI providers",
   "author": null,
   "license": "CC-BY-NC-SA-4.0",
   "home_page": null,
-  "download_filename": "judge_llm-1.0.10.tar.gz",
-  "download_time": "2026-02-02T05:47:30.270255",
+  "download_filename": "judge_llm-1.0.17.tar.gz",
+  "download_time": "2026-02-02T06:45:52.814878",
   "package_url": "https://pypi.org/project/judge-llm/"
 }

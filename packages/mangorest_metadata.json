@@ -1,0 +1,11 @@
+{
+  "name": "mangorest",
+  "version": "0.15000000000000005",
+  "summary": "Very simple quick way to deploy Django Webservices",
+  "author": "Wan Bae, Seattle University",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/meyers007/mangorest.git",
+  "download_filename": "mangorest-0.15000000000000005.tar.gz",
+  "download_time": "2026-02-02T06:45:59.662286",
+  "package_url": "https://pypi.org/project/mangorest/"
+}

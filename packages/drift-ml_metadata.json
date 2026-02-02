@@ -1,11 +1,11 @@
 {
   "name": "drift-ml",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "Terminal-first AutoML CLI - chat-based ML engineer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "drift_ml-0.1.3.tar.gz",
-  "download_time": "2026-02-02T05:47:22.379719",
+  "download_filename": "drift_ml-0.1.5.tar.gz",
+  "download_time": "2026-02-02T06:46:13.731074",
   "package_url": "https://pypi.org/project/drift-ml/"
 }

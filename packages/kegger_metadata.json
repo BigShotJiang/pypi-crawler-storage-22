@@ -1,11 +1,11 @@
 {
   "name": "kegger",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Interact with KEGG API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kegger-0.1.5.tar.gz",
-  "download_time": "2026-02-01T22:51:55.346402",
+  "download_filename": "kegger-0.1.6.tar.gz",
+  "download_time": "2026-02-02T06:46:05.904114",
   "package_url": "https://pypi.org/project/kegger/"
 }

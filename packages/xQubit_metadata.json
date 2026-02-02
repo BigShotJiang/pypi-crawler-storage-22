@@ -1,0 +1,11 @@
+{
+  "name": "xQubit",
+  "version": "0.0.1.1",
+  "summary": "xQubit is a quantum computing library designed to facilitate the development and simulation of quantum algorithms.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xqubit-0.0.1.1.tar.gz",
+  "download_time": "2026-02-02T06:46:27.312667",
+  "package_url": "https://pypi.org/project/xQubit/"
+}

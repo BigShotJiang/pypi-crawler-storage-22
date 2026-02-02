@@ -1,0 +1,11 @@
+{
+  "name": "clicodelog",
+  "version": "0.2.1",
+  "summary": "A lightweight, local-first web app to browse, inspect, and export logs from CLI-based AI coding agents",
+  "author": "monk1337",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clicodelog-0.2.1.tar.gz",
+  "download_time": "2026-02-02T06:46:11.139021",
+  "package_url": "https://pypi.org/project/clicodelog/"
+}
