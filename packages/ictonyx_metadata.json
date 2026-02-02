@@ -1,0 +1,11 @@
+{
+  "name": "ictonyx",
+  "version": "0.0.5",
+  "summary": "Ictonyx: Iteration Comparison Testing Over N-runs: Yield eXamination",
+  "author": "Stephen Kizlik",
+  "license": "MIT",
+  "home_page": "https://github.com/skizlik/ictonyx",
+  "download_filename": "ictonyx-0.0.5.tar.gz",
+  "download_time": "2026-02-02T05:47:27.080116",
+  "package_url": "https://pypi.org/project/ictonyx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spin-phonon-suite",
+  "version": "1.15.0",
+  "summary": "A package for performing spin-phonon coupling calculations with openMOLCAS, VASP, and Gaussian",
+  "author": "Chilton Group",
+  "license": null,
+  "home_page": "https://gitlab.com/chilton-group/spin_phonon_suite",
+  "download_filename": "spin_phonon_suite-1.15.0.tar.gz",
+  "download_time": "2026-02-02T05:47:36.609538",
+  "package_url": "https://pypi.org/project/spin-phonon-suite/"
+}

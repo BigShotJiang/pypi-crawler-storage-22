@@ -1,0 +1,11 @@
+{
+  "name": "molcas-suite",
+  "version": "1.38.0",
+  "summary": "A package for dealing with OpenMOLCAS input and output files",
+  "author": "Chilton Group",
+  "license": null,
+  "home_page": "https://gitlab.com/chilton-group/molcas_suite",
+  "download_filename": "molcas_suite-1.38.0.tar.gz",
+  "download_time": "2026-02-02T05:47:35.582178",
+  "package_url": "https://pypi.org/project/molcas-suite/"
+}

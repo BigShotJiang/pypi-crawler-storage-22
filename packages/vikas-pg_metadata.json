@@ -1,0 +1,11 @@
+{
+  "name": "vikas-pg",
+  "version": "1.0.0",
+  "summary": "High-performance PostgreSQL CRUD Operation",
+  "author": "Aravindh",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/aravindhgowham",
+  "download_filename": "vikas_pg-1.0.0.tar.gz",
+  "download_time": "2026-02-02T05:47:25.982167",
+  "package_url": "https://pypi.org/project/vikas-pg/"
+}

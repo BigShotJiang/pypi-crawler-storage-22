@@ -1,11 +1,11 @@
 {
   "name": "pyfileext",
-  "version": "3.46",
+  "version": "3.47",
   "summary": "pyfileext",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "pyfileext-3.46.tar.gz",
-  "download_time": "2026-02-01T16:23:56.672707",
+  "download_filename": "pyfileext-3.47.tar.gz",
+  "download_time": "2026-02-02T05:47:09.086197",
   "package_url": "https://pypi.org/project/pyfileext/"
 }

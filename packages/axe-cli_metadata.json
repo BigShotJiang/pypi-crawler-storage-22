@@ -1,11 +1,11 @@
 {
   "name": "axe-cli",
-  "version": "1.7.7",
+  "version": "1.7.9",
   "summary": "axe, yerrrr",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "axe_cli-1.7.7.tar.gz",
-  "download_time": "2026-02-01T19:34:21.630311",
+  "download_filename": "axe_cli-1.7.9.tar.gz",
+  "download_time": "2026-02-02T05:47:14.931683",
   "package_url": "https://pypi.org/project/axe-cli/"
 }

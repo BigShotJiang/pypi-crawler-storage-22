@@ -1,0 +1,11 @@
+{
+  "name": "trakt-scrobbler",
+  "version": "1.8.0",
+  "summary": "Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV",
+  "author": "iamkroot",
+  "license": "GPL-2.0-only",
+  "home_page": "https://github.com/iamkroot/trakt-scrobbler",
+  "download_filename": "trakt_scrobbler-1.8.0.tar.gz",
+  "download_time": "2026-02-02T05:47:45.167620",
+  "package_url": "https://pypi.org/project/trakt-scrobbler/"
+}

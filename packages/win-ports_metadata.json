@@ -1,0 +1,11 @@
+{
+  "name": "win-ports",
+  "version": "0.1.0",
+  "summary": "TUI tool to view listening ports and kill processes with filtering support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "win_ports-0.1.0.tar.gz",
+  "download_time": "2026-02-02T05:47:32.322382",
+  "package_url": "https://pypi.org/project/win-ports/"
+}

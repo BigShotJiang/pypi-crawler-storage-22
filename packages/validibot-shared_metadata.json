@@ -1,0 +1,11 @@
+{
+  "name": "validibot-shared",
+  "version": "0.1.0",
+  "summary": "Shared library for data interchange between Validibot and validator containers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "validibot_shared-0.1.0.tar.gz",
+  "download_time": "2026-02-02T05:47:44.082763",
+  "package_url": "https://pypi.org/project/validibot-shared/"
+}
