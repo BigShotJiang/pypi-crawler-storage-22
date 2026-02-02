@@ -1,0 +1,11 @@
+{
+  "name": "transmog",
+  "version": "2.0.2",
+  "summary": "A data transformation library for flattening complex nested structures into tabular formats while preserving hierarchical relationships",
+  "author": "Scott Draper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "transmog-2.0.2.tar.gz",
+  "download_time": "2026-02-02T23:38:11.218286",
+  "package_url": "https://pypi.org/project/transmog/"
+}

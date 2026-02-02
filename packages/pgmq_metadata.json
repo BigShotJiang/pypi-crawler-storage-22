@@ -1,0 +1,11 @@
+{
+  "name": "pgmq",
+  "version": "1.0.3",
+  "summary": "Python client for the PGMQ Postgres extension.",
+  "author": "Adam Hendel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgmq-1.0.3.tar.gz",
+  "download_time": "2026-02-02T23:38:19.902924",
+  "package_url": "https://pypi.org/project/pgmq/"
+}

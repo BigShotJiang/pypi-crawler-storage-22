@@ -1,0 +1,11 @@
+{
+  "name": "lvmcryo",
+  "version": "0.5.2",
+  "summary": "LVM cryostat tools",
+  "author": "José Sánchez-Gallego",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lvmcryo-0.5.2.tar.gz",
+  "download_time": "2026-02-02T23:38:39.639847",
+  "package_url": "https://pypi.org/project/lvmcryo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlx-cluster",
+  "version": "0.0.7",
+  "summary": "C++ extension for generating random graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlx_cluster-0.0.7.tar.gz",
+  "download_time": "2026-02-02T23:37:59.099721",
+  "package_url": "https://pypi.org/project/mlx-cluster/"
+}

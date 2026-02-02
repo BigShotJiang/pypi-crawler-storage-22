@@ -1,0 +1,11 @@
+{
+  "name": "openalex-content-downloader",
+  "version": "0.1.1",
+  "summary": "Bulk download PDFs and TEI XML files from OpenAlex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openalex_content_downloader-0.1.1.tar.gz",
+  "download_time": "2026-02-02T23:37:56.774389",
+  "package_url": "https://pypi.org/project/openalex-content-downloader/"
+}
