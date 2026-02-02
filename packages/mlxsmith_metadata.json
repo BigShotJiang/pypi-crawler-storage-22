@@ -1,11 +1,11 @@
 {
   "name": "mlxsmith",
-  "version": "0.1.0",
-  "summary": "Apple Silicon MLX fine-tuning and OpenAI-compatible serving (SFT stable; preference/RL experimental).",
+  "version": "0.1.2",
+  "summary": "Apple Silicon MLX fine-tuning toolkit — SFT, DPO/ORPO, GRPO, distillation, and OpenAI-compatible serving.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlxsmith-0.1.0.tar.gz",
-  "download_time": "2026-02-02T14:39:28.866467",
+  "download_filename": "mlxsmith-0.1.2.tar.gz",
+  "download_time": "2026-02-02T15:27:24.509544",
   "package_url": "https://pypi.org/project/mlxsmith/"
 }

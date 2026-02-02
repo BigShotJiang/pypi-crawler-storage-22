@@ -1,0 +1,11 @@
+{
+  "name": "transdoc",
+  "version": "1.2.0",
+  "summary": "Transform your documentation by embedding results from Python function calls",
+  "author": "Maddy Guthridge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "transdoc-1.2.0.tar.gz",
+  "download_time": "2026-02-02T15:27:12.303879",
+  "package_url": "https://pypi.org/project/transdoc/"
+}

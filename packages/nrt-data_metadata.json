@@ -1,0 +1,11 @@
+{
+  "name": "nrt-data",
+  "version": "0.0.2",
+  "summary": "nrt namespace package giving access to demo and test datasets, extracted from nrt core",
+  "author": "Jonas Viehweger, Kenji Ose",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "nrt_data-0.0.2.tar.gz",
+  "download_time": "2026-02-02T15:27:44.985311",
+  "package_url": "https://pypi.org/project/nrt-data/"
+}

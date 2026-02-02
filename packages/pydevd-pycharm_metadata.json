@@ -1,0 +1,11 @@
+{
+  "name": "pydevd-pycharm",
+  "version": "261.19799.40",
+  "summary": "PyCharm Debugger (used in PyCharm and PyDev)",
+  "author": "JetBrains, Fabio Zadrozny and others",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/JetBrains/intellij-community",
+  "download_filename": "pydevd_pycharm-261.19799.40.tar.gz",
+  "download_time": "2026-02-02T15:27:48.661034",
+  "package_url": "https://pypi.org/project/pydevd-pycharm/"
+}

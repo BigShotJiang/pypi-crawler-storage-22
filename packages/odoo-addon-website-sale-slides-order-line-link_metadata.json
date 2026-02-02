@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-website-sale-slides-order-line-link",
+  "version": "17.0.1.0.1",
+  "summary": "Link sales order lines to slide channel participations in sold courses.",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/e-learning",
+  "download_filename": "odoo_addon_website_sale_slides_order_line_link-17.0.1.0.1-py3-none-any.whl",
+  "download_time": "2026-02-02T15:27:28.743358",
+  "package_url": "https://pypi.org/project/odoo-addon-website-sale-slides-order-line-link/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "CATSort",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A collision-aware template matching spike sorter.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "catsort-1.0.0.tar.gz",
-  "download_time": "2026-02-02T06:46:16.895559",
+  "download_filename": "catsort-1.0.1.tar.gz",
+  "download_time": "2026-02-02T15:27:42.373085",
   "package_url": "https://pypi.org/project/CATSort/"
 }
