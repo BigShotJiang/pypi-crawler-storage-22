@@ -1,0 +1,11 @@
+{
+  "name": "solveclosure",
+  "version": "0.1.0",
+  "summary": "A package that solves the closure problem for the dual-continuum model published by Paten et al.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "solveclosure-0.1.0.tar.gz",
+  "download_time": "2026-02-02T09:05:12.573200",
+  "package_url": "https://pypi.org/project/solveclosure/"
+}

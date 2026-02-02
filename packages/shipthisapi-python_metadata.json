@@ -1,0 +1,11 @@
+{
+  "name": "shipthisapi-python",
+  "version": "1.3.1",
+  "summary": "ShipthisAPI utility package",
+  "author": "Mayur Rawte",
+  "license": null,
+  "home_page": "https://github.com/shipthisco/shipthisapi-python",
+  "download_filename": "shipthisapi_python-1.3.1.tar.gz",
+  "download_time": "2026-02-02T09:05:13.115848",
+  "package_url": "https://pypi.org/project/shipthisapi-python/"
+}

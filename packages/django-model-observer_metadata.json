@@ -1,0 +1,11 @@
+{
+  "name": "django-model-observer",
+  "version": "1.2.0",
+  "summary": "Наблюдатель за моделями Django",
+  "author": "BARS Group",
+  "license": null,
+  "home_page": "https://stash.bars-open.ru/projects/EDUBASE/repos/django-model-observer/",
+  "download_filename": "django_model_observer-1.2.0.tar.gz",
+  "download_time": "2026-02-02T09:05:17.581374",
+  "package_url": "https://pypi.org/project/django-model-observer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PySide6",
+  "version": "6.10.2",
+  "summary": "Python bindings for the Qt cross-platform application and UI framework",
+  "author": null,
+  "license": "LGPL-3.0-only OR GPL-2.0-only OR GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "pyside6-6.10.2-cp39-abi3-macosx_13_0_universal2.whl",
+  "download_time": "2026-02-02T09:05:14.800261",
+  "package_url": "https://pypi.org/project/PySide6/"
+}

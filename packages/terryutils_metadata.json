@@ -1,11 +1,11 @@
 {
   "name": "terryutils",
-  "version": "1.0.3",
+  "version": "1.0.6",
   "summary": "My personal python toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "terryutils-1.0.3.tar.gz",
-  "download_time": "2026-02-02T08:09:24.127759",
+  "download_filename": "terryutils-1.0.6.tar.gz",
+  "download_time": "2026-02-02T09:04:43.362557",
   "package_url": "https://pypi.org/project/terryutils/"
 }

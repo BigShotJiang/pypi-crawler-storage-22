@@ -1,0 +1,11 @@
+{
+  "name": "alayaflow",
+  "version": "0.1.0",
+  "summary": "A desktop platform for executing LangGraph workflows with uv-managed sandboxes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "alayaflow-0.1.0.tar.gz",
+  "download_time": "2026-02-02T09:05:20.278004",
+  "package_url": "https://pypi.org/project/alayaflow/"
+}

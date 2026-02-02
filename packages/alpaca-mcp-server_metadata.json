@@ -1,11 +1,11 @@
 {
   "name": "alpaca-mcp-server",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "Alpaca Trading API integration for Model Context Protocol (MCP)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "alpaca_mcp_server-1.0.11.tar.gz",
-  "download_time": "2026-02-02T08:09:22.501932",
+  "download_filename": "alpaca_mcp_server-1.0.12.tar.gz",
+  "download_time": "2026-02-02T09:05:06.944711",
   "package_url": "https://pypi.org/project/alpaca-mcp-server/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-purchase-procurement-group-by-line",
+  "version": "17.0.1.0.0.2",
+  "summary": "Glue module between 'MTO Sale <-> Purchase' and 'Sale Procurement Group by Line'",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_purchase_procurement_group_by_line-17.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-02T09:05:03.127379",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-purchase-procurement-group-by-line/"
+}

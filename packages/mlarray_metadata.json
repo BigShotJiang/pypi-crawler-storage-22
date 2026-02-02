@@ -1,0 +1,11 @@
+{
+  "name": "mlarray",
+  "version": "0.0.34",
+  "summary": "Array format specialized for Machine Learning with Blosc2 backend and standardized metadata.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlarray-0.0.34.tar.gz",
+  "download_time": "2026-02-02T09:04:51.341726",
+  "package_url": "https://pypi.org/project/mlarray/"
+}
