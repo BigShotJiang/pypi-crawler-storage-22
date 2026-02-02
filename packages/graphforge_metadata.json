@@ -1,11 +1,11 @@
 {
   "name": "graphforge",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Composable graph tooling for analysis, construction, and refinement",
   "author": "David Spencer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "graphforge-0.1.2.tar.gz",
-  "download_time": "2026-02-01T05:49:28.990595",
+  "download_filename": "graphforge-0.1.4.tar.gz",
+  "download_time": "2026-02-02T16:43:11.901933",
   "package_url": "https://pypi.org/project/graphforge/"
 }

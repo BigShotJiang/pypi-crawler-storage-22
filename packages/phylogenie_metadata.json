@@ -1,0 +1,11 @@
+{
+  "name": "phylogenie",
+  "version": "3.3.1",
+  "summary": "Generate phylogenetic datasets with minimal setup effort",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phylogenie-3.3.1.tar.gz",
+  "download_time": "2026-02-02T16:43:06.238384",
+  "package_url": "https://pypi.org/project/phylogenie/"
+}

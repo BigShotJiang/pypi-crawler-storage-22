@@ -1,11 +1,11 @@
 {
   "name": "pulka",
-  "version": "0.3.4",
+  "version": "0.3.6",
   "summary": "A tiny, fast VisiData-like tabular viewer for Polars.",
   "author": "Pulka developers",
   "license": null,
   "home_page": null,
-  "download_filename": "pulka-0.3.4.tar.gz",
-  "download_time": "2026-01-28T18:00:59.840728",
+  "download_filename": "pulka-0.3.6.tar.gz",
+  "download_time": "2026-02-02T16:43:10.876039",
   "package_url": "https://pypi.org/project/pulka/"
 }

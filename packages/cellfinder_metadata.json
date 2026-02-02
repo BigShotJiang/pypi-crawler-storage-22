@@ -1,0 +1,11 @@
+{
+  "name": "cellfinder",
+  "version": "1.9.0",
+  "summary": "Automated 3D cell detection in large microscopy images",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "cellfinder-1.9.0.tar.gz",
+  "download_time": "2026-02-02T16:42:38.733740",
+  "package_url": "https://pypi.org/project/cellfinder/"
+}

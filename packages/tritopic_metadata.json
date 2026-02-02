@@ -1,11 +1,11 @@
 {
   "name": "tritopic",
-  "version": "1.1.2",
-  "summary": "Tri-Modal Graph Topic Modeling with Iterative Refinement",
+  "version": "1.1.4",
+  "summary": "Tri-Modal Graph Topic Modeling with Iterative Refinement - A state-of-the-art topic modeling library that consistently outperforms BERTopic and traditional approaches by combining semantic embeddings, lexical similarity, and metadata context with advanced graph-based clustering.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tritopic-1.1.2.tar.gz",
-  "download_time": "2026-02-02T14:39:30.568121",
+  "download_filename": "tritopic-1.1.4.tar.gz",
+  "download_time": "2026-02-02T16:43:13.950198",
   "package_url": "https://pypi.org/project/tritopic/"
 }

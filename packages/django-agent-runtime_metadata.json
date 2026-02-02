@@ -1,11 +1,11 @@
 {
   "name": "django-agent-runtime",
-  "version": "0.7.6",
+  "version": "0.7.7",
   "summary": "Production-grade AI agent runtime for Django - framework and model agnostic",
   "author": "Chris Barry",
   "license": null,
   "home_page": null,
-  "download_filename": "django_agent_runtime-0.7.6.tar.gz",
-  "download_time": "2026-01-30T15:52:22.190564",
+  "download_filename": "django_agent_runtime-0.7.7.tar.gz",
+  "download_time": "2026-02-02T16:43:02.616696",
   "package_url": "https://pypi.org/project/django-agent-runtime/"
 }

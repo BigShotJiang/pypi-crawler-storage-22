@@ -1,0 +1,11 @@
+{
+  "name": "rcsb.utils.go",
+  "version": "0.23",
+  "summary": "RCSB Python utility classes for processing gene ontology data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rcsb_utils_go-0.23.tar.gz",
+  "download_time": "2026-02-02T16:42:46.208665",
+  "package_url": "https://pypi.org/project/rcsb.utils.go/"
+}

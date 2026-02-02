@@ -1,0 +1,11 @@
+{
+  "name": "xrpl-py-cheng",
+  "version": "4.6.16",
+  "summary": "A complete Python library for interacting with the XRP ledger",
+  "author": "Mayukha Vadari",
+  "license": "ISC",
+  "home_page": null,
+  "download_filename": "xrpl_py_cheng-4.6.16.tar.gz",
+  "download_time": "2026-02-02T16:42:58.000031",
+  "package_url": "https://pypi.org/project/xrpl-py-cheng/"
+}

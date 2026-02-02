@@ -1,11 +1,11 @@
 {
   "name": "garf-executors",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Executes queries against API and writes data to local/remote storage.",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "garf_executors-1.2.0.tar.gz",
-  "download_time": "2026-02-02T10:08:54.919964",
+  "download_filename": "garf_executors-1.2.1.tar.gz",
+  "download_time": "2026-02-02T16:43:04.703335",
   "package_url": "https://pypi.org/project/garf-executors/"
 }

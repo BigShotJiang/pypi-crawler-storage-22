@@ -1,11 +1,11 @@
 {
   "name": "relucent",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Explore the polyhedral complexes of ReLU neural networks.",
   "author": "Blake B. Gaines",
   "license": null,
   "home_page": null,
-  "download_filename": "relucent-0.3.0.tar.gz",
-  "download_time": "2026-01-29T21:50:56.924626",
+  "download_filename": "relucent-0.4.0.tar.gz",
+  "download_time": "2026-02-02T16:42:39.244889",
   "package_url": "https://pypi.org/project/relucent/"
 }

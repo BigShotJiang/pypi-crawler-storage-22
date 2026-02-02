@@ -1,0 +1,11 @@
+{
+  "name": "lennybot",
+  "version": "1.0.33",
+  "summary": "Automatic Updates for Kustomize Resources",
+  "author": "Simon Schneider",
+  "license": null,
+  "home_page": "http://github.com/raynigon/lennybot",
+  "download_filename": "lennybot-1.0.33.tar.gz",
+  "download_time": "2026-02-02T16:42:27.137618",
+  "package_url": "https://pypi.org/project/lennybot/"
+}
