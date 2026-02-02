@@ -1,0 +1,11 @@
+{
+  "name": "task-framework-py",
+  "version": "0.0.20b0",
+  "summary": "A Python library for building task-based workflows with scheduling, webhooks, artifact management, and observability",
+  "author": "Task Framework Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "task_framework_py-0.0.20b0.tar.gz",
+  "download_time": "2026-02-02T11:08:19.057946",
+  "package_url": "https://pypi.org/project/task-framework-py/"
+}

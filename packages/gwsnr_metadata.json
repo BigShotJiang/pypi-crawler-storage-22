@@ -1,0 +1,11 @@
+{
+  "name": "gwsnr",
+  "version": "0.4.4",
+  "summary": "A Python package for calculating gravitational wave signal-to-noise ratios",
+  "author": "Hemantakumar Phurailatpam",
+  "license": null,
+  "home_page": "https://github.com/hemantaph/gwsnr",
+  "download_filename": "gwsnr-0.4.4.tar.gz",
+  "download_time": "2026-02-02T11:08:37.231197",
+  "package_url": "https://pypi.org/project/gwsnr/"
+}

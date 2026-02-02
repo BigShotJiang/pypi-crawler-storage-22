@@ -1,0 +1,11 @@
+{
+  "name": "yuque-sdk",
+  "version": "0.1.0",
+  "summary": "A Python client library for Yuque OpenAPI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "yuque_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-02T11:08:30.414882",
+  "package_url": "https://pypi.org/project/yuque-sdk/"
+}

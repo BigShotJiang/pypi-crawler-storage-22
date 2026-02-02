@@ -1,0 +1,11 @@
+{
+  "name": "masktunnel",
+  "version": "1.0.21",
+  "summary": "Python bindings for MaskTunnel (Go)",
+  "author": "cloudflyer-project",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/cloudflyer-project/masktunnel",
+  "download_filename": "masktunnel-1.0.21.tar.gz",
+  "download_time": "2026-02-02T11:08:38.770772",
+  "package_url": "https://pypi.org/project/masktunnel/"
+}

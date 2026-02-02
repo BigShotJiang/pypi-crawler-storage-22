@@ -1,0 +1,11 @@
+{
+  "name": "otp-toolkit",
+  "version": "0.1.1",
+  "summary": "Simple OTP generation and verification toolkit",
+  "author": "Yawar Hussain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "otp_toolkit-0.1.1.tar.gz",
+  "download_time": "2026-02-02T11:08:18.481929",
+  "package_url": "https://pypi.org/project/otp-toolkit/"
+}

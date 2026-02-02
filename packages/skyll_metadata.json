@@ -1,0 +1,11 @@
+{
+  "name": "skyll",
+  "version": "0.1.0",
+  "summary": "Skill discovery for AI agents - search and retrieve agent skills on demand",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "skyll-0.1.0.tar.gz",
+  "download_time": "2026-02-02T11:08:43.526112",
+  "package_url": "https://pypi.org/project/skyll/"
+}

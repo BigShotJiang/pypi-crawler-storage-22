@@ -1,11 +1,11 @@
 {
   "name": "svgd",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "A flexible PyTorch library for SVGD and MET-SVGD, with support for custom distributions, kernels, step-sizes, and callbacks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "svgd-1.0.5.tar.gz",
-  "download_time": "2026-02-01T14:01:47.359399",
+  "download_filename": "svgd-1.0.7.tar.gz",
+  "download_time": "2026-02-02T11:08:37.743122",
   "package_url": "https://pypi.org/project/svgd/"
 }
