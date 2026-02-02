@@ -1,11 +1,11 @@
 {
   "name": "emdash-cli",
-  "version": "0.1.113",
+  "version": "0.1.116",
   "summary": "EmDash CLI - Command-line interface for code intelligence",
   "author": "Em Dash Team",
   "license": null,
   "home_page": null,
-  "download_filename": "emdash_cli-0.1.113.tar.gz",
-  "download_time": "2026-02-02T07:40:46.117917",
+  "download_filename": "emdash_cli-0.1.116.tar.gz",
+  "download_time": "2026-02-02T08:09:30.827554",
   "package_url": "https://pypi.org/project/emdash-cli/"
 }

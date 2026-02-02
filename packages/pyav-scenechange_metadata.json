@@ -1,0 +1,11 @@
+{
+  "name": "pyav-scenechange",
+  "version": "0.1.1",
+  "summary": "Python binding for av-scenechange",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyav_scenechange-0.1.1.tar.gz",
+  "download_time": "2026-02-02T08:09:01.887418",
+  "package_url": "https://pypi.org/project/pyav-scenechange/"
+}

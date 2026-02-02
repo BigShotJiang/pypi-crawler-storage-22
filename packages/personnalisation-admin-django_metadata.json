@@ -1,0 +1,11 @@
+{
+  "name": "personnalisation-admin-django",
+  "version": "0.1.0",
+  "summary": "Package Django pour custom admin avec graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "personnalisation_admin_django-0.1.0.tar.gz",
+  "download_time": "2026-02-02T08:09:14.076120",
+  "package_url": "https://pypi.org/project/personnalisation-admin-django/"
+}

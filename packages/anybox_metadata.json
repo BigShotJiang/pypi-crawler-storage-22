@@ -1,0 +1,11 @@
+{
+  "name": "anybox",
+  "version": "0.0.1",
+  "summary": "Agent environment builder and runtime (reserved; full release coming soon)",
+  "author": "AnyBox Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anybox-0.0.1.tar.gz",
+  "download_time": "2026-02-02T08:09:12.012437",
+  "package_url": "https://pypi.org/project/anybox/"
+}

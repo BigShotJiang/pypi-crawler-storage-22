@@ -1,11 +1,11 @@
 {
   "name": "mcpcn-web-search-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Multi-source web search MCP server with automatic failover",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpcn_web_search_mcp-0.1.1.tar.gz",
-  "download_time": "2026-02-02T07:40:55.273350",
+  "download_filename": "mcpcn_web_search_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-02T08:09:18.172693",
   "package_url": "https://pypi.org/project/mcpcn-web-search-mcp/"
 }

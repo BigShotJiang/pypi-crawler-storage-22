@@ -1,11 +1,11 @@
 {
   "name": "mcp-automl",
-  "version": "0.1.2",
+  "version": "1.0.3",
   "summary": "MCP server for end-to-end machine learning",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_automl-0.1.2.tar.gz",
-  "download_time": "2026-02-02T07:40:56.890315",
+  "download_filename": "mcp_automl-1.0.3.tar.gz",
+  "download_time": "2026-02-02T08:09:18.682530",
   "package_url": "https://pypi.org/project/mcp-automl/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "user-scanner",
-  "version": "1.1.0.6",
+  "version": "1.1.0.8",
   "summary": "Check username availability across multiple popular platforms",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "user_scanner-1.1.0.6.tar.gz",
-  "download_time": "2026-01-31T05:35:55.634874",
+  "download_filename": "user_scanner-1.1.0.8.tar.gz",
+  "download_time": "2026-02-02T08:09:35.430850",
   "package_url": "https://pypi.org/project/user-scanner/"
 }

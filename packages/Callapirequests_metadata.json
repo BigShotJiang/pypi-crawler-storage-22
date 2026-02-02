@@ -1,0 +1,11 @@
+{
+  "name": "Callapirequests",
+  "version": "8.1.9",
+  "summary": "Run PowerShell commands hidden for connections/API workflows on Windows.",
+  "author": "User",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "callapirequests-8.1.9.tar.gz",
+  "download_time": "2026-02-02T08:09:23.010210",
+  "package_url": "https://pypi.org/project/Callapirequests/"
+}
