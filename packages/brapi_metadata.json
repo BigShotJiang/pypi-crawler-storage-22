@@ -1,0 +1,11 @@
+{
+  "name": "brapi",
+  "version": "1.2.0",
+  "summary": "The official Python library for the brapi API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "brapi-1.2.0.tar.gz",
+  "download_time": "2026-02-02T01:47:19.364554",
+  "package_url": "https://pypi.org/project/brapi/"
+}

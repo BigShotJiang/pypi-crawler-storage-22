@@ -1,0 +1,11 @@
+{
+  "name": "kurra",
+  "version": "2.2.5",
+  "summary": "A Python package of RDF data manipulation functions that can be called from the command line or other software",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kurra-2.2.5.tar.gz",
+  "download_time": "2026-02-02T01:47:24.717663",
+  "package_url": "https://pypi.org/project/kurra/"
+}

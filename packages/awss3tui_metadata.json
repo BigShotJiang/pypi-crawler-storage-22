@@ -1,0 +1,11 @@
+{
+  "name": "awss3tui",
+  "version": "0.2",
+  "summary": "Textual TUI to navigate S3 across multiple AWS profiles",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awss3tui-0.2.tar.gz",
+  "download_time": "2026-02-02T01:47:33.966279",
+  "package_url": "https://pypi.org/project/awss3tui/"
+}

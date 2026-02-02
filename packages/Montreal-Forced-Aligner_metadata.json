@@ -1,0 +1,11 @@
+{
+  "name": "Montreal-Forced-Aligner",
+  "version": "3.3.9",
+  "summary": "Montreal Forced Aligner is a package for aligning speech corpora using Kaldi functionality.",
+  "author": "Montreal Corpus Tools",
+  "license": "MIT",
+  "home_page": "https://github.com/MontrealCorpusTools/Montreal-Forced-Aligner",
+  "download_filename": "montreal_forced_aligner-3.3.9-py3-none-any.whl",
+  "download_time": "2026-02-02T01:47:07.114406",
+  "package_url": "https://pypi.org/project/Montreal-Forced-Aligner/"
+}

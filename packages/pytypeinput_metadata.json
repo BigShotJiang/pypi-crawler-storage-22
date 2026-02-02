@@ -1,0 +1,11 @@
+{
+  "name": "pytypeinput",
+  "version": "0.1.5",
+  "summary": "Type hints → UI metadata. Build forms from Python function signatures.",
+  "author": "Beltrán Offerrall",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytypeinput-0.1.5.tar.gz",
+  "download_time": "2026-02-02T01:47:32.901653",
+  "package_url": "https://pypi.org/project/pytypeinput/"
+}
