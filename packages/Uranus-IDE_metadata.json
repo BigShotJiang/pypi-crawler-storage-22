@@ -1,11 +1,11 @@
 {
   "name": "Uranus-IDE",
-  "version": "3.2.1a28",
+  "version": "3.2.1a29",
   "summary": "A lightweight, extensible Python IDE inspired by Jupyter, built with PyQt5.",
-  "author": "Atila Ghashghaie",
+  "author": "Atila Ghashghaie | آتیلا قشقایی",
   "license": null,
   "home_page": "https://github.com/atila-gh/Uranus-IDE",
-  "download_filename": "uranus_ide-3.2.1a28.tar.gz",
-  "download_time": "2026-01-31T08:54:06.370078",
+  "download_filename": "uranus_ide-3.2.1a29.tar.gz",
+  "download_time": "2026-02-02T11:52:25.635630",
   "package_url": "https://pypi.org/project/Uranus-IDE/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "django-health-check",
+  "version": "3.22.0",
+  "summary": "Monitor the health of your Django app and its connected services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_health_check-3.22.0.tar.gz",
+  "download_time": "2026-02-02T11:52:15.588812",
+  "package_url": "https://pypi.org/project/django-health-check/"
+}

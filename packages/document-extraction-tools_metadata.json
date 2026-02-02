@@ -1,0 +1,11 @@
+{
+  "name": "document-extraction-tools",
+  "version": "0.1.0",
+  "summary": "A modular, high-performance toolkit for extracting structured data from documents.",
+  "author": "Ollie Kemp, Nikolas Moatsos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "document_extraction_tools-0.1.0.tar.gz",
+  "download_time": "2026-02-02T11:52:18.933971",
+  "package_url": "https://pypi.org/project/document-extraction-tools/"
+}

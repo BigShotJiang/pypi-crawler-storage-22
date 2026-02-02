@@ -1,0 +1,11 @@
+{
+  "name": "pytest-logikal",
+  "version": "6.1.1",
+  "summary": "Common testing environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_logikal-6.1.1.tar.gz",
+  "download_time": "2026-02-02T11:52:41.538298",
+  "package_url": "https://pypi.org/project/pytest-logikal/"
+}

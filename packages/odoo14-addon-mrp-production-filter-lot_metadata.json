@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-mrp-production-filter-lot",
+  "version": "14.0.1.0.1.dev2",
+  "summary": "In production order line lots popup, filter lots based on their location and availability",
+  "author": "Takobi, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/manufacture/tree/14.0/mrp_production_filter_lot",
+  "download_filename": "odoo14_addon_mrp_production_filter_lot-14.0.1.0.1.dev2-py3-none-any.whl",
+  "download_time": "2026-02-02T11:52:13.420044",
+  "package_url": "https://pypi.org/project/odoo14-addon-mrp-production-filter-lot/"
+}

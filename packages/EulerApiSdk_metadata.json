@@ -1,0 +1,11 @@
+{
+  "name": "EulerApiSdk",
+  "version": "0.0.3",
+  "summary": "A client library for accessing the Euler Stream TikTok LIVE API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eulerapisdk-0.0.3.tar.gz",
+  "download_time": "2026-02-02T11:52:38.473022",
+  "package_url": "https://pypi.org/project/EulerApiSdk/"
+}

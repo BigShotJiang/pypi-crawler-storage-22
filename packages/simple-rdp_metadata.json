@@ -1,11 +1,11 @@
 {
   "name": "simple-rdp",
-  "version": "0.3.2",
+  "version": "0.6.0",
   "summary": "A Python RDP client for automation - exposes screen capture and input transmission",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/abi-jey/simple-rdp",
-  "download_filename": "simple_rdp-0.3.2.tar.gz",
-  "download_time": "2026-02-01T23:21:09.342507",
+  "download_filename": "simple_rdp-0.6.0.tar.gz",
+  "download_time": "2026-02-02T11:52:16.169798",
   "package_url": "https://pypi.org/project/simple-rdp/"
 }

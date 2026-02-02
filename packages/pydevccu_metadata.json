@@ -1,11 +1,11 @@
 {
   "name": "pydevccu",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Virtual HomeMatic CCU XML-RPC and JSON-RPC backend.",
   "author": null,
   "license": "MIT License",
   "home_page": "https://github.com/sukramj/pydevccu",
-  "download_filename": "pydevccu-0.2.0.tar.gz",
-  "download_time": "2026-01-31T08:53:55.996848",
+  "download_filename": "pydevccu-0.2.1.tar.gz",
+  "download_time": "2026-02-02T11:52:07.375003",
   "package_url": "https://pypi.org/project/pydevccu/"
 }

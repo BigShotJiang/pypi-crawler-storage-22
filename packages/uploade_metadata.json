@@ -1,11 +1,11 @@
 {
   "name": "uploade",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "summary": "Collective memory for AI agents",
   "author": null,
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "uploade-1.0.0.tar.gz",
-  "download_time": "2026-02-02T10:08:29.610923",
+  "download_filename": "uploade-1.3.0.tar.gz",
+  "download_time": "2026-02-02T11:52:28.257200",
   "package_url": "https://pypi.org/project/uploade/"
 }

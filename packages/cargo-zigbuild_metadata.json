@@ -1,0 +1,11 @@
+{
+  "name": "cargo-zigbuild",
+  "version": "0.21.6",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cargo_zigbuild-0.21.6-py3-none-macosx_10_12_x86_64.macosx_11_0_arm64.macosx_10_12_universal2.whl",
+  "download_time": "2026-02-02T11:52:44.832677",
+  "package_url": "https://pypi.org/project/cargo-zigbuild/"
+}

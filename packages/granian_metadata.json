@@ -1,0 +1,11 @@
+{
+  "name": "granian",
+  "version": "2.7.0",
+  "summary": "A Rust HTTP server for Python applications",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/emmett-framework/granian",
+  "download_filename": "granian-2.7.0.tar.gz",
+  "download_time": "2026-02-02T11:52:32.088982",
+  "package_url": "https://pypi.org/project/granian/"
+}

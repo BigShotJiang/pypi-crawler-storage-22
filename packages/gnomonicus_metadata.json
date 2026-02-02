@@ -1,0 +1,11 @@
+{
+  "name": "gnomonicus",
+  "version": "3.0.12",
+  "summary": "Python code to integrate results of tb-pipeline and provide an antibiogram, mutations and variants",
+  "author": "Philip W Fowler, Jeremy Westhead",
+  "license": "University of Oxford License, see LICENSE",
+  "home_page": "https://github.com/oxfordmmm/gnomonicus",
+  "download_filename": "gnomonicus-3.0.12.tar.gz",
+  "download_time": "2026-02-02T11:52:37.450802",
+  "package_url": "https://pypi.org/project/gnomonicus/"
+}

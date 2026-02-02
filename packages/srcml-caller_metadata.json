@@ -1,0 +1,11 @@
+{
+  "name": "srcml-caller",
+  "version": "0.5.0",
+  "summary": "srcml_caller, simple python bindings for srcML ",
+  "author": "Pascal Thomet",
+  "license": null,
+  "home_page": "https://github.com/pthom/srcml_caller",
+  "download_filename": "srcml_caller-0.5.0.tar.gz",
+  "download_time": "2026-02-02T11:52:22.081064",
+  "package_url": "https://pypi.org/project/srcml-caller/"
+}

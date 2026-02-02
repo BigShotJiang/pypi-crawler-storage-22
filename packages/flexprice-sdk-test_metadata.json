@@ -1,0 +1,11 @@
+{
+  "name": "flexprice-sdk-test",
+  "version": "2.0.20260104134957",
+  "summary": "Python SDK for FlexPrice API",
+  "author": "Speakeasy",
+  "license": null,
+  "home_page": "https://github.com/flexprice/python-sdk",
+  "download_filename": "flexprice_sdk_test-2.0.20260104134957.tar.gz",
+  "download_time": "2026-02-02T11:52:16.751260",
+  "package_url": "https://pypi.org/project/flexprice-sdk-test/"
+}

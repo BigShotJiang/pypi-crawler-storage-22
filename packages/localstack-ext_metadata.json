@@ -1,11 +1,11 @@
 {
   "name": "localstack-ext",
-  "version": "4.13.0",
+  "version": "4.13.1",
   "summary": "Extensions for LocalStack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "localstack_ext-4.13.0.tar.gz",
-  "download_time": "2026-01-29T08:01:49.361231",
+  "download_filename": "localstack_ext-4.13.1.tar.gz",
+  "download_time": "2026-02-02T11:52:33.762634",
   "package_url": "https://pypi.org/project/localstack-ext/"
 }

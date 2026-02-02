@@ -1,11 +1,11 @@
 {
   "name": "majoplot",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Automates scenario-specific data preprocessing and plotting workflows for condensed-matter physics labs (OriginLab COM backend + Matplotlib for preview).",
   "author": "ponyofshadows",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "majoplot-0.1.9.tar.gz",
-  "download_time": "2026-02-02T04:21:33.521598",
+  "download_filename": "majoplot-0.1.10.tar.gz",
+  "download_time": "2026-02-02T11:52:09.482973",
   "package_url": "https://pypi.org/project/majoplot/"
 }

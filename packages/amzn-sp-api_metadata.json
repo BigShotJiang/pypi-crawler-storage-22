@@ -1,0 +1,11 @@
+{
+  "name": "amzn-sp-api",
+  "version": "1.7.0",
+  "summary": "The Selling Partner API Python SDK enables you to easily connect to and work with Amazon SP-API.",
+  "author": "Amazon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "amzn_sp_api-1.7.0.tar.gz",
+  "download_time": "2026-02-02T11:52:06.276784",
+  "package_url": "https://pypi.org/project/amzn-sp-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aichat2md",
+  "version": "1.0.1",
+  "summary": "Convert AI chat conversations to structured Markdown",
+  "author": "PlaceNameDay",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aichat2md-1.0.1.tar.gz",
+  "download_time": "2026-02-02T11:52:13.929708",
+  "package_url": "https://pypi.org/project/aichat2md/"
+}

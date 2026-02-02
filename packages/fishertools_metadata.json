@@ -1,11 +1,11 @@
 {
   "name": "fishertools",
-  "version": "0.4.4.2",
+  "version": "0.4.5",
   "summary": "Fishertools - инструменты, которые делают Python удобнее и безопаснее для новичков",
   "author": "f1sherFM",
   "license": "MIT",
   "home_page": "https://github.com/f1sherFM/My_1st_library_python",
-  "download_filename": "fishertools-0.4.4.2.tar.gz",
-  "download_time": "2026-02-01T08:57:21.938952",
+  "download_filename": "fishertools-0.4.5.tar.gz",
+  "download_time": "2026-02-02T11:52:27.233311",
   "package_url": "https://pypi.org/project/fishertools/"
 }

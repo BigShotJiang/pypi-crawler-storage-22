@@ -1,0 +1,11 @@
+{
+  "name": "github2gerrit",
+  "version": "1.0.4",
+  "summary": "Submit a GitHub pull request to a Gerrit repository.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "github2gerrit-1.0.4.tar.gz",
+  "download_time": "2026-02-02T11:52:26.661868",
+  "package_url": "https://pypi.org/project/github2gerrit/"
+}
