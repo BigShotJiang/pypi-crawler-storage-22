@@ -1,0 +1,11 @@
+{
+  "name": "polars-row-collector",
+  "version": "0.2.2",
+  "summary": "Facade to collect rows one-by-one into a Polars DataFrame (in the least-bad way)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polars_row_collector-0.2.2.tar.gz",
+  "download_time": "2026-02-02T04:21:20.323576",
+  "package_url": "https://pypi.org/project/polars-row-collector/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ant-ray-cpp-nightly",
+  "version": "2.51.2",
+  "summary": "A subpackage of Ray which provides the Ray C++ API.",
+  "author": "Ray Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/ray-project/ray",
+  "download_filename": "ant_ray_cpp_nightly-2.51.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-02-02T04:21:30.959075",
+  "package_url": "https://pypi.org/project/ant-ray-cpp-nightly/"
+}

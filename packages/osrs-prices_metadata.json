@@ -1,0 +1,11 @@
+{
+  "name": "osrs-prices",
+  "version": "1.1.0",
+  "summary": "Python client for the OSRS Real-time Prices API",
+  "author": "Matt Flowers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osrs_prices-1.1.0.tar.gz",
+  "download_time": "2026-02-02T04:21:31.983312",
+  "package_url": "https://pypi.org/project/osrs-prices/"
+}

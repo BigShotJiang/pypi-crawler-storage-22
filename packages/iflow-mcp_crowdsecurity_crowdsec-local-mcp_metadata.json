@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_crowdsecurity_crowdsec-local-mcp",
+  "version": "0.6.0.post1.dev2",
+  "summary": "An MCP exposing prompts and tools to help users write WAF rules, scenarios etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_crowdsecurity_crowdsec_local_mcp-0.6.0.post1.dev2.tar.gz",
+  "download_time": "2026-02-02T04:21:48.944963",
+  "package_url": "https://pypi.org/project/iflow-mcp_crowdsecurity_crowdsec-local-mcp/"
+}

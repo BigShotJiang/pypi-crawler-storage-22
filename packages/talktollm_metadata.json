@@ -1,0 +1,11 @@
+{
+  "name": "talktollm",
+  "version": "0.8.1",
+  "summary": "A Python utility for interacting with large language models (LLMs) via web automation",
+  "author": "Alex M",
+  "license": null,
+  "home_page": "https://github.com/AMAMazing/talktollm",
+  "download_filename": "talktollm-0.8.1.tar.gz",
+  "download_time": "2026-02-02T04:21:18.241912",
+  "package_url": "https://pypi.org/project/talktollm/"
+}

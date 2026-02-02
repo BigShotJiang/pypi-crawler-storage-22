@@ -1,0 +1,11 @@
+{
+  "name": "nebula-commander",
+  "version": "0.1.1",
+  "summary": "Nebula Commander device client (ncclient): enroll with a one-time code, then run as a daemon to pull config and certs and optionally orchestrate Nebula.",
+  "author": "NixRTR",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nebula_commander-0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-02T04:21:45.741413",
+  "package_url": "https://pypi.org/project/nebula-commander/"
+}
