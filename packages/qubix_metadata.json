@@ -1,0 +1,11 @@
+{
+  "name": "qubix",
+  "version": "0.0.1",
+  "summary": "Distributed GPU job queue for LLM inference (coming soon)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qubix-0.0.1.tar.gz",
+  "download_time": "2026-02-02T07:41:20.449545",
+  "package_url": "https://pypi.org/project/qubix/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "arango-cti-processor",
+  "version": "1.1.0",
+  "summary": "A small script that creates relationships between common CTI knowledge-bases in STIX 2.1 format.",
+  "author": "dogesec",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arango_cti_processor-1.1.0.tar.gz",
+  "download_time": "2026-02-02T07:41:15.026915",
+  "package_url": "https://pypi.org/project/arango-cti-processor/"
+}

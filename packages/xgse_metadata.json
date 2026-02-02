@@ -1,11 +1,11 @@
 {
   "name": "xgse",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Extreme General Skill Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xgse-0.1.1.tar.gz",
-  "download_time": "2026-01-30T07:07:58.075734",
+  "download_filename": "xgse-0.1.2.tar.gz",
+  "download_time": "2026-02-02T07:41:25.971816",
   "package_url": "https://pypi.org/project/xgse/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hued",
+  "version": "1.0.7",
+  "summary": "An open-source Python library for color processing, random color generation, conversion between common types, and retrieval of common color properties, color palettes, and color information.",
+  "author": "Infinitode Pty Ltd",
+  "license": null,
+  "home_page": "https://github.com/infinitode/hued",
+  "download_filename": "hued-1.0.7.tar.gz",
+  "download_time": "2026-02-02T07:40:59.020830",
+  "package_url": "https://pypi.org/project/hued/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "keybox-sdk",
+  "version": "0.1.0",
+  "summary": "Keybox licensing SDK for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keybox_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-02T07:40:54.177817",
+  "package_url": "https://pypi.org/project/keybox-sdk/"
+}

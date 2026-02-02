@@ -1,11 +1,11 @@
 {
   "name": "hpc-task",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "HPC Task python library.",
   "author": "Renpj",
   "license": "MIT",
   "home_page": "https://gitee.com/pjren/hpc_task",
-  "download_filename": "hpc_task-0.1.1.tar.gz",
-  "download_time": "2026-02-01T13:31:57.917125",
+  "download_filename": "hpc_task-0.1.2.tar.gz",
+  "download_time": "2026-02-02T07:40:43.414082",
   "package_url": "https://pypi.org/project/hpc-task/"
 }

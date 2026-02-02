@@ -1,0 +1,11 @@
+{
+  "name": "dr-wandb",
+  "version": "0.2.0",
+  "summary": "Download WandB runs and histories to local files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dr_wandb-0.2.0.tar.gz",
+  "download_time": "2026-02-02T07:41:18.273079",
+  "package_url": "https://pypi.org/project/dr-wandb/"
+}

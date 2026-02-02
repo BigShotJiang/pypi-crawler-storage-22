@@ -1,0 +1,11 @@
+{
+  "name": "torq-client-sdk",
+  "version": "0.0.1",
+  "summary": "Python SDK for Torq distributed GPU job queue (coming soon)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torq_client_sdk-0.0.1.tar.gz",
+  "download_time": "2026-02-02T07:41:16.067227",
+  "package_url": "https://pypi.org/project/torq-client-sdk/"
+}

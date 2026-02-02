@@ -1,0 +1,11 @@
+{
+  "name": "app-common-utils",
+  "version": "0.1.0",
+  "summary": "Common utilities for FastAPI services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "app_common_utils-0.1.0.tar.gz",
+  "download_time": "2026-02-02T07:41:07.406143",
+  "package_url": "https://pypi.org/project/app-common-utils/"
+}

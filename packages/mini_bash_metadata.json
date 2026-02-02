@@ -1,0 +1,11 @@
+{
+  "name": "mini_bash",
+  "version": "0.1.2",
+  "summary": "Easily run bash commands",
+  "author": "lamnguyenx",
+  "license": "apache",
+  "home_page": null,
+  "download_filename": "mini_bash-0.1.2.tar.gz",
+  "download_time": "2026-02-02T07:40:41.187170",
+  "package_url": "https://pypi.org/project/mini_bash/"
+}

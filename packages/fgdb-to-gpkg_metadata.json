@@ -1,0 +1,11 @@
+{
+  "name": "fgdb-to-gpkg",
+  "version": "0.4.6",
+  "summary": "A lightweight Python package that converts Esri File GeoDataBases into OGC GeoPackages",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fgdb_to_gpkg-0.4.6.tar.gz",
+  "download_time": "2026-02-02T07:40:54.736053",
+  "package_url": "https://pypi.org/project/fgdb-to-gpkg/"
+}

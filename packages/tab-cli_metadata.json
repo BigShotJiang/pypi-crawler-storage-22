@@ -1,0 +1,11 @@
+{
+  "name": "tab-cli",
+  "version": "0.1.2",
+  "summary": "A CLI tool for tabular data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tab_cli-0.1.2.tar.gz",
+  "download_time": "2026-02-02T07:41:13.959994",
+  "package_url": "https://pypi.org/project/tab-cli/"
+}

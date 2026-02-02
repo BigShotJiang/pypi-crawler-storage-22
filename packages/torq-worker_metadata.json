@@ -1,0 +1,11 @@
+{
+  "name": "torq-worker",
+  "version": "0.0.1",
+  "summary": "GPU worker for Torq distributed job queue (coming soon)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "torq_worker-0.0.1.tar.gz",
+  "download_time": "2026-02-02T07:41:16.604221",
+  "package_url": "https://pypi.org/project/torq-worker/"
+}

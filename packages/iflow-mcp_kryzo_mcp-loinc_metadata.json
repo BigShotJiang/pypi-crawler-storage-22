@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kryzo_mcp-loinc",
+  "version": "0.1.0",
+  "summary": "LOINC API MCP Server - A Python wrapper for LOINC API with MCP server interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_kryzo_mcp_loinc-0.1.0.tar.gz",
+  "download_time": "2026-02-02T07:40:43.950981",
+  "package_url": "https://pypi.org/project/iflow-mcp_kryzo_mcp-loinc/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "secsgml",
+  "version": "0.3.6",
+  "summary": "Parse Securities and Exchange Commission Standard Generalized Markup Language (SEC SGML) files",
+  "author": "John Friedman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "secsgml-0.3.6.tar.gz",
+  "download_time": "2026-02-02T07:41:23.730874",
+  "package_url": "https://pypi.org/project/secsgml/"
+}

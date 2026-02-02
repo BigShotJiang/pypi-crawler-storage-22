@@ -1,11 +1,11 @@
 {
   "name": "django-display-ids",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Stripe-like prefixed IDs for Django. Works with existing UUIDs — no schema changes.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_display_ids-0.3.1.tar.gz",
-  "download_time": "2026-01-31T23:18:30.333501",
+  "download_filename": "django_display_ids-0.3.2.tar.gz",
+  "download_time": "2026-02-02T07:41:17.732421",
   "package_url": "https://pypi.org/project/django-display-ids/"
 }
