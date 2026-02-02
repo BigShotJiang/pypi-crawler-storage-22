@@ -1,0 +1,11 @@
+{
+  "name": "tns-py",
+  "version": "1.0.0",
+  "summary": "A Python package for loading and sending environment variables to APIs",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/tns-py",
+  "download_filename": "tns_py-1.0.0.tar.gz",
+  "download_time": "2026-02-02T23:07:44.262794",
+  "package_url": "https://pypi.org/project/tns-py/"
+}

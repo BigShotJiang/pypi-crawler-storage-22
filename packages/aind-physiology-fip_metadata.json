@@ -1,0 +1,11 @@
+{
+  "name": "aind-physiology-fip",
+  "version": "0.3.0",
+  "summary": "A repository for Fiber Photometry data acquisition",
+  "author": "Bruno Cruz, Kenta Hagihara",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_physiology_fip-0.3.0.tar.gz",
+  "download_time": "2026-02-02T23:07:04.243808",
+  "package_url": "https://pypi.org/project/aind-physiology-fip/"
+}

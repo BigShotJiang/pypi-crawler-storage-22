@@ -1,0 +1,11 @@
+{
+  "name": "aws-auth-utils",
+  "version": "1.2.0",
+  "summary": "Easy AWS MFA authentication and role assuming",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_auth_utils-1.2.0.tar.gz",
+  "download_time": "2026-02-02T23:07:34.374750",
+  "package_url": "https://pypi.org/project/aws-auth-utils/"
+}

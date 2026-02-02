@@ -1,0 +1,11 @@
+{
+  "name": "armaio",
+  "version": "0.1.0",
+  "summary": "IO modules for handling Arma 3 file formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "armaio-0.1.0.tar.gz",
+  "download_time": "2026-02-02T23:07:20.591214",
+  "package_url": "https://pypi.org/project/armaio/"
+}

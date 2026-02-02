@@ -1,11 +1,11 @@
 {
   "name": "mps-carafe",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "summary": "CARAFE content-aware upsampling for Apple Silicon (MPS)",
   "author": "mpsops",
   "license": null,
   "home_page": null,
-  "download_filename": "mps_carafe-0.1.4.tar.gz",
-  "download_time": "2026-01-31T16:35:28.131597",
+  "download_filename": "mps_carafe-0.2.1.tar.gz",
+  "download_time": "2026-02-02T23:07:10.686837",
   "package_url": "https://pypi.org/project/mps-carafe/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "atdata-lambda",
+  "version": "0.1.1a4",
+  "summary": "Modal serverless processing backend for atdata datasets",
+  "author": "Maxine Levesque",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atdata_lambda-0.1.1a4.tar.gz",
+  "download_time": "2026-02-02T23:07:22.179419",
+  "package_url": "https://pypi.org/project/atdata-lambda/"
+}

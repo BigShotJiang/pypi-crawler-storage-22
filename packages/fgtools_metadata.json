@@ -1,0 +1,11 @@
+{
+  "name": "fgtools",
+  "version": "2.1.28",
+  "summary": "Tools for FlightGear scenery generation and aircraft development",
+  "author": "TheFGFSEagle",
+  "license": "GPLv3",
+  "home_page": "https://github.com/TheFGFSEagle/fgtools",
+  "download_filename": "fgtools-2.1.28.tar.gz",
+  "download_time": "2026-02-02T23:07:19.547147",
+  "package_url": "https://pypi.org/project/fgtools/"
+}

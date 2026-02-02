@@ -1,0 +1,11 @@
+{
+  "name": "supernpc",
+  "version": "0.1.0",
+  "summary": "AI-Powered NPCs for Games - Local LLM NPCs with memory and emotions",
+  "author": "Super NPC Team",
+  "license": null,
+  "home_page": "https://github.com/supernpc/npcs",
+  "download_filename": "supernpc-0.1.0.tar.gz",
+  "download_time": "2026-02-02T23:07:42.163527",
+  "package_url": "https://pypi.org/project/supernpc/"
+}

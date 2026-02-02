@@ -1,11 +1,11 @@
 {
   "name": "patchpal",
-  "version": "0.6.0",
+  "version": "0.7.1",
   "summary": "A lean Claude Code clone in pure  Python",
   "author": "PatchPal Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "patchpal-0.6.0.tar.gz",
-  "download_time": "2026-01-31T20:48:34.457753",
+  "download_filename": "patchpal-0.7.1.tar.gz",
+  "download_time": "2026-02-02T23:07:15.872435",
   "package_url": "https://pypi.org/project/patchpal/"
 }

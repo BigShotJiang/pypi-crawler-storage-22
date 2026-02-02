@@ -1,0 +1,11 @@
+{
+  "name": "mcp-transform-proxy",
+  "version": "0.1.1",
+  "summary": "A CLI proxy for MCP servers with configurable tool transformations",
+  "author": "MCP Transform Proxy Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_transform_proxy-0.1.1.tar.gz",
+  "download_time": "2026-02-02T23:07:25.341431",
+  "package_url": "https://pypi.org/project/mcp-transform-proxy/"
+}

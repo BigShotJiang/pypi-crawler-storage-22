@@ -1,0 +1,11 @@
+{
+  "name": "batch-img",
+  "version": "0.3.7",
+  "summary": "Batch process (resize, rotate, remove background, remove GPS, add border, set transparency, auto do all) image files (HEIC, JPG, PNG)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "batch_img-0.3.7.tar.gz",
+  "download_time": "2026-02-02T23:07:39.029194",
+  "package_url": "https://pypi.org/project/batch-img/"
+}
