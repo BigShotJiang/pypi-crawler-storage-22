@@ -1,0 +1,11 @@
+{
+  "name": "mosmart",
+  "version": "0.9.0",
+  "summary": "S.M.A.R.T Monitor Tool for Linux - Detect failing drives with emergency unmount support",
+  "author": "Magnus Modig",
+  "license": null,
+  "home_page": "https://github.com/MsModig/mosmart",
+  "download_filename": "mosmart-0.9.0.tar.gz",
+  "download_time": "2026-02-02T14:39:50.367237",
+  "package_url": "https://pypi.org/project/mosmart/"
+}

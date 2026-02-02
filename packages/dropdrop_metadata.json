@@ -1,0 +1,11 @@
+{
+  "name": "dropdrop",
+  "version": "1.2.0",
+  "summary": "Python pipeline script for detecting droplets with beads and other inclusions via cellpose",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dropdrop-1.2.0.tar.gz",
+  "download_time": "2026-02-02T14:40:11.171731",
+  "package_url": "https://pypi.org/project/dropdrop/"
+}

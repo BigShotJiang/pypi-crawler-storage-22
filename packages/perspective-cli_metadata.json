@@ -1,0 +1,11 @@
+{
+  "name": "perspective-cli",
+  "version": "0.1.1",
+  "summary": "A CLI tool for managing the Perspective AI platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "perspective_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-02T14:39:27.615254",
+  "package_url": "https://pypi.org/project/perspective-cli/"
+}

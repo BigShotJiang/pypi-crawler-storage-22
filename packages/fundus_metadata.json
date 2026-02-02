@@ -1,0 +1,11 @@
+{
+  "name": "fundus",
+  "version": "0.5.5",
+  "summary": "A very simple news crawler",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fundus-0.5.5.tar.gz",
+  "download_time": "2026-02-02T14:40:01.921303",
+  "package_url": "https://pypi.org/project/fundus/"
+}

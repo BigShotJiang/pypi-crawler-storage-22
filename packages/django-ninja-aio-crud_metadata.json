@@ -1,11 +1,11 @@
 {
   "name": "django-ninja-aio-crud",
-  "version": "2.18.1",
+  "version": "2.18.2",
   "summary": "Django Ninja AIO CRUD - Rest Framework",
   "author": "Giuseppe Casillo",
   "license": null,
   "home_page": null,
-  "download_filename": "django_ninja_aio_crud-2.18.1.tar.gz",
-  "download_time": "2026-02-01T15:51:39.571263",
+  "download_filename": "django_ninja_aio_crud-2.18.2.tar.gz",
+  "download_time": "2026-02-02T14:39:50.952318",
   "package_url": "https://pypi.org/project/django-ninja-aio-crud/"
 }

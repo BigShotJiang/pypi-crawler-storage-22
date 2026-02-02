@@ -1,0 +1,11 @@
+{
+  "name": "worqhat",
+  "version": "4.2.0",
+  "summary": "Python SDK for Worqhat API",
+  "author": "Worqhat",
+  "license": "MIT",
+  "home_page": "https://github.com/worqhat/worqhat-python",
+  "download_filename": "worqhat-4.2.0.tar.gz",
+  "download_time": "2026-02-02T14:39:59.058609",
+  "package_url": "https://pypi.org/project/worqhat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "asktable-advisor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Conversational AI Agent for building AskTable demo scenarios",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "asktable_advisor-1.0.3.tar.gz",
-  "download_time": "2026-02-02T11:52:20.537565",
+  "download_filename": "asktable_advisor-1.0.4.tar.gz",
+  "download_time": "2026-02-02T14:39:21.146237",
   "package_url": "https://pypi.org/project/asktable-advisor/"
 }

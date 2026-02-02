@@ -1,0 +1,11 @@
+{
+  "name": "mpl-plot-report",
+  "version": "0.1.0",
+  "summary": "Structured plot metadata and diagnostics for Matplotlib (agent-friendly sidecars)",
+  "author": "Pierre Lacerte",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mpl_plot_report-0.1.0.tar.gz",
+  "download_time": "2026-02-02T14:39:52.132723",
+  "package_url": "https://pypi.org/project/mpl-plot-report/"
+}

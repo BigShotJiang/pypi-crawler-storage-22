@@ -1,0 +1,11 @@
+{
+  "name": "agentfense",
+  "version": "0.2.1",
+  "summary": "Python SDK for AgentFense - A sandbox infrastructure service for AI Agents with fine-grained file permission control",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentfense-0.2.1.tar.gz",
+  "download_time": "2026-02-02T14:40:01.347052",
+  "package_url": "https://pypi.org/project/agentfense/"
+}

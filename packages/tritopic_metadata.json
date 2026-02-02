@@ -1,11 +1,11 @@
 {
   "name": "tritopic",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "Tri-Modal Graph Topic Modeling with Iterative Refinement",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tritopic-1.0.0.tar.gz",
-  "download_time": "2026-02-02T09:04:44.454467",
+  "download_filename": "tritopic-1.1.2.tar.gz",
+  "download_time": "2026-02-02T14:39:30.568121",
   "package_url": "https://pypi.org/project/tritopic/"
 }

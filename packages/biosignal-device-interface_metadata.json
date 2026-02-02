@@ -1,11 +1,11 @@
 {
   "name": "biosignal-device-interface",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "Python communication interface to many biosignal devices manufactured by several companies to easy integration in custom PySide6 applications.",
-  "author": "Dominik I. Braun",
+  "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "biosignal_device_interface-0.2.4.tar.gz",
-  "download_time": "2026-02-01T21:19:29.863627",
+  "download_filename": "biosignal_device_interface-0.2.6.tar.gz",
+  "download_time": "2026-02-02T14:39:18.806257",
   "package_url": "https://pypi.org/project/biosignal-device-interface/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gmsg",
+  "version": "0.1.8",
+  "summary": "Generates git commit messages for you using AI.",
+  "author": "Shiyan Shirani",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gmsg-0.1.8.tar.gz",
+  "download_time": "2026-02-02T14:39:52.710143",
+  "package_url": "https://pypi.org/project/gmsg/"
+}
