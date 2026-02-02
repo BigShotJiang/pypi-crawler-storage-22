@@ -1,0 +1,11 @@
+{
+  "name": "galtea",
+  "version": "4.10.0",
+  "summary": "Galtea software development kit",
+  "author": "galtea.ai",
+  "license": "Apache-2.0",
+  "home_page": "https://galtea.ai/",
+  "download_filename": "galtea-4.10.0.tar.gz",
+  "download_time": "2026-02-02T10:08:35.349391",
+  "package_url": "https://pypi.org/project/galtea/"
+}

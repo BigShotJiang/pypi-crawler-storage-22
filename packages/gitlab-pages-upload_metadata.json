@@ -1,11 +1,11 @@
 {
   "name": "gitlab-pages-upload",
-  "version": "0.3.0",
+  "version": "0.4.3",
   "summary": "Publish versioned static HTML documentation to GitLab Pages",
   "author": "Cyber Assessment Labs",
   "license": null,
   "home_page": null,
-  "download_filename": "gitlab_pages_upload-0.3.0-py3-none-any.whl",
-  "download_time": "2026-02-01T07:55:41.874018",
+  "download_filename": "gitlab_pages_upload-0.4.3-py3-none-any.whl",
+  "download_time": "2026-02-02T10:08:31.659531",
   "package_url": "https://pypi.org/project/gitlab-pages-upload/"
 }

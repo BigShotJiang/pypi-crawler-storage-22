@@ -1,0 +1,11 @@
+{
+  "name": "mastapy",
+  "version": "15.1.3",
+  "summary": "Python scripting API for MASTA.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mastapy-15.1.3.tar.gz",
+  "download_time": "2026-02-02T10:08:49.026932",
+  "package_url": "https://pypi.org/project/mastapy/"
+}

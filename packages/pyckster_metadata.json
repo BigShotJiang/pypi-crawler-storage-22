@@ -1,0 +1,11 @@
+{
+  "name": "pyckster",
+  "version": "26.2.1",
+  "summary": "A PyQt5-based GUI for the processing and analysis of active near-surface seismic data",
+  "author": "Sylvain Pasquet",
+  "license": "GPLv3",
+  "home_page": "https://gitlab.in2p3.fr/metis-geophysics/pyckster",
+  "download_filename": "pyckster-26.2.1.tar.gz",
+  "download_time": "2026-02-02T10:09:08.439013",
+  "package_url": "https://pypi.org/project/pyckster/"
+}

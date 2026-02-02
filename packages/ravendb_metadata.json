@@ -1,0 +1,11 @@
+{
+  "name": "ravendb",
+  "version": "7.1.5",
+  "summary": "Python client for RavenDB NoSQL Database",
+  "author": "RavenDB",
+  "license": "MIT",
+  "home_page": "https://github.com/ravendb/ravendb-python-client",
+  "download_filename": "ravendb-7.1.5.tar.gz",
+  "download_time": "2026-02-02T10:09:00.120728",
+  "package_url": "https://pypi.org/project/ravendb/"
+}

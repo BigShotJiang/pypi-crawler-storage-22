@@ -1,11 +1,11 @@
 {
   "name": "acmeow",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Production-grade ACME protocol client library for automated SSL/TLS certificate management",
   "author": "ACMEOW Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "acmeow-1.0.0.tar.gz",
-  "download_time": "2026-02-01T11:19:17.513412",
+  "download_filename": "acmeow-1.0.3.tar.gz",
+  "download_time": "2026-02-02T10:08:38.516594",
   "package_url": "https://pypi.org/project/acmeow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eyedentify3d",
+  "version": "1.0.7",
+  "summary": "A package to identify gaze behavior from mobile eye-tracking data.",
+  "author": "Eve Charbonneau",
+  "license": null,
+  "home_page": "https://github.com/EveCharbie/EyeDentify3D",
+  "download_filename": "eyedentify3d-1.0.7-py3-none-any.whl",
+  "download_time": "2026-02-02T10:08:30.121398",
+  "package_url": "https://pypi.org/project/eyedentify3d/"
+}
