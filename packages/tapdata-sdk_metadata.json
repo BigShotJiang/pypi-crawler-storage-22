@@ -1,11 +1,11 @@
 {
   "name": "tapdata-sdk",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A Python client library for interacting with Tapdata API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tapdata_sdk-0.2.0.tar.gz",
-  "download_time": "2026-02-03T07:33:21.600640",
+  "download_filename": "tapdata_sdk-0.3.0.tar.gz",
+  "download_time": "2026-02-03T09:00:00.546870",
   "package_url": "https://pypi.org/project/tapdata-sdk/"
 }

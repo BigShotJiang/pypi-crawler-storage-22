@@ -1,0 +1,11 @@
+{
+  "name": "mssql-agent-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for Microsoft SQL Server with SQL Agent job management and stored procedure version control",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mssql_agent_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-03T08:59:34.432004",
+  "package_url": "https://pypi.org/project/mssql-agent-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-mcp",
+  "version": "0.1.6",
+  "summary": "The Universal System for AI Agent Collaboration - Connect any AI agent to every other agent",
+  "author": "GrupaAI",
+  "license": "MIT",
+  "home_page": "https://github.com/grupa-ai/agent-mcp",
+  "download_filename": "agent_mcp-0.1.6.tar.gz",
+  "download_time": "2026-02-03T08:59:28.692054",
+  "package_url": "https://pypi.org/project/agent-mcp/"
+}

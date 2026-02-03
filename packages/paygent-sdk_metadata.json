@@ -1,0 +1,11 @@
+{
+  "name": "paygent-sdk",
+  "version": "4.0.0",
+  "summary": "Official Python SDK for Paygent - Track AI usage and costs across multiple providers (OpenAI, Anthropic, Google, DeepSeek, etc.)",
+  "author": "Paygent",
+  "license": "MIT",
+  "home_page": "https://github.com/paygent/paygent-sdk-python",
+  "download_filename": "paygent_sdk-4.0.0.tar.gz",
+  "download_time": "2026-02-03T08:59:08.819500",
+  "package_url": "https://pypi.org/project/paygent-sdk/"
+}

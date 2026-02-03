@@ -1,11 +1,11 @@
 {
   "name": "tableapys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "tableapys",
   "author": "ops",
   "license": "Python Script",
   "home_page": null,
-  "download_filename": "tableapys-1.0.1.tar.gz",
-  "download_time": "2026-02-03T06:33:30.667631",
+  "download_filename": "tableapys-1.0.2.tar.gz",
+  "download_time": "2026-02-03T08:59:45.477176",
   "package_url": "https://pypi.org/project/tableapys/"
 }

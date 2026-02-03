@@ -1,0 +1,11 @@
+{
+  "name": "acti-motus",
+  "version": "2.3.1",
+  "summary": "Python-powered human activity recognition algorithm that build upon Acti4, processing data from multiple accelerometers with a required thigh sensor.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "acti_motus-2.3.1.tar.gz",
+  "download_time": "2026-02-03T08:59:19.972383",
+  "package_url": "https://pypi.org/project/acti-motus/"
+}

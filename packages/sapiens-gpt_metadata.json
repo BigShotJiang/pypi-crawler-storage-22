@@ -1,11 +1,11 @@
 {
   "name": "sapiens-gpt",
-  "version": "3.0.1",
+  "version": "3.0.7",
   "summary": null,
   "author": "SAPIENS TECHNOLOGY",
   "license": "Proprietary Software",
   "home_page": "https://github.com/sapiens-technology/sapiens_gpt",
-  "download_filename": "sapiens_gpt-3.0.1.tar.gz",
-  "download_time": "2026-02-03T05:36:53.412732",
+  "download_filename": "sapiens_gpt-3.0.7.tar.gz",
+  "download_time": "2026-02-03T08:59:18.249040",
   "package_url": "https://pypi.org/project/sapiens-gpt/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-hellotinah-mcp",
+  "version": "1.0.0",
+  "summary": "A simple MCP server that provides tools, resources, and prompts for working with Google Sheets and Google Forms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_hellotinah_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-03T08:59:50.241611",
+  "package_url": "https://pypi.org/project/iflow-mcp-hellotinah-mcp/"
+}

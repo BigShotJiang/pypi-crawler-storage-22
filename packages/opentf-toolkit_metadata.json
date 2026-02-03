@@ -1,0 +1,11 @@
+{
+  "name": "opentf-toolkit",
+  "version": "0.63.0",
+  "summary": "OpenTestFactory Orchestrator Toolkit",
+  "author": "Martin Lafaix",
+  "license": "Apache Software License (https://www.apache.org/licenses/LICENSE-2.0)",
+  "home_page": "https://gitlab.com/henixdevelopment/open-source/opentestfactory/python-toolkit",
+  "download_filename": "opentf_toolkit-0.63.0-py3-none-any.whl",
+  "download_time": "2026-02-03T08:59:59.397275",
+  "package_url": "https://pypi.org/project/opentf-toolkit/"
+}
