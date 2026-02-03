@@ -1,11 +1,11 @@
 {
   "name": "c2cgeoportal-commons",
-  "version": "2.9.0.390",
+  "version": "2.9.0.392",
   "summary": "c2cgeoportal commons",
   "author": "Camptocamp",
   "license": null,
   "home_page": "https://github.com/camptocamp/c2cgeoportal/",
-  "download_filename": "c2cgeoportal_commons-2.9.0.390-py3-none-any.whl",
-  "download_time": "2026-02-03T15:03:47.806338",
+  "download_filename": "c2cgeoportal_commons-2.9.0.392-py3-none-any.whl",
+  "download_time": "2026-02-03T19:54:48.640024",
   "package_url": "https://pypi.org/project/c2cgeoportal-commons/"
 }

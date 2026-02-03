@@ -1,0 +1,11 @@
+{
+  "name": "prefect-github",
+  "version": "0.4.1",
+  "summary": "Prefect integrations interacting with GitHub",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_github-0.4.1.tar.gz",
+  "download_time": "2026-02-03T19:54:41.926392",
+  "package_url": "https://pypi.org/project/prefect-github/"
+}

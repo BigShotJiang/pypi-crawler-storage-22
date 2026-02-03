@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-google",
+  "version": "5.3.0",
+  "summary": "Google Cloud DNS Authenticator plugin for Certbot",
+  "author": "Certbot Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot_dns_google-5.3.0.tar.gz",
+  "download_time": "2026-02-03T19:55:08.966800",
+  "package_url": "https://pypi.org/project/certbot-dns-google/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "claude-ssh-mcp",
+  "version": "1.0.0",
+  "summary": "MCP addon for Claude Desktop - SSH into servers, run commands, transfer files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_ssh_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-03T19:54:43.461972",
+  "package_url": "https://pypi.org/project/claude-ssh-mcp/"
+}

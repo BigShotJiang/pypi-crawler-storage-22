@@ -1,0 +1,11 @@
+{
+  "name": "guidance",
+  "version": "0.3.1",
+  "summary": "A guidance language for controlling large language models.",
+  "author": "Guidance Maintainers",
+  "license": null,
+  "home_page": "https://github.com/guidance-ai/guidance",
+  "download_filename": "guidance-0.3.1.tar.gz",
+  "download_time": "2026-02-03T19:54:36.609966",
+  "package_url": "https://pypi.org/project/guidance/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "payload-api",
+  "version": "0.5.1",
+  "summary": "Payload Python Library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "payload_api-0.5.1-py3-none-any.whl",
+  "download_time": "2026-02-03T19:54:35.086410",
+  "package_url": "https://pypi.org/project/payload-api/"
+}

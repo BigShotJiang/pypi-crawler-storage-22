@@ -1,11 +1,11 @@
 {
   "name": "alberta-framework",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "summary": "Implementation of the Alberta Plan for AI Research - continual learning with meta-learned step-sizes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alberta_framework-0.3.0.tar.gz",
-  "download_time": "2026-02-03T17:15:35.163746",
+  "download_filename": "alberta_framework-0.3.2.tar.gz",
+  "download_time": "2026-02-03T19:54:53.966230",
   "package_url": "https://pypi.org/project/alberta-framework/"
 }

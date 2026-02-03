@@ -1,11 +1,11 @@
 {
   "name": "chatcmd",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Open-source AI CLI for command lookup, SQL generation, and developer tools with multi-model support (OpenAI, Anthropic, Google, Cohere, Ollama).",
   "author": "Naif Alshaye",
   "license": "MIT License",
   "home_page": "https://github.com/naifalshaye/chatcmd",
-  "download_filename": "chatcmd-2.2.0.tar.gz",
-  "download_time": "2026-02-03T18:08:07.500428",
+  "download_filename": "chatcmd-2.2.1.tar.gz",
+  "download_time": "2026-02-03T19:54:31.038376",
   "package_url": "https://pypi.org/project/chatcmd/"
 }

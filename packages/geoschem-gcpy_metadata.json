@@ -1,0 +1,11 @@
+{
+  "name": "geoschem-gcpy",
+  "version": "1.7.1",
+  "summary": null,
+  "author": "GEOS-Chem Support Team",
+  "license": "MIT",
+  "home_page": "https://github.com/geoschem/gcpy",
+  "download_filename": "geoschem_gcpy-1.7.1.tar.gz",
+  "download_time": "2026-02-03T19:54:50.900291",
+  "package_url": "https://pypi.org/project/geoschem-gcpy/"
+}

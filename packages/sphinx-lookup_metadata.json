@@ -1,11 +1,11 @@
 {
   "name": "sphinx-lookup",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Lightweight CLI for querying the Sphinx Scanner LLM Attack Database",
   "author": "Sphinx Scanner Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sphinx_lookup-0.2.1.tar.gz",
-  "download_time": "2026-02-03T15:03:56.155495",
+  "download_filename": "sphinx_lookup-0.2.2.tar.gz",
+  "download_time": "2026-02-03T19:54:53.454914",
   "package_url": "https://pypi.org/project/sphinx-lookup/"
 }

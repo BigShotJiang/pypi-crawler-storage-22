@@ -1,0 +1,11 @@
+{
+  "name": "claude-transcriber",
+  "version": "0.3.1",
+  "summary": "Transcribe Claude Code JSONL logs to human-readable text",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_transcriber-0.3.1.tar.gz",
+  "download_time": "2026-02-03T19:54:43.974830",
+  "package_url": "https://pypi.org/project/claude-transcriber/"
+}

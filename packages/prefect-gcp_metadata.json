@@ -1,0 +1,11 @@
+{
+  "name": "prefect-gcp",
+  "version": "0.6.16",
+  "summary": "Prefect integrations for interacting with Google Cloud Platform.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "prefect_gcp-0.6.16.tar.gz",
+  "download_time": "2026-02-03T19:54:42.951134",
+  "package_url": "https://pypi.org/project/prefect-gcp/"
+}

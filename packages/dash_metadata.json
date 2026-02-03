@@ -1,0 +1,11 @@
+{
+  "name": "dash",
+  "version": "4.0.0",
+  "summary": "A Python framework for building reactive web-apps. Developed by Plotly.",
+  "author": "Chris Parmer",
+  "license": "MIT",
+  "home_page": "https://plotly.com/dash",
+  "download_filename": "dash-4.0.0.tar.gz",
+  "download_time": "2026-02-03T19:55:01.797990",
+  "package_url": "https://pypi.org/project/dash/"
+}

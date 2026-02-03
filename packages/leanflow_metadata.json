@@ -1,0 +1,11 @@
+{
+  "name": "leanflow",
+  "version": "0.0.3",
+  "summary": "A Python interface for Lean 4.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "leanflow-0.0.3.tar.gz",
+  "download_time": "2026-02-03T19:55:18.302298",
+  "package_url": "https://pypi.org/project/leanflow/"
+}

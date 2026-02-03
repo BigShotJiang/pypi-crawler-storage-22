@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-rfc2136",
+  "version": "5.3.0",
+  "summary": "RFC 2136 DNS Authenticator plugin for Certbot",
+  "author": "Certbot Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "certbot_dns_rfc2136-5.3.0.tar.gz",
+  "download_time": "2026-02-03T19:55:05.888949",
+  "package_url": "https://pypi.org/project/certbot-dns-rfc2136/"
+}

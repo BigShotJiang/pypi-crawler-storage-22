@@ -1,0 +1,11 @@
+{
+  "name": "nomade-hpc",
+  "version": "1.2.0",
+  "summary": "A lightweight HPC monitoring and predictive analytics tool",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nomade_hpc-1.2.0.tar.gz",
+  "download_time": "2026-02-03T19:55:19.874046",
+  "package_url": "https://pypi.org/project/nomade-hpc/"
+}
