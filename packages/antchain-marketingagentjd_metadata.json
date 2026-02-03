@@ -1,0 +1,11 @@
+{
+  "name": "antchain-marketingagentjd",
+  "version": "2.0.0",
+  "summary": "Ant Chain MARKETINGAGENTJD SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_marketingagentjd-2.0.0.tar.gz",
+  "download_time": "2026-02-03T07:33:26.999675",
+  "package_url": "https://pypi.org/project/antchain-marketingagentjd/"
+}

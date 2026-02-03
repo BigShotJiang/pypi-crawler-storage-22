@@ -1,0 +1,11 @@
+{
+  "name": "xhs-note-extractor",
+  "version": "0.1.7",
+  "summary": "A Python package for extracting Xiaohongshu (Little Red Book) note data from URLs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xhs_note_extractor-0.1.7.tar.gz",
+  "download_time": "2026-02-03T07:32:38.762370",
+  "package_url": "https://pypi.org/project/xhs-note-extractor/"
+}

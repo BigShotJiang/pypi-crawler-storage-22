@@ -1,11 +1,11 @@
 {
   "name": "digital-employee-core",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "summary": null,
   "author": "Digital Employee Team",
   "license": null,
   "home_page": null,
-  "download_filename": "digital_employee_core-0.0.22.tar.gz",
-  "download_time": "2026-02-03T04:30:34.117231",
+  "download_filename": "digital_employee_core-0.0.23.tar.gz",
+  "download_time": "2026-02-03T07:33:03.043747",
   "package_url": "https://pypi.org/project/digital-employee-core/"
 }

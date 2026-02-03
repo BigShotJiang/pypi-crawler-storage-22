@@ -1,0 +1,11 @@
+{
+  "name": "upstash-redis",
+  "version": "1.6.0",
+  "summary": "Serverless Redis SDK from Upstash",
+  "author": "Upstash",
+  "license": "MIT",
+  "home_page": "https://github.com/upstash/redis-python",
+  "download_filename": "upstash_redis-1.6.0.tar.gz",
+  "download_time": "2026-02-03T07:32:45.112570",
+  "package_url": "https://pypi.org/project/upstash-redis/"
+}
