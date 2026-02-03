@@ -1,0 +1,11 @@
+{
+  "name": "azure-cosmos",
+  "version": "4.14.6",
+  "summary": "Microsoft Azure Cosmos Client Library for Python",
+  "author": "Microsoft Corporation",
+  "license": "MIT License",
+  "home_page": "https://github.com/Azure/azure-sdk-for-python",
+  "download_filename": "azure_cosmos-4.14.6.tar.gz",
+  "download_time": "2026-02-03T22:28:05.649544",
+  "package_url": "https://pypi.org/project/azure-cosmos/"
+}

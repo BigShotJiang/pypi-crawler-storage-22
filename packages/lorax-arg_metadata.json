@@ -1,0 +1,11 @@
+{
+  "name": "lorax-arg",
+  "version": "0.1",
+  "summary": "Lorax single-port app (bundled UI + backend)",
+  "author": "Lorax Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lorax_arg-0.1.tar.gz",
+  "download_time": "2026-02-03T22:27:30.853666",
+  "package_url": "https://pypi.org/project/lorax-arg/"
+}

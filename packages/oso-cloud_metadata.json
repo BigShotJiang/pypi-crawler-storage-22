@@ -1,0 +1,11 @@
+{
+  "name": "oso-cloud",
+  "version": "2.5.2",
+  "summary": "Oso Cloud Python client",
+  "author": "Oso Security",
+  "license": "Apache-2.0",
+  "home_page": "https://www.osohq.com",
+  "download_filename": "oso_cloud-2.5.2-py3-none-any.whl",
+  "download_time": "2026-02-03T22:27:59.536500",
+  "package_url": "https://pypi.org/project/oso-cloud/"
+}

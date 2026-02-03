@@ -1,11 +1,11 @@
 {
   "name": "rationalbloks-mcp",
-  "version": "0.3.4",
+  "version": "0.4.1",
   "summary": "Unified MCP Server for RationalBloks - Backend API + Frontend Generation for AI agents",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "rationalbloks_mcp-0.3.4.tar.gz",
-  "download_time": "2026-02-03T20:32:26.879073",
+  "download_filename": "rationalbloks_mcp-0.4.1.tar.gz",
+  "download_time": "2026-02-03T22:27:31.426894",
   "package_url": "https://pypi.org/project/rationalbloks-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nci-cidc-api-modules",
-  "version": "1.2.56",
+  "version": "1.2.59",
   "summary": "SQLAlchemy data models and configuration tools used in the NCI CIDC API",
   "author": null,
   "license": "MIT license",
   "home_page": "https://github.com/NCI-CIDC/cidc-api-gae",
-  "download_filename": "nci_cidc_api_modules-1.2.56.tar.gz",
-  "download_time": "2026-02-02T16:42:30.015584",
+  "download_filename": "nci_cidc_api_modules-1.2.59.tar.gz",
+  "download_time": "2026-02-03T22:27:56.400720",
   "package_url": "https://pypi.org/project/nci-cidc-api-modules/"
 }
