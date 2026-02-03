@@ -1,0 +1,11 @@
+{
+  "name": "mmcb-rs232-avt",
+  "version": "1.1.37",
+  "summary": "ATLAS ITK Pixels Multi-Module Cycling Box environmental monitoring/control (RS232)",
+  "author": "Alan Taylor",
+  "license": null,
+  "home_page": "https://gitlab.ph.liv.ac.uk/avt/atlas-itk-pmmcb-rs232",
+  "download_filename": "mmcb_rs232_avt-1.1.37.tar.gz",
+  "download_time": "2026-02-03T15:03:50.426861",
+  "package_url": "https://pypi.org/project/mmcb-rs232-avt/"
+}

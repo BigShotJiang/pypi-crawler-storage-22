@@ -1,11 +1,11 @@
 {
   "name": "kiwitcms-github-marketplace",
-  "version": "4.3.0",
+  "version": "4.4.0",
   "summary": "GitHub Marketplace integration for Kiwi TCMS",
   "author": "Kiwi TCMS",
   "license": "AGPLv3+",
   "home_page": "https://github.com/kiwitcms/github-marketplace/",
-  "download_filename": "kiwitcms_github_marketplace-4.3.0.tar.gz",
-  "download_time": "2026-01-28T20:23:43.419568",
+  "download_filename": "kiwitcms_github_marketplace-4.4.0.tar.gz",
+  "download_time": "2026-02-03T15:04:23.191409",
   "package_url": "https://pypi.org/project/kiwitcms-github-marketplace/"
 }

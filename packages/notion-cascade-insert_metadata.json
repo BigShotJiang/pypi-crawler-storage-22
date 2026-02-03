@@ -1,0 +1,11 @@
+{
+  "name": "notion-cascade-insert",
+  "version": "0.0.4",
+  "summary": "Cascade inserting for Notion Database Automation (as log)",
+  "author": "TN",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/amezaikupan/notion_cascade_insert",
+  "download_filename": "notion_cascade_insert-0.0.4.tar.gz",
+  "download_time": "2026-02-03T15:03:42.960790",
+  "package_url": "https://pypi.org/project/notion-cascade-insert/"
+}

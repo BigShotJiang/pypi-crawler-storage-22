@@ -1,0 +1,11 @@
+{
+  "name": "launchdarkly-api",
+  "version": "21.0.0",
+  "summary": "LaunchDarkly REST API",
+  "author": "LaunchDarkly Technical Support Team",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "launchdarkly_api-21.0.0-py2.py3-none-any.whl",
+  "download_time": "2026-02-03T15:04:22.162478",
+  "package_url": "https://pypi.org/project/launchdarkly-api/"
+}

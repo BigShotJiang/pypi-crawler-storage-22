@@ -1,11 +1,11 @@
 {
   "name": "chunksilo",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "summary": "Local RAG-based semantic document search with MCP server interface",
   "author": "Fredrik Reveny",
   "license": null,
   "home_page": null,
-  "download_filename": "chunksilo-2.1.1.tar.gz",
-  "download_time": "2026-02-03T12:49:38.012732",
+  "download_filename": "chunksilo-2.1.2.tar.gz",
+  "download_time": "2026-02-03T15:03:48.327143",
   "package_url": "https://pypi.org/project/chunksilo/"
 }

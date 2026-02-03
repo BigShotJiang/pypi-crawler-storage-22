@@ -1,0 +1,11 @@
+{
+  "name": "mmcb-avt",
+  "version": "1.1.4",
+  "summary": "ATLAS ITK Pixels Multi-Module Cycling Box environmental monitoring/control",
+  "author": "Alan Taylor, Manex Ormazabal",
+  "license": null,
+  "home_page": "https://gitlab.ph.liv.ac.uk/avt/atlas-itk-pmmcb",
+  "download_filename": "mmcb_avt-1.1.4.tar.gz",
+  "download_time": "2026-02-03T15:03:48.860186",
+  "package_url": "https://pypi.org/project/mmcb-avt/"
+}

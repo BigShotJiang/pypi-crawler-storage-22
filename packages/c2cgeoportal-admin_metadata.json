@@ -1,11 +1,11 @@
 {
   "name": "c2cgeoportal-admin",
-  "version": "2.9.0.387",
+  "version": "2.9.0.390",
   "summary": "c2cgeoportal admin",
   "author": "Camptocamp",
   "license": null,
   "home_page": "https://github.com/camptocamp/c2cgeoportal/",
-  "download_filename": "c2cgeoportal_admin-2.9.0.387-py3-none-any.whl",
-  "download_time": "2026-02-01T05:49:46.457218",
+  "download_filename": "c2cgeoportal_admin-2.9.0.390-py3-none-any.whl",
+  "download_time": "2026-02-03T15:03:46.102960",
   "package_url": "https://pypi.org/project/c2cgeoportal-admin/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-shiro-web-console",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "summary": "一个用于 NoneBot2 的网页控制台插件，支持通过浏览器查看日志和发送消息",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nonebot_plugin_shiro_web_console-0.1.14.tar.gz",
-  "download_time": "2026-01-31T16:35:05.913536",
+  "download_filename": "nonebot_plugin_shiro_web_console-0.1.15.tar.gz",
+  "download_time": "2026-02-03T15:03:56.675047",
   "package_url": "https://pypi.org/project/nonebot-plugin-shiro-web-console/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "LHCbDIRAC",
+  "version": "12.0.6",
+  "summary": "LHCbDIRAC is the LHCb extension of DIRAC",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://gitlab.cern.ch/lhcb-dirac/LHCbDIRAC/",
+  "download_filename": "lhcbdirac-12.0.6.tar.gz",
+  "download_time": "2026-02-03T15:04:18.089323",
+  "package_url": "https://pypi.org/project/LHCbDIRAC/"
+}
