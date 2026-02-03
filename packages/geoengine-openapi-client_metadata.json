@@ -1,0 +1,11 @@
+{
+  "name": "geoengine-openapi-client",
+  "version": "0.0.31",
+  "summary": "Geo Engine API",
+  "author": "Geo Engine Developers",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/geo-engine/openapi-client",
+  "download_filename": "geoengine_openapi_client-0.0.31.tar.gz",
+  "download_time": "2026-02-03T19:14:35.344853",
+  "package_url": "https://pypi.org/project/geoengine-openapi-client/"
+}

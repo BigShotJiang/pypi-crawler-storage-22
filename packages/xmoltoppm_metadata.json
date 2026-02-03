@@ -1,0 +1,11 @@
+{
+  "name": "xmoltoppm",
+  "version": "1.0.0",
+  "summary": "XYZ trajectory to PPM/PNG molecular visualization (Python port of xmoltoppm)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmoltoppm-1.0.0.tar.gz",
+  "download_time": "2026-02-03T19:14:37.668407",
+  "package_url": "https://pypi.org/project/xmoltoppm/"
+}

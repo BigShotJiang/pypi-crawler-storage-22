@@ -1,0 +1,11 @@
+{
+  "name": "isnad-scan",
+  "version": "0.3.0",
+  "summary": "Security scanner for AI agent skills - detects code injection, prompt injection, credential exfiltration, and supply chain attacks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isnad_scan-0.3.0.tar.gz",
+  "download_time": "2026-02-03T19:14:33.009141",
+  "package_url": "https://pypi.org/project/isnad-scan/"
+}

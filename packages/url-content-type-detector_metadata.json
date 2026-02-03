@@ -1,0 +1,11 @@
+{
+  "name": "url-content-type-detector",
+  "version": "2026.2.0",
+  "summary": "A utility to determine the content type of a URL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "url_content_type_detector-2026.2.0.tar.gz",
+  "download_time": "2026-02-03T19:14:58.404294",
+  "package_url": "https://pypi.org/project/url-content-type-detector/"
+}

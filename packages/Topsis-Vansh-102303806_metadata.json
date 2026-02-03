@@ -1,11 +1,11 @@
 {
   "name": "Topsis-Vansh-102303806",
-  "version": "0.0.1",
-  "summary": "TOPSIS implementation as a Python package",
+  "version": "0.0.2",
+  "summary": "TOPSIS command-line tool",
   "author": "Vansh",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_vansh_102303806-0.0.1.tar.gz",
-  "download_time": "2026-02-03T18:08:08.032797",
+  "download_filename": "topsis_vansh_102303806-0.0.2.tar.gz",
+  "download_time": "2026-02-03T19:14:45.306364",
   "package_url": "https://pypi.org/project/Topsis-Vansh-102303806/"
 }

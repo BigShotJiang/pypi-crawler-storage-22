@@ -1,0 +1,11 @@
+{
+  "name": "git-commit-tracker",
+  "version": "0.1.0",
+  "summary": "A CLI tool to detect which tests are impacted by a git commit.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_commit_tracker-0.1.0.tar.gz",
+  "download_time": "2026-02-03T19:14:42.445027",
+  "package_url": "https://pypi.org/project/git-commit-tracker/"
+}

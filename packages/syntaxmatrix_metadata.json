@@ -1,0 +1,11 @@
+{
+  "name": "syntaxmatrix",
+  "version": "3.0.0",
+  "summary": "SyntaxMatrix: A Framework for  building owned AI Platform.",
+  "author": "Bob Nti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "syntaxmatrix-3.0.0.tar.gz",
+  "download_time": "2026-02-03T19:14:50.787830",
+  "package_url": "https://pypi.org/project/syntaxmatrix/"
+}
