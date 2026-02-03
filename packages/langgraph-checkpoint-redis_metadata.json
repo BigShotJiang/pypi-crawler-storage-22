@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-checkpoint-redis",
+  "version": "0.3.4",
+  "summary": "Redis implementation of the LangGraph agent checkpoint saver and store.",
+  "author": "Redis Inc.",
+  "license": "MIT",
+  "home_page": "https://www.github.com/redis-developer/langgraph-redis",
+  "download_filename": "langgraph_checkpoint_redis-0.3.4.tar.gz",
+  "download_time": "2026-02-03T04:30:31.824927",
+  "package_url": "https://pypi.org/project/langgraph-checkpoint-redis/"
+}

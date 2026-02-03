@@ -1,0 +1,11 @@
+{
+  "name": "geoipsets",
+  "version": "2.4.1",
+  "summary": "Utility to build country-specific IP sets for ipset/iptables and nftables.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": "https://github.com/chr0mag/geoipsets",
+  "download_filename": "geoipsets-2.4.1.tar.gz",
+  "download_time": "2026-02-03T04:30:24.256618",
+  "package_url": "https://pypi.org/project/geoipsets/"
+}
