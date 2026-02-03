@@ -1,0 +1,11 @@
+{
+  "name": "sendviacli",
+  "version": "0.1.0",
+  "summary": "A command-line tool for secure, fast, single-file sharing via short codes.",
+  "author": "SendVia Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sendviacli-0.1.0.tar.gz",
+  "download_time": "2026-02-03T08:07:35.203288",
+  "package_url": "https://pypi.org/project/sendviacli/"
+}

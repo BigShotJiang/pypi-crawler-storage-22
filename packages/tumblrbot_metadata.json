@@ -1,0 +1,11 @@
+{
+  "name": "tumblrbot",
+  "version": "1.10.0",
+  "summary": "An updated bot that posts to Tumblr, based on your very own blog!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tumblrbot-1.10.0.tar.gz",
+  "download_time": "2026-02-03T08:07:36.225235",
+  "package_url": "https://pypi.org/project/tumblrbot/"
+}

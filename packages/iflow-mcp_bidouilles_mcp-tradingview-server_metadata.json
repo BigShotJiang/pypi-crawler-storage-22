@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_bidouilles_mcp-tradingview-server",
+  "version": "0.1.0",
+  "summary": "MCP server for TradingView indicators using tradingview_scraper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_bidouilles_mcp_tradingview_server-0.1.0.tar.gz",
+  "download_time": "2026-02-03T08:07:26.373784",
+  "package_url": "https://pypi.org/project/iflow-mcp_bidouilles_mcp-tradingview-server/"
+}

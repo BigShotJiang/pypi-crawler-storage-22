@@ -1,11 +1,11 @@
 {
   "name": "code-to-txt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Convert code files to a single text file for LLM consumption",
   "author": "Andrii Sonsiadlo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "code_to_txt-0.1.0.tar.gz",
-  "download_time": "2026-02-01T12:38:35.443386",
+  "download_filename": "code_to_txt-0.2.0.tar.gz",
+  "download_time": "2026-02-03T08:07:49.259729",
   "package_url": "https://pypi.org/project/code-to-txt/"
 }

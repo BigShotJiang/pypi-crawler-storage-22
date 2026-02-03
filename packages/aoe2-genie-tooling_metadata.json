@@ -1,0 +1,11 @@
+{
+  "name": "aoe2-genie-tooling",
+  "version": "1.2.1",
+  "summary": "High-level Python toolkit for editing AoE2 DE DAT files",
+  "author": "GoKuModder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aoe2_genie_tooling-1.2.1-py3-none-any.whl",
+  "download_time": "2026-02-03T08:07:32.590510",
+  "package_url": "https://pypi.org/project/aoe2-genie-tooling/"
+}

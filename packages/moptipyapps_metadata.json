@@ -1,0 +1,11 @@
+{
+  "name": "moptipyapps",
+  "version": "0.8.85",
+  "summary": "Applications of Metaheuristic Optimization in Python.",
+  "author": "Thomas Weise",
+  "license": "GPL 3.0",
+  "home_page": "https://thomasweise.github.io/moptipyapps",
+  "download_filename": "moptipyapps-0.8.85.tar.gz",
+  "download_time": "2026-02-03T08:07:05.195364",
+  "package_url": "https://pypi.org/project/moptipyapps/"
+}

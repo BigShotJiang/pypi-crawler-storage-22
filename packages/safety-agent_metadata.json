@@ -1,11 +1,11 @@
 {
   "name": "safety-agent",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "A lightweight Python guardrail SDK for content safety",
   "author": "Superagent AI",
   "license": null,
   "home_page": null,
-  "download_filename": "safety_agent-0.1.3.tar.gz",
-  "download_time": "2026-02-02T08:09:28.237023",
+  "download_filename": "safety_agent-0.1.5.tar.gz",
+  "download_time": "2026-02-03T08:07:05.727397",
   "package_url": "https://pypi.org/project/safety-agent/"
 }

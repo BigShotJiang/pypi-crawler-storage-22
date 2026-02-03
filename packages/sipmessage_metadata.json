@@ -1,0 +1,11 @@
+{
+  "name": "sipmessage",
+  "version": "0.7.0",
+  "summary": "Pure python parsing of SIP messages and headers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sipmessage-0.7.0.tar.gz",
+  "download_time": "2026-02-03T08:07:04.115275",
+  "package_url": "https://pypi.org/project/sipmessage/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "database-common-tools",
-  "version": "1.7.0",
+  "version": "1.7.3",
   "summary": "let message middleware and use database more easy",
   "author": "Coder Yang",
   "license": "MIT",
   "home_page": "https://github.com/yangming9/database-common-tools.git",
-  "download_filename": "database_common_tools-1.7.0.tar.gz",
-  "download_time": "2026-02-03T07:32:57.788810",
+  "download_filename": "database_common_tools-1.7.3.tar.gz",
+  "download_time": "2026-02-03T08:07:03.074697",
   "package_url": "https://pypi.org/project/database-common-tools/"
 }

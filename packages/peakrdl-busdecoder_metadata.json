@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl-busdecoder",
+  "version": "0.6.7",
+  "summary": "Generate a SystemVerilog bus decoder from SystemRDL for splitting CPU interfaces to multiple sub-address spaces",
+  "author": "Arnav Sacheti",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "peakrdl_busdecoder-0.6.7-py3-none-any.whl",
+  "download_time": "2026-02-03T08:07:03.586131",
+  "package_url": "https://pypi.org/project/peakrdl-busdecoder/"
+}

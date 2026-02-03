@@ -1,0 +1,11 @@
+{
+  "name": "django-letsencrypt",
+  "version": "6.0.0",
+  "summary": "A simple Django app to handle Let's Encrypt ACME challenges.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_letsencrypt-6.0.0.tar.gz",
+  "download_time": "2026-02-03T08:07:22.188400",
+  "package_url": "https://pypi.org/project/django-letsencrypt/"
+}

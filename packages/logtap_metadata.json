@@ -1,0 +1,11 @@
+{
+  "name": "logtap",
+  "version": "0.4.1",
+  "summary": "A CLI-first log access tool for Unix systems. Remote log file access without SSH.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "logtap-0.4.1.tar.gz",
+  "download_time": "2026-02-03T08:07:06.257666",
+  "package_url": "https://pypi.org/project/logtap/"
+}

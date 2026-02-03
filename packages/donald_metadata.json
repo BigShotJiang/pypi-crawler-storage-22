@@ -1,0 +1,11 @@
+{
+  "name": "donald",
+  "version": "2.1.0",
+  "summary": "Task manager for asyncio",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "donald-2.1.0.tar.gz",
+  "download_time": "2026-02-03T08:07:08.380921",
+  "package_url": "https://pypi.org/project/donald/"
+}

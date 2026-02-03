@@ -1,0 +1,11 @@
+{
+  "name": "mrs-core",
+  "version": "0.1.1",
+  "summary": "MRS-Core: A deterministic modular reasoning engine.",
+  "author": "Ryan Sabouhi",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mrs_core-0.1.1.tar.gz",
+  "download_time": "2026-02-03T08:07:20.102242",
+  "package_url": "https://pypi.org/project/mrs-core/"
+}

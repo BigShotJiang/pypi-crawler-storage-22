@@ -1,0 +1,11 @@
+{
+  "name": "coverage-tool",
+  "version": "1.0.0",
+  "summary": "Multi-language unit test coverage analysis tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "coverage_tool-1.0.0.tar.gz",
+  "download_time": "2026-02-03T08:07:15.483925",
+  "package_url": "https://pypi.org/project/coverage-tool/"
+}

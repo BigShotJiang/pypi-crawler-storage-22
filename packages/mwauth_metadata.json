@@ -1,11 +1,11 @@
 {
   "name": "mwauth",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "maxwin auth",
   "author": "cxhjet",
   "license": null,
   "home_page": "https://bitbucket.org/maxwin-inc/auth/src",
-  "download_filename": "mwauth-0.5.1.tar.gz",
-  "download_time": "2026-02-02T09:05:14.215795",
+  "download_filename": "mwauth-0.5.2.tar.gz",
+  "download_time": "2026-02-03T08:07:21.657275",
   "package_url": "https://pypi.org/project/mwauth/"
 }
