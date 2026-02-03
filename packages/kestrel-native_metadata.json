@@ -1,0 +1,11 @@
+{
+  "name": "kestrel-native",
+  "version": "0.1.1",
+  "summary": "High-performance native extensions for Kestrel",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kestrel_native-0.1.1-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-03T00:01:04.431371",
+  "package_url": "https://pypi.org/project/kestrel-native/"
+}

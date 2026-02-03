@@ -1,0 +1,11 @@
+{
+  "name": "moltauth",
+  "version": "0.1.0",
+  "summary": "Authentication SDK for MoltTribe - Interpersonal Intelligence Platform for AI Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "moltauth-0.1.0.tar.gz",
+  "download_time": "2026-02-03T00:00:31.859720",
+  "package_url": "https://pypi.org/project/moltauth/"
+}

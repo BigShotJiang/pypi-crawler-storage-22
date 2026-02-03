@@ -1,11 +1,11 @@
 {
   "name": "cartonnage",
-  "version": "0.1.4",
-  "summary": "A lightweight Python ORM supporting SQLite, MySQL, PostgreSQL, Oracle, and Microsoft SQL Server",
+  "version": "0.1.6",
+  "summary": "Cartonnage ORM is a Python ORM that achieves an outstanding balance between simplicity and power, supporting SQLite, MySQL, PostgreSQL, Oracle, and Microsoft SQL Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cartonnage-0.1.4.tar.gz",
-  "download_time": "2026-02-01T15:00:02.024493",
+  "download_filename": "cartonnage-0.1.6.tar.gz",
+  "download_time": "2026-02-03T00:01:05.962950",
   "package_url": "https://pypi.org/project/cartonnage/"
 }

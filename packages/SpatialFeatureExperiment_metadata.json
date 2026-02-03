@@ -1,0 +1,11 @@
+{
+  "name": "SpatialFeatureExperiment",
+  "version": "0.1.0",
+  "summary": "Container class for storing data from spatial feature experiments",
+  "author": "Jayaram Kancherla",
+  "license": "MIT",
+  "home_page": "https://github.com/biocpy/spatialfeatureexperiment",
+  "download_filename": "spatialfeatureexperiment-0.1.0.tar.gz",
+  "download_time": "2026-02-03T00:01:07.514716",
+  "package_url": "https://pypi.org/project/SpatialFeatureExperiment/"
+}

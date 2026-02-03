@@ -1,0 +1,11 @@
+{
+  "name": "strigival",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for STRIGIVAL Trading Strategies Marketplace",
+  "author": "STRIGIVAL Protocol",
+  "license": "MIT",
+  "home_page": "https://github.com/strigival/python-sdk",
+  "download_filename": "strigival-1.0.0.tar.gz",
+  "download_time": "2026-02-03T00:00:54.081862",
+  "package_url": "https://pypi.org/project/strigival/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vocker",
+  "version": "0.3.1",
+  "summary": "Docker-like manager for virtualenvs",
+  "author": null,
+  "license": "General Public License v3",
+  "home_page": null,
+  "download_filename": "vocker-0.3.1.tar.gz",
+  "download_time": "2026-02-03T00:01:17.862200",
+  "package_url": "https://pypi.org/project/vocker/"
+}

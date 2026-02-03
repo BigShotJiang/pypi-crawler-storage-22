@@ -1,0 +1,11 @@
+{
+  "name": "md2confluence",
+  "version": "1.1.2",
+  "summary": "Sync Markdown documentation to Confluence Cloud",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md2confluence-1.1.2.tar.gz",
+  "download_time": "2026-02-03T00:00:37.570689",
+  "package_url": "https://pypi.org/project/md2confluence/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simd-blend-modes",
+  "version": "1.0.0",
+  "summary": "SIMD-accelerated blend modes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simd_blend_modes-1.0.0.tar.gz",
+  "download_time": "2026-02-03T00:00:53.569818",
+  "package_url": "https://pypi.org/project/simd-blend-modes/"
+}

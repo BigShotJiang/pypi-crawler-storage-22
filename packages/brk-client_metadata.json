@@ -1,0 +1,11 @@
+{
+  "name": "brk-client",
+  "version": "0.1.3",
+  "summary": "Python client for the Bitcoin Research Kit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brk_client-0.1.3.tar.gz",
+  "download_time": "2026-02-03T00:01:14.247634",
+  "package_url": "https://pypi.org/project/brk-client/"
+}
