@@ -1,0 +1,11 @@
+{
+  "name": "spectral-line-finder",
+  "version": "0.2.0",
+  "summary": "Find and match lines in spectroscopic data from NIST.",
+  "author": "David Fokkema",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectral_line_finder-0.2.0.tar.gz",
+  "download_time": "2026-02-03T17:15:38.666145",
+  "package_url": "https://pypi.org/project/spectral-line-finder/"
+}

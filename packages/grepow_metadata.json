@@ -1,0 +1,11 @@
+{
+  "name": "grepow",
+  "version": "0.1.1",
+  "summary": "CLI for sparse checkouts of results from grep.app repo search",
+  "author": "Louis Maddox",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grepow-0.1.1.tar.gz",
+  "download_time": "2026-02-03T17:15:23.265274",
+  "package_url": "https://pypi.org/project/grepow/"
+}

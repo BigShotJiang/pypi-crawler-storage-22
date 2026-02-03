@@ -1,0 +1,11 @@
+{
+  "name": "md2word",
+  "version": "0.1.1",
+  "summary": "Convert Markdown files to Word documents with extensive customization",
+  "author": "md2word contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md2word-0.1.1.tar.gz",
+  "download_time": "2026-02-03T17:15:08.365723",
+  "package_url": "https://pypi.org/project/md2word/"
+}

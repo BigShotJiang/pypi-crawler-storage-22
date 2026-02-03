@@ -1,11 +1,11 @@
 {
   "name": "meta-edc",
-  "version": "1.6.17",
+  "version": "1.6.18",
   "summary": "META Trial EDC (https://www.isrctn.com/ISRCTN76157257)",
   "author": "Erik van Widenfelt, Jonathan Willitts",
   "license": null,
   "home_page": null,
-  "download_filename": "meta_edc-1.6.17.tar.gz",
-  "download_time": "2026-02-02T14:39:38.248510",
+  "download_filename": "meta_edc-1.6.18.tar.gz",
+  "download_time": "2026-02-03T17:15:28.663396",
   "package_url": "https://pypi.org/project/meta-edc/"
 }

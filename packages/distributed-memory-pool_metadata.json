@@ -1,0 +1,11 @@
+{
+  "name": "distributed-memory-pool",
+  "version": "0.1.1",
+  "summary": "A high-performance Python object sharing pool with distributed capabilities",
+  "author": "15525730080",
+  "license": null,
+  "home_page": "https://github.com/15525730080/memory-obj-server",
+  "download_filename": "distributed_memory_pool-0.1.1.tar.gz",
+  "download_time": "2026-02-03T17:15:15.940859",
+  "package_url": "https://pypi.org/project/distributed-memory-pool/"
+}
