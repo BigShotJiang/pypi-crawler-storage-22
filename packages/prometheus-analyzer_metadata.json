@@ -1,0 +1,11 @@
+{
+  "name": "prometheus-analyzer",
+  "version": "0.2.0",
+  "summary": "Codebase fitness analyzer - complexity, resilience, and theater detection",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "prometheus_analyzer-0.2.0.tar.gz",
+  "download_time": "2026-02-03T05:36:57.017261",
+  "package_url": "https://pypi.org/project/prometheus-analyzer/"
+}

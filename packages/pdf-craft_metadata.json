@@ -1,0 +1,11 @@
+{
+  "name": "pdf-craft",
+  "version": "1.0.10",
+  "summary": "PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.",
+  "author": "Tao Zeyu",
+  "license": "MIT",
+  "home_page": "https://hub.oomol.com/package/pdf-craft",
+  "download_filename": "pdf_craft-1.0.10.tar.gz",
+  "download_time": "2026-02-03T05:36:55.471351",
+  "package_url": "https://pypi.org/project/pdf-craft/"
+}

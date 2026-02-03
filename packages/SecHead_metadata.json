@@ -1,0 +1,11 @@
+{
+  "name": "SecHead",
+  "version": "1.2.0",
+  "summary": "A Python-based security auditing tool to analyze website security headers.",
+  "author": "Harith Dilshan",
+  "license": null,
+  "home_page": "https://github.com/h4rithd/SecHead",
+  "download_filename": "sechead-1.2.0.tar.gz",
+  "download_time": "2026-02-03T05:37:06.366793",
+  "package_url": "https://pypi.org/project/SecHead/"
+}

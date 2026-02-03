@@ -1,11 +1,11 @@
 {
   "name": "toy-package-b",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Toy Package B – simple test package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "toy_package_b-0.2.0.tar.gz",
-  "download_time": "2026-02-03T04:30:11.618166",
+  "download_filename": "toy_package_b-0.2.2.tar.gz",
+  "download_time": "2026-02-03T05:36:52.386777",
   "package_url": "https://pypi.org/project/toy-package-b/"
 }

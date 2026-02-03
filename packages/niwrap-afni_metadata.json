@@ -1,11 +1,11 @@
 {
   "name": "niwrap-afni",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Neuroimaging wrappers.",
   "author": "CMI DAIR",
   "license": null,
   "home_page": null,
-  "download_filename": "niwrap_afni-0.8.3.tar.gz",
-  "download_time": "2026-01-30T19:22:34.668597",
+  "download_filename": "niwrap_afni-0.8.4.tar.gz",
+  "download_time": "2026-02-03T05:37:20.385015",
   "package_url": "https://pypi.org/project/niwrap-afni/"
 }

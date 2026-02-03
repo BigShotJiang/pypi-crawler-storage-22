@@ -1,0 +1,11 @@
+{
+  "name": "azul-client",
+  "version": "9.0.24",
+  "summary": "Interact with Azul using your terminal instead of clicking in the UI a thousand times!",
+  "author": "Azul",
+  "license": null,
+  "home_page": "https://www.asd.gov.au/",
+  "download_filename": "azul_client-9.0.24.tar.gz",
+  "download_time": "2026-02-03T05:37:13.204450",
+  "package_url": "https://pypi.org/project/azul-client/"
+}

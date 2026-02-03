@@ -1,0 +1,11 @@
+{
+  "name": "deepagent-code",
+  "version": "0.1.5",
+  "summary": "A Claude Code-style CLI for running LangGraph agents from the terminal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepagent_code-0.1.5.tar.gz",
+  "download_time": "2026-02-03T05:37:09.062627",
+  "package_url": "https://pypi.org/project/deepagent-code/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "verril-learn",
+  "version": "0.1.0",
+  "summary": "A Surgical Machine Unlearning library for edge devices using PyTorch",
+  "author": "Verril",
+  "license": null,
+  "home_page": "https://github.com/Verril-hash/verril-unlearn.git",
+  "download_filename": "verril_learn-0.1.0.tar.gz",
+  "download_time": "2026-02-03T05:37:26.820428",
+  "package_url": "https://pypi.org/project/verril-learn/"
+}

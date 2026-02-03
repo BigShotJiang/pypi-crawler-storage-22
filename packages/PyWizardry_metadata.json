@@ -1,0 +1,11 @@
+{
+  "name": "PyWizardry",
+  "version": "1.0.2",
+  "summary": "A magical collection of 150+ Python utilities for modern development",
+  "author": "Saif",
+  "license": "MIT",
+  "home_page": "https://pywizardry.vercel.app",
+  "download_filename": "pywizardry-1.0.2.tar.gz",
+  "download_time": "2026-02-03T05:37:22.441436",
+  "package_url": "https://pypi.org/project/PyWizardry/"
+}
