@@ -1,11 +1,11 @@
 {
   "name": "osiris-utils",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "summary": "Utilities to manipulate and visualise OSIRIS plasma PIC output data",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "osiris_utils-1.2.3.tar.gz",
-  "download_time": "2026-02-03T19:54:33.369052",
+  "download_filename": "osiris_utils-1.2.4.tar.gz",
+  "download_time": "2026-02-03T20:32:48.442299",
   "package_url": "https://pypi.org/project/osiris-utils/"
 }

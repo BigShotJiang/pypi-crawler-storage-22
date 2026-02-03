@@ -1,0 +1,11 @@
+{
+  "name": "afplay-win",
+  "version": "0.0.2",
+  "summary": "Tiny utility that mimics 'afplay' in windows",
+  "author": "Sukhbinder Singh",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "afplay_win-0.0.2.tar.gz",
+  "download_time": "2026-02-03T20:32:14.611767",
+  "package_url": "https://pypi.org/project/afplay-win/"
+}

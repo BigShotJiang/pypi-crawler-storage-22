@@ -1,0 +1,11 @@
+{
+  "name": "langchain-kinetica",
+  "version": "1.1.0",
+  "summary": "An integration package connecting Kinetica and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_kinetica-1.1.0.tar.gz",
+  "download_time": "2026-02-03T20:32:24.877258",
+  "package_url": "https://pypi.org/project/langchain-kinetica/"
+}

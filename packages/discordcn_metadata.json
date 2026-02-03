@@ -1,0 +1,11 @@
+{
+  "name": "discordcn",
+  "version": "0.0.1a3",
+  "summary": "An unofficial, community-driven implementation for Discord app interface patterns.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "discordcn-0.0.1a3.tar.gz",
+  "download_time": "2026-02-03T20:32:39.282809",
+  "package_url": "https://pypi.org/project/discordcn/"
+}

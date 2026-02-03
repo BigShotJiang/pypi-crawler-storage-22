@@ -1,11 +1,11 @@
 {
   "name": "fmp-data",
-  "version": "2.1.6",
+  "version": "2.1.7",
   "summary": "Python client for the Financial Modeling Prep API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fmp_data-2.1.6.tar.gz",
-  "download_time": "2026-02-03T02:36:29.444859",
+  "download_filename": "fmp_data-2.1.7.tar.gz",
+  "download_time": "2026-02-03T20:32:46.590588",
   "package_url": "https://pypi.org/project/fmp-data/"
 }

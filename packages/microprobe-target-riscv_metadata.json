@@ -1,0 +1,11 @@
+{
+  "name": "microprobe-target-riscv",
+  "version": "0.5.20260203144132",
+  "summary": "Microprobe: Microbenchmark generation framework: Target definitions for RISCV",
+  "author": "Ramon Bertran",
+  "license": "Apache Version 2.0",
+  "home_page": "https://github.com/IBM/microprobe",
+  "download_filename": "microprobe_target_riscv-0.5.20260203144132-py2.py3-none-any.whl",
+  "download_time": "2026-02-03T20:32:07.860995",
+  "package_url": "https://pypi.org/project/microprobe-target-riscv/"
+}

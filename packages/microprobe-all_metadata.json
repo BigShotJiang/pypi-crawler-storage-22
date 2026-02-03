@@ -1,0 +1,11 @@
+{
+  "name": "microprobe-all",
+  "version": "0.5.20260203144132",
+  "summary": "Microprobe: Microbenchmark generation framework: A modular and extensible framework to generate microbenchmarks",
+  "author": "Ramon Bertran",
+  "license": "Apache Version 2.0",
+  "home_page": "https://github.com/IBM/microprobe",
+  "download_filename": "microprobe_all-0.5.20260203144132-py2.py3-none-any.whl",
+  "download_time": "2026-02-03T20:32:10.595311",
+  "package_url": "https://pypi.org/project/microprobe-all/"
+}

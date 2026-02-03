@@ -1,0 +1,11 @@
+{
+  "name": "microprobe-doc",
+  "version": "0.5.20260203144132",
+  "summary": "Microprobe: Microbenchmark generation framework: Documentation",
+  "author": "Ramon Bertran",
+  "license": "Apache Version 2.0",
+  "home_page": "https://github.com/IBM/microprobe",
+  "download_filename": "microprobe_doc-0.5.20260203144132-py2.py3-none-any.whl",
+  "download_time": "2026-02-03T20:32:09.310529",
+  "package_url": "https://pypi.org/project/microprobe-doc/"
+}

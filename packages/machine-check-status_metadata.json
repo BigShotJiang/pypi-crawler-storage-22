@@ -1,0 +1,11 @@
+{
+  "name": "machine-check-status",
+  "version": "1.0.1",
+  "summary": "machine status and operation",
+  "author": "eleven_developer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "machine_check_status-1.0.1.tar.gz",
+  "download_time": "2026-02-03T20:32:07.213741",
+  "package_url": "https://pypi.org/project/machine-check-status/"
+}
