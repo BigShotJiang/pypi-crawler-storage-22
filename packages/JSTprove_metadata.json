@@ -1,11 +1,11 @@
 {
   "name": "JSTprove",
-  "version": "2.2.0",
+  "version": "2.3.1",
   "summary": "Zero-knowledge proofs of ML inference on ONNX models",
   "author": "Inference Labs Inc",
   "license": null,
   "home_page": null,
-  "download_filename": "jstprove-2.2.0-py3-none-macosx_11_0_arm64.whl",
-  "download_time": "2026-02-03T02:36:56.742579",
+  "download_filename": "jstprove-2.3.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-03T21:09:54.258425",
   "package_url": "https://pypi.org/project/JSTprove/"
 }

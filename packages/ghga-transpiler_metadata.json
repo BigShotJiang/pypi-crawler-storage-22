@@ -1,0 +1,11 @@
+{
+  "name": "ghga-transpiler",
+  "version": "2.4.1",
+  "summary": "GHGA-Transpiler - excel to JSON converter",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "ghga_transpiler-2.4.1.tar.gz",
+  "download_time": "2026-02-03T21:10:02.987205",
+  "package_url": "https://pypi.org/project/ghga-transpiler/"
+}

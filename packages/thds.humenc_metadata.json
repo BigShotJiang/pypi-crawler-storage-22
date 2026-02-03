@@ -1,11 +1,11 @@
 {
   "name": "thds.humenc",
-  "version": "1.1.20260130200317",
+  "version": "1.1.20260203202842",
   "summary": "Binary to string encoding for human readers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thds_humenc-1.1.20260130200317-py3-none-any.whl",
-  "download_time": "2026-01-30T20:24:17.038082",
+  "download_filename": "thds_humenc-1.1.20260203202842-py3-none-any.whl",
+  "download_time": "2026-02-03T21:10:25.597157",
   "package_url": "https://pypi.org/project/thds.humenc/"
 }

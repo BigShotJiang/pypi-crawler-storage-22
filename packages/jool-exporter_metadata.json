@@ -1,0 +1,11 @@
+{
+  "name": "jool-exporter",
+  "version": "26.2.3",
+  "summary": "Export `jool stats display` for prometheus",
+  "author": "Cooper Lees",
+  "license": "BSD-3-Clause",
+  "home_page": "http://github.com/cooperlees/jool-exporter",
+  "download_filename": "jool_exporter-26.2.3.tar.gz",
+  "download_time": "2026-02-03T21:09:43.298823",
+  "package_url": "https://pypi.org/project/jool-exporter/"
+}

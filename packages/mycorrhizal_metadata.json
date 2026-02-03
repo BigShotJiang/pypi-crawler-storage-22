@@ -1,0 +1,11 @@
+{
+  "name": "mycorrhizal",
+  "version": "0.2.2",
+  "summary": "Utilities and DSLs for modelling and implementing safe, performant, structured systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mycorrhizal-0.2.2.tar.gz",
+  "download_time": "2026-02-03T21:09:42.757608",
+  "package_url": "https://pypi.org/project/mycorrhizal/"
+}

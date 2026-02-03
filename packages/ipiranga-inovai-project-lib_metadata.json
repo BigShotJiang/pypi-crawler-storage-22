@@ -1,11 +1,11 @@
 {
   "name": "ipiranga-inovai-project-lib",
-  "version": "6.6",
+  "version": "6.7",
   "summary": "Projeto criado para importação genérica de entidades",
   "author": "Clayton Sandes Monteiro",
   "license": "MIT",
   "home_page": "https://gitlab.ipirangacloud.com/clayton.monteiro.ext/ipiranga-inovai-project-lib",
-  "download_filename": "ipiranga_inovai_project_lib-6.6-py3-none-any.whl",
-  "download_time": "2026-02-02T18:06:50.227422",
+  "download_filename": "ipiranga_inovai_project_lib-6.7-py3-none-any.whl",
+  "download_time": "2026-02-03T21:10:04.140339",
   "package_url": "https://pypi.org/project/ipiranga-inovai-project-lib/"
 }

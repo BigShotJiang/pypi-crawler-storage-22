@@ -1,0 +1,11 @@
+{
+  "name": "PyArchiveFile",
+  "version": "0.28.0",
+  "summary": "A tar like file format name archivefile.",
+  "author": "Ouka Neko-chan",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/GameMaker2k/PyArchiveFile",
+  "download_filename": "pyarchivefile-0.28.0.tar.gz",
+  "download_time": "2026-02-03T21:10:16.652322",
+  "package_url": "https://pypi.org/project/PyArchiveFile/"
+}

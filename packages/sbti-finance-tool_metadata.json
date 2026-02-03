@@ -1,0 +1,11 @@
+{
+  "name": "sbti-finance-tool",
+  "version": "1.2.3",
+  "summary": "This package helps companies and financial institutions to assess the temperature alignment of current targets, commitments, and investment and lending portfolios, and to use this information to develop targets for official validation by the SBTi.",
+  "author": "sbti",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sbti_finance_tool-1.2.3.tar.gz",
+  "download_time": "2026-02-03T21:10:01.250593",
+  "package_url": "https://pypi.org/project/sbti-finance-tool/"
+}

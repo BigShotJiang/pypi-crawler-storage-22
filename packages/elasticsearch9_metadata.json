@@ -1,0 +1,11 @@
+{
+  "name": "elasticsearch9",
+  "version": "9.3.0",
+  "summary": "Python client for Elasticsearch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elasticsearch9-9.3.0.tar.gz",
+  "download_time": "2026-02-03T21:10:31.858778",
+  "package_url": "https://pypi.org/project/elasticsearch9/"
+}

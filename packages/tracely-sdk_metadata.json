@@ -1,0 +1,11 @@
+{
+  "name": "tracely-sdk",
+  "version": "0.2.0",
+  "summary": "Lightweight observability SDK for Python web frameworks. Auto-instruments FastAPI, Flask, and Django with real-time tracing via OTLP/HTTP.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tracely_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-03T21:09:57.277462",
+  "package_url": "https://pypi.org/project/tracely-sdk/"
+}
