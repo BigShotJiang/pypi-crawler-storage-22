@@ -1,11 +1,11 @@
 {
   "name": "kekkai-cli",
-  "version": "2.0.1",
+  "version": "2.2.1",
   "summary": "Terminal UI for Trivy/Semgrep/Gitleaks. Local-first security triage.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kekkai_cli-2.0.1.tar.gz",
-  "download_time": "2026-02-03T09:44:22.676530",
+  "download_filename": "kekkai_cli-2.2.1.tar.gz",
+  "download_time": "2026-02-03T23:53:53.777094",
   "package_url": "https://pypi.org/project/kekkai-cli/"
 }

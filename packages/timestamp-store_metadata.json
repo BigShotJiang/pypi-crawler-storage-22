@@ -1,0 +1,11 @@
+{
+  "name": "timestamp-store",
+  "version": "1.0.0",
+  "summary": "Fast timestamp-based data structure with O(log N) operations",
+  "author": "Shutkanos",
+  "license": "MIT",
+  "home_page": "https://github.com/shutkanos/timestamp_store",
+  "download_filename": "timestamp_store-1.0.0.tar.gz",
+  "download_time": "2026-02-03T23:53:18.837202",
+  "package_url": "https://pypi.org/project/timestamp-store/"
+}

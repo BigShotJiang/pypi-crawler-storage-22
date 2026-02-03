@@ -1,0 +1,11 @@
+{
+  "name": "kdtest-pw",
+  "version": "2.0.0",
+  "summary": "KDTest Playwright Edition - 关键字驱动测试框架，专为 Element Plus/Vue3 优化",
+  "author": "KDTest Team",
+  "license": "MIT",
+  "home_page": "https://github.com/kdtest/kdtest-pw",
+  "download_filename": "kdtest_pw-2.0.0.tar.gz",
+  "download_time": "2026-02-03T23:53:15.591346",
+  "package_url": "https://pypi.org/project/kdtest-pw/"
+}

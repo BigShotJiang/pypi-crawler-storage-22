@@ -1,11 +1,11 @@
 {
   "name": "redprobe",
-  "version": "0.1.3",
+  "version": "0.1.6",
   "summary": "A defensive security tool for hardening AI systems. Define YAML-based test cases to systematically probe LLMs for jailbreaks, prompt injections, biases, harmful content generation, data leakage, and policy violations before attackers find them. Compatible with any OpenAI-style API endpoint.",
   "author": null,
   "license": "BUSL 1.1",
   "home_page": null,
-  "download_filename": "redprobe-0.1.3.tar.gz",
-  "download_time": "2026-02-03T08:59:33.301860",
+  "download_filename": "redprobe-0.1.6.tar.gz",
+  "download_time": "2026-02-03T23:53:44.391352",
   "package_url": "https://pypi.org/project/redprobe/"
 }
