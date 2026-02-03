@@ -1,0 +1,11 @@
+{
+  "name": "asynctoolspy",
+  "version": "1.4",
+  "summary": "asynctoolspy is a set of simple tools to speed up Python async development. It includes the appoint_limit_async decorator to limit how often an async function can be called by setting max attempts and intervals, useful for APIs with rate limits. The decorator handles errors with retries and pauses to improve reliability. It also features AsyncIterWrapper, an async iterator supporting optional delays and sync/async callbacks for flexible data processing.",
+  "author": "Aleksei Surnov",
+  "license": null,
+  "home_page": "https://gitlab.com/asurnovsurnov/asynctoolspy/",
+  "download_filename": "asynctoolspy-1.4.tar.gz",
+  "download_time": "2026-02-03T21:52:02.381254",
+  "package_url": "https://pypi.org/project/asynctoolspy/"
+}

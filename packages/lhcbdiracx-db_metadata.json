@@ -1,0 +1,11 @@
+{
+  "name": "lhcbdiracx-db",
+  "version": "0.0.8",
+  "summary": "DB classes for the lhcbdiracx diracx extension",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "lhcbdiracx_db-0.0.8-py3-none-any.whl",
+  "download_time": "2026-02-03T21:51:51.863244",
+  "package_url": "https://pypi.org/project/lhcbdiracx-db/"
+}

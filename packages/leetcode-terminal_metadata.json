@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-terminal",
+  "version": "0.1.6",
+  "summary": "LeetCLI - Solve, practice, and fetch LeetCode challenges from your terminal",
+  "author": "Chitransh Saxena",
+  "license": null,
+  "home_page": "https://github.com/Chitransh2309",
+  "download_filename": "leetcode_terminal-0.1.6.tar.gz",
+  "download_time": "2026-02-03T21:52:12.310630",
+  "package_url": "https://pypi.org/project/leetcode-terminal/"
+}

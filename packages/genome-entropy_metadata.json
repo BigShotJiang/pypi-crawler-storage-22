@@ -1,0 +1,11 @@
+{
+  "name": "genome-entropy",
+  "version": "0.1.9",
+  "summary": "Quantify information content across multiple biological representations derived from genomic sequences",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genome_entropy-0.1.9.tar.gz",
+  "download_time": "2026-02-03T21:51:57.102451",
+  "package_url": "https://pypi.org/project/genome-entropy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neon-data-models",
+  "version": "0.0.2",
+  "summary": "Pydantic models and associated JSON schema definitions",
+  "author": "NeonGecko",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/NeonGeckoCom/neon-data-models",
+  "download_filename": "neon_data_models-0.0.2.tar.gz",
+  "download_time": "2026-02-03T21:52:08.676537",
+  "package_url": "https://pypi.org/project/neon-data-models/"
+}

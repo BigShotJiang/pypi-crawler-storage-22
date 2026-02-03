@@ -1,0 +1,11 @@
+{
+  "name": "hardixx-code",
+  "version": "1.0.0",
+  "summary": "Advanced Free Fire packet analysis, decryption, and reverse engineering library",
+  "author": "H4RDIXX",
+  "license": null,
+  "home_page": "https://github.com/hardixx/hardixx-code",
+  "download_filename": "hardixx_code-1.0.0.tar.gz",
+  "download_time": "2026-02-03T21:52:11.787581",
+  "package_url": "https://pypi.org/project/hardixx-code/"
+}

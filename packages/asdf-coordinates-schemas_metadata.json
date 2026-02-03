@@ -1,0 +1,11 @@
+{
+  "name": "asdf-coordinates-schemas",
+  "version": "0.5.0",
+  "summary": "ASDF schemas for coordinates",
+  "author": "The ASDF Developers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "asdf_coordinates_schemas-0.5.0.tar.gz",
+  "download_time": "2026-02-03T21:52:14.404856",
+  "package_url": "https://pypi.org/project/asdf-coordinates-schemas/"
+}

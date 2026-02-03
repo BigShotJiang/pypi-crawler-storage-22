@@ -1,0 +1,11 @@
+{
+  "name": "threesaveslot",
+  "version": "1.0.0",
+  "summary": "description here. each time you want to update your module, make sure the version above doesnt already exist!",
+  "author": "Pitchfork",
+  "license": "MIT",
+  "home_page": "https://github.com/Knights-of-Dev/threesaveslot",
+  "download_filename": "threesaveslot-1.0.0.tar.gz",
+  "download_time": "2026-02-03T21:52:07.107013",
+  "package_url": "https://pypi.org/project/threesaveslot/"
+}

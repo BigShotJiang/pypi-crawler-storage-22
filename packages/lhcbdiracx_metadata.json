@@ -1,0 +1,11 @@
+{
+  "name": "lhcbdiracx",
+  "version": "0.0.8",
+  "summary": "Client installation for users of LHCbDiracX installations",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "lhcbdiracx-0.0.8-py3-none-any.whl",
+  "download_time": "2026-02-03T21:51:55.011336",
+  "package_url": "https://pypi.org/project/lhcbdiracx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "astronomo",
+  "version": "0.17.0",
+  "summary": "A modern Gemini browser for the terminal",
+  "author": "Alan Velasco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "astronomo-0.17.0.tar.gz",
+  "download_time": "2026-02-03T21:51:37.939081",
+  "package_url": "https://pypi.org/project/astronomo/"
+}

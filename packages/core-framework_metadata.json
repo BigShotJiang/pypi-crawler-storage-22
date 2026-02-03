@@ -1,11 +1,11 @@
 {
   "name": "core-framework",
-  "version": "0.12.9",
+  "version": "0.12.10",
   "summary": "Core Framework - Django-inspired, FastAPI-powered. Alta performance, baixo acoplamento, produtividade extrema.",
   "author": "Core Framework Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "core_framework-0.12.9.tar.gz",
-  "download_time": "2026-02-03T19:55:15.135876",
+  "download_filename": "core_framework-0.12.10.tar.gz",
+  "download_time": "2026-02-03T21:51:40.065656",
   "package_url": "https://pypi.org/project/core-framework/"
 }
