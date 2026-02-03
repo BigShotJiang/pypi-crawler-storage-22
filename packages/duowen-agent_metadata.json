@@ -1,0 +1,11 @@
+{
+  "name": "duowen-agent",
+  "version": "0.1.106",
+  "summary": "多闻LLM核心工具包",
+  "author": "liurui",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duowen_agent-0.1.106.tar.gz",
+  "download_time": "2026-02-03T06:33:34.095625",
+  "package_url": "https://pypi.org/project/duowen-agent/"
+}

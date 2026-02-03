@@ -1,0 +1,11 @@
+{
+  "name": "pocket-tts-mlx",
+  "version": "0.2.0",
+  "summary": "MLX backend for pocket-tts with Apple Silicon optimization",
+  "author": "jishnuvenugopal",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pocket_tts_mlx-0.2.0.tar.gz",
+  "download_time": "2026-02-03T06:32:59.815133",
+  "package_url": "https://pypi.org/project/pocket-tts-mlx/"
+}

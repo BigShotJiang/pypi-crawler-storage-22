@@ -1,0 +1,11 @@
+{
+  "name": "easypy-lang",
+  "version": "2.0.2",
+  "summary": "A simple, powerful language for AI, ML, and apps - No coding experience needed!",
+  "author": "Vadik Goel",
+  "license": null,
+  "home_page": "https://github.com/VadikGoel/easypy-lang",
+  "download_filename": "easypy_lang-2.0.2.tar.gz",
+  "download_time": "2026-02-03T06:33:20.822132",
+  "package_url": "https://pypi.org/project/easypy-lang/"
+}

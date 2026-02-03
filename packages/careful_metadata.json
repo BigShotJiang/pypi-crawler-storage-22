@@ -1,0 +1,11 @@
+{
+  "name": "careful",
+  "version": "0.3.1",
+  "summary": "a small library for writing resilient, well-behaved HTTP code",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "careful-0.3.1.tar.gz",
+  "download_time": "2026-02-03T06:32:58.660042",
+  "package_url": "https://pypi.org/project/careful/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepflow",
+  "version": "0.1.2",
+  "summary": "Physics-Informed Neural Networks for Fluid Dynamics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "deepflow-0.1.2.tar.gz",
+  "download_time": "2026-02-03T06:33:12.356283",
+  "package_url": "https://pypi.org/project/deepflow/"
+}

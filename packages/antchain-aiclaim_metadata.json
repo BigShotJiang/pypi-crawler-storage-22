@@ -1,0 +1,11 @@
+{
+  "name": "antchain-aiclaim",
+  "version": "1.1.5",
+  "summary": "Ant Chain AICLAIM SDK Library for Python",
+  "author": "Ant Chain SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/alipay/antchain-openapi-prod-sdk",
+  "download_filename": "antchain_aiclaim-1.1.5.tar.gz",
+  "download_time": "2026-02-03T06:33:29.507004",
+  "package_url": "https://pypi.org/project/antchain-aiclaim/"
+}

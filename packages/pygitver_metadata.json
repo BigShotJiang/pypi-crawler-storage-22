@@ -1,0 +1,11 @@
+{
+  "name": "pygitver",
+  "version": "0.2.4",
+  "summary": "Manages Git Tag versions and generates ChangeLog",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pygitver-0.2.4.tar.gz",
+  "download_time": "2026-02-03T06:32:51.501021",
+  "package_url": "https://pypi.org/project/pygitver/"
+}

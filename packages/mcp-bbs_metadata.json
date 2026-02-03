@@ -1,0 +1,11 @@
+{
+  "name": "mcp-bbs",
+  "version": "0.2.0",
+  "summary": "FastMCP-based telnet client for BBS systems with auto-learning capabilities",
+  "author": "Tim Perkins",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_bbs-0.2.0.tar.gz",
+  "download_time": "2026-02-03T06:33:07.863383",
+  "package_url": "https://pypi.org/project/mcp-bbs/"
+}
