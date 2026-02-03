@@ -1,0 +1,11 @@
+{
+  "name": "lattifai-captions",
+  "version": "0.1.5",
+  "summary": "Caption/subtitle processing library with multi-format support (SRT, VTT, ASS, TTML, TextGrid, NLE formats)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lattifai_captions-0.1.5.tar.gz",
+  "download_time": "2026-02-03T11:51:29.455984",
+  "package_url": "https://pypi.org/project/lattifai-captions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "beekeeper-ai",
-  "version": "1.0.12",
+  "version": "1.0.12.post1",
   "summary": "Load any data in one line of code and connect with AI applications",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "beekeeper_ai-1.0.12.tar.gz",
-  "download_time": "2026-02-02T18:07:29.098898",
+  "download_filename": "beekeeper_ai-1.0.12.post1.tar.gz",
+  "download_time": "2026-02-03T11:51:36.734891",
   "package_url": "https://pypi.org/project/beekeeper-ai/"
 }

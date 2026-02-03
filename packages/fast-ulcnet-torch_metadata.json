@@ -1,0 +1,11 @@
+{
+  "name": "fast-ulcnet-torch",
+  "version": "0.0.1",
+  "summary": "A PyTorch implementation of Fast ULCNet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_ulcnet_torch-0.0.1.tar.gz",
+  "download_time": "2026-02-03T11:51:58.212148",
+  "package_url": "https://pypi.org/project/fast-ulcnet-torch/"
+}

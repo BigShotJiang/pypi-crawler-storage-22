@@ -1,0 +1,11 @@
+{
+  "name": "ducklake-delta-exporter",
+  "version": "0.3.0",
+  "summary": "A utility to export DuckLake database metadata to Delta Lake transaction logs.",
+  "author": "mim",
+  "license": null,
+  "home_page": "https://github.com/djouallah/ducklake_delta_exporter",
+  "download_filename": "ducklake_delta_exporter-0.3.0.tar.gz",
+  "download_time": "2026-02-03T11:52:07.595567",
+  "package_url": "https://pypi.org/project/ducklake-delta-exporter/"
+}

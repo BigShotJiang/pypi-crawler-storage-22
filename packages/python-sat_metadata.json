@@ -1,0 +1,11 @@
+{
+  "name": "python-sat",
+  "version": "1.8.dev29",
+  "summary": "A Python library for prototyping with SAT oracles",
+  "author": "Alexey Ignatiev, Joao Marques-Silva, Antonio Morgado",
+  "license": "MIT",
+  "home_page": "https://github.com/pysathq/pysat",
+  "download_filename": "python_sat-1.8.dev29.tar.gz",
+  "download_time": "2026-02-03T11:51:44.668590",
+  "package_url": "https://pypi.org/project/python-sat/"
+}

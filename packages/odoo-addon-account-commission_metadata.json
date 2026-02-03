@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-commission",
+  "version": "17.0.1.0.1.2",
+  "summary": "Account commissions",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/commission",
+  "download_filename": "odoo_addon_account_commission-17.0.1.0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-03T11:51:26.846445",
+  "package_url": "https://pypi.org/project/odoo-addon-account-commission/"
+}

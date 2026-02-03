@@ -1,0 +1,11 @@
+{
+  "name": "fast-ulcnet-tensorflow",
+  "version": "0.0.1",
+  "summary": "A PyTorch implementation of Fast ULCNet",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fast_ulcnet_tensorflow-0.0.1.tar.gz",
+  "download_time": "2026-02-03T11:51:38.858910",
+  "package_url": "https://pypi.org/project/fast-ulcnet-tensorflow/"
+}

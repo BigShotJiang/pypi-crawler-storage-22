@@ -1,0 +1,11 @@
+{
+  "name": "py4dgeo",
+  "version": "1.0.0",
+  "summary": "Library for change detection in 4D point cloud data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py4dgeo-1.0.0-cp310-cp310-macosx_14_0_arm64.whl",
+  "download_time": "2026-02-03T11:51:47.261736",
+  "package_url": "https://pypi.org/project/py4dgeo/"
+}

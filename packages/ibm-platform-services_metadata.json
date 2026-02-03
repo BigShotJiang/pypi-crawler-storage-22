@@ -1,0 +1,11 @@
+{
+  "name": "ibm-platform-services",
+  "version": "0.73.2",
+  "summary": "Python client library for IBM Cloud Platform Services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ibm_platform_services-0.73.2.tar.gz",
+  "download_time": "2026-02-03T11:51:49.337668",
+  "package_url": "https://pypi.org/project/ibm-platform-services/"
+}

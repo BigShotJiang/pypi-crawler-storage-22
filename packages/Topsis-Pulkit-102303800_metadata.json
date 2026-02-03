@@ -1,11 +1,11 @@
 {
   "name": "Topsis-Pulkit-102303800",
-  "version": "1.0.5",
-  "summary": "CLI-based TOPSIS implementation",
+  "version": "1.0.9",
+  "summary": "TOPSIS CLI tool for Multi-Criteria Decision Making (MCDM) with CSV and Excel support",
   "author": "Pulkit Goyal",
   "license": null,
-  "home_page": null,
-  "download_filename": "topsis_pulkit_102303800-1.0.5.tar.gz",
-  "download_time": "2026-02-03T11:08:29.928141",
+  "home_page": "https://github.com/Pulkitgoyal10/Topsis-Pulkit-102303800",
+  "download_filename": "topsis_pulkit_102303800-1.0.9.tar.gz",
+  "download_time": "2026-02-03T11:51:51.942618",
   "package_url": "https://pypi.org/project/Topsis-Pulkit-102303800/"
 }
