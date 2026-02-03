@@ -1,0 +1,11 @@
+{
+  "name": "pythonautomation-framework-utils",
+  "version": "1.0.2",
+  "summary": "Reusable utilities for automation frameworks",
+  "author": "SabarishM",
+  "license": "MIT",
+  "home_page": "https://github.com/sabarishmurugan/automation-framework-utils",
+  "download_filename": "pythonautomation_framework_utils-1.0.2.tar.gz",
+  "download_time": "2026-02-03T16:06:41.906985",
+  "package_url": "https://pypi.org/project/pythonautomation-framework-utils/"
+}

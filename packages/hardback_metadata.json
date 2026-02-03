@@ -1,0 +1,11 @@
+{
+  "name": "hardback",
+  "version": "0.10.0",
+  "summary": "📓 Hardcopy backups of digital data 📓",
+  "author": "Tom Ritchford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hardback-0.10.0.tar.gz",
+  "download_time": "2026-02-03T16:06:26.761080",
+  "package_url": "https://pypi.org/project/hardback/"
+}

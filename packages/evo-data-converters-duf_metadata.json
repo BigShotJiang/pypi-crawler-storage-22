@@ -1,0 +1,11 @@
+{
+  "name": "evo-data-converters-duf",
+  "version": "0.2.2",
+  "summary": "Python data converters for Deswik DUF to Evo geoscience objects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evo_data_converters_duf-0.2.2.tar.gz",
+  "download_time": "2026-02-03T16:06:48.713152",
+  "package_url": "https://pypi.org/project/evo-data-converters-duf/"
+}

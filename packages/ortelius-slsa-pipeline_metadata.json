@@ -1,0 +1,11 @@
+{
+  "name": "ortelius-slsa-pipeline",
+  "version": "1.0.0",
+  "summary": "Temporal-based SLSA Level 3 CI/CD orchestration with AI-powered auto-fix",
+  "author": "Ortelius",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ortelius/slsa-pipeline",
+  "download_filename": "ortelius_slsa_pipeline-1.0.0.tar.gz",
+  "download_time": "2026-02-03T16:06:36.663512",
+  "package_url": "https://pypi.org/project/ortelius-slsa-pipeline/"
+}

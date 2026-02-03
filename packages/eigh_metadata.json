@@ -1,0 +1,11 @@
+{
+  "name": "eigh",
+  "version": "0.1.1",
+  "summary": "Differentiable eigenvalue decomposition with JAX (CPU/GPU)",
+  "author": "Igor Sokolov",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "eigh-0.1.1.tar.gz",
+  "download_time": "2026-02-03T16:06:28.334849",
+  "package_url": "https://pypi.org/project/eigh/"
+}

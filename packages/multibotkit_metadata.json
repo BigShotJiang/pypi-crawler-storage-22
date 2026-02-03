@@ -1,0 +1,11 @@
+{
+  "name": "multibotkit",
+  "version": "0.2.0",
+  "summary": "Functional library for developing multiplatform chatbots",
+  "author": "Appvelox LLC",
+  "license": null,
+  "home_page": "https://github.com/Appvelox/multibotkit",
+  "download_filename": "multibotkit-0.2.0.tar.gz",
+  "download_time": "2026-02-03T16:06:33.541325",
+  "package_url": "https://pypi.org/project/multibotkit/"
+}

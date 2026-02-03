@@ -1,11 +1,11 @@
 {
   "name": "jarvisplot",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "JarvisPLOT: YAML-driven plotting engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jarvisplot-1.0.7.tar.gz",
-  "download_time": "2026-02-03T15:03:41.919413",
+  "download_filename": "jarvisplot-1.0.9.tar.gz",
+  "download_time": "2026-02-03T16:06:32.487861",
   "package_url": "https://pypi.org/project/jarvisplot/"
 }

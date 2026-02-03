@@ -1,0 +1,11 @@
+{
+  "name": "youtube-summariser",
+  "version": "0.6.0",
+  "summary": "Summarize YouTube videos using AI (OpenAI, Anthropic, or OpenRouter)",
+  "author": "Weijian Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "youtube_summariser-0.6.0.tar.gz",
+  "download_time": "2026-02-03T16:06:30.412324",
+  "package_url": "https://pypi.org/project/youtube-summariser/"
+}

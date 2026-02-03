@@ -1,0 +1,11 @@
+{
+  "name": "hyperct",
+  "version": "0.3.1",
+  "summary": "Low memory hypercube triangulations and sub-triangulations",
+  "author": "Stefan Endres, Carl Sandrock",
+  "license": "MIT",
+  "home_page": "https://github.com/stefan-endres/hyperct",
+  "download_filename": "hyperct-0.3.1.tar.gz",
+  "download_time": "2026-02-03T16:06:38.764738",
+  "package_url": "https://pypi.org/project/hyperct/"
+}
