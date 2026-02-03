@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-rpc",
+  "version": "0.15.2",
+  "summary": "A Python library for building gRPC/ConnectRPC services with Pydantic models.",
+  "author": "Yasushi Itoh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_rpc-0.15.2.tar.gz",
+  "download_time": "2026-02-03T23:28:42.570538",
+  "package_url": "https://pypi.org/project/pydantic-rpc/"
+}

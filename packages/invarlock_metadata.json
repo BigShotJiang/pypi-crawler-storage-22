@@ -1,11 +1,11 @@
 {
   "name": "invarlock",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "Edit‑agnostic robustness evaluation reports for weight edits (InvarLock framework)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "invarlock-0.3.8.tar.gz",
-  "download_time": "2026-02-02T07:41:11.321717",
+  "download_filename": "invarlock-0.3.9.tar.gz",
+  "download_time": "2026-02-03T23:28:36.877771",
   "package_url": "https://pypi.org/project/invarlock/"
 }

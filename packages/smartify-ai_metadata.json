@@ -1,0 +1,11 @@
+{
+  "name": "smartify-ai",
+  "version": "0.1.0",
+  "summary": "Local runtime for Agent Swarms using the Smartify Grid specification",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartify_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-03T23:29:03.785969",
+  "package_url": "https://pypi.org/project/smartify-ai/"
+}

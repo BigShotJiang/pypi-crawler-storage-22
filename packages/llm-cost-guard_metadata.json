@@ -1,11 +1,11 @@
 {
   "name": "llm-cost-guard",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Real-time cost tracking, budget enforcement, and usage analytics for LLM applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llm_cost_guard-0.1.2.tar.gz",
-  "download_time": "2026-02-03T22:58:54.320487",
+  "download_filename": "llm_cost_guard-0.2.0.tar.gz",
+  "download_time": "2026-02-03T23:29:12.305653",
   "package_url": "https://pypi.org/project/llm-cost-guard/"
 }

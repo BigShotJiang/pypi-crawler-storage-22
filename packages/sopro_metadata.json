@@ -1,0 +1,11 @@
+{
+  "name": "sopro",
+  "version": "1.5.0",
+  "summary": "A lightweight text-to-speech model with zero-shot voice cloning.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "sopro-1.5.0.tar.gz",
+  "download_time": "2026-02-03T23:28:40.010156",
+  "package_url": "https://pypi.org/project/sopro/"
+}

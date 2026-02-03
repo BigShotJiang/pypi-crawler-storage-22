@@ -1,0 +1,11 @@
+{
+  "name": "seo-dev-env",
+  "version": "0.1.2",
+  "summary": "Générateur d'environnements de développement pour tous niveaux",
+  "author": "Votre Nom",
+  "license": null,
+  "home_page": "https://github.com/elkast/seo-dev-env",
+  "download_filename": "seo_dev_env-0.1.2.tar.gz",
+  "download_time": "2026-02-03T23:29:14.869623",
+  "package_url": "https://pypi.org/project/seo-dev-env/"
+}

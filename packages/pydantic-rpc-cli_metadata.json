@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-rpc-cli",
+  "version": "0.15.2",
+  "summary": "CLI tool for pydantic-rpc with server runtime support",
+  "author": "Yasushi Itoh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_rpc_cli-0.15.2.tar.gz",
+  "download_time": "2026-02-03T23:28:42.057049",
+  "package_url": "https://pypi.org/project/pydantic-rpc-cli/"
+}

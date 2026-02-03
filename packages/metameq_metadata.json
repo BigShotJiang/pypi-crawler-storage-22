@@ -1,11 +1,11 @@
 {
   "name": "metameq",
-  "version": "2026.1.2",
+  "version": "2026.2.3",
   "summary": "Qiita-compliant metadata generation and validation tool",
   "author": "Amanda Birmingham",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/AmandaBirmingham/metameq",
-  "download_filename": "metameq-2026.1.2.tar.gz",
-  "download_time": "2026-01-31T20:48:36.594198",
+  "download_filename": "metameq-2026.2.3.tar.gz",
+  "download_time": "2026-02-03T23:29:12.820552",
   "package_url": "https://pypi.org/project/metameq/"
 }

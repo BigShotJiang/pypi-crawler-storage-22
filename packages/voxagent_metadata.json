@@ -1,11 +1,11 @@
 {
   "name": "voxagent",
-  "version": "0.1.1",
+  "version": "0.2.4",
   "summary": "A lightweight, model-agnostic LLM provider abstraction with streaming and tool support",
   "author": "voxDomus team",
   "license": null,
   "home_page": null,
-  "download_filename": "voxagent-0.1.1.tar.gz",
-  "download_time": "2026-02-02T07:40:48.445591",
+  "download_filename": "voxagent-0.2.4.tar.gz",
+  "download_time": "2026-02-03T23:28:50.352198",
   "package_url": "https://pypi.org/project/voxagent/"
 }

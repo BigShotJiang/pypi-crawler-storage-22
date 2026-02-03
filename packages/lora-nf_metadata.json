@@ -1,0 +1,11 @@
+{
+  "name": "lora-nf",
+  "version": "0.1.1",
+  "summary": "Low-Rank Adaptation of Neural Fields",
+  "author": "Anh Truong",
+  "license": "MIT License",
+  "home_page": "https://github.com/dinhanhtruong/LoRA-NF",
+  "download_filename": "lora_nf-0.1.1.tar.gz",
+  "download_time": "2026-02-03T23:28:43.086322",
+  "package_url": "https://pypi.org/project/lora-nf/"
+}

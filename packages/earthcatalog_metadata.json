@@ -1,11 +1,11 @@
 {
   "name": "earthcatalog",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "earthcatalog is a scalable STAC ingestion library for partitioned GeoParquet catalogs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "earthcatalog-0.4.0.tar.gz",
-  "download_time": "2026-02-03T22:27:29.806655",
+  "download_filename": "earthcatalog-0.4.1.tar.gz",
+  "download_time": "2026-02-03T23:28:41.546327",
   "package_url": "https://pypi.org/project/earthcatalog/"
 }
