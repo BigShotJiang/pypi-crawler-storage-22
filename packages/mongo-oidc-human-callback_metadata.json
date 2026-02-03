@@ -1,0 +1,11 @@
+{
+  "name": "mongo-oidc-human-callback",
+  "version": "0.1.1",
+  "summary": "OIDC Human Callback for MongoDB: browser-based OAuth 2.0 Authorization Code Flow with PKCE (Azure AD and other OIDC providers).",
+  "author": "Reouven Mimoun",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongo_oidc_human_callback-0.1.1.tar.gz",
+  "download_time": "2026-02-03T18:07:56.852547",
+  "package_url": "https://pypi.org/project/mongo-oidc-human-callback/"
+}

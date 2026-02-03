@@ -1,0 +1,11 @@
+{
+  "name": "bitget",
+  "version": "0.0.121",
+  "summary": "bitget crypto exchange api client",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bitget-0.0.121.tar.gz",
+  "download_time": "2026-02-03T18:08:30.216869",
+  "package_url": "https://pypi.org/project/bitget/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-yotoplayer",
+  "version": "1.0.0",
+  "summary": "PortalBase helper library for the Yoto Players",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_yotoplayer-1.0.0.tar.gz",
+  "download_time": "2026-02-03T18:07:42.043969",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-yotoplayer/"
+}

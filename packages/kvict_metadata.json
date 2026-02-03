@@ -1,0 +1,11 @@
+{
+  "name": "kvict",
+  "version": "1.2.0",
+  "summary": "KVict: KV cache eviction CLI, advisor service, and subscription stretching proxy for LLM APIs",
+  "author": "KVict Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kvict-1.2.0.tar.gz",
+  "download_time": "2026-02-03T18:07:42.610756",
+  "package_url": "https://pypi.org/project/kvict/"
+}

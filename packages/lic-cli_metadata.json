@@ -1,0 +1,11 @@
+{
+  "name": "lic-cli",
+  "version": "0.1.20",
+  "summary": "Minimal license generator",
+  "author": "kushvinth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lic_cli-0.1.20.tar.gz",
+  "download_time": "2026-02-03T18:08:25.092182",
+  "package_url": "https://pypi.org/project/lic-cli/"
+}

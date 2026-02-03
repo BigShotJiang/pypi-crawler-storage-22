@@ -1,0 +1,11 @@
+{
+  "name": "sandlerprops",
+  "version": "0.6.0",
+  "summary": "A python interface to the pure-component properties database for Sandler 5e",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sandlerprops-0.6.0.tar.gz",
+  "download_time": "2026-02-03T18:08:06.379688",
+  "package_url": "https://pypi.org/project/sandlerprops/"
+}

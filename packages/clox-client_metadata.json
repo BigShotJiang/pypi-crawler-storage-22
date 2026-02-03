@@ -1,0 +1,11 @@
+{
+  "name": "clox-client",
+  "version": "1.0.0",
+  "summary": "Python client SDK for Clox Document Processing API",
+  "author": "Clox Team",
+  "license": "MIT",
+  "home_page": "https://github.com/clox/client-sdk",
+  "download_filename": "clox_client-1.0.0.tar.gz",
+  "download_time": "2026-02-03T18:07:55.133479",
+  "package_url": "https://pypi.org/project/clox-client/"
+}

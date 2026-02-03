@@ -1,0 +1,11 @@
+{
+  "name": "pyconverters-openai_vision",
+  "version": "0.5.56",
+  "summary": "OpenAIVision converter",
+  "author": "Olivier Terrier",
+  "license": null,
+  "home_page": "https://kairntech.com/",
+  "download_filename": "pyconverters_openai_vision-0.5.56.tar.gz",
+  "download_time": "2026-02-03T18:07:50.120486",
+  "package_url": "https://pypi.org/project/pyconverters-openai_vision/"
+}

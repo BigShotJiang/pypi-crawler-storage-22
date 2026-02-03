@@ -1,0 +1,11 @@
+{
+  "name": "flask-rebar",
+  "version": "3.4.0",
+  "summary": "Flask-Rebar combines flask, marshmallow, and swagger for robust REST services.",
+  "author": "Barak Alon",
+  "license": "MIT",
+  "home_page": "https://github.com/plangrid/flask-rebar",
+  "download_filename": "flask_rebar-3.4.0.tar.gz",
+  "download_time": "2026-02-03T18:08:03.640794",
+  "package_url": "https://pypi.org/project/flask-rebar/"
+}

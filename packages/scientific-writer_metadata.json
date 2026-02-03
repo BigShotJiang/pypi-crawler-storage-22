@@ -1,0 +1,11 @@
+{
+  "name": "scientific-writer",
+  "version": "2.10.4",
+  "summary": "Deep research and writing tool - combines AI-driven deep research with well-formatted written outputs. Generates publication-ready scientific documents with verified citations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scientific_writer-2.10.4.tar.gz",
+  "download_time": "2026-02-03T18:08:00.310997",
+  "package_url": "https://pypi.org/project/scientific-writer/"
+}

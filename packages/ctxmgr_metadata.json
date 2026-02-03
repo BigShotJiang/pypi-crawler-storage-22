@@ -1,0 +1,11 @@
+{
+  "name": "ctxmgr",
+  "version": "0.2.0",
+  "summary": "工作区上下文管理工具 - 专为多项目并行开发设计",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctxmgr-0.2.0.tar.gz",
+  "download_time": "2026-02-03T18:08:17.293080",
+  "package_url": "https://pypi.org/project/ctxmgr/"
+}

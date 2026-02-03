@@ -1,0 +1,11 @@
+{
+  "name": "circuit-maintenance-parser",
+  "version": "2.10.0",
+  "summary": "Python library to parse Circuit Maintenance notifications and return a structured data back",
+  "author": "Network to Code",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "circuit_maintenance_parser-2.10.0.tar.gz",
+  "download_time": "2026-02-03T18:08:22.856837",
+  "package_url": "https://pypi.org/project/circuit-maintenance-parser/"
+}

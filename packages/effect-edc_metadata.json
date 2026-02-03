@@ -1,11 +1,11 @@
 {
   "name": "effect-edc",
-  "version": "1.4.2",
+  "version": "1.4.5",
   "summary": "EFFECT Trial EDC (https://www.isrctn.com/ISRCTN30579828)",
   "author": "Erik van Widenfelt, Jonathan Willitts",
   "license": null,
   "home_page": null,
-  "download_filename": "effect_edc-1.4.2.tar.gz",
-  "download_time": "2026-02-01T17:21:48.820580",
+  "download_filename": "effect_edc-1.4.5.tar.gz",
+  "download_time": "2026-02-03T18:07:46.587846",
   "package_url": "https://pypi.org/project/effect-edc/"
 }
