@@ -1,0 +1,11 @@
+{
+  "name": "agenix",
+  "version": "0.0.2",
+  "summary": "A lightweight AI coding agent with file operations and shell execution capabilities",
+  "author": "ZHANG Zhi",
+  "license": "MIT",
+  "home_page": "https://github.com/tczhangzhi/agenix",
+  "download_filename": "agenix-0.0.2.tar.gz",
+  "download_time": "2026-02-03T11:08:31.015686",
+  "package_url": "https://pypi.org/project/agenix/"
+}

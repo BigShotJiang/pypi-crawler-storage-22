@@ -1,0 +1,11 @@
+{
+  "name": "qubership-pipelines-declarative-executor",
+  "version": "2.0.3",
+  "summary": "Qubership Pipelines Declarative Executor",
+  "author": "Qubership",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qubership_pipelines_declarative_executor-2.0.3.tar.gz",
+  "download_time": "2026-02-03T11:08:09.071625",
+  "package_url": "https://pypi.org/project/qubership-pipelines-declarative-executor/"
+}

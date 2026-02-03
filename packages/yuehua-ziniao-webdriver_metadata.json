@@ -1,0 +1,11 @@
+{
+  "name": "yuehua-ziniao-webdriver",
+  "version": "0.1.1",
+  "summary": "紫鸟浏览器自动化 Python SDK - 提供店铺管理、浏览器控制等功能",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yuehua_ziniao_webdriver-0.1.1.tar.gz",
+  "download_time": "2026-02-03T11:08:01.788547",
+  "package_url": "https://pypi.org/project/yuehua-ziniao-webdriver/"
+}

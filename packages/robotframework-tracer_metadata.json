@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-tracer",
+  "version": "0.2.3",
+  "summary": "OpenTelemetry distributed tracing for Robot Framework",
+  "author": "Robot Framework Tracer Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "robotframework_tracer-0.2.3.tar.gz",
+  "download_time": "2026-02-03T11:08:29.394918",
+  "package_url": "https://pypi.org/project/robotframework-tracer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "netbox-device-view",
+  "version": "0.1.12",
+  "summary": "NetBox Device View plugin",
+  "author": "Peter Baumert",
+  "license": null,
+  "home_page": "https://github.com/peterbaumert/netbox-device-view",
+  "download_filename": "netbox_device_view-0.1.12.tar.gz",
+  "download_time": "2026-02-03T11:07:59.693359",
+  "package_url": "https://pypi.org/project/netbox-device-view/"
+}

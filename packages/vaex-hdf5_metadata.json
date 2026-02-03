@@ -1,0 +1,11 @@
+{
+  "name": "vaex-hdf5",
+  "version": "0.15.0",
+  "summary": "hdf5 file support for vaex",
+  "author": "Maarten A. Breddels",
+  "license": "MIT",
+  "home_page": "https://www.github.com/maartenbreddels/vaex",
+  "download_filename": "vaex_hdf5-0.15.0-py3-none-any.whl",
+  "download_time": "2026-02-03T11:08:03.881195",
+  "package_url": "https://pypi.org/project/vaex-hdf5/"
+}

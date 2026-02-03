@@ -1,0 +1,11 @@
+{
+  "name": "clickhouse-orm",
+  "version": "3.0.1",
+  "summary": "A simple ORM for working with the Clickhouse database. Maintainance fork of infi.clickhouse_orm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickhouse_orm-3.0.1.tar.gz",
+  "download_time": "2026-02-03T11:08:28.355817",
+  "package_url": "https://pypi.org/project/clickhouse-orm/"
+}

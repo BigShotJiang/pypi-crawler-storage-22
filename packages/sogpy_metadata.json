@@ -1,11 +1,11 @@
 {
   "name": "sogpy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Convert Gaussian Splat PLY files to PlayCanvas SOG format",
   "author": "Sai Kiran Nunemunthala",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sogpy-1.0.1.tar.gz",
-  "download_time": "2026-02-03T09:44:32.843956",
+  "download_filename": "sogpy-1.0.2.tar.gz",
+  "download_time": "2026-02-03T11:08:21.079905",
   "package_url": "https://pypi.org/project/sogpy/"
 }
