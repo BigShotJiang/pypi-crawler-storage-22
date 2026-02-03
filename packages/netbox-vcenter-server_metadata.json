@@ -1,0 +1,11 @@
+{
+  "name": "netbox-vcenter-server",
+  "version": "0.4.0",
+  "summary": "NetBox plugin for viewing and importing VMs from VMware vCenter servers",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_vcenter_server-0.4.0.tar.gz",
+  "download_time": "2026-02-03T22:58:46.368792",
+  "package_url": "https://pypi.org/project/netbox-vcenter-server/"
+}

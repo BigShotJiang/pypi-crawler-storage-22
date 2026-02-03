@@ -1,0 +1,11 @@
+{
+  "name": "cloc-python",
+  "version": "0.1.0",
+  "summary": "UVX-friendly wrapper for cloc (Count Lines of Code) binary executable",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloc_python-0.1.0.tar.gz",
+  "download_time": "2026-02-03T22:58:48.247730",
+  "package_url": "https://pypi.org/project/cloc-python/"
+}

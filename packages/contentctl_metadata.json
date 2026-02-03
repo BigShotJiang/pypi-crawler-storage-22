@@ -1,11 +1,11 @@
 {
   "name": "contentctl",
-  "version": "5.5.11",
+  "version": "5.5.13",
   "summary": "Splunk Content Control Tool",
   "author": "STRT",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "contentctl-5.5.11.tar.gz",
-  "download_time": "2026-02-02T23:38:25.667599",
+  "download_filename": "contentctl-5.5.13.tar.gz",
+  "download_time": "2026-02-03T22:58:43.968319",
   "package_url": "https://pypi.org/project/contentctl/"
 }

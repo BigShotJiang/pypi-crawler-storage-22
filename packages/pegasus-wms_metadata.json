@@ -1,0 +1,11 @@
+{
+  "name": "pegasus-wms",
+  "version": "5.1.2",
+  "summary": "Pegasus Workflow Management System Python Codebase",
+  "author": "Pegasus Team",
+  "license": "Apache-2.0",
+  "home_page": "http://pegasus.isi.edu",
+  "download_filename": "pegasus_wms-5.1.2-py3-none-any.whl",
+  "download_time": "2026-02-03T22:58:11.289592",
+  "package_url": "https://pypi.org/project/pegasus-wms/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "second-opinion-mcp",
-  "version": "0.3.2",
+  "version": "0.3.6",
   "summary": "Multi-model AI analysis for Claude - get second opinions from DeepSeek, Kimi, and OpenRouter",
   "author": "MarvinFS",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "second_opinion_mcp-0.3.2.tar.gz",
-  "download_time": "2026-02-03T22:27:28.268518",
+  "download_filename": "second_opinion_mcp-0.3.6.tar.gz",
+  "download_time": "2026-02-03T22:58:39.829597",
   "package_url": "https://pypi.org/project/second-opinion-mcp/"
 }

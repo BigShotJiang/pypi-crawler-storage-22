@@ -1,11 +1,11 @@
 {
   "name": "blackant-sdk",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Python SDK for Docker operations with automatic authentication through BlackAnt platform",
   "author": null,
   "license": "Proprietary - Óbudai Egyetem",
   "home_page": null,
-  "download_filename": "blackant_sdk-1.0.2.tar.gz",
-  "download_time": "2026-02-03T21:51:37.416303",
+  "download_filename": "blackant_sdk-1.0.3.tar.gz",
+  "download_time": "2026-02-03T22:58:50.589225",
   "package_url": "https://pypi.org/project/blackant-sdk/"
 }
