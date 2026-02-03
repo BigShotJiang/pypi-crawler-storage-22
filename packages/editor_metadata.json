@@ -1,0 +1,11 @@
+{
+  "name": "editor",
+  "version": "1.7.0",
+  "summary": "🖋 Open the default text editor 🖋",
+  "author": "Tom Ritchford",
+  "license": null,
+  "home_page": null,
+  "download_filename": "editor-1.7.0.tar.gz",
+  "download_time": "2026-02-03T14:03:05.696673",
+  "package_url": "https://pypi.org/project/editor/"
+}

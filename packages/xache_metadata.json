@@ -1,11 +1,11 @@
 {
   "name": "xache",
-  "version": "5.2.0",
+  "version": "5.2.3",
   "summary": "Official Python SDK for Xache Protocol",
   "author": "Xache Protocol",
   "license": "MIT",
   "home_page": "https://github.com/xache-ai/xache-protocol",
-  "download_filename": "xache-5.2.0.tar.gz",
-  "download_time": "2026-02-03T09:44:30.846137",
+  "download_filename": "xache-5.2.3.tar.gz",
+  "download_time": "2026-02-03T14:03:13.919063",
   "package_url": "https://pypi.org/project/xache/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "matviz",
+  "version": "0.2.7",
+  "summary": "matviz: matrix data visualization",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "matviz-0.2.7.tar.gz",
+  "download_time": "2026-02-03T14:02:45.312354",
+  "package_url": "https://pypi.org/project/matviz/"
+}

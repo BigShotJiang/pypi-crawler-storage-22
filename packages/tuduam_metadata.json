@@ -1,0 +1,11 @@
+{
+  "name": "tuduam",
+  "version": "2026.1",
+  "summary": "Python module related to the course on Urban Air Mobility at the faculty of Aeropsace Engineering, TU Delft",
+  "author": "Saullo G. P. Castro, Damien Keijzer",
+  "license": "3-Clause BSD",
+  "home_page": "https://github.com/saullocastro/tuduam",
+  "download_filename": "tuduam-2026.1-py3-none-any.whl",
+  "download_time": "2026-02-03T14:02:48.484858",
+  "package_url": "https://pypi.org/project/tuduam/"
+}

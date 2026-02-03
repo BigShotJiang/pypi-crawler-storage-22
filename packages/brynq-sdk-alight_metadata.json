@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-alight",
+  "version": "1.0.0.dev5",
+  "summary": "Alight SDK for the BrynQ.com platform",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_alight-1.0.0.dev5.tar.gz",
+  "download_time": "2026-02-03T14:03:01.000244",
+  "package_url": "https://pypi.org/project/brynq-sdk-alight/"
+}

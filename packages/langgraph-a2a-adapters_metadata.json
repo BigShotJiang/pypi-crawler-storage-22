@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-a2a-adapters",
+  "version": "0.1.0",
+  "summary": "LangGraph to Google A2A Protocol Adapter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langgraph_a2a_adapters-0.1.0.tar.gz",
+  "download_time": "2026-02-03T14:02:51.056606",
+  "package_url": "https://pypi.org/project/langgraph-a2a-adapters/"
+}
