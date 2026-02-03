@@ -1,0 +1,11 @@
+{
+  "name": "qdb-prometheus-exporter",
+  "version": "3.14.2",
+  "summary": "Statistics exporter for Prometheus monitoring system for QuasarDB time-series database.",
+  "author": "quasardb SAS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qdb_prometheus_exporter-3.14.2-py3-none-any.whl",
+  "download_time": "2026-02-03T09:44:29.632902",
+  "package_url": "https://pypi.org/project/qdb-prometheus-exporter/"
+}

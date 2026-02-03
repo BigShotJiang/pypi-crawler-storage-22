@@ -1,0 +1,11 @@
+{
+  "name": "mlops-python-sdk",
+  "version": "1.0.1",
+  "summary": "MLOps Python SDK for XCloud Service API",
+  "author": "mlops",
+  "license": "MIT",
+  "home_page": "https://mlops.cloud/",
+  "download_filename": "mlops_python_sdk-1.0.1.tar.gz",
+  "download_time": "2026-02-03T09:44:08.867573",
+  "package_url": "https://pypi.org/project/mlops-python-sdk/"
+}

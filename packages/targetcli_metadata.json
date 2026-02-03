@@ -1,0 +1,11 @@
+{
+  "name": "targetcli",
+  "version": "3.0.2",
+  "summary": "A command shell for managing the Linux LIO kernel target",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "targetcli-3.0.2.tar.gz",
+  "download_time": "2026-02-03T09:44:27.834293",
+  "package_url": "https://pypi.org/project/targetcli/"
+}

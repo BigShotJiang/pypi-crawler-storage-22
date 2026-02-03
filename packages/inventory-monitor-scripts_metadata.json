@@ -1,0 +1,11 @@
+{
+  "name": "inventory-monitor-scripts",
+  "version": "1.0.0",
+  "summary": "Scan devices via SNMP and store its inventory to NetBox",
+  "author": "Jan Krupa",
+  "license": null,
+  "home_page": "https://github.com/Kani999/inventory_monitor_scripts.git",
+  "download_filename": "inventory_monitor_scripts-1.0.0.tar.gz",
+  "download_time": "2026-02-03T09:44:50.882161",
+  "package_url": "https://pypi.org/project/inventory-monitor-scripts/"
+}

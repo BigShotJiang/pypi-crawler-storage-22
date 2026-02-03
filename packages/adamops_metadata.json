@@ -1,0 +1,11 @@
+{
+  "name": "adamops",
+  "version": "0.1.0",
+  "summary": "A comprehensive MLOps library for end-to-end machine learning workflows",
+  "author": "Team ADAM",
+  "license": "MIT",
+  "home_page": "https://github.com/Ayushmishra05/ADAMOPS",
+  "download_filename": "adamops-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-03T09:44:14.629714",
+  "package_url": "https://pypi.org/project/adamops/"
+}

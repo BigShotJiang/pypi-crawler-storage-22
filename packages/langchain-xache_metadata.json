@@ -1,0 +1,11 @@
+{
+  "name": "langchain-xache",
+  "version": "0.2.0",
+  "summary": "LangChain integration for Xache Protocol - verifiable AI agent memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_xache-0.2.0.tar.gz",
+  "download_time": "2026-02-03T09:44:18.487183",
+  "package_url": "https://pypi.org/project/langchain-xache/"
+}

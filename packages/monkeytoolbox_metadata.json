@@ -1,0 +1,11 @@
+{
+  "name": "monkeytoolbox",
+  "version": "1.0.1",
+  "summary": "Miscellaneous convenience utilities for Python programs",
+  "author": "Ilija Lazoroski",
+  "license": "GPLv3",
+  "home_page": "https://github.com/guardicode/monkeytoolbox",
+  "download_filename": "monkeytoolbox-1.0.1.tar.gz",
+  "download_time": "2026-02-03T09:44:17.842379",
+  "package_url": "https://pypi.org/project/monkeytoolbox/"
+}

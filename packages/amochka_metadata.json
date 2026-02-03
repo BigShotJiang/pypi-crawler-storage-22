@@ -1,0 +1,11 @@
+{
+  "name": "amochka",
+  "version": "0.4.7",
+  "summary": "Python library for working with amoCRM API with ETL capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amochka-0.4.7.tar.gz",
+  "download_time": "2026-02-03T09:44:53.410217",
+  "package_url": "https://pypi.org/project/amochka/"
+}
