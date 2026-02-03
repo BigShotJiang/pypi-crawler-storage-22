@@ -1,0 +1,11 @@
+{
+  "name": "jenkinsapi",
+  "version": "0.3.20",
+  "summary": "A Python API for accessing resources on a Jenkins continuous-integration server.",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "jenkinsapi-0.3.20.tar.gz",
+  "download_time": "2026-02-03T02:37:05.609767",
+  "package_url": "https://pypi.org/project/jenkinsapi/"
+}

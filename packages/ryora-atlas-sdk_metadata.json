@@ -1,11 +1,11 @@
 {
   "name": "ryora-atlas-sdk",
-  "version": "0.1.0",
-  "summary": "Official Python SDK for the Atlas Platform",
-  "author": null,
-  "license": null,
+  "version": "1.4.0",
+  "summary": "Atlas SDK for Python - Client library for Atlas Control Plane",
+  "author": "Atlas Team",
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "ryora_atlas_sdk-0.1.0.tar.gz",
-  "download_time": "2026-02-01T07:27:44.626736",
+  "download_filename": "ryora_atlas_sdk-1.4.0.tar.gz",
+  "download_time": "2026-02-03T02:37:10.301673",
   "package_url": "https://pypi.org/project/ryora-atlas-sdk/"
 }

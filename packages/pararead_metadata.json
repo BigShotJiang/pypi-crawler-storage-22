@@ -1,0 +1,11 @@
+{
+  "name": "pararead",
+  "version": "0.8.1",
+  "summary": "Parallel processing of sequencing reads",
+  "author": "Nathan Sheffield, Vince Reuter",
+  "license": "BSD2",
+  "home_page": "https://github.com/databio/pararead",
+  "download_filename": "pararead-0.8.1.tar.gz",
+  "download_time": "2026-02-03T02:37:06.634664",
+  "package_url": "https://pypi.org/project/pararead/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coreason-identity",
+  "version": "0.4.3",
+  "summary": "Decoupled authentication middleware, abstracting OIDC and OAuth2 protocols from the main application.",
+  "author": "Gowtham A Rao",
+  "license": "Prosperity-3.0",
+  "home_page": null,
+  "download_filename": "coreason_identity-0.4.3.tar.gz",
+  "download_time": "2026-02-03T02:36:45.668990",
+  "package_url": "https://pypi.org/project/coreason-identity/"
+}

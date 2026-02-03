@@ -1,0 +1,11 @@
+{
+  "name": "buaalogin-cli",
+  "version": "0.2.0",
+  "summary": "一个简易的校园网自动登录与保活工具，基于 Playwright 模拟登录。",
+  "author": "Misty02600",
+  "license": null,
+  "home_page": null,
+  "download_filename": "buaalogin_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-03T02:36:38.354274",
+  "package_url": "https://pypi.org/project/buaalogin-cli/"
+}

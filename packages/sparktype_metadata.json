@@ -1,0 +1,11 @@
+{
+  "name": "sparktype",
+  "version": "0.1.1",
+  "summary": "Generate static types from OpenAPI specifications",
+  "author": "hntrl",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sparktype-0.1.1-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-03T02:36:54.087325",
+  "package_url": "https://pypi.org/project/sparktype/"
+}

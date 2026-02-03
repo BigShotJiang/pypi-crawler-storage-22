@@ -1,0 +1,11 @@
+{
+  "name": "orb-billing",
+  "version": "4.52.0",
+  "summary": "The official Python library for the orb API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "orb_billing-4.52.0.tar.gz",
+  "download_time": "2026-02-03T02:36:36.285573",
+  "package_url": "https://pypi.org/project/orb-billing/"
+}
