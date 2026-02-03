@@ -1,0 +1,11 @@
+{
+  "name": "bsb-havoc",
+  "version": "1.0.0",
+  "summary": "The World's Most Powerful Professional Load Testing Tool",
+  "author": "Black Spammer Bd",
+  "license": null,
+  "home_page": "https://github.com/Shawpon2/bsb-havoc",
+  "download_filename": "bsb_havoc-1.0.0.tar.gz",
+  "download_time": "2026-02-03T12:49:54.703674",
+  "package_url": "https://pypi.org/project/bsb-havoc/"
+}

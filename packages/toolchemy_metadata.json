@@ -1,11 +1,11 @@
 {
   "name": "toolchemy",
-  "version": "0.2.187",
+  "version": "0.2.189",
   "summary": "a set of auxiliary programming tools",
   "author": "Cyprian Nosek",
   "license": null,
   "home_page": null,
-  "download_filename": "toolchemy-0.2.187.tar.gz",
-  "download_time": "2026-02-03T11:08:13.284940",
+  "download_filename": "toolchemy-0.2.189.tar.gz",
+  "download_time": "2026-02-03T12:49:14.220495",
   "package_url": "https://pypi.org/project/toolchemy/"
 }

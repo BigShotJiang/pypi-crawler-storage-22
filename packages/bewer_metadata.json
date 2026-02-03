@@ -1,0 +1,11 @@
+{
+  "name": "bewer",
+  "version": "0.1.0a4",
+  "summary": "Evaluation and analysis framework for automatic speech recognition in Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bewer-0.1.0a4.tar.gz",
+  "download_time": "2026-02-03T12:49:14.730949",
+  "package_url": "https://pypi.org/project/bewer/"
+}

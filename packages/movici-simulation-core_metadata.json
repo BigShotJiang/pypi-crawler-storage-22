@@ -1,0 +1,11 @@
+{
+  "name": "movici-simulation-core",
+  "version": "2.12.0",
+  "summary": "Core package for running Movici geospatial temporal simulations",
+  "author": null,
+  "license": "Movici Public License",
+  "home_page": null,
+  "download_filename": "movici_simulation_core-2.12.0-py3-none-any.whl",
+  "download_time": "2026-02-03T12:49:43.830558",
+  "package_url": "https://pypi.org/project/movici-simulation-core/"
+}

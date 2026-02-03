@@ -1,11 +1,11 @@
 {
   "name": "calibrate-suite",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Comprehensive camera-lidar calibration suite with GUI and fleet management",
   "author": "Jamih",
   "license": "MIT",
   "home_page": "https://github.com/Opera5/calibrate-suite",
-  "download_filename": "calibrate_suite-0.1.1.tar.gz",
-  "download_time": "2026-02-03T11:51:52.468240",
+  "download_filename": "calibrate_suite-0.1.3.tar.gz",
+  "download_time": "2026-02-03T12:49:11.671375",
   "package_url": "https://pypi.org/project/calibrate-suite/"
 }

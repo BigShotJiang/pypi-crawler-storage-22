@@ -1,0 +1,11 @@
+{
+  "name": "piwave",
+  "version": "2.1.12",
+  "summary": "A python module to broadcast radio waves with your Raspberry Pi.",
+  "author": "Douxx",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/douxxtech/piwave",
+  "download_filename": "piwave-2.1.12.tar.gz",
+  "download_time": "2026-02-03T12:49:34.352223",
+  "package_url": "https://pypi.org/project/piwave/"
+}

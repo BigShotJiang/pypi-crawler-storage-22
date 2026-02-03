@@ -1,11 +1,11 @@
 {
   "name": "soprano-sdk",
-  "version": "0.2.21",
+  "version": "0.2.22",
   "summary": "YAML-driven workflow engine with AI agent integration for building conversational SOPs",
   "author": "Arvind Thangamani",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soprano_sdk-0.2.21.tar.gz",
-  "download_time": "2026-02-03T09:44:23.326697",
+  "download_filename": "soprano_sdk-0.2.22.tar.gz",
+  "download_time": "2026-02-03T12:49:43.309573",
   "package_url": "https://pypi.org/project/soprano-sdk/"
 }
