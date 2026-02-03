@@ -1,0 +1,11 @@
+{
+  "name": "rag-core-api",
+  "version": "4.1.1",
+  "summary": "The rag-core-api contains the API layer for the RAG template for document retrieval, question answering, knowledge base management in the vector database and more.",
+  "author": "STACKIT GmbH & Co. KG",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/rag-core-api",
+  "download_filename": "rag_core_api-4.1.1.tar.gz",
+  "download_time": "2026-02-03T10:26:42.864352",
+  "package_url": "https://pypi.org/project/rag-core-api/"
+}

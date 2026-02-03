@@ -1,0 +1,11 @@
+{
+  "name": "ariadne",
+  "version": "0.28.0",
+  "summary": "Ariadne is a Python library for implementing GraphQL servers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ariadne-0.28.0.tar.gz",
+  "download_time": "2026-02-03T10:26:53.832170",
+  "package_url": "https://pypi.org/project/ariadne/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sap-ai-sdk-base",
+  "version": "3.2.3",
+  "summary": "SAP Cloud SDK for AI (Python): Base Client",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com/",
+  "download_filename": "sap_ai_sdk_base-3.2.3-py3-none-any.whl",
+  "download_time": "2026-02-03T10:26:36.113546",
+  "package_url": "https://pypi.org/project/sap-ai-sdk-base/"
+}

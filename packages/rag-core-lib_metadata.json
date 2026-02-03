@@ -1,0 +1,11 @@
+{
+  "name": "rag-core-lib",
+  "version": "4.1.1",
+  "summary": "The rag-core-lib contains the shared components of at least two of the rag libs.",
+  "author": "STACKIT GmbH & Co. KG",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/rag-core-lib",
+  "download_filename": "rag_core_lib-4.1.1.tar.gz",
+  "download_time": "2026-02-03T10:26:43.375904",
+  "package_url": "https://pypi.org/project/rag-core-lib/"
+}

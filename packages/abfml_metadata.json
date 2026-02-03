@@ -1,0 +1,11 @@
+{
+  "name": "abfml",
+  "version": "2026.2.3",
+  "summary": "A problem-oriented package for rapidly creating, screening, and optimizing new machine learning force fields",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "abfml-2026.2.3.tar.gz",
+  "download_time": "2026-02-03T10:26:35.580913",
+  "package_url": "https://pypi.org/project/abfml/"
+}

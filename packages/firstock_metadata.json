@@ -1,11 +1,11 @@
 {
   "name": "firstock",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Firstock Developer SDK for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "firstock-1.1.1.tar.gz",
-  "download_time": "2026-01-31T06:59:11.550122",
+  "download_filename": "firstock-1.1.2.tar.gz",
+  "download_time": "2026-02-03T10:26:52.275583",
   "package_url": "https://pypi.org/project/firstock/"
 }

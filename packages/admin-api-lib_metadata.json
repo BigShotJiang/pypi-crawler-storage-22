@@ -1,0 +1,11 @@
+{
+  "name": "admin-api-lib",
+  "version": "4.1.1",
+  "summary": "The admin backend is responsible for the document management. This includes deletion, upload and returning the source document.",
+  "author": "STACKIT GmbH & Co. KG",
+  "license": "Apache-2.0",
+  "home_page": "https://pypi.org/project/admin-api-lib",
+  "download_filename": "admin_api_lib-4.1.1.tar.gz",
+  "download_time": "2026-02-03T10:26:42.353259",
+  "package_url": "https://pypi.org/project/admin-api-lib/"
+}
