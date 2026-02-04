@@ -1,0 +1,11 @@
+{
+  "name": "django-postpone-index",
+  "version": "0.0.4",
+  "summary": "Postpone index creation to provide Zero Downtime Migration feature",
+  "author": "Vsevolod Novikov",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/nnseva/django-postpone-index",
+  "download_filename": "django_postpone_index-0.0.4.tar.gz",
+  "download_time": "2026-02-04T15:12:19.787882",
+  "package_url": "https://pypi.org/project/django-postpone-index/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "LiveSync",
+  "version": "0.4.0",
+  "summary": "Repeatedly synchronize local workspace with a (slow) remote machine",
+  "author": "Zauberzeug GmbH",
+  "license": "MIT",
+  "home_page": "https://github.com/zauberzeug/livesync",
+  "download_filename": "livesync-0.4.0.tar.gz",
+  "download_time": "2026-02-04T15:12:46.757538",
+  "package_url": "https://pypi.org/project/LiveSync/"
+}

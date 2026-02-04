@@ -1,11 +1,11 @@
 {
   "name": "explainiverse",
-  "version": "0.8.5",
+  "version": "0.8.7",
   "summary": "Unified, extensible explainability framework supporting 18 XAI methods including LIME, SHAP, LRP, TCAV, GradCAM, and more",
   "author": "Muntaser Syed",
   "license": "MIT",
   "home_page": "https://github.com/jemsbhai/explainiverse",
-  "download_filename": "explainiverse-0.8.5.tar.gz",
-  "download_time": "2026-02-03T21:10:03.595603",
+  "download_filename": "explainiverse-0.8.7.tar.gz",
+  "download_time": "2026-02-04T15:12:13.233344",
   "package_url": "https://pypi.org/project/explainiverse/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyalex",
+  "version": "0.19",
+  "summary": "Python interface to the OpenAlex database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyalex-0.19.tar.gz",
+  "download_time": "2026-02-04T15:12:07.054687",
+  "package_url": "https://pypi.org/project/pyalex/"
+}

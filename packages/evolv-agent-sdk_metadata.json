@@ -1,0 +1,11 @@
+{
+  "name": "evolv-agent-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for evolv Code",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "evolv_agent_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-04T15:12:43.616639",
+  "package_url": "https://pypi.org/project/evolv-agent-sdk/"
+}

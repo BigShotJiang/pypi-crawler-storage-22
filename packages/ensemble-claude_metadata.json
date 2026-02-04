@@ -1,11 +1,11 @@
 {
   "name": "ensemble-claude",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "AI Orchestration Tool for Claude Code - Multi-agent orchestration for complex development tasks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ensemble_claude-0.3.1.tar.gz",
-  "download_time": "2026-02-03T18:07:51.219726",
+  "download_filename": "ensemble_claude-0.4.0.tar.gz",
+  "download_time": "2026-02-04T15:12:31.763780",
   "package_url": "https://pypi.org/project/ensemble-claude/"
 }

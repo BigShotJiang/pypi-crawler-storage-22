@@ -1,0 +1,11 @@
+{
+  "name": "regorator",
+  "version": "0.1.1",
+  "summary": "A Python Registry and Decorator System",
+  "author": null,
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "regorator-0.1.1.tar.gz",
+  "download_time": "2026-02-04T15:12:47.267918",
+  "package_url": "https://pypi.org/project/regorator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "Precision optimizer for PyTorch - 1,000,000x more accurate than FP32",
   "author": "Kyle Clouthier",
   "license": "Proprietary - Free tier available, commercial use requires license",
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-0.1.4.tar.gz",
-  "download_time": "2026-02-04T14:30:16.071398",
+  "download_filename": "quarterbit-0.1.7-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-04T15:12:37.450479",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

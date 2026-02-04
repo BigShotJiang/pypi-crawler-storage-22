@@ -1,0 +1,11 @@
+{
+  "name": "pytest-flakefighters",
+  "version": "0.3.1",
+  "summary": "Pytest plugin implementing flaky test failure detection and classification.",
+  "author": "TestFLARE Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_flakefighters-0.3.1.tar.gz",
+  "download_time": "2026-02-04T15:12:01.727784",
+  "package_url": "https://pypi.org/project/pytest-flakefighters/"
+}

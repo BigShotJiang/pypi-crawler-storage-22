@@ -1,0 +1,11 @@
+{
+  "name": "emm-stepper",
+  "version": "1.0.0",
+  "summary": "ZDT X42S 第二代闭环步进电机控制库 (仅支持Emm固件)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "emm_stepper-1.0.0.tar.gz",
+  "download_time": "2026-02-04T15:12:26.549532",
+  "package_url": "https://pypi.org/project/emm-stepper/"
+}
