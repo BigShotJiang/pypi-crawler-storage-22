@@ -1,11 +1,11 @@
 {
   "name": "nosible",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Python client for the NOSIBLE Search API",
   "author": "Stuart Reid, Matthew Dicks, Richard Taylor, Gareth Warburton",
   "license": null,
   "home_page": "https://github.com/NosibleAI/nosible-py",
-  "download_filename": "nosible-0.3.10.tar.gz",
-  "download_time": "2026-02-04T10:10:14.130623",
+  "download_filename": "nosible-0.3.11.tar.gz",
+  "download_time": "2026-02-04T12:03:20.511331",
   "package_url": "https://pypi.org/project/nosible/"
 }

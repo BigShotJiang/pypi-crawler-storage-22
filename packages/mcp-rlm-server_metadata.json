@@ -1,0 +1,11 @@
+{
+  "name": "mcp-rlm-server",
+  "version": "0.10.0",
+  "summary": "Infinite memory for Claude Code - MCP server inspired by MIT RLM paper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_rlm_server-0.10.0.tar.gz",
+  "download_time": "2026-02-04T12:03:11.940949",
+  "package_url": "https://pypi.org/project/mcp-rlm-server/"
+}

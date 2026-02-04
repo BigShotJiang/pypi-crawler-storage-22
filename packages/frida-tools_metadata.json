@@ -1,11 +1,11 @@
 {
   "name": "frida-tools",
-  "version": "14.5.1",
+  "version": "14.5.2",
   "summary": "Frida CLI tools",
   "author": "Frida Developers",
   "license": "wxWindows Library Licence, Version 3.1",
   "home_page": "https://frida.re",
-  "download_filename": "frida_tools-14.5.1.tar.gz",
-  "download_time": "2026-02-04T11:41:46.388980",
+  "download_filename": "frida_tools-14.5.2.tar.gz",
+  "download_time": "2026-02-04T12:03:35.026242",
   "package_url": "https://pypi.org/project/frida-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hire-ai",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "CLI to orchestrate AI agents (Claude, Codex, Gemini)",
   "author": "nichiki",
   "license": null,
   "home_page": null,
-  "download_filename": "hire_ai-0.1.1.tar.gz",
-  "download_time": "2026-02-04T11:02:53.935585",
+  "download_filename": "hire_ai-0.1.4.tar.gz",
+  "download_time": "2026-02-04T12:02:49.233425",
   "package_url": "https://pypi.org/project/hire-ai/"
 }

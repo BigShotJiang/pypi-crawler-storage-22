@@ -1,0 +1,11 @@
+{
+  "name": "cvdlink",
+  "version": "0.1.1",
+  "summary": "Secure Federated Learning Platform",
+  "author": "CoSyBio Group, University of Hamburg",
+  "license": null,
+  "home_page": "https://github.com/FeatureCloud/app-template",
+  "download_filename": "cvdlink-0.1.1.tar.gz",
+  "download_time": "2026-02-04T12:03:17.818659",
+  "package_url": "https://pypi.org/project/cvdlink/"
+}

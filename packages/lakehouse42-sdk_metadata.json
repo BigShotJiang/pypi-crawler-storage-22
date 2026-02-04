@@ -1,0 +1,11 @@
+{
+  "name": "lakehouse42-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Lakehouse42 API - Build RAG applications with ease",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lakehouse42_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-04T12:03:05.246883",
+  "package_url": "https://pypi.org/project/lakehouse42-sdk/"
+}

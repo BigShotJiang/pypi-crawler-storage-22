@@ -1,11 +1,11 @@
 {
   "name": "casambi-bt-revamped",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Forked Casambi Bluetooth client library with switch event support, use original if no special need. https://github.com/lkempf/casambi-bt",
   "author": "rankjie",
   "license": null,
   "home_page": "https://github.com/rankjie/casambi-bt",
-  "download_filename": "casambi_bt_revamped-0.4.0.tar.gz",
-  "download_time": "2026-02-03T22:27:22.840947",
+  "download_filename": "casambi_bt_revamped-0.4.1.tar.gz",
+  "download_time": "2026-02-04T12:03:36.060225",
   "package_url": "https://pypi.org/project/casambi-bt-revamped/"
 }

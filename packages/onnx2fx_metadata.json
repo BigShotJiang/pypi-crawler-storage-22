@@ -1,0 +1,11 @@
+{
+  "name": "onnx2fx",
+  "version": "0.0.1",
+  "summary": "Yet another ONNX to PyTorch FX converter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onnx2fx-0.0.1.tar.gz",
+  "download_time": "2026-02-04T12:03:08.037184",
+  "package_url": "https://pypi.org/project/onnx2fx/"
+}

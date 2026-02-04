@@ -1,11 +1,11 @@
 {
   "name": "gitresume",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Generate professional resumes from your GitHub repositories.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitresume-0.0.1.tar.gz",
-  "download_time": "2026-02-04T11:42:17.218395",
+  "download_filename": "gitresume-0.0.2.tar.gz",
+  "download_time": "2026-02-04T12:03:31.318561",
   "package_url": "https://pypi.org/project/gitresume/"
 }

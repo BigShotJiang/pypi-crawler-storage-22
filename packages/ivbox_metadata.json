@@ -1,11 +1,11 @@
 {
   "name": "ivbox",
-  "version": "0.3.1",
-  "summary": "Improved call import",
+  "version": "0.4.1",
+  "summary": "Implemented CLI command ivbox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ivbox-0.3.1.tar.gz",
-  "download_time": "2026-02-03T08:07:38.807604",
+  "download_filename": "ivbox-0.4.1.tar.gz",
+  "download_time": "2026-02-04T12:03:10.867459",
   "package_url": "https://pypi.org/project/ivbox/"
 }

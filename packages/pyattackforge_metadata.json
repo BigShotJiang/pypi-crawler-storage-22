@@ -1,0 +1,11 @@
+{
+  "name": "pyattackforge",
+  "version": "0.2.0",
+  "summary": "Python SDK for the AttackForge SSAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyattackforge-0.2.0.tar.gz",
+  "download_time": "2026-02-04T12:02:55.807112",
+  "package_url": "https://pypi.org/project/pyattackforge/"
+}

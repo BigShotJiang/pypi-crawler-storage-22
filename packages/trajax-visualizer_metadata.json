@@ -1,0 +1,11 @@
+{
+  "name": "trajax-visualizer",
+  "version": "0.2.0",
+  "summary": "Interactive visualization tool for trajax trajectory planning simulations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trajax_visualizer-0.2.0.tar.gz",
+  "download_time": "2026-02-04T12:03:19.455727",
+  "package_url": "https://pypi.org/project/trajax-visualizer/"
+}

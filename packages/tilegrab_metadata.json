@@ -1,0 +1,11 @@
+{
+  "name": "tilegrab",
+  "version": "1.1.0",
+  "summary": "Fast geospatial map tile downloader and mosaicker",
+  "author": "Thiwanka Munasinghe",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tilegrab-1.1.0.tar.gz",
+  "download_time": "2026-02-04T12:03:24.228525",
+  "package_url": "https://pypi.org/project/tilegrab/"
+}
