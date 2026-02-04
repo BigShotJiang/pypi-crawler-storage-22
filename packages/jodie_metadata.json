@@ -1,0 +1,11 @@
+{
+  "name": "jodie",
+  "version": "0.1.1",
+  "summary": "Jodie lets you add contacts to Contacts.app on macOS from command line",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jodie-0.1.1.tar.gz",
+  "download_time": "2026-02-04T07:57:08.438444",
+  "package_url": "https://pypi.org/project/jodie/"
+}

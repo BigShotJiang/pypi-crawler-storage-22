@@ -1,0 +1,11 @@
+{
+  "name": "ladim",
+  "version": "2.1.7",
+  "summary": "Lagrangian Advection and Diffusion Model",
+  "author": "Bjørn Ådlandsvik",
+  "license": "MIT",
+  "home_page": "https://github.com/pnsaevik/ladim",
+  "download_filename": "ladim-2.1.7.tar.gz",
+  "download_time": "2026-02-04T07:57:36.158550",
+  "package_url": "https://pypi.org/project/ladim/"
+}

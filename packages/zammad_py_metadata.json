@@ -1,0 +1,11 @@
+{
+  "name": "zammad_py",
+  "version": "3.2.1",
+  "summary": "Python API client for zammad",
+  "author": "Joe Paul",
+  "license": "MIT",
+  "home_page": "https://github.com/joeirimpan/zammad_py",
+  "download_filename": "zammad_py-3.2.1.tar.gz",
+  "download_time": "2026-02-04T07:57:30.439272",
+  "package_url": "https://pypi.org/project/zammad_py/"
+}

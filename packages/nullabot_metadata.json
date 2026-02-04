@@ -1,11 +1,11 @@
 {
   "name": "nullabot",
-  "version": "1.0.7",
+  "version": "1.0.13",
   "summary": "24/7 AI agents that think, design, and code - controlled via Telegram",
   "author": "ebokoo",
   "license": null,
   "home_page": null,
-  "download_filename": "nullabot-1.0.7.tar.gz",
-  "download_time": "2026-02-04T05:09:45.744432",
+  "download_filename": "nullabot-1.0.13.tar.gz",
+  "download_time": "2026-02-04T07:56:58.981941",
   "package_url": "https://pypi.org/project/nullabot/"
 }

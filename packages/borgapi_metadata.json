@@ -1,0 +1,11 @@
+{
+  "name": "borgapi",
+  "version": "0.7.1",
+  "summary": "Wrapper for borgbackup to easily use in code",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "borgapi-0.7.1.tar.gz",
+  "download_time": "2026-02-04T07:57:16.258118",
+  "package_url": "https://pypi.org/project/borgapi/"
+}

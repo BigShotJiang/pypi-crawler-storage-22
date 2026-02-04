@@ -1,11 +1,11 @@
 {
   "name": "lambda-playwright",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "SDK for invoking Lambda Playwright service",
   "author": "Hubexo",
   "license": null,
   "home_page": null,
-  "download_filename": "lambda_playwright-0.1.2.tar.gz",
-  "download_time": "2026-02-04T06:06:29.393454",
+  "download_filename": "lambda_playwright-0.1.4.tar.gz",
+  "download_time": "2026-02-04T07:57:25.657281",
   "package_url": "https://pypi.org/project/lambda-playwright/"
 }

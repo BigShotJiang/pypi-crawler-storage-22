@@ -1,11 +1,11 @@
 {
   "name": "tree-sitter-matlab",
-  "version": "1.2.13",
+  "version": "1.3.0",
   "summary": "MATLAB tree-sitter parser",
   "author": "Álan Crístoffer e Sousa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tree_sitter_matlab-1.2.13.tar.gz",
-  "download_time": "2026-02-01T16:24:33.799951",
+  "download_filename": "tree_sitter_matlab-1.3.0.tar.gz",
+  "download_time": "2026-02-04T07:57:15.739735",
   "package_url": "https://pypi.org/project/tree-sitter-matlab/"
 }
