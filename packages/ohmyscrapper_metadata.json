@@ -1,11 +1,11 @@
 {
   "name": "ohmyscrapper",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "OhMyScrapper scrapes texts and urls looking for links and jobs-data to create a final report with general information about job positions.",
   "author": "Cesar Cardoso",
   "license": null,
   "home_page": null,
-  "download_filename": "ohmyscrapper-0.9.0.tar.gz",
-  "download_time": "2026-02-04T17:01:59.762379",
+  "download_filename": "ohmyscrapper-0.9.1.tar.gz",
+  "download_time": "2026-02-04T20:40:39.276869",
   "package_url": "https://pypi.org/project/ohmyscrapper/"
 }

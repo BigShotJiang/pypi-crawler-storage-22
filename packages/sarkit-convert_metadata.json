@@ -1,0 +1,11 @@
+{
+  "name": "sarkit-convert",
+  "version": "0.3.1",
+  "summary": "Python library for converting SAR data to standard formats.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sarkit_convert-0.3.1.tar.gz",
+  "download_time": "2026-02-04T20:40:47.113428",
+  "package_url": "https://pypi.org/project/sarkit-convert/"
+}

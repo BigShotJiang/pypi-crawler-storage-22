@@ -1,0 +1,11 @@
+{
+  "name": "capstone6pwndbg",
+  "version": "6.0.0a6",
+  "summary": "Capstone disassembly engine",
+  "author": "Nguyen Anh Quynh",
+  "license": null,
+  "home_page": "https://www.capstone-engine.org",
+  "download_filename": "capstone6pwndbg-6.0.0a6.tar.gz",
+  "download_time": "2026-02-04T20:40:38.249581",
+  "package_url": "https://pypi.org/project/capstone6pwndbg/"
+}

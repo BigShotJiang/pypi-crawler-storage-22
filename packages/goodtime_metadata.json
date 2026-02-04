@@ -1,0 +1,11 @@
+{
+  "name": "goodtime",
+  "version": "0.4.0",
+  "summary": "A time library that prioritises clean and safe APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "goodtime-0.4.0.tar.gz",
+  "download_time": "2026-02-04T20:40:45.037655",
+  "package_url": "https://pypi.org/project/goodtime/"
+}

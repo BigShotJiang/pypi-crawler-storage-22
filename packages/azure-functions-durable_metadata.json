@@ -1,0 +1,11 @@
+{
+  "name": "azure-functions-durable",
+  "version": "1.5.0",
+  "summary": "Durable Functions For Python",
+  "author": "Azure Functions team at Microsoft Corp.",
+  "license": "MIT",
+  "home_page": "https://github.com/Azure/azure-functions-durable-python",
+  "download_filename": "azure_functions_durable-1.5.0.tar.gz",
+  "download_time": "2026-02-04T20:40:46.597376",
+  "package_url": "https://pypi.org/project/azure-functions-durable/"
+}

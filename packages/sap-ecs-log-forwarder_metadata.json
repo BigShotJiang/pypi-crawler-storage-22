@@ -1,0 +1,11 @@
+{
+  "name": "sap-ecs-log-forwarder",
+  "version": "1.0.2",
+  "summary": "A package to consume events from an AWS SQS queue, Azure Storage Account Topic and GCP PubSub Topic, process log files, and forward them to a HTTP endpoint or file.",
+  "author": "SAP SE",
+  "license": "SAP DEVELOPER LICENSE AGREEMENT",
+  "home_page": "https://www.sap.com/",
+  "download_filename": "sap_ecs_log_forwarder-1.0.2-py3-none-any.whl",
+  "download_time": "2026-02-04T20:40:51.155401",
+  "package_url": "https://pypi.org/project/sap-ecs-log-forwarder/"
+}

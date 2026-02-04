@@ -1,0 +1,11 @@
+{
+  "name": "genkit-plugin-vertex-ai",
+  "version": "0.5.0",
+  "summary": "Genkit Google Cloud Vertex AI Plugin",
+  "author": "Google",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genkit_plugin_vertex_ai-0.5.0.tar.gz",
+  "download_time": "2026-02-04T20:41:14.984846",
+  "package_url": "https://pypi.org/project/genkit-plugin-vertex-ai/"
+}

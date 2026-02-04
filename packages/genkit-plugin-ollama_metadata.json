@@ -1,0 +1,11 @@
+{
+  "name": "genkit-plugin-ollama",
+  "version": "0.5.0",
+  "summary": "Genkit Ollama Plugin",
+  "author": "Google",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genkit_plugin_ollama-0.5.0.tar.gz",
+  "download_time": "2026-02-04T20:41:15.520048",
+  "package_url": "https://pypi.org/project/genkit-plugin-ollama/"
+}

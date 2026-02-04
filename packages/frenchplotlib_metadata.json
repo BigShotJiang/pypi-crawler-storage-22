@@ -1,11 +1,11 @@
 {
   "name": "frenchplotlib",
-  "version": "1.0.0",
+  "version": "1.3.0",
   "summary": "French-themed matplotlib markers and colormaps",
   "author": "philzphaz",
   "license": null,
   "home_page": "https://github.com/PhilZPhaZ/frenchplotlib",
-  "download_filename": "frenchplotlib-1.0.0.tar.gz",
-  "download_time": "2026-02-03T09:44:13.260757",
+  "download_filename": "frenchplotlib-1.3.0.tar.gz",
+  "download_time": "2026-02-04T20:40:40.308177",
   "package_url": "https://pypi.org/project/frenchplotlib/"
 }

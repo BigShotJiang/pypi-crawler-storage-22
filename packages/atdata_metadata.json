@@ -1,11 +1,11 @@
 {
   "name": "atdata",
-  "version": "0.3.2b3",
+  "version": "0.3.3b1",
   "summary": "A loose federation of distributed, typed datasets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "atdata-0.3.2b3.tar.gz",
-  "download_time": "2026-02-04T19:30:52.688934",
+  "download_filename": "atdata-0.3.3b1.tar.gz",
+  "download_time": "2026-02-04T20:40:28.891520",
   "package_url": "https://pypi.org/project/atdata/"
 }
