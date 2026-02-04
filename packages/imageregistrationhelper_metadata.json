@@ -1,0 +1,11 @@
+{
+  "name": "imageregistrationhelper",
+  "version": "0.0.2",
+  "summary": "Register your images with interactive widgets in Jupyter notebooks",
+  "author": "Frank Ligterink",
+  "license": "MIT License",
+  "home_page": "https://github.com/fligt/imageregistrationhelper",
+  "download_filename": "imageregistrationhelper-0.0.2.tar.gz",
+  "download_time": "2026-02-04T14:30:33.468669",
+  "package_url": "https://pypi.org/project/imageregistrationhelper/"
+}

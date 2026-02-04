@@ -1,0 +1,11 @@
+{
+  "name": "hvpdb",
+  "version": "1.0.4",
+  "summary": "High Velocity Python Database (NoSQL, Embedded, Encrypted)",
+  "author": "HVPDB Bot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hvpdb-1.0.4.tar.gz",
+  "download_time": "2026-02-04T14:30:18.362910",
+  "package_url": "https://pypi.org/project/hvpdb/"
+}

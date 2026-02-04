@@ -1,0 +1,11 @@
+{
+  "name": "code-compass-cli",
+  "version": "0.1.1",
+  "summary": "A Python CLI tool for intelligent code analysis and navigation",
+  "author": "CodeCompass Team",
+  "license": "MIT",
+  "home_page": "https://github.com/techwhiz/code-compass",
+  "download_filename": "code_compass_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-04T14:30:39.397728",
+  "package_url": "https://pypi.org/project/code-compass-cli/"
+}

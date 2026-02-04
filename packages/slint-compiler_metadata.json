@@ -1,0 +1,11 @@
+{
+  "name": "slint-compiler",
+  "version": "1.15.0b1",
+  "summary": "Slint Compiler",
+  "author": null,
+  "license": null,
+  "home_page": "https://slint.dev",
+  "download_filename": "slint_compiler-1.15.0b1.tar.gz",
+  "download_time": "2026-02-04T14:31:10.133872",
+  "package_url": "https://pypi.org/project/slint-compiler/"
+}

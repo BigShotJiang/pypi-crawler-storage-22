@@ -1,0 +1,11 @@
+{
+  "name": "counterplots",
+  "version": "0.0.9",
+  "summary": "Add your description here",
+  "author": "Raphael Mazzine Barbosa de Oliveira, Bjorge Meulemeester",
+  "license": null,
+  "home_page": "https://github.com/ADMAntwerp/CounterPlots",
+  "download_filename": "counterplots-0.0.9.tar.gz",
+  "download_time": "2026-02-04T14:30:58.447095",
+  "package_url": "https://pypi.org/project/counterplots/"
+}

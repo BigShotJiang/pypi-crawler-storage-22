@@ -1,0 +1,11 @@
+{
+  "name": "navconfig",
+  "version": "2.0.4",
+  "summary": "Universal Configuration Management for Python Projects.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "navconfig-2.0.4.tar.gz",
+  "download_time": "2026-02-04T14:30:52.332603",
+  "package_url": "https://pypi.org/project/navconfig/"
+}
