@@ -1,11 +1,11 @@
 {
   "name": "hfortix",
-  "version": "0.5.157",
+  "version": "0.5.158",
   "summary": "Type-safe Python SDK for FortiGate firewall automation and FortiOS REST API - 1,348+ endpoints with async support and complete type safety",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "hfortix-0.5.157.tar.gz",
-  "download_time": "2026-02-04T05:09:18.791659",
+  "download_filename": "hfortix-0.5.158.tar.gz",
+  "download_time": "2026-02-04T06:05:42.482001",
   "package_url": "https://pypi.org/project/hfortix/"
 }

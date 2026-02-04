@@ -1,0 +1,11 @@
+{
+  "name": "py-imgui-redux",
+  "version": "5.1.0",
+  "summary": "A python wrapper for DearImGUI and popular extensions",
+  "author": "Alagyn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_imgui_redux-5.1.0-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-04T06:06:10.573452",
+  "package_url": "https://pypi.org/project/py-imgui-redux/"
+}

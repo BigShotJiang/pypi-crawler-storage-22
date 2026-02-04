@@ -1,11 +1,11 @@
 {
   "name": "tfduck-bsd",
-  "version": "0.20.2",
+  "version": "0.20.6",
   "summary": "A small example package",
   "author": "yuanxiao",
   "license": null,
   "home_page": null,
-  "download_filename": "tfduck_bsd-0.20.2.tar.gz",
-  "download_time": "2026-02-02T06:46:19.496335",
+  "download_filename": "tfduck_bsd-0.20.6.tar.gz",
+  "download_time": "2026-02-04T06:06:16.416727",
   "package_url": "https://pypi.org/project/tfduck-bsd/"
 }

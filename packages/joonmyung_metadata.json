@@ -1,0 +1,11 @@
+{
+  "name": "joonmyung",
+  "version": "1.7.1",
+  "summary": "JoonMyung's Library",
+  "author": "JoonMyung Choi",
+  "license": "MIT",
+  "home_page": "https://github.com/pizard/JoonMyung.git",
+  "download_filename": "joonmyung-1.7.1.tar.gz",
+  "download_time": "2026-02-04T06:05:36.760586",
+  "package_url": "https://pypi.org/project/joonmyung/"
+}

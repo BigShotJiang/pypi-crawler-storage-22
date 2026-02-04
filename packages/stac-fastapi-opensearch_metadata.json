@@ -1,0 +1,11 @@
+{
+  "name": "stac-fastapi-opensearch",
+  "version": "6.10.1",
+  "summary": "An implementation of STAC API based on the FastAPI framework with Opensearch.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stac_fastapi_opensearch-6.10.1.tar.gz",
+  "download_time": "2026-02-04T06:05:38.066241",
+  "package_url": "https://pypi.org/project/stac-fastapi-opensearch/"
+}

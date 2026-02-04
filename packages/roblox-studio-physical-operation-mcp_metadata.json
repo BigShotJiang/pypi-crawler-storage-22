@@ -1,11 +1,11 @@
 {
   "name": "roblox-studio-physical-operation-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server for controlling Roblox Studio - toolbar detection, game control, log analysis",
   "author": "White Dragon Tools",
   "license": null,
   "home_page": null,
-  "download_filename": "roblox_studio_physical_operation_mcp-0.1.0.tar.gz",
-  "download_time": "2026-02-04T03:58:08.600965",
+  "download_filename": "roblox_studio_physical_operation_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-04T06:06:24.274785",
   "package_url": "https://pypi.org/project/roblox-studio-physical-operation-mcp/"
 }

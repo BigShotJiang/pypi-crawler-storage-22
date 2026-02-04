@@ -1,0 +1,11 @@
+{
+  "name": "gpbench",
+  "version": "1.0.3",
+  "summary": "A benchmarking toolkit for genomic prediction with multiple methods and LLM-powered analysis",
+  "author": "GPBench Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gpbench-1.0.3.tar.gz",
+  "download_time": "2026-02-04T06:05:58.872576",
+  "package_url": "https://pypi.org/project/gpbench/"
+}
