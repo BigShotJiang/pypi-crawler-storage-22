@@ -1,0 +1,11 @@
+{
+  "name": "manufacturing-dashboard-io",
+  "version": "1.0.0",
+  "summary": "Professional manufacturing dashboard with real-time analytics and monitoring",
+  "author": "Manufacturing Systems",
+  "license": "MIT",
+  "home_page": "https://github.com/mahdi123-tech/manufacturing-dashboard-io",
+  "download_filename": "manufacturing_dashboard_io-1.0.0.tar.gz",
+  "download_time": "2026-02-04T11:42:15.157973",
+  "package_url": "https://pypi.org/project/manufacturing-dashboard-io/"
+}

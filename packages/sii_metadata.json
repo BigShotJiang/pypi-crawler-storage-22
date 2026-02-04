@@ -1,0 +1,11 @@
+{
+  "name": "sii",
+  "version": "4.0.0",
+  "summary": "Librería de Suministro Inmediato de Información",
+  "author": "GISCE-TI, S.L.",
+  "license": "General Public Licence 2",
+  "home_page": "http://www.gisce.net",
+  "download_filename": "sii-4.0.0.tar.gz",
+  "download_time": "2026-02-04T11:41:54.252570",
+  "package_url": "https://pypi.org/project/sii/"
+}

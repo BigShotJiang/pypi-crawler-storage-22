@@ -1,11 +1,11 @@
 {
   "name": "PyPika",
-  "version": "0.51.0",
+  "version": "0.51.1",
   "summary": "A SQL query builder API for Python",
   "author": "Timothy Heys",
   "license": "Apache License Version 2.0",
   "home_page": "https://github.com/kayak/pypika",
-  "download_filename": "pypika-0.51.0.tar.gz",
-  "download_time": "2026-02-01T21:59:14.209063",
+  "download_filename": "pypika-0.51.1.tar.gz",
+  "download_time": "2026-02-04T11:42:21.811797",
   "package_url": "https://pypi.org/project/PyPika/"
 }
