@@ -1,11 +1,11 @@
 {
   "name": "ffmpeg-normalize",
-  "version": "1.37.1",
+  "version": "1.37.2",
   "summary": "Normalize audio via ffmpeg",
   "author": "Werner Robitza",
   "license": null,
   "home_page": null,
-  "download_filename": "ffmpeg_normalize-1.37.1.tar.gz",
-  "download_time": "2026-02-04T07:57:41.383224",
+  "download_filename": "ffmpeg_normalize-1.37.2.tar.gz",
+  "download_time": "2026-02-04T20:00:52.170636",
   "package_url": "https://pypi.org/project/ffmpeg-normalize/"
 }

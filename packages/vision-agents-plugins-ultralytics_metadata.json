@@ -1,0 +1,11 @@
+{
+  "name": "vision-agents-plugins-ultralytics",
+  "version": "0.3.3",
+  "summary": "Ultralytics YOLO plugin for GetStream",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vision_agents_plugins_ultralytics-0.3.3.tar.gz",
+  "download_time": "2026-02-04T20:00:58.632608",
+  "package_url": "https://pypi.org/project/vision-agents-plugins-ultralytics/"
+}

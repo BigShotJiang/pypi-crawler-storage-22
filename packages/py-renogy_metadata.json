@@ -1,0 +1,11 @@
+{
+  "name": "py-renogy",
+  "version": "1.2.2",
+  "summary": "Python wrapper for Renogy API",
+  "author": "firstof9",
+  "license": null,
+  "home_page": "https://github.com/firstof9/py-renogy",
+  "download_filename": "py_renogy-1.2.2.tar.gz",
+  "download_time": "2026-02-04T20:01:15.824548",
+  "package_url": "https://pypi.org/project/py-renogy/"
+}

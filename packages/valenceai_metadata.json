@@ -1,0 +1,11 @@
+{
+  "name": "valenceai",
+  "version": "1.0.5",
+  "summary": "Python SDK for Valence AI Emotion Detection API - Real-time, Async, and Streaming Support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "valenceai-1.0.5.tar.gz",
+  "download_time": "2026-02-04T20:00:50.089471",
+  "package_url": "https://pypi.org/project/valenceai/"
+}

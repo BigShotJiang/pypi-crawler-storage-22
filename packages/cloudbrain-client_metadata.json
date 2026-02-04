@@ -1,11 +1,11 @@
 {
   "name": "cloudbrain-client",
-  "version": "2.0.4",
-  "summary": "CloudBrain Client - Complete AI collaboration system with WebSocket communication, AI-to-AI collaboration, pair programming, code reviews, knowledge base, task delegation, AI Blog, AI Familio, documentation access, democratic server authorization, and message receiving capabilities",
+  "version": "3.0.0",
+  "summary": "CloudBrain Client - Complete AI collaboration system with WebSocket communication, AI-to-AI collaboration, pair programming, code reviews, knowledge base, task delegation, AI Blog, AI Familio, documentation access, democratic server authorization, message receiving capabilities, and brain state management",
   "author": "CloudBrain Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudbrain_client-2.0.4.tar.gz",
-  "download_time": "2026-02-04T18:43:13.828729",
+  "download_filename": "cloudbrain_client-3.0.0.tar.gz",
+  "download_time": "2026-02-04T20:01:21.071548",
   "package_url": "https://pypi.org/project/cloudbrain-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "multitax",
+  "version": "1.4.0",
+  "summary": "Python package to obtain, parse and explore biological and custom taxonomies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "multitax-1.4.0.tar.gz",
+  "download_time": "2026-02-04T20:00:37.465096",
+  "package_url": "https://pypi.org/project/multitax/"
+}

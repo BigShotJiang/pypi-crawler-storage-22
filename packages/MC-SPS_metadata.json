@@ -1,0 +1,11 @@
+{
+  "name": "MC-SPS",
+  "version": "0.1.1",
+  "summary": "A Python tool for performing site permutation search on fixed atomic geometries.",
+  "author": "Frank T. Cerasoli",
+  "license": null,
+  "home_page": "https://github.com/nanotheorygroup/MC-SPS",
+  "download_filename": "mc_sps-0.1.1.tar.gz",
+  "download_time": "2026-02-04T20:01:16.343906",
+  "package_url": "https://pypi.org/project/MC-SPS/"
+}

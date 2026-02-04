@@ -1,11 +1,11 @@
 {
   "name": "lemoDB",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A lightweight, schema-aware, CSV-based database with auto-increment IDs",
   "author": "Richard Tekula",
   "license": "MIT",
-  "home_page": "https://github.com/YOUR_USERNAME/lemonDB",
-  "download_filename": "lemodb-1.0.0.tar.gz",
-  "download_time": "2026-02-04T19:30:48.432050",
+  "home_page": "https://github.com/FoxerBN/lemonDB",
+  "download_filename": "lemodb-1.0.1.tar.gz",
+  "download_time": "2026-02-04T20:00:40.136079",
   "package_url": "https://pypi.org/project/lemoDB/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hdmrlib",
+  "version": "0.1.2",
+  "summary": "High Dimensional Model Representation (HDMR) and Enhanced Multivariate Products Representation (EMPR) library",
+  "author": "HDMR-Lib Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hdmrlib-0.1.2.tar.gz",
+  "download_time": "2026-02-04T20:00:55.923116",
+  "package_url": "https://pypi.org/project/hdmrlib/"
+}

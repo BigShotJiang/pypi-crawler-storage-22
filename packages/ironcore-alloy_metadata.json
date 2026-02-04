@@ -1,0 +1,11 @@
+{
+  "name": "ironcore-alloy",
+  "version": "0.14.0",
+  "summary": "Python bindings to the IronCore Labs Alloy SDK. Used for encrypting and decrypting embeddings and their related metadata.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ironcore_alloy-0.14.0-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-04T20:00:39.616147",
+  "package_url": "https://pypi.org/project/ironcore-alloy/"
+}

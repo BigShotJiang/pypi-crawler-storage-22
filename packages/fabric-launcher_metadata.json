@@ -1,0 +1,11 @@
+{
+  "name": "fabric-launcher",
+  "version": "0.4.0",
+  "summary": "A wrapper around fabric-cicd for deploying Fabric solutions from GitHub repositories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabric_launcher-0.4.0.tar.gz",
+  "download_time": "2026-02-04T20:00:36.936002",
+  "package_url": "https://pypi.org/project/fabric-launcher/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "everything-mcp",
+  "version": "1.0.0",
+  "summary": "The definitive MCP server for voidtools Everything — lightning-fast file search for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "everything_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-04T20:00:54.309433",
+  "package_url": "https://pypi.org/project/everything-mcp/"
+}

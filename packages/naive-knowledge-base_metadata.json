@@ -1,11 +1,11 @@
 {
   "name": "naive-knowledge-base",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "A dependency graph analyzer using smolagents",
   "author": "Your Name",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/naive-knowledge-base",
-  "download_filename": "naive_knowledge_base-0.2.0.tar.gz",
-  "download_time": "2026-02-04T19:30:44.261417",
+  "download_filename": "naive_knowledge_base-0.2.2.tar.gz",
+  "download_time": "2026-02-04T20:00:42.211157",
   "package_url": "https://pypi.org/project/naive-knowledge-base/"
 }
