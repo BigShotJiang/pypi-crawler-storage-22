@@ -1,0 +1,11 @@
+{
+  "name": "ahuora-builder",
+  "version": "0.1.2",
+  "summary": "Load a Ahuora .JSON file into a pyomo model.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ahuora_builder-0.1.2.tar.gz",
+  "download_time": "2026-02-04T03:57:34.118614",
+  "package_url": "https://pypi.org/project/ahuora-builder/"
+}

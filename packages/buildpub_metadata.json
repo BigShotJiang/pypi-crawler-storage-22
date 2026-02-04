@@ -1,0 +1,11 @@
+{
+  "name": "buildpub",
+  "version": "0.1.2",
+  "summary": "A simple Docker image builder and publisher",
+  "author": "Tulio Amancio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "buildpub-0.1.2.tar.gz",
+  "download_time": "2026-02-04T03:57:42.681235",
+  "package_url": "https://pypi.org/project/buildpub/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aury-ai-model",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aury_ai_model-0.0.16.tar.gz",
-  "download_time": "2026-02-01T08:57:40.089245",
+  "download_filename": "aury_ai_model-0.0.18.tar.gz",
+  "download_time": "2026-02-04T03:58:02.880643",
   "package_url": "https://pypi.org/project/aury-ai-model/"
 }

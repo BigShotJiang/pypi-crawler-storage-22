@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-ai-arcade",
+  "version": "0.2.0",
+  "summary": "Arcade integration for Pydantic AI",
+  "author": "Tho Nguyen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_ai_arcade-0.2.0.tar.gz",
+  "download_time": "2026-02-04T03:57:39.339946",
+  "package_url": "https://pypi.org/project/pydantic-ai-arcade/"
+}

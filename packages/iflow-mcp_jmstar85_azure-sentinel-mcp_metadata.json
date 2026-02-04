@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jmstar85_azure-sentinel-mcp",
+  "version": "1.0.0",
+  "summary": "Advanced Microsoft Sentinel Threat Analysis and Automated Response System",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_jmstar85_azure_sentinel_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-04T03:57:26.693189",
+  "package_url": "https://pypi.org/project/iflow-mcp_jmstar85_azure-sentinel-mcp/"
+}

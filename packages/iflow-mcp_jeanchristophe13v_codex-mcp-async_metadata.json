@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jeanchristophe13v_codex-mcp-async",
+  "version": "0.2.1",
+  "summary": "Asynchronous MCP wrapper for OpenAI Codex CLI with context filtering",
+  "author": "jeanchristophe13v",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_jeanchristophe13v_codex_mcp_async-0.2.1.tar.gz",
+  "download_time": "2026-02-04T03:57:48.913032",
+  "package_url": "https://pypi.org/project/iflow-mcp_jeanchristophe13v_codex-mcp-async/"
+}

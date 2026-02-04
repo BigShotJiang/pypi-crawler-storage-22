@@ -1,0 +1,11 @@
+{
+  "name": "assembly-opencv",
+  "version": "1.0.1",
+  "summary": "Image processing utilities for Python with OpenCV",
+  "author": "Zven",
+  "license": null,
+  "home_page": null,
+  "download_filename": "assembly_opencv-1.0.1-py3-none-any.whl",
+  "download_time": "2026-02-04T03:58:04.462820",
+  "package_url": "https://pypi.org/project/assembly-opencv/"
+}

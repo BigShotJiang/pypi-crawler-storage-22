@@ -1,0 +1,11 @@
+{
+  "name": "printa",
+  "version": "0.1.0",
+  "summary": "Pastel-friendly pretty printer for Python.",
+  "author": "rhcproc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "printa-0.1.0.tar.gz",
+  "download_time": "2026-02-04T03:57:46.078630",
+  "package_url": "https://pypi.org/project/printa/"
+}

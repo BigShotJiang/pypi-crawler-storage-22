@@ -1,0 +1,11 @@
+{
+  "name": "pymast",
+  "version": "1.0.3",
+  "summary": "Movement Analysis Software for Telemetry (MAST) - False positive removal and movement analysis for radio telemetry data",
+  "author": "Theodore Castro-Santos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymast-1.0.3-py3-none-any.whl",
+  "download_time": "2026-02-04T03:57:51.614159",
+  "package_url": "https://pypi.org/project/pymast/"
+}
