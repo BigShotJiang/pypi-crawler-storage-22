@@ -1,11 +1,11 @@
 {
   "name": "adityassarode.codes",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "An educational CLI tool by Aditya Sarode designed for learning, experimentation, and code exploration.",
   "author": "Aditya Sarode",
   "license": null,
   "home_page": null,
-  "download_filename": "adityassarode_codes-1.0.4.tar.gz",
-  "download_time": "2026-02-04T16:02:40.245659",
+  "download_filename": "adityassarode_codes-1.0.6.tar.gz",
+  "download_time": "2026-02-04T17:54:36.100512",
   "package_url": "https://pypi.org/project/adityassarode.codes/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tapps-agents",
-  "version": "3.5.40",
+  "version": "3.5.41",
   "summary": "A specification framework for defining, configuring, and orchestrating coding agents",
   "author": "Tapps",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tapps_agents-3.5.40-py3-none-any.whl",
-  "download_time": "2026-02-04T17:01:48.288606",
+  "download_filename": "tapps_agents-3.5.41.tar.gz",
+  "download_time": "2026-02-04T17:54:13.726430",
   "package_url": "https://pypi.org/project/tapps-agents/"
 }

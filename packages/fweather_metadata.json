@@ -1,0 +1,11 @@
+{
+  "name": "fweather",
+  "version": "0.4",
+  "summary": "Python package for meteorological time series analysis",
+  "author": "Gabriel Sansigolo",
+  "license": null,
+  "home_page": "https://github.com/GSansigolo/fweather",
+  "download_filename": "fweather-0.4.tar.gz",
+  "download_time": "2026-02-04T17:54:30.120219",
+  "package_url": "https://pypi.org/project/fweather/"
+}

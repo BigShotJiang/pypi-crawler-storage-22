@@ -1,11 +1,11 @@
 {
   "name": "mqttd",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "summary": "FastAPI-like MQTT/MQTTS server for Python, compatible with libcurl clients",
   "author": "Yakub Mohammad",
   "license": "MIT",
   "home_page": "https://github.com/arusatech/mqttd",
-  "download_filename": "mqttd-0.3.1.tar.gz",
-  "download_time": "2026-01-31T17:32:17.226192",
+  "download_filename": "mqttd-0.5.0.tar.gz",
+  "download_time": "2026-02-04T17:54:02.741897",
   "package_url": "https://pypi.org/project/mqttd/"
 }

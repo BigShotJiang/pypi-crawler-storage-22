@@ -1,0 +1,11 @@
+{
+  "name": "importspy",
+  "version": "0.4.7",
+  "summary": "ImportSpy ensures structural integrity, runtime compliance, and security for external modules, preventing inconsistencies and enforcing controlled execution.",
+  "author": "Luca Atella",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "importspy-0.4.7.tar.gz",
+  "download_time": "2026-02-04T17:54:41.469306",
+  "package_url": "https://pypi.org/project/importspy/"
+}

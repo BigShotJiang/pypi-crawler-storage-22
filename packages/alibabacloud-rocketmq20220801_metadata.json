@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-rocketmq20220801",
+  "version": "5.0.3",
+  "summary": "Alibaba Cloud RocketMQ (20220801) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_rocketmq20220801-5.0.3.tar.gz",
+  "download_time": "2026-02-04T17:54:38.247401",
+  "package_url": "https://pypi.org/project/alibabacloud-rocketmq20220801/"
+}

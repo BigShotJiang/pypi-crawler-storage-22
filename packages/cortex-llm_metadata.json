@@ -1,11 +1,11 @@
 {
   "name": "cortex-llm",
-  "version": "1.0.12",
+  "version": "1.0.18",
   "summary": "GPU-Accelerated LLM Terminal for Apple Silicon",
   "author": "Cortex Development Team",
   "license": null,
   "home_page": "https://github.com/faisalmumtaz/Cortex",
-  "download_filename": "cortex_llm-1.0.12.tar.gz",
-  "download_time": "2026-02-04T08:37:20.884071",
+  "download_filename": "cortex_llm-1.0.18.tar.gz",
+  "download_time": "2026-02-04T17:54:16.575152",
   "package_url": "https://pypi.org/project/cortex-llm/"
 }

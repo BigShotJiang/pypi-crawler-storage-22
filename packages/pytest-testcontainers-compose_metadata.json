@@ -1,0 +1,11 @@
+{
+  "name": "pytest-testcontainers-compose",
+  "version": "0.1.0",
+  "summary": "Pytest plugin for Docker Compose",
+  "author": "bakdata",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_testcontainers_compose-0.1.0.tar.gz",
+  "download_time": "2026-02-04T17:54:06.213433",
+  "package_url": "https://pypi.org/project/pytest-testcontainers-compose/"
+}

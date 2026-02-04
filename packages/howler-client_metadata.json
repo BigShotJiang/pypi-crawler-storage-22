@@ -1,0 +1,11 @@
+{
+  "name": "howler-client",
+  "version": "2.4.0",
+  "summary": "The Howler client library facilitates issuing requests to Howler",
+  "author": "Canadian Centre for Cyber Security",
+  "license": "MIT",
+  "home_page": "https://cybercentrecanada.github.io/howler-docs/",
+  "download_filename": "howler_client-2.4.0.tar.gz",
+  "download_time": "2026-02-04T17:54:46.939700",
+  "package_url": "https://pypi.org/project/howler-client/"
+}

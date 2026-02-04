@@ -1,0 +1,11 @@
+{
+  "name": "loopuman",
+  "version": "1.0.0",
+  "summary": "The Human API for AI - Give your AI agents instant access to humans",
+  "author": "Loopuman",
+  "license": null,
+  "home_page": "https://github.com/loopuman/loopuman-python",
+  "download_filename": "loopuman-1.0.0.tar.gz",
+  "download_time": "2026-02-04T17:54:42.559974",
+  "package_url": "https://pypi.org/project/loopuman/"
+}

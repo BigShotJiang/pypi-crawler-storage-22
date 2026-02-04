@@ -1,0 +1,11 @@
+{
+  "name": "mofstructure",
+  "version": "0.1.8.5",
+  "summary": "A Python tool to deconstruct MOFs into building units and compute porosity. The code removes guests from MOFs and all porous systems, computes SMILES strings and InChIKeys of all building units.",
+  "author": "Dinga Wonanke",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mofstructure-0.1.8.5.tar.gz",
+  "download_time": "2026-02-04T17:54:14.799971",
+  "package_url": "https://pypi.org/project/mofstructure/"
+}

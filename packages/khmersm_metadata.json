@@ -1,11 +1,11 @@
 {
   "name": "khmersm",
-  "version": "1.1.0",
+  "version": "1.4.1",
   "summary": "Khmer Segmentation Model (ONNX)",
-  "author": null,
+  "author": "Metythorn Penn",
   "license": null,
-  "home_page": null,
-  "download_filename": "khmersm-1.1.0.tar.gz",
-  "download_time": "2026-02-04T17:01:41.509566",
+  "home_page": "https://github.com/MetythornPenn/khmersm",
+  "download_filename": "khmersm-1.4.1.tar.gz",
+  "download_time": "2026-02-04T17:54:12.576849",
   "package_url": "https://pypi.org/project/khmersm/"
 }

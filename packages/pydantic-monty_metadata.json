@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-monty",
+  "version": "0.0.2",
+  "summary": "Python bindings for the Monty sandboxed Python interpreter",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/pydantic/monty/",
+  "download_filename": "pydantic_monty-0.0.2-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-04T17:54:04.549216",
+  "package_url": "https://pypi.org/project/pydantic-monty/"
+}

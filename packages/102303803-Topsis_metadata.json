@@ -1,0 +1,11 @@
+{
+  "name": "102303803-Topsis",
+  "version": "1.0.0",
+  "summary": "A Python package to implement TOPSIS technique for Multi-Criteria Decision Making (MCDM)",
+  "author": "Pulkit Srivastava",
+  "license": null,
+  "home_page": "https://github.com/pulkit/assignment1_DS",
+  "download_filename": "102303803_topsis-1.0.0.tar.gz",
+  "download_time": "2026-02-04T17:54:20.937730",
+  "package_url": "https://pypi.org/project/102303803-Topsis/"
+}

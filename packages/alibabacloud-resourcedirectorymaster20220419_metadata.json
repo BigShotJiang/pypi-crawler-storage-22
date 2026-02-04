@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-resourcedirectorymaster20220419",
+  "version": "2.3.1",
+  "summary": "Alibaba Cloud ResourceDirectoryMaster (20220419) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_resourcedirectorymaster20220419-2.3.1.tar.gz",
+  "download_time": "2026-02-04T17:54:43.645146",
+  "package_url": "https://pypi.org/project/alibabacloud-resourcedirectorymaster20220419/"
+}

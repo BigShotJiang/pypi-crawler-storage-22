@@ -1,0 +1,11 @@
+{
+  "name": "fairmofsyncondition",
+  "version": "0.1.5",
+  "summary": "A python machine learning module for for accelerating the discovery and synthesis of Metal organic frameworks",
+  "author": "Dinga Wonanke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fairmofsyncondition-0.1.5.tar.gz",
+  "download_time": "2026-02-04T17:54:42.033809",
+  "package_url": "https://pypi.org/project/fairmofsyncondition/"
+}
