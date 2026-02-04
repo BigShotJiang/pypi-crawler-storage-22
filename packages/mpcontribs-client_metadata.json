@@ -1,0 +1,11 @@
+{
+  "name": "mpcontribs-client",
+  "version": "5.10.4",
+  "summary": "client library for MPContribs API",
+  "author": "Patrick Huck",
+  "license": "MIT",
+  "home_page": "https://github.com/materialsproject/MPContribs/tree/master/mpcontribs-client",
+  "download_filename": "mpcontribs_client-5.10.4.tar.gz",
+  "download_time": "2026-02-04T21:50:07.754150",
+  "package_url": "https://pypi.org/project/mpcontribs-client/"
+}

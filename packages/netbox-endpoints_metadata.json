@@ -1,0 +1,11 @@
+{
+  "name": "netbox-endpoints",
+  "version": "0.1.0",
+  "summary": "NetBox plugin for managing wireless and wired endpoints (badges, phones, IoT devices)",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "netbox_endpoints-0.1.0.tar.gz",
+  "download_time": "2026-02-04T21:50:09.834672",
+  "package_url": "https://pypi.org/project/netbox-endpoints/"
+}

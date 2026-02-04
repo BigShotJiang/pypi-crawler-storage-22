@@ -1,0 +1,11 @@
+{
+  "name": "vtool-ibeis-ext",
+  "version": "0.1.3",
+  "summary": "The vtool_ibeis_ext module",
+  "author": "Jon Crall, Avi Weinstock",
+  "license": "Apache 2",
+  "home_page": "https://github.com/Erotemic/vtool_ibeis_ext",
+  "download_filename": "vtool_ibeis_ext-0.1.3-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-02-04T21:49:31.197306",
+  "package_url": "https://pypi.org/project/vtool-ibeis-ext/"
+}

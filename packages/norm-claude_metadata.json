@@ -1,0 +1,11 @@
+{
+  "name": "norm-claude",
+  "version": "0.1.3",
+  "summary": "Situational awareness layer for Claude Code, designed for lawyers and coding novices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "norm_claude-0.1.3.tar.gz",
+  "download_time": "2026-02-04T21:50:00.431412",
+  "package_url": "https://pypi.org/project/norm-claude/"
+}

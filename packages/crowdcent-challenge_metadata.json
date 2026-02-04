@@ -1,11 +1,11 @@
 {
   "name": "crowdcent-challenge",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "CrowdCent Challenge Python Client",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "crowdcent_challenge-0.1.17.tar.gz",
-  "download_time": "2026-02-04T21:07:08.068763",
+  "download_filename": "crowdcent_challenge-0.1.19.tar.gz",
+  "download_time": "2026-02-04T21:50:15.059699",
   "package_url": "https://pypi.org/project/crowdcent-challenge/"
 }

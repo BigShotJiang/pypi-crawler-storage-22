@@ -1,0 +1,11 @@
+{
+  "name": "krashemit",
+  "version": "1.0.8",
+  "summary": "Library for solving optimization problems using the interacting countries algorithm",
+  "author": null,
+  "license": "BSD",
+  "home_page": null,
+  "download_filename": "krashemit-1.0.8.tar.gz",
+  "download_time": "2026-02-04T21:49:35.903251",
+  "package_url": "https://pypi.org/project/krashemit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microlens-submit",
+  "version": "0.17.0",
+  "summary": "A tool for managing and submitting microlensing solutions",
+  "author": "Amber Malpas",
+  "license": "MIT",
+  "home_page": "https://github.com/AmberLee2427/microlens-submit",
+  "download_filename": "microlens_submit-0.17.0.tar.gz",
+  "download_time": "2026-02-04T21:49:32.260315",
+  "package_url": "https://pypi.org/project/microlens-submit/"
+}
