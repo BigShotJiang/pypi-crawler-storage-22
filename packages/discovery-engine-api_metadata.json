@@ -1,11 +1,11 @@
 {
   "name": "discovery-engine-api",
-  "version": "0.1.83",
+  "version": "0.1.94",
   "summary": "Python SDK for the Discovery Engine API",
   "author": "Leap Laboratories",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "discovery_engine_api-0.1.83.tar.gz",
-  "download_time": "2026-02-03T23:28:38.987288",
+  "download_filename": "discovery_engine_api-0.1.94.tar.gz",
+  "download_time": "2026-02-04T19:30:18.847168",
   "package_url": "https://pypi.org/project/discovery-engine-api/"
 }

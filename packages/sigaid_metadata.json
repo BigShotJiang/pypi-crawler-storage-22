@@ -1,0 +1,11 @@
+{
+  "name": "sigaid",
+  "version": "0.1.0",
+  "summary": "Cryptographically secure agent identity protocol with exclusive leasing, state continuity, and verification",
+  "author": "SigAid Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sigaid-0.1.0.tar.gz",
+  "download_time": "2026-02-04T19:30:45.834275",
+  "package_url": "https://pypi.org/project/sigaid/"
+}

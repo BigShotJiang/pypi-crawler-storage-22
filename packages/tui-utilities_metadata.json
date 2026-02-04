@@ -1,11 +1,11 @@
 {
   "name": "tui-utilities",
-  "version": "1.4.6",
+  "version": "1.6.3",
   "summary": "Personal-use console utilities library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tui_utilities-1.4.6.tar.gz",
-  "download_time": "2026-02-04T14:31:07.693346",
+  "download_filename": "tui_utilities-1.6.3.tar.gz",
+  "download_time": "2026-02-04T19:30:26.860670",
   "package_url": "https://pypi.org/project/tui-utilities/"
 }

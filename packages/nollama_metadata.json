@@ -1,0 +1,11 @@
+{
+  "name": "nollama",
+  "version": "0.5",
+  "summary": "A terminal-based interface for interacting with large language models (LLMs)",
+  "author": "Ujjawal Saini",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/spignelon/nollama",
+  "download_filename": "nollama-0.5.tar.gz",
+  "download_time": "2026-02-04T19:30:38.499679",
+  "package_url": "https://pypi.org/project/nollama/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "qtasks",
+  "version": "1.7.0",
+  "summary": "Queue Tasks Framework",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qtasks-1.7.0.tar.gz",
+  "download_time": "2026-02-04T19:30:29.510490",
+  "package_url": "https://pypi.org/project/qtasks/"
+}

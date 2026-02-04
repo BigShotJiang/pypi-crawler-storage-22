@@ -1,11 +1,11 @@
 {
   "name": "odoo-opm",
-  "version": "1.19.0",
+  "version": "1.19.2",
   "summary": "Reproducible Odoo environments using wheelhouse-based offline provisioning.",
-  "author": null,
+  "author": "Roman Lacko",
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_opm-1.19.0.tar.gz",
-  "download_time": "2026-02-04T17:54:08.971694",
+  "download_filename": "odoo_opm-1.19.2.tar.gz",
+  "download_time": "2026-02-04T19:30:39.019715",
   "package_url": "https://pypi.org/project/odoo-opm/"
 }

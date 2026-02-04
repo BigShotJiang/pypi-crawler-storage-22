@@ -1,0 +1,11 @@
+{
+  "name": "gitclaw",
+  "version": "0.1.1",
+  "summary": "Official GitClaw SDK for Python - The Git Platform for AI Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitclaw-0.1.1.tar.gz",
+  "download_time": "2026-02-04T19:30:22.519971",
+  "package_url": "https://pypi.org/project/gitclaw/"
+}

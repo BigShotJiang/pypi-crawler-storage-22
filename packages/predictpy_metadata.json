@@ -1,0 +1,11 @@
+{
+  "name": "predictpy",
+  "version": "0.1.1",
+  "summary": "A simple logging utility for Python",
+  "author": "Aslan Kiran",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "predictpy-0.1.1.tar.gz",
+  "download_time": "2026-02-04T19:30:35.878753",
+  "package_url": "https://pypi.org/project/predictpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "RadGEEToolbox",
+  "version": "1.7.5",
+  "summary": "Streamlined Multispectral & SAR Analysis for Google Earth Engine Python API",
+  "author": "Mark Radwin",
+  "license": "MIT",
+  "home_page": "https://github.com/radwinskis/RadGEEToolbox",
+  "download_filename": "radgeetoolbox-1.7.5.tar.gz",
+  "download_time": "2026-02-04T19:30:32.131377",
+  "package_url": "https://pypi.org/project/RadGEEToolbox/"
+}

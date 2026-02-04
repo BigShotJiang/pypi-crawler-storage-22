@@ -1,0 +1,11 @@
+{
+  "name": "gdm-concordia",
+  "version": "2.3.1",
+  "summary": "A library for building a generative model of social interacions.",
+  "author": "DeepMind",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google-deepmind/concordia",
+  "download_filename": "gdm_concordia-2.3.1.tar.gz",
+  "download_time": "2026-02-04T19:30:48.954375",
+  "package_url": "https://pypi.org/project/gdm-concordia/"
+}

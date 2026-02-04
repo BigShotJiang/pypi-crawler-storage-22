@@ -1,0 +1,11 @@
+{
+  "name": "paper-assist",
+  "version": "0.1.1",
+  "summary": "Academic paper analysis tool - PDF equation extraction, citation value assessment, automatic research log generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paper_assist-0.1.1.tar.gz",
+  "download_time": "2026-02-04T19:30:45.307524",
+  "package_url": "https://pypi.org/project/paper-assist/"
+}
