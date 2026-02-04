@@ -1,0 +1,11 @@
+{
+  "name": "flow-toon-format",
+  "version": "0.9.0b2",
+  "summary": "A compact, human-readable serialization format designed for passing structured data to Large Language Models with significantly reduced token usage",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flow_toon_format-0.9.0b2.tar.gz",
+  "download_time": "2026-02-04T16:02:44.076527",
+  "package_url": "https://pypi.org/project/flow-toon-format/"
+}

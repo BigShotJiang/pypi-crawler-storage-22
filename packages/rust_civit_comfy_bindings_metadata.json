@@ -1,11 +1,11 @@
 {
   "name": "rust_civit_comfy_bindings",
-  "version": "0.1.51",
+  "version": "0.1.53",
   "summary": "Rust bindings for my civit comfyui integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rust_civit_comfy_bindings-0.1.51-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
-  "download_time": "2026-02-04T15:12:12.718638",
+  "download_filename": "rust_civit_comfy_bindings-0.1.53-cp310-cp310-manylinux_2_17_armv7l.manylinux2014_armv7l.whl",
+  "download_time": "2026-02-04T16:02:55.109552",
   "package_url": "https://pypi.org/project/rust_civit_comfy_bindings/"
 }

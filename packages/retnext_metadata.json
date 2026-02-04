@@ -1,0 +1,11 @@
+{
+  "name": "retnext",
+  "version": "1.0.0",
+  "summary": "A lightweight package for deep learning on 3D energy images of porous materials",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "retnext-1.0.0.tar.gz",
+  "download_time": "2026-02-04T16:03:02.924748",
+  "package_url": "https://pypi.org/project/retnext/"
+}

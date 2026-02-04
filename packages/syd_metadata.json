@@ -1,0 +1,11 @@
+{
+  "name": "syd",
+  "version": "1.2.7",
+  "summary": "A Python package for making GUIs for data science easy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syd-1.2.7.tar.gz",
+  "download_time": "2026-02-04T16:02:36.429378",
+  "package_url": "https://pypi.org/project/syd/"
+}

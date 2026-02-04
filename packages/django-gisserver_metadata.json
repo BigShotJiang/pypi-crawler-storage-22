@@ -1,0 +1,11 @@
+{
+  "name": "django-gisserver",
+  "version": "2.3.1",
+  "summary": "Django speaking WFS 2.0 (exposing GeoDjango model fields)",
+  "author": "Diederik van der Boor",
+  "license": "Mozilla Public License 2.0",
+  "home_page": "https://github.com/amsterdam/django-gisserver",
+  "download_filename": "django_gisserver-2.3.1.tar.gz",
+  "download_time": "2026-02-04T16:02:41.318645",
+  "package_url": "https://pypi.org/project/django-gisserver/"
+}

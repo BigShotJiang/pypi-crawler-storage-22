@@ -1,0 +1,11 @@
+{
+  "name": "abuz-solver",
+  "version": "0.1.2",
+  "summary": "Client for remote task solver (single solve function).",
+  "author": "Abuz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abuz_solver-0.1.2.tar.gz",
+  "download_time": "2026-02-04T16:02:28.006838",
+  "package_url": "https://pypi.org/project/abuz-solver/"
+}

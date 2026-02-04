@@ -1,0 +1,11 @@
+{
+  "name": "kele",
+  "version": "0.0.1b1",
+  "summary": "Knowledge Equations based Logic Engine, a forward chaining inference engine with Assertional Logic",
+  "author": "Bingqian Li, BoYang Zhang, Weiming Hong, Hao Zhang, Yi Zhou",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "kele-0.0.1b1.tar.gz",
+  "download_time": "2026-02-04T16:03:00.787514",
+  "package_url": "https://pypi.org/project/kele/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stock-viewer",
+  "version": "0.1.16",
+  "summary": "Simple stock viewer program.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stock_viewer-0.1.16.tar.gz",
+  "download_time": "2026-02-04T16:02:31.772106",
+  "package_url": "https://pypi.org/project/stock-viewer/"
+}

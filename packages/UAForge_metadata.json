@@ -1,0 +1,11 @@
+{
+  "name": "UAForge",
+  "version": "1.1.2",
+  "summary": "A powerful Python library and CLI tool for generating realistic, random user agent strings for Chrome, Firefox, and Opera browsers across multiple platforms.",
+  "author": "bolgac",
+  "license": null,
+  "home_page": "https://github.com/bolgac/UAForge",
+  "download_filename": "uaforge-1.1.2.tar.gz",
+  "download_time": "2026-02-04T16:02:58.408351",
+  "package_url": "https://pypi.org/project/UAForge/"
+}

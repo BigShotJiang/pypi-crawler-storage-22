@@ -1,0 +1,11 @@
+{
+  "name": "ellipsis",
+  "version": "3.3.5",
+  "summary": "Package to interact with the Ellipsis API",
+  "author": "Daniel van der Maas",
+  "license": null,
+  "home_page": "https://github.com/ellipsis-drive-internal/python-package",
+  "download_filename": "ellipsis-3.3.5.tar.gz",
+  "download_time": "2026-02-04T16:03:13.276325",
+  "package_url": "https://pypi.org/project/ellipsis/"
+}

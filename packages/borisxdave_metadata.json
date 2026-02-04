@@ -1,11 +1,11 @@
 {
   "name": "borisxdave",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Boris - Autonomous Project Orchestrator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "borisxdave-0.3.0.tar.gz",
-  "download_time": "2026-02-03T17:15:44.123393",
+  "download_filename": "borisxdave-0.3.1.tar.gz",
+  "download_time": "2026-02-04T16:02:50.613371",
   "package_url": "https://pypi.org/project/borisxdave/"
 }

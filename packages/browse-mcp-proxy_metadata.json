@@ -1,0 +1,11 @@
+{
+  "name": "browse-mcp-proxy",
+  "version": "0.1.1",
+  "summary": "A proxy server for MCP Inspector that enables browser-based connections to MCP servers.",
+  "author": "Xueyuan Lin",
+  "license": "MIT",
+  "home_page": "https://github.com/LinXueyuanStdio/browse-mcp",
+  "download_filename": "browse_mcp_proxy-0.1.1.tar.gz",
+  "download_time": "2026-02-04T16:02:39.718520",
+  "package_url": "https://pypi.org/project/browse-mcp-proxy/"
+}

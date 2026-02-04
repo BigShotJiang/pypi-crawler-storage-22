@@ -1,11 +1,11 @@
 {
   "name": "fast-telemetry",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "Internal standardized metrics library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_telemetry-0.0.1.tar.gz",
-  "download_time": "2026-02-04T14:30:48.252453",
+  "download_filename": "fast_telemetry-0.1.0.tar.gz",
+  "download_time": "2026-02-04T16:02:37.518690",
   "package_url": "https://pypi.org/project/fast-telemetry/"
 }
