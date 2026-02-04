@@ -1,0 +1,11 @@
+{
+  "name": "slack-objects",
+  "version": "0.0.post31",
+  "summary": "This package defines classes for working with slack objects like users, conversations, messages, etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slack_objects-0.0.post31.tar.gz",
+  "download_time": "2026-02-04T21:07:49.671663",
+  "package_url": "https://pypi.org/project/slack-objects/"
+}

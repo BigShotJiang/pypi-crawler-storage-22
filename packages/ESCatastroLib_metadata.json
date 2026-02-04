@@ -1,0 +1,11 @@
+{
+  "name": "ESCatastroLib",
+  "version": "1.0.0",
+  "summary": "Una librería de Python para consultar los datos del Catastro COMO OBJETOS. Incluye información geográfica.",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "escatastrolib-1.0.0.tar.gz",
+  "download_time": "2026-02-04T21:07:51.719392",
+  "package_url": "https://pypi.org/project/ESCatastroLib/"
+}

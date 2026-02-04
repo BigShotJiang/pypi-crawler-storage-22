@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-redshift",
+  "version": "1.42.42",
+  "summary": "Type annotations for boto3 Redshift 1.42.42 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_redshift-1.42.42.tar.gz",
+  "download_time": "2026-02-04T21:07:42.966605",
+  "package_url": "https://pypi.org/project/mypy-boto3-redshift/"
+}

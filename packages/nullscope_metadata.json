@@ -1,0 +1,11 @@
+{
+  "name": "nullscope",
+  "version": "0.1.0",
+  "summary": "Zero-cost telemetry for Python. No-op when disabled, rich context when enabled.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nullscope-0.1.0.tar.gz",
+  "download_time": "2026-02-04T21:07:31.484506",
+  "package_url": "https://pypi.org/project/nullscope/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "django-lucide",
-  "version": "1.2.1",
+  "version": "1.3.1",
   "summary": "Use lucide in your Django and Jinja templates.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "django_lucide-1.2.1.tar.gz",
-  "download_time": "2026-02-04T20:41:09.245381",
+  "download_filename": "django_lucide-1.3.1.tar.gz",
+  "download_time": "2026-02-04T21:07:22.094950",
   "package_url": "https://pypi.org/project/django-lucide/"
 }

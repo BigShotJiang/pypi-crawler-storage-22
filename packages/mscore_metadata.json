@@ -1,0 +1,11 @@
+{
+  "name": "mscore",
+  "version": "26.1.6",
+  "summary": "MScore: Risk Scores Made Easy",
+  "author": "RAM Development Team",
+  "license": null,
+  "home_page": "https://github.com/elevendatacorp/mscore.git",
+  "download_filename": "mscore-26.1.6.tar.gz",
+  "download_time": "2026-02-04T21:07:32.029461",
+  "package_url": "https://pypi.org/project/mscore/"
+}

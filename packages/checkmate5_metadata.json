@@ -1,0 +1,11 @@
+{
+  "name": "checkmate5",
+  "version": "1.4.4",
+  "summary": "A meta-code checker written in Python.",
+  "author": "Andreas Dewes",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "checkmate5-1.4.4.tar.gz",
+  "download_time": "2026-02-04T21:07:49.159930",
+  "package_url": "https://pypi.org/project/checkmate5/"
+}

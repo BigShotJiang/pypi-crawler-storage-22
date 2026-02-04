@@ -1,0 +1,11 @@
+{
+  "name": "robin-pkg",
+  "version": "0.0.0",
+  "summary": "A bare bones Python package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robin_pkg-0.0.0.tar.gz",
+  "download_time": "2026-02-04T21:07:32.545289",
+  "package_url": "https://pypi.org/project/robin-pkg/"
+}
