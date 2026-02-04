@@ -1,11 +1,11 @@
 {
   "name": "media-controller-slider",
-  "version": "0.1.0",
+  "version": "1.0.3",
   "summary": "Image slideshow application with web-based media controls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "media_controller_slider-0.1.0.tar.gz",
-  "download_time": "2026-02-04T17:54:50.283157",
+  "download_filename": "media_controller_slider-1.0.3.tar.gz",
+  "download_time": "2026-02-04T18:43:11.765475",
   "package_url": "https://pypi.org/project/media-controller-slider/"
 }

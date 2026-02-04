@@ -1,0 +1,11 @@
+{
+  "name": "PyPDFForm-reducto",
+  "version": "3.8.2.6",
+  "summary": "The Python library for PDF forms. Forked and maintained by Reducto AI.",
+  "author": "Jinge Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypdfform_reducto-3.8.2.6.tar.gz",
+  "download_time": "2026-02-04T18:43:30.551777",
+  "package_url": "https://pypi.org/project/PyPDFForm-reducto/"
+}

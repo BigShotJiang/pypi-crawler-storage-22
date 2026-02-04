@@ -1,0 +1,11 @@
+{
+  "name": "in-layers-core",
+  "version": "0.4.23",
+  "summary": "The Python port of Node in Layers Core.",
+  "author": "Mike Cornwell",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "in_layers_core-0.4.23.tar.gz",
+  "download_time": "2026-02-04T18:43:19.573675",
+  "package_url": "https://pypi.org/project/in-layers-core/"
+}

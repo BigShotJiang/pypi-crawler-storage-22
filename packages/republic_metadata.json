@@ -1,0 +1,11 @@
+{
+  "name": "republic",
+  "version": "0.2.0",
+  "summary": "Explicit LLM client and router with append-only history and controllable context.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "republic-0.2.0.tar.gz",
+  "download_time": "2026-02-04T18:43:17.456201",
+  "package_url": "https://pypi.org/project/republic/"
+}

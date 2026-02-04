@@ -1,0 +1,11 @@
+{
+  "name": "invariant-client",
+  "version": "2.2.1",
+  "summary": "Invariant: manage ACLs in an entirely new way",
+  "author": "Rob Ankeny",
+  "license": null,
+  "home_page": null,
+  "download_filename": "invariant_client-2.2.1.tar.gz",
+  "download_time": "2026-02-04T18:43:40.114672",
+  "package_url": "https://pypi.org/project/invariant-client/"
+}
