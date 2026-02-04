@@ -1,0 +1,11 @@
+{
+  "name": "pennylane-quantuminspire",
+  "version": "0.13.0",
+  "summary": "The PennyLane-QuantumInspire plugin integrates the Quantum Inspire quantum computing backends with PennyLane's quantum machine learning capabilities.",
+  "author": "Quantum Inspire",
+  "license": null,
+  "home_page": "https://www.quantum-inspire.com",
+  "download_filename": "pennylane_quantuminspire-0.13.0.tar.gz",
+  "download_time": "2026-02-04T09:32:13.181004",
+  "package_url": "https://pypi.org/project/pennylane-quantuminspire/"
+}

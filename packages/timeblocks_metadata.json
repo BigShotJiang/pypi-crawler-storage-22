@@ -1,0 +1,11 @@
+{
+  "name": "timeblocks",
+  "version": "1.0.1",
+  "summary": "Reusable Django time block & recurrence engine.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "timeblocks-1.0.1.tar.gz",
+  "download_time": "2026-02-04T09:31:53.467524",
+  "package_url": "https://pypi.org/project/timeblocks/"
+}

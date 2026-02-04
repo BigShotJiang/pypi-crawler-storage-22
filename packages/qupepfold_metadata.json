@@ -1,0 +1,11 @@
+{
+  "name": "qupepfold",
+  "version": "0.8.0",
+  "summary": "QuPepFold: Quantum peptide folding simulations with Qiskit",
+  "author": "Akshay Uttarkar, Vinay Kumar, Vidya Niranjan",
+  "license": "MIT",
+  "home_page": "http://vidyaniranjan.co.in/?i=1",
+  "download_filename": "qupepfold-0.8.0.tar.gz",
+  "download_time": "2026-02-04T09:31:48.340668",
+  "package_url": "https://pypi.org/project/qupepfold/"
+}

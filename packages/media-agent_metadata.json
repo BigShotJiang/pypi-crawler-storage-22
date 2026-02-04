@@ -1,0 +1,11 @@
+{
+  "name": "media-agent",
+  "version": "0.3.1",
+  "summary": "AI agent for image generation with multi-provider LLM support and interactive CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "media_agent-0.3.1.tar.gz",
+  "download_time": "2026-02-04T09:31:47.786912",
+  "package_url": "https://pypi.org/project/media-agent/"
+}

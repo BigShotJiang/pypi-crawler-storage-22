@@ -1,0 +1,11 @@
+{
+  "name": "dennis",
+  "version": "1.2.0",
+  "summary": "Utilities for working with gettext PO and POT files to ease development and improve localization quality",
+  "author": "Will Kahn-Greene",
+  "license": "Simplified BSD License",
+  "home_page": "https://github.com/mozilla/dennis",
+  "download_filename": "dennis-1.2.0.tar.gz",
+  "download_time": "2026-02-04T09:31:30.027403",
+  "package_url": "https://pypi.org/project/dennis/"
+}

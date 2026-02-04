@@ -1,0 +1,11 @@
+{
+  "name": "smodels",
+  "version": "3.1.0",
+  "summary": "A tool for interpreting simplified-model results from the LHC",
+  "author": "The SModelS collaboration, smodels-users@lists.oeaw.ac.at Current members: Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narashima, Timothee Pascal, Humberto Reyes-Gonzalez, Theo Reymermier, Wolfgang Waltenberger  Previously involved in SModelS: Gael Alguero, Federico Ambrogi, Juhi Dutta, Jan Heisig, Charanjit K. Khosa, Suchita Kulkarni, Ursula Laa, Veronika Magerl, Wolfgang Magerl, Philipp Neuhuber, Doris Proschofsky, Camila Ramos, Jory Sonneveld, Michael Traub, Yoxara Villamizar, Matthias Wolf, Alicia Wongel",
+  "license": "GPLv3",
+  "home_page": "http://smodels.github.io/",
+  "download_filename": "smodels-3.1.0.tar.gz",
+  "download_time": "2026-02-04T09:31:22.175921",
+  "package_url": "https://pypi.org/project/smodels/"
+}

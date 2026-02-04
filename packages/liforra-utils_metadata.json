@@ -1,0 +1,11 @@
+{
+  "name": "liforra-utils",
+  "version": "0.2.0",
+  "summary": "Small logging and config helper utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "liforra_utils-0.2.0.tar.gz",
+  "download_time": "2026-02-04T09:31:21.301465",
+  "package_url": "https://pypi.org/project/liforra-utils/"
+}

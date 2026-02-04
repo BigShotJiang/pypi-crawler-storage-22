@@ -1,11 +1,11 @@
 {
   "name": "delta-theory",
-  "version": "8.2.1",
+  "version": "8.2.3",
   "summary": "Unified materials strength and fatigue prediction based on geometric first principles",
   "author": "Tamaki",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "delta_theory-8.2.1.tar.gz",
-  "download_time": "2026-02-04T06:06:11.860612",
+  "download_filename": "delta_theory-8.2.3.tar.gz",
+  "download_time": "2026-02-04T09:32:12.047214",
   "package_url": "https://pypi.org/project/delta-theory/"
 }

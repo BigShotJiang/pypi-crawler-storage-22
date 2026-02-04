@@ -1,11 +1,11 @@
 {
   "name": "dscaper",
-  "version": "1.7.2",
+  "version": "1.7.4",
   "summary": "A library for soundscape synthesis and augmentation",
   "author": "Duncan MacConnell",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/dscaper/dscaper",
-  "download_filename": "dscaper-1.7.2.tar.gz",
-  "download_time": "2026-02-02T15:27:43.409874",
+  "download_filename": "dscaper-1.7.4.tar.gz",
+  "download_time": "2026-02-04T09:31:25.952406",
   "package_url": "https://pypi.org/project/dscaper/"
 }

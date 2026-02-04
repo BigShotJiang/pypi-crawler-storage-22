@@ -1,0 +1,11 @@
+{
+  "name": "uipath-robot",
+  "version": "0.0.10",
+  "summary": "UiPath Robot Simulator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uipath_robot-0.0.10.tar.gz",
+  "download_time": "2026-02-04T09:31:42.597188",
+  "package_url": "https://pypi.org/project/uipath-robot/"
+}

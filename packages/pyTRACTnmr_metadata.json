@@ -1,0 +1,11 @@
+{
+  "name": "pyTRACTnmr",
+  "version": "0.1.1b1",
+  "summary": "A simple gui based application to process and analyse TRACT data from NMR spectroscopy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytractnmr-0.1.1b1.tar.gz",
+  "download_time": "2026-02-04T09:32:09.223059",
+  "package_url": "https://pypi.org/project/pyTRACTnmr/"
+}
