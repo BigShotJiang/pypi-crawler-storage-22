@@ -1,0 +1,11 @@
+{
+  "name": "mergify-cli",
+  "version": "2026.2.4.1",
+  "summary": "Mergify CLI is a tool that automates the creation and management of stacked pull requests on GitHub",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mergify_cli-2026.2.4.1.tar.gz",
+  "download_time": "2026-02-04T10:10:57.669961",
+  "package_url": "https://pypi.org/project/mergify-cli/"
+}

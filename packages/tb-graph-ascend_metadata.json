@@ -1,0 +1,11 @@
+{
+  "name": "tb-graph-ascend",
+  "version": "8.3.2",
+  "summary": "Model Hierarchical Visualization TensorBoard Plugin",
+  "author": "Ascend Team",
+  "license": "Mulan PSL v2",
+  "home_page": "https://gitcode.com/Ascend/mstt/tree/master/plugins/tensorboard-plugins/tb_graph_ascend",
+  "download_filename": "tb_graph_ascend-8.3.2.tar.gz",
+  "download_time": "2026-02-04T10:10:59.754004",
+  "package_url": "https://pypi.org/project/tb-graph-ascend/"
+}

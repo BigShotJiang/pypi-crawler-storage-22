@@ -1,0 +1,11 @@
+{
+  "name": "celus-nibbler",
+  "version": "13.1.0",
+  "summary": "Counter-like data reader and processor.",
+  "author": "Stepan Henek, Zbynek Vyhlas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "celus_nibbler-13.1.0.tar.gz",
+  "download_time": "2026-02-04T10:10:46.163842",
+  "package_url": "https://pypi.org/project/celus-nibbler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "grid-analyzer",
+  "version": "0.1.1",
+  "summary": "Understand any codebase in minutes with local-first AI",
+  "author": "GRID Team",
+  "license": "MIT",
+  "home_page": "https://zesty-muffin-4423d8.netlify.app",
+  "download_filename": "grid_analyzer-0.1.1.tar.gz",
+  "download_time": "2026-02-04T10:10:53.493256",
+  "package_url": "https://pypi.org/project/grid-analyzer/"
+}

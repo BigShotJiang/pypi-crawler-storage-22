@@ -1,0 +1,11 @@
+{
+  "name": "livellm",
+  "version": "1.7.2",
+  "summary": "Python client for the LiveLLM Server",
+  "author": "Kamil Saliamov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "livellm-1.7.2.tar.gz",
+  "download_time": "2026-02-04T10:10:14.650756",
+  "package_url": "https://pypi.org/project/livellm/"
+}

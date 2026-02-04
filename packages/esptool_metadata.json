@@ -1,0 +1,11 @@
+{
+  "name": "esptool",
+  "version": "5.1.0",
+  "summary": "A serial utility for flashing, provisioning, and interacting with Espressif SoCs.",
+  "author": "Fredrik Ahlberg (themadinventor), Angus Gratton (projectgus), Espressif Systems",
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "esptool-5.1.0.tar.gz",
+  "download_time": "2026-02-04T10:10:59.226861",
+  "package_url": "https://pypi.org/project/esptool/"
+}

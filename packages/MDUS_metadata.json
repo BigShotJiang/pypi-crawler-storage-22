@@ -1,11 +1,11 @@
 {
   "name": "MDUS",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "MDUS: MESSENGER's Data Using System",
   "author": "Takuro OGAWA",
   "license": null,
   "home_page": "https://github.com/streamamz/MDUS",
-  "download_filename": "mdus-0.2.1.tar.gz",
-  "download_time": "2026-02-03T19:54:50.178721",
+  "download_filename": "mdus-0.2.2.tar.gz",
+  "download_time": "2026-02-04T10:10:44.588402",
   "package_url": "https://pypi.org/project/MDUS/"
 }

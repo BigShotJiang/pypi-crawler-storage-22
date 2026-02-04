@@ -1,11 +1,11 @@
 {
   "name": "puli-plg",
-  "version": "0.1.30",
+  "version": "0.1.31",
   "summary": "Zilliz vector database client for incident management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "puli_plg-0.1.30.tar.gz",
-  "download_time": "2026-02-03T19:54:32.722658",
+  "download_filename": "puli_plg-0.1.31.tar.gz",
+  "download_time": "2026-02-04T10:10:40.413874",
   "package_url": "https://pypi.org/project/puli-plg/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "arthur-langchain",
+  "version": "0.1.0",
+  "summary": "LangChain tools for Arthur DEX - Trade perpetuals with any AI agent",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "arthur_langchain-0.1.0.tar.gz",
+  "download_time": "2026-02-04T10:10:27.277201",
+  "package_url": "https://pypi.org/project/arthur-langchain/"
+}

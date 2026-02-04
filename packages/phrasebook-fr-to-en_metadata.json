@@ -1,0 +1,11 @@
+{
+  "name": "phrasebook-fr-to-en",
+  "version": "0.3.0",
+  "summary": "Enrich French to English phrasebooks with OpenAI API.",
+  "author": "Tony Aldon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "phrasebook_fr_to_en-0.3.0.tar.gz",
+  "download_time": "2026-02-04T10:10:52.455976",
+  "package_url": "https://pypi.org/project/phrasebook-fr-to-en/"
+}

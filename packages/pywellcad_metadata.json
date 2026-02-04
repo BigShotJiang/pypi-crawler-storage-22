@@ -1,0 +1,11 @@
+{
+  "name": "pywellcad",
+  "version": "0.5.1",
+  "summary": "a Python client for the WellCAD Automation API",
+  "author": "Advanced Logic Technology",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://www.alt.lu/",
+  "download_filename": "pywellcad-0.5.1.tar.gz",
+  "download_time": "2026-02-04T10:10:18.306552",
+  "package_url": "https://pypi.org/project/pywellcad/"
+}

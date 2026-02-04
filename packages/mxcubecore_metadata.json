@@ -1,0 +1,11 @@
+{
+  "name": "mxcubecore",
+  "version": "1.450.0",
+  "summary": "Core libraries for the MXCuBE application",
+  "author": "The MXCuBE collaboration",
+  "license": null,
+  "home_page": "https://github.com/mxcube/mxcubecore",
+  "download_filename": "mxcubecore-1.450.0.tar.gz",
+  "download_time": "2026-02-04T10:10:22.526268",
+  "package_url": "https://pypi.org/project/mxcubecore/"
+}
