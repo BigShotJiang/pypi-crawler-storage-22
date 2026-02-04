@@ -1,0 +1,11 @@
+{
+  "name": "man-spider",
+  "version": "2.0.0",
+  "summary": "Full-featured SMB spider capable of searching file content",
+  "author": "TheTechromancer",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "man_spider-2.0.0.tar.gz",
+  "download_time": "2026-02-04T22:54:31.033977",
+  "package_url": "https://pypi.org/project/man-spider/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "plot-agent",
+  "version": "0.5.1",
+  "summary": "An AI-powered data visualization assistant using Plotly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plot_agent-0.5.1.tar.gz",
+  "download_time": "2026-02-04T22:54:09.585064",
+  "package_url": "https://pypi.org/project/plot-agent/"
+}

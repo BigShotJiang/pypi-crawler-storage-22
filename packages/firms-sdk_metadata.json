@@ -1,0 +1,11 @@
+{
+  "name": "firms-sdk",
+  "version": "0.1.0",
+  "summary": "Basic SDK Client to retrive hotspots data from FIRMS API",
+  "author": "Sebástian Andrés Narváez Salcedo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "firms_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-04T22:54:12.258679",
+  "package_url": "https://pypi.org/project/firms-sdk/"
+}

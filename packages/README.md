@@ -1,17 +1,57 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-04T22:24:25.895319
-- **Total Packages**: 89
-- **Total Size**: 26.53 MB
+- **Download Time**: 2026-02-04T22:54:58.269937
+- **Total Packages**: 86
+- **Total Size**: 23.82 MB
 
 ## Packages List
+- nyapy
+- drawsvg-ui
+- gemini-deep-research-mcp
+- gdsfactoryplus
+- ytdl-sub
+- bbannotate
+- rslearn
+- pebble-rock
+- PyNomaly
+- rangebar
+- plot-agent
+- bead
+- translate-package
+- kpower-forecast
+- firms-sdk
+- fairyfly-therm
+- broccoli-ml
+- oldaplib
+- athena-intelligence
+- zelium
+- llcat
+- imdb-sqlite
+- ai-coding-gym-mcp
+- folio-migration-tools
+- tonik
+- ezmsg-learn
+- bot-knows
+- flowstate-sdk
+- jupyter-ai-acp-client
+- tokenshrink
+- sentinel-ai-os
+- localstack-core
+- deltachat-rpc-client
+- tf-keras-nightly
+- seltz
+- circuit-breaker-labs
+- photo-objects
+- zombie-squirrel
+- grpcio-fips
+- pdfgen-juanipis
+- analyzeAudio
+- man-spider
 - sympy2jax
 - QuizGenerator
 - financegy
 - django-clerk-users
-- athena-intelligence
-- tokenshrink
 - rationalbloks-mcp
 - hpc-runner
 - cgse-gui
@@ -31,7 +71,6 @@
 - cgse-common
 - cloudbrain-client
 - litestar-vite
-- flowstate-sdk
 - pulumiverse-scaleway
 - openrewrite
 - opencos-eda
@@ -42,56 +81,14 @@
 - flywheel-bootstrap
 - vappman
 - great-expectations-cloud
-- sentinel-ai-os
 - ygg
 - obra
 - wrkmon
 - arcanechat-tui
-- translate-package
 - dub
-- llcat
 - specfact-cli
 - micropython-microbit-fs
 - dkist-processing-cryonirsp
 - azure-ai-transcription
 - flywheel-bootstrap-staging
 - dataproc-spark-connect
-- supervertaler
-- uv-pack
-- dkist-processing-test
-- kaqing
-- dkist-processing-dlnirsp
-- fast-sentence-segment
-- paid-python
-- soe-ai
-- borisxdave
-- plato-sdk-v2
-- atdata
-- clodpy
-- protox-gatekeeper
-- avtomatika-worker
-- pyacm
-- dkist-processing-visp
-- subnoto-api-client
-- quantconnect-stubs
-- regula-documentreader-webclient
-- sinapsis-huggingface-hub
-- reverse-diagrams
-- sinapsis-huggingface
-- proxilion
-- dkist-processing-vbi
-- datatypical
-- django-agent-studio
-- sixseven
-- hossam
-- turbodocx-sdk
-- ai-coding-gym-mcp
-- ezmsg-sigproc
-- arcade-google-sheets
-- polos-sdk
-- arcade-google-docs
-- copier-pydantic
-- arcade-google
-- arcade-google-slides
-- nominal-api-protos
-- nominal-api

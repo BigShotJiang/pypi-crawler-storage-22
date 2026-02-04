@@ -1,0 +1,11 @@
+{
+  "name": "tonik",
+  "version": "0.1.22",
+  "summary": "Store time series data as HDF5 files and access them through an API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tonik-0.1.22.tar.gz",
+  "download_time": "2026-02-04T22:54:18.807753",
+  "package_url": "https://pypi.org/project/tonik/"
+}
