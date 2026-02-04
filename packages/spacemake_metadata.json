@@ -1,0 +1,11 @@
+{
+  "name": "spacemake",
+  "version": "0.9.4",
+  "summary": "A bioinformatic pipeline for the analysis of spatial transcriptomic data",
+  "author": "Tamas Ryszard Sztanka-Toth, Marvin Jens, Nikos Karaiskos, Nikolaus Rajewsky",
+  "license": "GPL",
+  "home_page": "https://github.com/rajewsky-lab/spacemake",
+  "download_filename": "spacemake-0.9.4.tar.gz",
+  "download_time": "2026-02-04T08:37:08.051760",
+  "package_url": "https://pypi.org/project/spacemake/"
+}

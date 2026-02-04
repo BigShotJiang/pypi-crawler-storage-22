@@ -1,0 +1,11 @@
+{
+  "name": "pixel-renderer",
+  "version": "0.1.3",
+  "summary": "Text renderer for PIXEL models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixel_renderer-0.1.3.tar.gz",
+  "download_time": "2026-02-04T08:37:09.068009",
+  "package_url": "https://pypi.org/project/pixel-renderer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vizro-mcp",
+  "version": "0.1.4",
+  "summary": "MCP server to help create Vizro dashboards and charts",
+  "author": "Vizro Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vizro_mcp-0.1.4-py3-none-any.whl",
+  "download_time": "2026-02-04T08:37:33.734764",
+  "package_url": "https://pypi.org/project/vizro-mcp/"
+}

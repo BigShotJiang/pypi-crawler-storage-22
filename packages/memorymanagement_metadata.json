@@ -1,0 +1,11 @@
+{
+  "name": "memorymanagement",
+  "version": "1.2.0",
+  "summary": "Adds support for memory management",
+  "author": "Ricardo Werner Rivas",
+  "license": "MIT",
+  "home_page": "https://github.com/Ricardo-Werner-Rivas/memorymanagement/tree/PyPI",
+  "download_filename": "memorymanagement-1.2.0.tar.gz",
+  "download_time": "2026-02-04T08:37:21.906500",
+  "package_url": "https://pypi.org/project/memorymanagement/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cjm-fasthtml-card-stack",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A fixed-viewport card stack component for FastHTML with keyboard navigation, scroll-to-nav, configurable focus position, and HTMX-driven OOB updates.",
   "author": "Christian J. Mills",
   "license": "Apache-2.0",
   "home_page": "https://github.com/cj-mills/cjm-fasthtml-card-stack",
-  "download_filename": "cjm_fasthtml_card_stack-0.0.4.tar.gz",
-  "download_time": "2026-02-04T06:06:07.248825",
+  "download_filename": "cjm_fasthtml_card_stack-0.0.5.tar.gz",
+  "download_time": "2026-02-04T08:37:11.124151",
   "package_url": "https://pypi.org/project/cjm-fasthtml-card-stack/"
 }

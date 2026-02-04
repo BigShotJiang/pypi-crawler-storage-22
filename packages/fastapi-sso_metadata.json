@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-sso",
+  "version": "0.20.0",
+  "summary": "FastAPI plugin to enable SSO to most common providers (such as Facebook login, Google login and login via Microsoft Office 365 Account)",
+  "author": "Tomas Votava",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_sso-0.20.0.tar.gz",
+  "download_time": "2026-02-04T08:37:31.172868",
+  "package_url": "https://pypi.org/project/fastapi-sso/"
+}
