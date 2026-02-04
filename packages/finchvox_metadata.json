@@ -1,11 +1,11 @@
 {
   "name": "finchvox",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "summary": "Voice AI observability dev tool for Pipecat",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "finchvox-0.0.11-py3-none-any.whl",
-  "download_time": "2026-02-03T23:28:32.535398",
+  "download_filename": "finchvox-0.0.12-py3-none-any.whl",
+  "download_time": "2026-02-04T13:37:39.446375",
   "package_url": "https://pypi.org/project/finchvox/"
 }

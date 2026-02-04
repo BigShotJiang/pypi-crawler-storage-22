@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-autogen",
-  "version": "1.5.0a20260130",
+  "version": "1.4.0",
   "summary": "Subpackage for AutoGen integration in NeMo Agent toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nvidia_nat_autogen-1.5.0a20260130-py3-none-any.whl",
-  "download_time": "2026-02-02T12:47:05.502903",
+  "download_filename": "nvidia_nat_autogen-1.4.0-py3-none-any.whl",
+  "download_time": "2026-02-04T13:38:01.780748",
   "package_url": "https://pypi.org/project/nvidia-nat-autogen/"
 }

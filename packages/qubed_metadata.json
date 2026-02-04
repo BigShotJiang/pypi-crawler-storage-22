@@ -1,0 +1,11 @@
+{
+  "name": "qubed",
+  "version": "0.3.1",
+  "summary": "A library that provides a tree of datacubes called Qube.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qubed-0.3.1-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-04T13:37:54.067908",
+  "package_url": "https://pypi.org/project/qubed/"
+}

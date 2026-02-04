@@ -1,0 +1,11 @@
+{
+  "name": "python-visual-update-express",
+  "version": "1.0.4",
+  "summary": "A dialog for updating specific files by syncing them from a server. Designed to work like InstallForge's \"Visual Update Express\".",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_visual_update_express-1.0.4.tar.gz",
+  "download_time": "2026-02-04T13:37:24.952104",
+  "package_url": "https://pypi.org/project/python-visual-update-express/"
+}

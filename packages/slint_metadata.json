@@ -1,0 +1,11 @@
+{
+  "name": "slint",
+  "version": "1.15.0b1",
+  "summary": "GUI toolkit to efficiently develop fluid graphical user interfaces for embedded devices and desktop applications",
+  "author": null,
+  "license": null,
+  "home_page": "https://slint.dev",
+  "download_filename": "slint-1.15.0b1.tar.gz",
+  "download_time": "2026-02-04T13:38:08.017769",
+  "package_url": "https://pypi.org/project/slint/"
+}

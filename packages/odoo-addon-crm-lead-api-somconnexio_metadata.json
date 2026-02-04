@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-lead-api-somconnexio",
+  "version": "16.0.1.1.0",
+  "summary": "Expose a REST API to create CRM Leads using the CRM Lead Som Connexió structure.",
+  "author": "Som Connexió SCCL, Coopdevs Treball SCCL",
+  "license": "AGPL-3",
+  "home_page": "https://git.coopdevs.org/coopdevs/som-connexio/odoo/odoo-somconnexio",
+  "download_filename": "odoo_addon_crm_lead_api_somconnexio-16.0.1.1.0.tar.gz",
+  "download_time": "2026-02-04T13:37:23.278840",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-lead-api-somconnexio/"
+}
