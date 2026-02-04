@@ -1,0 +1,11 @@
+{
+  "name": "neurondm",
+  "version": "0.1.10",
+  "summary": "A data model for neuron types.",
+  "author": "Tom Gillespie",
+  "license": "MIT",
+  "home_page": "https://github.com/tgbugs/pyontutils/tree/master/neurondm",
+  "download_filename": "neurondm-0.1.10.tar.gz",
+  "download_time": "2026-02-04T01:30:35.528964",
+  "package_url": "https://pypi.org/project/neurondm/"
+}

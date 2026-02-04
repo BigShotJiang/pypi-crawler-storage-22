@@ -1,11 +1,11 @@
 {
   "name": "nwb-video-widgets",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "Interactive Jupyter widgets for NWB video and pose visualization",
   "author": "Heberto Mayorquin",
   "license": null,
   "home_page": null,
-  "download_filename": "nwb_video_widgets-0.1.0.tar.gz",
-  "download_time": "2026-02-02T15:27:37.146943",
+  "download_filename": "nwb_video_widgets-0.1.5.tar.gz",
+  "download_time": "2026-02-04T01:30:22.720282",
   "package_url": "https://pypi.org/project/nwb-video-widgets/"
 }

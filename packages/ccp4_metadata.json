@@ -1,0 +1,11 @@
+{
+  "name": "ccp4",
+  "version": "9.0.0",
+  "summary": "CCP4 Software Suite - Version 9",
+  "author": null,
+  "license": "LGPL-3.0",
+  "home_page": null,
+  "download_filename": "ccp4-9.0.0.tar.gz",
+  "download_time": "2026-02-04T01:30:24.293145",
+  "package_url": "https://pypi.org/project/ccp4/"
+}

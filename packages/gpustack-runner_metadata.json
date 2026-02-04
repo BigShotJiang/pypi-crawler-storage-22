@@ -1,0 +1,11 @@
+{
+  "name": "gpustack-runner",
+  "version": "0.1.25",
+  "summary": "GPUStack Runner is library for registering runnable accelerated backends and services in GPUStack.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpustack_runner-0.1.25-py3-none-any.whl",
+  "download_time": "2026-02-04T01:30:42.518442",
+  "package_url": "https://pypi.org/project/gpustack-runner/"
+}
