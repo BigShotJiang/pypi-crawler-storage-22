@@ -1,11 +1,11 @@
 {
   "name": "prompt-firewall",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Prompt guard library for composing multiple safety checks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prompt_firewall-0.1.0.tar.gz",
-  "download_time": "2026-02-04T16:03:06.696661",
+  "download_filename": "prompt_firewall-0.1.2.tar.gz",
+  "download_time": "2026-02-04T17:01:45.722450",
   "package_url": "https://pypi.org/project/prompt-firewall/"
 }

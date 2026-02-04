@@ -1,0 +1,11 @@
+{
+  "name": "overleaf-pull",
+  "version": "0.6.0",
+  "summary": "Pull-only Overleaf project sync using PyOverleaf",
+  "author": "Leander Kurscheidt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "overleaf_pull-0.6.0.tar.gz",
+  "download_time": "2026-02-04T17:02:15.835657",
+  "package_url": "https://pypi.org/project/overleaf-pull/"
+}

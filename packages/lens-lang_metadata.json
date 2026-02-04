@@ -1,0 +1,11 @@
+{
+  "name": "lens-lang",
+  "version": "0.1.0",
+  "summary": "Language for Exploratory & Narrative Statistics - A declarative analytics language",
+  "author": "Anay Biswas",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lens_lang-0.1.0.tar.gz",
+  "download_time": "2026-02-04T17:02:05.954866",
+  "package_url": "https://pypi.org/project/lens-lang/"
+}

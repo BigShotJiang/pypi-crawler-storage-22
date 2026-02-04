@@ -1,11 +1,11 @@
 {
   "name": "mpets",
-  "version": "0.9.27",
+  "version": "0.9.28",
   "summary": "API for game AmazingPets",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpets-0.9.27.tar.gz",
-  "download_time": "2026-02-02T13:51:43.790895",
+  "download_filename": "mpets-0.9.28.tar.gz",
+  "download_time": "2026-02-04T17:01:55.611074",
   "package_url": "https://pypi.org/project/mpets/"
 }

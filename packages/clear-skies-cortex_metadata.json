@@ -1,11 +1,11 @@
 {
   "name": "clear-skies-cortex",
-  "version": "2.0.7",
+  "version": "2.0.8",
   "summary": "Cortex module for Clearskies",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "clear_skies_cortex-2.0.7.tar.gz",
-  "download_time": "2026-02-04T15:12:22.927500",
+  "download_filename": "clear_skies_cortex-2.0.8.tar.gz",
+  "download_time": "2026-02-04T17:01:42.041272",
   "package_url": "https://pypi.org/project/clear-skies-cortex/"
 }

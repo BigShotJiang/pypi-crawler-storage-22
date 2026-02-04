@@ -1,0 +1,11 @@
+{
+  "name": "tradingview-mcp",
+  "version": "1.2.1",
+  "summary": "A comprehensive MCP server for TradingView market screening with integrated screener functionality",
+  "author": "TradingView MCP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tradingview_mcp-1.2.1.tar.gz",
+  "download_time": "2026-02-04T17:01:43.619825",
+  "package_url": "https://pypi.org/project/tradingview-mcp/"
+}

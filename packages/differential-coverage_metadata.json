@@ -1,0 +1,11 @@
+{
+  "name": "differential-coverage",
+  "version": "0.2.0",
+  "summary": "Compute differential coverage for fuzzer runs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "differential_coverage-0.2.0.tar.gz",
+  "download_time": "2026-02-04T17:01:55.101125",
+  "package_url": "https://pypi.org/project/differential-coverage/"
+}

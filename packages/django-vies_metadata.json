@@ -1,0 +1,11 @@
+{
+  "name": "django-vies",
+  "version": "6.3.0",
+  "summary": "Validate and store VAT Information Exchange System (VIES) data in Django.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_vies-6.3.0.tar.gz",
+  "download_time": "2026-02-04T17:01:43.106993",
+  "package_url": "https://pypi.org/project/django-vies/"
+}

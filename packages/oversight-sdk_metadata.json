@@ -1,0 +1,11 @@
+{
+  "name": "oversight-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for OVERSIGHT AI Agent payment platform",
+  "author": "OVERSIGHT Team",
+  "license": null,
+  "home_page": "https://github.com/oversight/oversight-sdk-python",
+  "download_filename": "oversight_sdk-1.0.0.tar.gz",
+  "download_time": "2026-02-04T17:01:56.120694",
+  "package_url": "https://pypi.org/project/oversight-sdk/"
+}

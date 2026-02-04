@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-hr-attendance-rest-time-included",
+  "version": "15.0.1.0.0.2",
+  "summary": "Rest time of employee's is included during their working hours",
+  "author": "Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/hr-attendance",
+  "download_filename": "odoo_addon_hr_attendance_rest_time_included-15.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-04T17:01:46.744538",
+  "package_url": "https://pypi.org/project/odoo-addon-hr-attendance-rest-time-included/"
+}

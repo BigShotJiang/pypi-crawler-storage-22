@@ -1,0 +1,11 @@
+{
+  "name": "adp-api-client",
+  "version": "1.0.0",
+  "summary": "A robust client library for ADP Workforce Now API",
+  "author": "Joey Russoniello",
+  "license": "MIT",
+  "home_page": "https://github.com/JoeyRussoniello/API_Clients",
+  "download_filename": "adp_api_client-1.0.0.tar.gz",
+  "download_time": "2026-02-04T17:01:52.453865",
+  "package_url": "https://pypi.org/project/adp-api-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "molbuilder",
+  "version": "1.0.0",
+  "summary": "Professional-grade molecular engineering toolkit: atoms to retrosynthesis to process engineering",
+  "author": "Taylor C. Powell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "molbuilder-1.0.0.tar.gz",
+  "download_time": "2026-02-04T17:02:10.112865",
+  "package_url": "https://pypi.org/project/molbuilder/"
+}
