@@ -1,0 +1,11 @@
+{
+  "name": "addon-odoo-wheel",
+  "version": "0.4.2",
+  "summary": "Generic and simple build backend for a single Odoo addon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "addon_odoo_wheel-0.4.2.tar.gz",
+  "download_time": "2026-02-04T11:02:18.779903",
+  "package_url": "https://pypi.org/project/addon-odoo-wheel/"
+}

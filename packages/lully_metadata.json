@@ -1,0 +1,11 @@
+{
+  "name": "lully",
+  "version": "3.3.0",
+  "summary": "Helpers and utils",
+  "author": "Lucas Bourneuf",
+  "license": "GPLv3",
+  "home_page": "https://github.com/aluriak/lully",
+  "download_filename": "lully-3.3.0.tar.gz",
+  "download_time": "2026-02-04T11:02:30.858150",
+  "package_url": "https://pypi.org/project/lully/"
+}

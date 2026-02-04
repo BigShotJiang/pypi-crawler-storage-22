@@ -1,0 +1,11 @@
+{
+  "name": "django-logikal",
+  "version": "4.0.0",
+  "summary": "Django utilities used at Logikal",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_logikal-4.0.0.tar.gz",
+  "download_time": "2026-02-04T11:02:47.695711",
+  "package_url": "https://pypi.org/project/django-logikal/"
+}

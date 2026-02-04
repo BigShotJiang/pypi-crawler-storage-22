@@ -1,11 +1,11 @@
 {
   "name": "autogaita",
-  "version": "1.5.0",
-  "summary": "Automated Gait (and more!) Analysis in Python",
-  "author": null,
+  "version": "1.5.3",
+  "summary": "Automatic Gait Analysis in Python.",
+  "author": "Mahan Hosseini",
   "license": "GPLv3",
-  "home_page": null,
-  "download_filename": "autogaita-1.5.0.tar.gz",
-  "download_time": "2026-02-04T10:10:25.125781",
+  "home_page": "https://github.com/mahan-hosseini/AutoGaitA/",
+  "download_filename": "autogaita-1.5.3.tar.gz",
+  "download_time": "2026-02-04T11:02:28.713860",
   "package_url": "https://pypi.org/project/autogaita/"
 }

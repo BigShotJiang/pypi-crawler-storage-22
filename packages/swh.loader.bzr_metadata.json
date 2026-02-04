@@ -1,0 +1,11 @@
+{
+  "name": "swh.loader.bzr",
+  "version": "1.4.7",
+  "summary": "Software Heritage Bazaar/Breezy loader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "swh_loader_bzr-1.4.7.tar.gz",
+  "download_time": "2026-02-04T11:02:56.557660",
+  "package_url": "https://pypi.org/project/swh.loader.bzr/"
+}

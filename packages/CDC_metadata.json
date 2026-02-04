@@ -1,11 +1,11 @@
 {
   "name": "CDC",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Color distance calculator.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cdc-1.1.3.tar.gz",
-  "download_time": "2026-02-04T09:31:22.931389",
+  "download_filename": "cdc-1.1.4.tar.gz",
+  "download_time": "2026-02-04T11:02:45.572049",
   "package_url": "https://pypi.org/project/CDC/"
 }

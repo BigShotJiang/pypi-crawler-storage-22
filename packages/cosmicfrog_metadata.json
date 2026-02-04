@@ -1,0 +1,11 @@
+{
+  "name": "cosmicfrog",
+  "version": "1.0.32",
+  "summary": "Helpful utilities for working with Cosmic Frog models",
+  "author": "Optilogic",
+  "license": "MIT",
+  "home_page": "https://cosmicfrog.com",
+  "download_filename": "cosmicfrog-1.0.32.tar.gz",
+  "download_time": "2026-02-04T11:02:32.957619",
+  "package_url": "https://pypi.org/project/cosmicfrog/"
+}

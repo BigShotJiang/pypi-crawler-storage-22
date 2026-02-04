@@ -1,11 +1,11 @@
 {
   "name": "bazis-async-request",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "Async Background Requests module for Bazis framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bazis_async_request-2.2.0.tar.gz",
-  "download_time": "2026-02-01T21:47:17.517805",
+  "download_filename": "bazis_async_request-2.2.2.tar.gz",
+  "download_time": "2026-02-04T11:02:20.368209",
   "package_url": "https://pypi.org/project/bazis-async-request/"
 }

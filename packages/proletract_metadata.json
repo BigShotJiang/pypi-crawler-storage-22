@@ -1,0 +1,11 @@
+{
+  "name": "proletract",
+  "version": "1.1.0",
+  "summary": "ProleTRact - Tandem Repeat Visualization Tool",
+  "author": "Lion Ward Al Raei",
+  "license": null,
+  "home_page": "https://github.com/Lionward/ProleTRact",
+  "download_filename": "proletract-1.1.0.tar.gz",
+  "download_time": "2026-02-04T11:02:31.917071",
+  "package_url": "https://pypi.org/project/proletract/"
+}

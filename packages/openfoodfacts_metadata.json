@@ -1,0 +1,11 @@
+{
+  "name": "openfoodfacts",
+  "version": "3.4.0",
+  "summary": "Official Python SDK of Open Food Facts",
+  "author": "The Open Food Facts team",
+  "license": "MIT",
+  "home_page": "https://github.com/openfoodfacts/openfoodfacts-python",
+  "download_filename": "openfoodfacts-3.4.0.tar.gz",
+  "download_time": "2026-02-04T11:02:28.175121",
+  "package_url": "https://pypi.org/project/openfoodfacts/"
+}

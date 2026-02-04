@@ -1,0 +1,11 @@
+{
+  "name": "kameleo.local-api-client",
+  "version": "4.3.0",
+  "summary": "This Python package provides convenient access to the Local API REST interface of the Kameleo Client.",
+  "author": "Kameleo Team",
+  "license": "MIT",
+  "home_page": "https://github.com/kameleo-io/local-api-client-python",
+  "download_filename": "kameleo_local_api_client-4.3.0.tar.gz",
+  "download_time": "2026-02-04T11:02:57.078502",
+  "package_url": "https://pypi.org/project/kameleo.local-api-client/"
+}
