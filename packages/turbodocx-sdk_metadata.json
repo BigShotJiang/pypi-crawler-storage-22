@@ -1,0 +1,11 @@
+{
+  "name": "turbodocx-sdk",
+  "version": "0.1.5",
+  "summary": "TurboDocx Python SDK - Digital signatures, document generation, and AI-powered workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "turbodocx_sdk-0.1.5.tar.gz",
+  "download_time": "2026-02-04T22:24:20.173196",
+  "package_url": "https://pypi.org/project/turbodocx-sdk/"
+}

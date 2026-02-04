@@ -1,0 +1,11 @@
+{
+  "name": "azure-ai-transcription",
+  "version": "1.0.0b3",
+  "summary": "Microsoft Corporation Azure AI Transcription Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_ai_transcription-1.0.0b3.tar.gz",
+  "download_time": "2026-02-04T22:24:03.791402",
+  "package_url": "https://pypi.org/project/azure-ai-transcription/"
+}

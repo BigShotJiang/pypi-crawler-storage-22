@@ -1,11 +1,11 @@
 {
   "name": "ezmsg-sigproc",
-  "version": "2.14.0",
+  "version": "2.15.0",
   "summary": "Timeseries signal processing implementations in ezmsg",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ezmsg_sigproc-2.14.0.tar.gz",
-  "download_time": "2026-02-03T16:06:57.036886",
+  "download_filename": "ezmsg_sigproc-2.15.0.tar.gz",
+  "download_time": "2026-02-04T22:24:21.218659",
   "package_url": "https://pypi.org/project/ezmsg-sigproc/"
 }

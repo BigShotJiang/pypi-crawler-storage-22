@@ -1,0 +1,11 @@
+{
+  "name": "pyacm",
+  "version": "1.2",
+  "summary": "ACM Term Premium",
+  "author": "Tobias Adrian, Richard K. Crump, Emanuel Moench",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyacm-1.2.tar.gz",
+  "download_time": "2026-02-04T22:24:12.778351",
+  "package_url": "https://pypi.org/project/pyacm/"
+}

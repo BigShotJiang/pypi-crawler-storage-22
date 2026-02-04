@@ -1,0 +1,11 @@
+{
+  "name": "pygame-ios",
+  "version": "0.0.1",
+  "summary": "Run pygame-ce games on iPhones and iPads easily.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygame_ios-0.0.1.tar.gz",
+  "download_time": "2026-02-04T22:23:44.465029",
+  "package_url": "https://pypi.org/project/pygame-ios/"
+}

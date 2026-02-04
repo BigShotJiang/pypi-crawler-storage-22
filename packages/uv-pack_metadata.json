@@ -1,0 +1,11 @@
+{
+  "name": "uv-pack",
+  "version": "0.1.1",
+  "summary": "Pack you uv environment for offline usage.",
+  "author": "David Muhr",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_pack-0.1.1.tar.gz",
+  "download_time": "2026-02-04T22:24:05.933398",
+  "package_url": "https://pypi.org/project/uv-pack/"
+}

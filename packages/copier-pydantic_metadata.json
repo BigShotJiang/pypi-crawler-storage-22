@@ -1,0 +1,11 @@
+{
+  "name": "copier-pydantic",
+  "version": "0.1.4",
+  "summary": "Adds support for Pydantic Models in Copier templates",
+  "author": "Chris Brown",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copier_pydantic-0.1.4.tar.gz",
+  "download_time": "2026-02-04T22:24:23.295148",
+  "package_url": "https://pypi.org/project/copier-pydantic/"
+}

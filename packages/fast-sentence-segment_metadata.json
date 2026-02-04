@@ -1,11 +1,11 @@
 {
   "name": "fast-sentence-segment",
-  "version": "1.4.5",
+  "version": "1.6.2",
   "summary": "Fast and Efficient Sentence Segmentation",
   "author": "Craig Trim",
   "license": "MIT",
   "home_page": "https://github.com/craigtrim/fast-sentence-segment",
-  "download_filename": "fast_sentence_segment-1.4.5.tar.gz",
-  "download_time": "2026-02-03T22:27:45.468168",
+  "download_filename": "fast_sentence_segment-1.6.2.tar.gz",
+  "download_time": "2026-02-04T22:24:08.062567",
   "package_url": "https://pypi.org/project/fast-sentence-segment/"
 }
