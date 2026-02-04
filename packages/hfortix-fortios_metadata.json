@@ -1,11 +1,11 @@
 {
   "name": "hfortix-fortios",
-  "version": "0.5.150",
-  "summary": "FortiOS SDK - Part of HFortix",
+  "version": "0.5.157",
+  "summary": "Type-safe Python client for FortiGate automation and FortiOS REST API - 1,348+ endpoints with async support and atomic transactions",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "hfortix_fortios-0.5.150.tar.gz",
-  "download_time": "2026-02-02T01:47:25.862556",
+  "download_filename": "hfortix_fortios-0.5.157.tar.gz",
+  "download_time": "2026-02-04T05:09:19.367013",
   "package_url": "https://pypi.org/project/hfortix-fortios/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "foodforthought-cli",
+  "version": "0.3.1",
+  "summary": "CLI tool for FoodforThought robotics repository platform - manage robot skills and data",
+  "author": "Kindly Robotics",
+  "license": null,
+  "home_page": "https://kindly.fyi/foodforthought",
+  "download_filename": "foodforthought_cli-0.3.1-py3-none-any.whl",
+  "download_time": "2026-02-04T05:09:16.668644",
+  "package_url": "https://pypi.org/project/foodforthought-cli/"
+}

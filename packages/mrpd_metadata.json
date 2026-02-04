@@ -1,0 +1,11 @@
+{
+  "name": "mrpd",
+  "version": "0.1.1",
+  "summary": "Moltrouter Protocol Daemon: serve, route, bridge, validate",
+  "author": "Thor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mrpd-0.1.1.tar.gz",
+  "download_time": "2026-02-04T05:09:12.951787",
+  "package_url": "https://pypi.org/project/mrpd/"
+}

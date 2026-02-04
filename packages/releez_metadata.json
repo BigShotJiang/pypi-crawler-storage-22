@@ -1,0 +1,11 @@
+{
+  "name": "releez",
+  "version": "0.2.4",
+  "summary": "CLI tool for helping to manage release processes.",
+  "author": "James Trousdale",
+  "license": null,
+  "home_page": null,
+  "download_filename": "releez-0.2.4.tar.gz",
+  "download_time": "2026-02-04T05:09:26.768185",
+  "package_url": "https://pypi.org/project/releez/"
+}

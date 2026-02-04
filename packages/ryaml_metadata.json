@@ -1,0 +1,11 @@
+{
+  "name": "ryaml",
+  "version": "0.5.1",
+  "summary": "A simple yaml serializer and deserializer using Rust.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ryaml-0.5.1.tar.gz",
+  "download_time": "2026-02-04T05:09:52.764451",
+  "package_url": "https://pypi.org/project/ryaml/"
+}

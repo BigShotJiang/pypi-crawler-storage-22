@@ -1,0 +1,11 @@
+{
+  "name": "datasette-scan",
+  "version": "0.1",
+  "summary": "Datasette plugin for scanning for SQLite files",
+  "author": "Simon Willison",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datasette_scan-0.1.tar.gz",
+  "download_time": "2026-02-04T05:09:35.662751",
+  "package_url": "https://pypi.org/project/datasette-scan/"
+}

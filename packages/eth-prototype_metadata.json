@@ -1,0 +1,11 @@
+{
+  "name": "eth-prototype",
+  "version": "1.4.1",
+  "summary": "Prototype Ethereum Smart Contracts in Python",
+  "author": "Guillermo M. Narvaja",
+  "license": "MIT",
+  "home_page": "https://github.com/gnarvaja/eth-prototype",
+  "download_filename": "eth_prototype-1.4.1.tar.gz",
+  "download_time": "2026-02-04T05:09:33.610731",
+  "package_url": "https://pypi.org/project/eth-prototype/"
+}

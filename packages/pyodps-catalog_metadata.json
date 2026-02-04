@@ -1,0 +1,11 @@
+{
+  "name": "pyodps-catalog",
+  "version": "1.0.0",
+  "summary": "Alibaba Cloud MaxCompute openapi SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/darabonba-openapi",
+  "download_filename": "pyodps_catalog-1.0.0.tar.gz",
+  "download_time": "2026-02-04T05:09:55.017287",
+  "package_url": "https://pypi.org/project/pyodps-catalog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "article-introduction-generator",
+  "version": "0.1.1",
+  "summary": "Program to generate an introduction from a JSON File",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "article_introduction_generator-0.1.1.tar.gz",
+  "download_time": "2026-02-04T05:09:37.763467",
+  "package_url": "https://pypi.org/project/article-introduction-generator/"
+}

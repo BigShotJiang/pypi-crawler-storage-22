@@ -1,11 +1,11 @@
 {
   "name": "bithuman",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Bithuman avatar runtime — pure Python engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bithuman-1.2.4-py3-none-any.whl",
-  "download_time": "2026-02-03T18:08:15.080254",
+  "download_filename": "bithuman-1.2.5-py3-none-any.whl",
+  "download_time": "2026-02-04T05:09:25.164224",
   "package_url": "https://pypi.org/project/bithuman/"
 }
