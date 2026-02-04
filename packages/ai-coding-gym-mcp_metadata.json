@@ -1,11 +1,11 @@
 {
   "name": "ai-coding-gym-mcp",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "MCP server for AI Coding Gym - fetch and submit coding challenges",
   "author": "AICodingGym Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/ai-coding-gym-mcp",
-  "download_filename": "ai_coding_gym_mcp-0.1.5.tar.gz",
-  "download_time": "2026-02-04T23:24:20.815731",
+  "download_filename": "ai_coding_gym_mcp-0.1.6.tar.gz",
+  "download_time": "2026-02-04T23:52:27.110335",
   "package_url": "https://pypi.org/project/ai-coding-gym-mcp/"
 }

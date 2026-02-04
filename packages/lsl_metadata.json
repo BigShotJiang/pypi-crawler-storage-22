@@ -1,0 +1,11 @@
+{
+  "name": "lsl",
+  "version": "3.0.8",
+  "summary": "LWA Software Library",
+  "author": "Jayce Dowell",
+  "license": "GPL",
+  "home_page": "https://github.com/lwa-project/lsl",
+  "download_filename": "lsl-3.0.8.tar.gz",
+  "download_time": "2026-02-04T23:52:20.182929",
+  "package_url": "https://pypi.org/project/lsl/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "just-bash",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A pure Python bash interpreter with in-memory virtual filesystem",
   "author": "Drew Breunig",
   "license": null,
   "home_page": null,
-  "download_filename": "just_bash-0.1.10.tar.gz",
-  "download_time": "2026-02-02T16:43:03.672460",
+  "download_filename": "just_bash-0.1.11.tar.gz",
+  "download_time": "2026-02-04T23:52:24.293378",
   "package_url": "https://pypi.org/project/just-bash/"
 }

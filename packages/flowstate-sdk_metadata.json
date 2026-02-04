@@ -1,11 +1,11 @@
 {
   "name": "flowstate-sdk",
-  "version": "0.1.26",
+  "version": "0.1.27",
   "summary": "SDK for Agentic AI workflow management with Flowstate",
   "author": "Flowstate",
   "license": "Nobody can use this",
   "home_page": null,
-  "download_filename": "flowstate_sdk-0.1.26.tar.gz",
-  "download_time": "2026-02-04T23:24:10.873755",
+  "download_filename": "flowstate_sdk-0.1.27.tar.gz",
+  "download_time": "2026-02-04T23:52:54.405729",
   "package_url": "https://pypi.org/project/flowstate-sdk/"
 }

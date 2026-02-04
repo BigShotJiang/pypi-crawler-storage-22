@@ -1,0 +1,11 @@
+{
+  "name": "renumSeq",
+  "version": "2.1.1",
+  "summary": "Tool to renumber image sequences.",
+  "author": "James Philip Rowell",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/jrowellfx/renumSeq",
+  "download_filename": "renumseq-2.1.1.tar.gz",
+  "download_time": "2026-02-04T23:52:45.695014",
+  "package_url": "https://pypi.org/project/renumSeq/"
+}

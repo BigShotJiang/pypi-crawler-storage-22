@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-geminidataanalytics",
+  "version": "0.10.0",
+  "summary": "Google Cloud Geminidataanalytics API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-geminidataanalytics",
+  "download_filename": "google_cloud_geminidataanalytics-0.10.0.tar.gz",
+  "download_time": "2026-02-04T23:52:23.682373",
+  "package_url": "https://pypi.org/project/google-cloud-geminidataanalytics/"
+}

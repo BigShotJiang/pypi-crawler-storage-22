@@ -1,11 +1,11 @@
 {
   "name": "blochsimulator",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "summary": "High-performance Bloch equation simulator for MRI",
   "author": "Luca Nagel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "blochsimulator-1.0.11.tar.gz",
-  "download_time": "2026-02-04T11:02:31.388117",
+  "download_filename": "blochsimulator-1.0.12.tar.gz",
+  "download_time": "2026-02-04T23:52:17.770741",
   "package_url": "https://pypi.org/project/blochsimulator/"
 }

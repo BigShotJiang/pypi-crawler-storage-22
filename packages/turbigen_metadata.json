@@ -1,0 +1,11 @@
+{
+  "name": "turbigen",
+  "version": "2.7.3",
+  "summary": "Framework for turbomachinery design and computational fluid dynamics simulation",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "turbigen-2.7.3-cp311-cp311-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-04T23:52:58.510846",
+  "package_url": "https://pypi.org/project/turbigen/"
+}

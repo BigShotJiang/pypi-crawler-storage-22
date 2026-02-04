@@ -1,11 +1,11 @@
 {
   "name": "oxideshield",
-  "version": "0.1.5",
-  "summary": "High-performance LLM security toolkit",
+  "version": "0.1.6",
+  "summary": "LLM security toolkit - prompt injection detection, PII filtering, and content safety",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "oxideshield-0.1.5-cp313-cp313-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-01T16:24:04.004688",
+  "download_filename": "oxideshield-0.1.6-cp313-cp313-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-04T23:52:49.796185",
   "package_url": "https://pypi.org/project/oxideshield/"
 }

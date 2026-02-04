@@ -1,0 +1,11 @@
+{
+  "name": "umaudemc",
+  "version": "0.17.1",
+  "summary": "Unified Maude model-checking utility",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "umaudemc-0.17.1-py3-none-any.whl",
+  "download_time": "2026-02-04T23:52:31.737764",
+  "package_url": "https://pypi.org/project/umaudemc/"
+}

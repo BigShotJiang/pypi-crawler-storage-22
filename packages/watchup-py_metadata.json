@@ -1,0 +1,11 @@
+{
+  "name": "watchup-py",
+  "version": "0.1.1",
+  "summary": "Python SDK / error boundary for Watchup.site",
+  "author": "Raphael Tomiwa",
+  "license": null,
+  "home_page": "https://github.com/tomurashigaraki22/watchup-py",
+  "download_filename": "watchup_py-0.1.1.tar.gz",
+  "download_time": "2026-02-04T23:52:42.793385",
+  "package_url": "https://pypi.org/project/watchup-py/"
+}
