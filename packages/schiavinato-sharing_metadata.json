@@ -1,0 +1,11 @@
+{
+  "name": "schiavinato-sharing",
+  "version": "0.4.2",
+  "summary": "Human-executable secret sharing for BIP39 mnemonics using GF(2053)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "schiavinato_sharing-0.4.2.tar.gz",
+  "download_time": "2026-02-04T07:11:56.725367",
+  "package_url": "https://pypi.org/project/schiavinato-sharing/"
+}

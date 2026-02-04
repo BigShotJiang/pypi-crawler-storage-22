@@ -1,0 +1,11 @@
+{
+  "name": "pyemd",
+  "version": "2.0.0",
+  "summary": "A Python wrapper for Ofir Pele and Michael Werman's implementation of the Earth Mover's Distance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyemd-2.0.0.tar.gz",
+  "download_time": "2026-02-04T07:12:19.180369",
+  "package_url": "https://pypi.org/project/pyemd/"
+}

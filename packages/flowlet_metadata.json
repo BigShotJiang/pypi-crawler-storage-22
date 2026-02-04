@@ -1,11 +1,11 @@
 {
   "name": "flowlet",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "A lightweight Python workflow engine with DAG nodes, async execution, and conditional branches.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flowlet-0.1.1.tar.gz",
-  "download_time": "2026-02-03T02:36:47.263936",
+  "download_filename": "flowlet-0.1.3.tar.gz",
+  "download_time": "2026-02-04T07:12:02.432068",
   "package_url": "https://pypi.org/project/flowlet/"
 }

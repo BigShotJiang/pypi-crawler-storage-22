@@ -1,11 +1,11 @@
 {
   "name": "DirPrint",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "DirPrint: Print your directory structure and file contents with ease.",
   "author": "zebang.eth",
   "license": null,
   "home_page": "https://github.com/zebangeth/DirPrint",
-  "download_filename": "dirprint-0.3.0.tar.gz",
-  "download_time": "2026-02-03T21:52:11.267330",
+  "download_filename": "dirprint-0.3.1.tar.gz",
+  "download_time": "2026-02-04T07:11:56.203212",
   "package_url": "https://pypi.org/project/DirPrint/"
 }

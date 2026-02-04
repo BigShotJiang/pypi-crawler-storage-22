@@ -1,0 +1,11 @@
+{
+  "name": "unifiedbooster",
+  "version": "0.10.2",
+  "summary": "Unified interface for Gradient Boosted Decision Trees",
+  "author": "T. Moudiki",
+  "license": "BSD license",
+  "home_page": "https://github.com/thierrymoudiki/unifiedbooster",
+  "download_filename": "unifiedbooster-0.10.2.tar.gz",
+  "download_time": "2026-02-04T07:12:18.142895",
+  "package_url": "https://pypi.org/project/unifiedbooster/"
+}

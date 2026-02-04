@@ -1,0 +1,11 @@
+{
+  "name": "codenose",
+  "version": "0.4.0",
+  "summary": "Code smell detection for LLMs - sniffs out duplicate logic, architecture violations, and other blind spots",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "codenose-0.4.0.tar.gz",
+  "download_time": "2026-02-04T07:12:13.482552",
+  "package_url": "https://pypi.org/project/codenose/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mwgencode-mcp",
+  "version": "0.1.5",
+  "summary": "A MCP-based code generation tool for web frameworks",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/mwgencode-mcp",
+  "download_filename": "mwgencode_mcp-0.1.5.tar.gz",
+  "download_time": "2026-02-04T07:12:06.119757",
+  "package_url": "https://pypi.org/project/mwgencode-mcp/"
+}

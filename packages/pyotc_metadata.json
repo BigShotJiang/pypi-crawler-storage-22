@@ -1,0 +1,11 @@
+{
+  "name": "pyotc",
+  "version": "0.3.0",
+  "summary": "Perform optimal transition coupling (OTC) in python.",
+  "author": "Jay Hineman, Yuning Pan, Bongsoo Yi",
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "pyotc-0.3.0.tar.gz",
+  "download_time": "2026-02-04T07:12:34.397878",
+  "package_url": "https://pypi.org/project/pyotc/"
+}
