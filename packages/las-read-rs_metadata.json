@@ -1,0 +1,11 @@
+{
+  "name": "las-read-rs",
+  "version": "0.1.6",
+  "summary": "A high-performance LAS (Log ASCII Standard) file reader written in Rust",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "las_read_rs-0.1.6.tar.gz",
+  "download_time": "2026-02-04T23:24:15.545003",
+  "package_url": "https://pypi.org/project/las-read-rs/"
+}

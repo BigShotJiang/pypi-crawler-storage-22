@@ -1,0 +1,11 @@
+{
+  "name": "prismiq",
+  "version": "0.1.0",
+  "summary": "Open-source embedded analytics platform",
+  "author": "Prismiq Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "prismiq-0.1.0.tar.gz",
+  "download_time": "2026-02-04T23:24:16.588828",
+  "package_url": "https://pypi.org/project/prismiq/"
+}

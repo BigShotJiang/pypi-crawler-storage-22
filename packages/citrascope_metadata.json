@@ -1,11 +1,11 @@
 {
   "name": "citrascope",
-  "version": "0.8.0",
+  "version": "0.9.1",
   "summary": "Remotely control a telescope while it polls for tasks, collects and edge processes data, and delivers results and data for further processing.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "citrascope-0.8.0.tar.gz",
-  "download_time": "2026-01-29T21:50:49.716290",
+  "download_filename": "citrascope-0.9.1.tar.gz",
+  "download_time": "2026-02-04T23:24:31.924304",
   "package_url": "https://pypi.org/project/citrascope/"
 }

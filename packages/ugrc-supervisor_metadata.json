@@ -1,0 +1,11 @@
+{
+  "name": "ugrc-supervisor",
+  "version": "3.3.0",
+  "summary": "A watchdog module for scheduled scripts that sends notifications, including any uncaught exceptions.",
+  "author": "UGRC",
+  "license": "MIT",
+  "home_page": "https://github.com/agrc/supervisor",
+  "download_filename": "ugrc_supervisor-3.3.0.tar.gz",
+  "download_time": "2026-02-04T23:24:43.504547",
+  "package_url": "https://pypi.org/project/ugrc-supervisor/"
+}

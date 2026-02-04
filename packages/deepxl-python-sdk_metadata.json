@@ -1,0 +1,11 @@
+{
+  "name": "deepxl-python-sdk",
+  "version": "1.2.1",
+  "summary": "Python SDK for DeepXL fraud detection, document parsing, and verification services",
+  "author": "DeepXL",
+  "license": null,
+  "home_page": "https://github.com/deepxl/deepxl-python-sdk",
+  "download_filename": "deepxl_python_sdk-1.2.1.tar.gz",
+  "download_time": "2026-02-04T23:24:38.255236",
+  "package_url": "https://pypi.org/project/deepxl-python-sdk/"
+}

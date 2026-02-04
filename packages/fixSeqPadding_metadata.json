@@ -1,0 +1,11 @@
+{
+  "name": "fixSeqPadding",
+  "version": "2.0.1",
+  "summary": "Tool to repair bad padding in image-sequences.",
+  "author": "James Philip Rowell",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/jrowellfx/fixSeqPadding",
+  "download_filename": "fixseqpadding-2.0.1.tar.gz",
+  "download_time": "2026-02-04T23:24:28.272475",
+  "package_url": "https://pypi.org/project/fixSeqPadding/"
+}

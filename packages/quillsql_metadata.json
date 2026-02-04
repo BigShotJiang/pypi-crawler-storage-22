@@ -1,0 +1,11 @@
+{
+  "name": "quillsql",
+  "version": "2.2.10",
+  "summary": "Quill SDK for Python.",
+  "author": "Quill",
+  "license": null,
+  "home_page": "https://github.com/quill-sql/quill-python",
+  "download_filename": "quillsql-2.2.10.tar.gz",
+  "download_time": "2026-02-04T23:24:38.786201",
+  "package_url": "https://pypi.org/project/quillsql/"
+}
