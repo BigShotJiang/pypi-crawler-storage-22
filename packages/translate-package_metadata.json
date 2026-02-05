@@ -1,11 +1,11 @@
 {
   "name": "translate-package",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Contain functions and classes to efficiently train a sequence to sequence to translate between two languages.",
   "author": "Oumar Kane",
   "license": null,
   "home_page": null,
-  "download_filename": "translate_package-0.3.2.tar.gz",
-  "download_time": "2026-02-05T18:33:40.155343",
+  "download_filename": "translate_package-0.3.3.tar.gz",
+  "download_time": "2026-02-05T23:40:38.301816",
   "package_url": "https://pypi.org/project/translate-package/"
 }

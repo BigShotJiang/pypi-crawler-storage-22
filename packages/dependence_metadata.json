@@ -1,0 +1,11 @@
+{
+  "name": "dependence",
+  "version": "1.3.0",
+  "summary": "A dependency management tool for python projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dependence-1.3.0.tar.gz",
+  "download_time": "2026-02-05T23:40:35.624782",
+  "package_url": "https://pypi.org/project/dependence/"
+}

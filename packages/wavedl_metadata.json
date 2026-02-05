@@ -1,11 +1,11 @@
 {
   "name": "wavedl",
-  "version": "1.6.3",
+  "version": "1.7.0",
   "summary": "A Scalable Deep Learning Framework for Wave-Based Inverse Problems",
   "author": "Ductho Le",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wavedl-1.6.3.tar.gz",
-  "download_time": "2026-02-05T21:03:04.593566",
+  "download_filename": "wavedl-1.7.0.tar.gz",
+  "download_time": "2026-02-05T23:40:43.038465",
   "package_url": "https://pypi.org/project/wavedl/"
 }

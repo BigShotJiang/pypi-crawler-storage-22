@@ -1,0 +1,11 @@
+{
+  "name": "lockstock-integrations",
+  "version": "1.1.1",
+  "summary": "LockStock compliance runtime integrations for AI Agent SDKs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lockstock_integrations-1.1.1.tar.gz",
+  "download_time": "2026-02-05T23:40:44.081881",
+  "package_url": "https://pypi.org/project/lockstock-integrations/"
+}

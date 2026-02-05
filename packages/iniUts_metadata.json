@@ -1,11 +1,11 @@
 {
   "name": "iniUts",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "Ini file manipulator",
   "author": "Melque Lima",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "iniuts-2.0.2.tar.gz",
-  "download_time": "2026-02-05T15:04:43.822803",
+  "download_filename": "iniuts-2.0.3.tar.gz",
+  "download_time": "2026-02-05T23:41:01.531831",
   "package_url": "https://pypi.org/project/iniUts/"
 }

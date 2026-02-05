@@ -1,0 +1,11 @@
+{
+  "name": "speaksy",
+  "version": "0.1.0",
+  "summary": "Voice typing for Linux. Talk it. Type it. Ship it.",
+  "author": "oneknight",
+  "license": null,
+  "home_page": null,
+  "download_filename": "speaksy-0.1.0.tar.gz",
+  "download_time": "2026-02-05T23:40:35.102643",
+  "package_url": "https://pypi.org/project/speaksy/"
+}

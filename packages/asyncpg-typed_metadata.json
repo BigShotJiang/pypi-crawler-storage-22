@@ -1,0 +1,11 @@
+{
+  "name": "asyncpg-typed",
+  "version": "0.1.5",
+  "summary": "Type-safe queries for asyncpg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "asyncpg_typed-0.1.5.tar.gz",
+  "download_time": "2026-02-05T23:41:16.851967",
+  "package_url": "https://pypi.org/project/asyncpg-typed/"
+}

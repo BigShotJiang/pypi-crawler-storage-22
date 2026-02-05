@@ -1,11 +1,11 @@
 {
   "name": "moducomp",
-  "version": "0.7.36",
+  "version": "0.7.44",
   "summary": "moducomp: metabolic module completeness and complementarity for microbiomes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moducomp-0.7.36.tar.gz",
-  "download_time": "2026-02-04T23:52:29.995453",
+  "download_filename": "moducomp-0.7.44.tar.gz",
+  "download_time": "2026-02-05T23:41:04.716193",
   "package_url": "https://pypi.org/project/moducomp/"
 }
