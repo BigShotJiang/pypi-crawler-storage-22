@@ -1,11 +1,11 @@
 {
   "name": "quack-diff",
-  "version": "0.0.5",
-  "summary": "The zero-dependency regression testing tool for modern data warehouses. DuckDB-powered data diffing for Snowflake.",
+  "version": "0.0.10",
+  "summary": "Regression testing tool for modern data warehouses, powered by duck-db",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quack_diff-0.0.5.tar.gz",
-  "download_time": "2026-01-31T23:45:08.142513",
+  "download_filename": "quack_diff-0.0.10.tar.gz",
+  "download_time": "2026-02-05T11:04:24.657908",
   "package_url": "https://pypi.org/project/quack-diff/"
 }

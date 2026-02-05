@@ -1,0 +1,11 @@
+{
+  "name": "zeabur",
+  "version": "0.1.1",
+  "summary": "A Python SDK for the Zeabur platform, generated from the GraphQL schema.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/brucx/zeabur-python-sdk",
+  "download_filename": "zeabur-0.1.1.tar.gz",
+  "download_time": "2026-02-05T11:04:13.709313",
+  "package_url": "https://pypi.org/project/zeabur/"
+}

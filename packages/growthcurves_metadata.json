@@ -1,11 +1,11 @@
 {
   "name": "growthcurves",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "A package for fitting and analyzing microbial growth curves.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "growthcurves-0.3.0.tar.gz",
-  "download_time": "2026-02-01T10:21:38.194348",
+  "download_filename": "growthcurves-0.4.0.tar.gz",
+  "download_time": "2026-02-05T11:04:42.349668",
   "package_url": "https://pypi.org/project/growthcurves/"
 }

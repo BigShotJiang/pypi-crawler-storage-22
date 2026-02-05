@@ -1,0 +1,11 @@
+{
+  "name": "sdk-4mica",
+  "version": "0.5.1",
+  "summary": "Python SDK for interacting with the 4Mica payment network.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdk_4mica-0.5.1.tar.gz",
+  "download_time": "2026-02-05T11:04:36.121184",
+  "package_url": "https://pypi.org/project/sdk-4mica/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pycommonlog",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "Unified logging and alerting library for Python.",
   "author": "Alvian Rahman Hanif",
   "license": "MIT",
   "home_page": "https://github.com/alvianhanif/pycommonlog",
-  "download_filename": "pycommonlog-0.2.3.tar.gz",
-  "download_time": "2026-02-05T09:05:33.668489",
+  "download_filename": "pycommonlog-0.2.6.tar.gz",
+  "download_time": "2026-02-05T11:04:21.521398",
   "package_url": "https://pypi.org/project/pycommonlog/"
 }

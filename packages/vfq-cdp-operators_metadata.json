@@ -1,0 +1,11 @@
+{
+  "name": "vfq-cdp-operators",
+  "version": "0.0.12",
+  "summary": "Custom Hive Operator for CDE",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vfq_cdp_operators-0.0.12.tar.gz",
+  "download_time": "2026-02-05T11:04:18.935241",
+  "package_url": "https://pypi.org/project/vfq-cdp-operators/"
+}

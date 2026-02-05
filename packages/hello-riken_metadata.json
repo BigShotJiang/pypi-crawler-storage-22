@@ -1,0 +1,11 @@
+{
+  "name": "hello-riken",
+  "version": "0.1.0",
+  "summary": "A simple package that prints Hello Riken",
+  "author": "Riken",
+  "license": null,
+  "home_page": "https://github.com/riken-khadela/hello-riken",
+  "download_filename": "hello_riken-0.1.0.tar.gz",
+  "download_time": "2026-02-05T11:04:28.854270",
+  "package_url": "https://pypi.org/project/hello-riken/"
+}

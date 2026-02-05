@@ -1,0 +1,11 @@
+{
+  "name": "django-lazycrud",
+  "version": "1.8.8",
+  "summary": "A little Django app to reduce boilerplate code at a minimum when you write class based views in a typical CRUD scenario.",
+  "author": "Augusto Destrero",
+  "license": "MIT",
+  "home_page": "https://github.com/baxeico/django-lazycrud",
+  "download_filename": "django_lazycrud-1.8.8.tar.gz",
+  "download_time": "2026-02-05T11:04:34.040510",
+  "package_url": "https://pypi.org/project/django-lazycrud/"
+}
