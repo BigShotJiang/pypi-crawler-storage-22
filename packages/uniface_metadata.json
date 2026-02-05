@@ -1,0 +1,11 @@
+{
+  "name": "uniface",
+  "version": "2.3.0",
+  "summary": "UniFace: A Comprehensive Library for Face Detection, Recognition, Landmark Analysis, Face Parsing, Gaze Estimation, Age, and Gender Detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uniface-2.3.0.tar.gz",
+  "download_time": "2026-02-05T12:53:32.262270",
+  "package_url": "https://pypi.org/project/uniface/"
+}

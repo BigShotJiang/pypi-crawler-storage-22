@@ -1,11 +1,11 @@
 {
   "name": "spacedatastandards.org",
-  "version": "1.73.4",
+  "version": "1.73.11",
   "summary": "Space data standards framework based on CCSDS standards and Google FlatBuffers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "spacedatastandards_org-1.73.4.tar.gz",
-  "download_time": "2026-02-05T01:31:49.822263",
+  "download_filename": "spacedatastandards_org-1.73.11.tar.gz",
+  "download_time": "2026-02-05T12:54:04.102304",
   "package_url": "https://pypi.org/project/spacedatastandards.org/"
 }

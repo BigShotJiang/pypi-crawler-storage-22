@@ -1,11 +1,11 @@
 {
   "name": "ssb-pubmd",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "SSB Pubmd",
   "author": "Olav Landsverk",
   "license": "MIT",
   "home_page": "https://github.com/statisticsnorway/ssb-pubmd",
-  "download_filename": "ssb_pubmd-0.1.2.tar.gz",
-  "download_time": "2026-02-05T11:52:12.034355",
+  "download_filename": "ssb_pubmd-0.1.5.tar.gz",
+  "download_time": "2026-02-05T12:53:15.473793",
   "package_url": "https://pypi.org/project/ssb-pubmd/"
 }

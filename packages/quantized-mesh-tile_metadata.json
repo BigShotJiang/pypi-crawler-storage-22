@@ -1,0 +1,11 @@
+{
+  "name": "quantized-mesh-tile",
+  "version": "0.7.0",
+  "summary": "Quantized-Mesh format reader and writer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantized_mesh_tile-0.7.0.tar.gz",
+  "download_time": "2026-02-05T12:53:23.865542",
+  "package_url": "https://pypi.org/project/quantized-mesh-tile/"
+}

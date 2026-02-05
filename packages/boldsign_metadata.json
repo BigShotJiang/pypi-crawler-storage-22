@@ -1,0 +1,11 @@
+{
+  "name": "boldsign",
+  "version": "3.0.3",
+  "summary": "BoldSign API",
+  "author": "BoldSign",
+  "license": "MIT",
+  "home_page": "https://github.com/boldsign/boldsign-python-sdk",
+  "download_filename": "boldsign-3.0.3.tar.gz",
+  "download_time": "2026-02-05T12:53:30.697027",
+  "package_url": "https://pypi.org/project/boldsign/"
+}

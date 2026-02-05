@@ -1,11 +1,11 @@
 {
   "name": "nsj-automacoesempresas",
-  "version": "2.2601.0.2",
+  "version": "2.2601.0.5",
   "summary": "Client em Python desenvolvido para orquestrar cálculos do RPA Nasajon.",
   "author": "Nasajon Sistemas",
   "license": null,
   "home_page": "https://github.com/Nasajon/pyRPA",
-  "download_filename": "nsj_automacoesempresas-2.2601.0.2.tar.gz",
-  "download_time": "2026-01-28T18:53:56.626296",
+  "download_filename": "nsj_automacoesempresas-2.2601.0.5.tar.gz",
+  "download_time": "2026-02-05T12:53:56.746208",
   "package_url": "https://pypi.org/project/nsj-automacoesempresas/"
 }

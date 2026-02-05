@@ -1,0 +1,11 @@
+{
+  "name": "resdata",
+  "version": "6.2.5",
+  "summary": "Package for reading and writing the fortran result files from reservoir simulators",
+  "author": "Equinor ASA",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/equinor/resdata",
+  "download_filename": "resdata-6.2.5-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-05T12:53:41.107937",
+  "package_url": "https://pypi.org/project/resdata/"
+}

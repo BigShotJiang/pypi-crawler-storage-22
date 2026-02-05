@@ -1,0 +1,11 @@
+{
+  "name": "mlx-guided-grpo",
+  "version": "2.1.1",
+  "summary": "Guided Group Relative Policy Optimization (GRPO) training for MLX on Apple Silicon",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_guided_grpo-2.1.1.tar.gz",
+  "download_time": "2026-02-05T12:53:40.058975",
+  "package_url": "https://pypi.org/project/mlx-guided-grpo/"
+}

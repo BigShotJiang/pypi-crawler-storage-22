@@ -1,11 +1,11 @@
 {
   "name": "openviking",
-  "version": "0.1.8",
+  "version": "0.1.11",
   "summary": "An Agent-native context database",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "openviking-0.1.8.tar.gz",
-  "download_time": "2026-02-05T08:06:01.924497",
+  "download_filename": "openviking-0.1.11.tar.gz",
+  "download_time": "2026-02-05T12:53:59.933985",
   "package_url": "https://pypi.org/project/openviking/"
 }

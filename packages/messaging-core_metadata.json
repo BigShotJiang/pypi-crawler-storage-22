@@ -1,0 +1,11 @@
+{
+  "name": "messaging-core",
+  "version": "0.1.2",
+  "summary": "Python gRPC client for Your Service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "messaging_core-0.1.2.tar.gz",
+  "download_time": "2026-02-05T12:53:34.864470",
+  "package_url": "https://pypi.org/project/messaging-core/"
+}
