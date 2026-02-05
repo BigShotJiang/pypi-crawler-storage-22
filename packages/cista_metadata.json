@@ -1,11 +1,11 @@
 {
   "name": "cista",
-  "version": "1.5.5",
+  "version": "1.5.8",
   "summary": "Dropbox-like file server with modern web interface",
   "author": "Vasanko",
   "license": null,
   "home_page": null,
-  "download_filename": "cista-1.5.5.tar.gz",
-  "download_time": "2026-02-04T21:07:33.059184",
+  "download_filename": "cista-1.5.8.tar.gz",
+  "download_time": "2026-02-05T20:31:46.927436",
   "package_url": "https://pypi.org/project/cista/"
 }

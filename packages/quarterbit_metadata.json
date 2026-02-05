@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "4.0.1",
+  "version": "4.0.3",
   "summary": "AXIOM - World's most memory-efficient drift-free optimizer for PyTorch",
   "author": "Kyle Clouthier",
   "license": "Proprietary - Free tier available, commercial use requires license",
   "home_page": "https://github.com/clouthiersimulation/quarterbit",
-  "download_filename": "quarterbit-4.0.1.tar.gz",
-  "download_time": "2026-02-05T19:58:47.473024",
+  "download_filename": "quarterbit-4.0.3.tar.gz",
+  "download_time": "2026-02-05T20:32:09.371894",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

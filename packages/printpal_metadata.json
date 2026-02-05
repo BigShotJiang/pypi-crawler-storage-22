@@ -1,0 +1,11 @@
+{
+  "name": "printpal",
+  "version": "1.0.4",
+  "summary": "Python client for the PrintPal 3D Generation API",
+  "author": "PrintPal",
+  "license": "MIT",
+  "home_page": "https://github.com/printpal-io/printpal-python",
+  "download_filename": "printpal-1.0.4.tar.gz",
+  "download_time": "2026-02-05T20:31:52.176793",
+  "package_url": "https://pypi.org/project/printpal/"
+}

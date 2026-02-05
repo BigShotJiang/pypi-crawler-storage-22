@@ -1,0 +1,11 @@
+{
+  "name": "health-universe-a2a",
+  "version": "0.2.0",
+  "summary": "Python SDK for building Health Universe A2A-compliant agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "health_universe_a2a-0.2.0.tar.gz",
+  "download_time": "2026-02-05T20:32:13.954886",
+  "package_url": "https://pypi.org/project/health-universe-a2a/"
+}

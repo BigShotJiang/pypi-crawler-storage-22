@@ -1,0 +1,11 @@
+{
+  "name": "shell-scripts",
+  "version": "0.1.0",
+  "summary": "handy utilities for windows",
+  "author": "Harsh Shinde",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "shell_scripts-0.1.0.tar.gz",
+  "download_time": "2026-02-05T20:31:34.726899",
+  "package_url": "https://pypi.org/project/shell-scripts/"
+}

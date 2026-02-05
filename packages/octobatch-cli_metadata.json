@@ -1,0 +1,11 @@
+{
+  "name": "octobatch-cli",
+  "version": "0.0.1",
+  "summary": "Batch LLM orchestration tool (placeholder - full release coming soon)",
+  "author": "Andrew Stellman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "octobatch_cli-0.0.1.tar.gz",
+  "download_time": "2026-02-05T20:32:11.101955",
+  "package_url": "https://pypi.org/project/octobatch-cli/"
+}
