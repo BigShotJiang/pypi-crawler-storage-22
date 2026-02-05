@@ -1,0 +1,11 @@
+{
+  "name": "dagster-celery-docker",
+  "version": "0.28.13",
+  "summary": "A Dagster integration for celery-docker",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-celery-docker",
+  "download_filename": "dagster_celery_docker-0.28.13.tar.gz",
+  "download_time": "2026-02-05T17:37:55.757776",
+  "package_url": "https://pypi.org/project/dagster-celery-docker/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "weirdo",
+  "version": "2.1.1",
+  "summary": "Metrics of immunological foreignness for candidate T-cell epitopes",
+  "author": "Alex Rubinsteyn",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/pirl-unc/weirdo",
+  "download_filename": "weirdo-2.1.1.tar.gz",
+  "download_time": "2026-02-05T17:37:37.317923",
+  "package_url": "https://pypi.org/project/weirdo/"
+}

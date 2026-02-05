@@ -1,0 +1,11 @@
+{
+  "name": "dagster-datahub",
+  "version": "0.28.13",
+  "summary": "Package for Datahub-specific Dagster framework solid and resource components.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-datahub",
+  "download_filename": "dagster_datahub-0.28.13.tar.gz",
+  "download_time": "2026-02-05T17:38:07.236961",
+  "package_url": "https://pypi.org/project/dagster-datahub/"
+}

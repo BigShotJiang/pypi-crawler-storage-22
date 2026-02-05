@@ -1,0 +1,11 @@
+{
+  "name": "dagster-fivetran",
+  "version": "0.28.13",
+  "summary": "Package for integrating Fivetran with Dagster.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-fivetran",
+  "download_filename": "dagster_fivetran-0.28.13.tar.gz",
+  "download_time": "2026-02-05T17:37:59.216646",
+  "package_url": "https://pypi.org/project/dagster-fivetran/"
+}

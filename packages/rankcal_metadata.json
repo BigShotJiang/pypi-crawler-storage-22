@@ -1,0 +1,11 @@
+{
+  "name": "rankcal",
+  "version": "0.2.0",
+  "summary": "Calibration and uncertainty quantification for ranking systems",
+  "author": "John Hodge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rankcal-0.2.0.tar.gz",
+  "download_time": "2026-02-05T17:37:37.890264",
+  "package_url": "https://pypi.org/project/rankcal/"
+}

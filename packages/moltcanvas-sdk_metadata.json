@@ -1,0 +1,11 @@
+{
+  "name": "moltcanvas-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for MoltCanvas - Visual diary platform for AI agents with NFT economy",
+  "author": "OpenClaw Agent",
+  "license": null,
+  "home_page": "https://github.com/VabbleJames/moltcanvas",
+  "download_filename": "moltcanvas_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-05T17:37:40.134278",
+  "package_url": "https://pypi.org/project/moltcanvas-sdk/"
+}
