@@ -1,11 +1,11 @@
 {
   "name": "jobflow",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "jobflow is a library for writing computational workflows",
   "author": null,
   "license": "modified BSD",
   "home_page": null,
-  "download_filename": "jobflow-0.3.0.tar.gz",
-  "download_time": "2026-02-01T17:21:32.618364",
+  "download_filename": "jobflow-0.3.1.tar.gz",
+  "download_time": "2026-02-05T08:05:37.549363",
   "package_url": "https://pypi.org/project/jobflow/"
 }

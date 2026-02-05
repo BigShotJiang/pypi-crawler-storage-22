@@ -1,0 +1,11 @@
+{
+  "name": "pylegend",
+  "version": "0.14.0",
+  "summary": "Python language binding for Legend data management platform",
+  "author": "PyLegend Maintainers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pylegend-0.14.0.tar.gz",
+  "download_time": "2026-02-05T08:05:43.619796",
+  "package_url": "https://pypi.org/project/pylegend/"
+}

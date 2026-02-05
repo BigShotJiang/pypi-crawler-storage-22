@@ -1,0 +1,11 @@
+{
+  "name": "badwords-py",
+  "version": "2.1.0",
+  "summary": "This is a library for effective moderation of content.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "badwords_py-2.1.0.tar.gz",
+  "download_time": "2026-02-05T08:05:37.038152",
+  "package_url": "https://pypi.org/project/badwords-py/"
+}

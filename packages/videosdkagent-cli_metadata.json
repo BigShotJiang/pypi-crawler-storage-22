@@ -1,0 +1,11 @@
+{
+  "name": "videosdkagent-cli",
+  "version": "0.0.5",
+  "summary": "VideoSDK CLI tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "videosdkagent_cli-0.0.5.tar.gz",
+  "download_time": "2026-02-05T08:05:43.107867",
+  "package_url": "https://pypi.org/project/videosdkagent-cli/"
+}

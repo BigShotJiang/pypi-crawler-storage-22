@@ -1,11 +1,11 @@
 {
   "name": "kweaver-dolphin",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "Dolphin Language - An intelligent agent framework",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "kweaver_dolphin-0.2.1.tar.gz",
-  "download_time": "2026-01-30T07:07:33.310085",
+  "download_filename": "kweaver_dolphin-0.2.4.tar.gz",
+  "download_time": "2026-02-05T08:05:28.149532",
   "package_url": "https://pypi.org/project/kweaver-dolphin/"
 }

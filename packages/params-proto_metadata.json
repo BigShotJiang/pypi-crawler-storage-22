@@ -1,11 +1,11 @@
 {
   "name": "params-proto",
-  "version": "3.2.4",
+  "version": "3.3.0",
   "summary": "Modern Hyper Parameter Management for Machine Learning",
   "author": "Ge Yang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "params_proto-3.2.4.tar.gz",
-  "download_time": "2026-02-05T07:20:23.336362",
+  "download_filename": "params_proto-3.3.0.tar.gz",
+  "download_time": "2026-02-05T08:05:59.210014",
   "package_url": "https://pypi.org/project/params-proto/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-setenv",
+  "version": "0.1.0",
+  "summary": "Set env (e.g. HF_TOKEN) from colab/kaggle secrets or dotenv .env env files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_setenv-0.1.0.tar.gz",
+  "download_time": "2026-02-05T08:05:41.964727",
+  "package_url": "https://pypi.org/project/python-setenv/"
+}

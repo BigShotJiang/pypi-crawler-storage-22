@@ -1,11 +1,11 @@
 {
   "name": "vcursor-cli",
-  "version": "1.0.20",
+  "version": "1.0.23",
   "summary": "VCursor SDK & CLI - Generate videos from text, images, and URLs using AI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vcursor_cli-1.0.20.tar.gz",
-  "download_time": "2026-02-03T09:44:36.801476",
+  "download_filename": "vcursor_cli-1.0.23.tar.gz",
+  "download_time": "2026-02-05T08:05:25.563728",
   "package_url": "https://pypi.org/project/vcursor-cli/"
 }

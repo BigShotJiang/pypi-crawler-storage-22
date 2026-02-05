@@ -1,0 +1,11 @@
+{
+  "name": "aws-annoying",
+  "version": "0.8.4",
+  "summary": "Utils to handle some annoying AWS tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_annoying-0.8.4.tar.gz",
+  "download_time": "2026-02-05T08:06:08.164321",
+  "package_url": "https://pypi.org/project/aws-annoying/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vuer-cli",
+  "version": "0.0.4",
+  "summary": "A Python CLI for Vuer, a real-time 3D visualization library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vuer_cli-0.0.4.tar.gz",
+  "download_time": "2026-02-05T08:05:59.722048",
+  "package_url": "https://pypi.org/project/vuer-cli/"
+}

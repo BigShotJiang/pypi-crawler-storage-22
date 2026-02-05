@@ -1,0 +1,11 @@
+{
+  "name": "tcd2",
+  "version": "3.2.2.post2",
+  "summary": "Twitch Chat Downloader (unofficial fork)",
+  "author": "imeloben23",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcd2-3.2.2.post2.tar.gz",
+  "download_time": "2026-02-05T08:05:38.120587",
+  "package_url": "https://pypi.org/project/tcd2/"
+}

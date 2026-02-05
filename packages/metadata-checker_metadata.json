@@ -1,0 +1,11 @@
+{
+  "name": "metadata-checker",
+  "version": "1.2.0",
+  "summary": "A local metadata consistency validator.",
+  "author": "DevOps-Internal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metadata_checker-1.2.0.tar.gz",
+  "download_time": "2026-02-05T08:05:22.230415",
+  "package_url": "https://pypi.org/project/metadata-checker/"
+}

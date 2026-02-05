@@ -1,0 +1,11 @@
+{
+  "name": "sm_data_ml_utils",
+  "version": "1.0.0",
+  "summary": "Common Python tools and utilities for ML work",
+  "author": "Shuming Peh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sm_data_ml_utils-1.0.0.tar.gz",
+  "download_time": "2026-02-05T08:05:27.635164",
+  "package_url": "https://pypi.org/project/sm_data_ml_utils/"
+}

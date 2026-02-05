@@ -1,11 +1,11 @@
 {
   "name": "rag-sentinel",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "RAG Evaluation Framework using Ragas metrics and MLflow tracking",
   "author": "RAGSentinel Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rag_sentinel-0.1.4.tar.gz",
-  "download_time": "2026-02-04T14:30:22.881368",
+  "download_filename": "rag_sentinel-0.1.7.tar.gz",
+  "download_time": "2026-02-05T08:06:00.807149",
   "package_url": "https://pypi.org/project/rag-sentinel/"
 }

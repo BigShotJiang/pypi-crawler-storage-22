@@ -1,0 +1,11 @@
+{
+  "name": "uber-compose",
+  "version": "2.1.4",
+  "summary": "docker compose testing env orchestrator",
+  "author": "Yuriy Sagitov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ko10ok/uber-compose",
+  "download_filename": "uber_compose-2.1.4.tar.gz",
+  "download_time": "2026-02-05T08:06:01.379506",
+  "package_url": "https://pypi.org/project/uber-compose/"
+}

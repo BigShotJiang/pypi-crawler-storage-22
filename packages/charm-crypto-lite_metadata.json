@@ -1,11 +1,11 @@
 {
   "name": "charm-crypto-lite",
-  "version": "0.61.1",
+  "version": "0.61.2",
   "summary": "Lightweight elliptic curve cryptography from the Charm framework (OpenSSL-only, no GMP/PBC)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "charm_crypto_lite-0.61.1.tar.gz",
-  "download_time": "2026-02-05T07:20:10.247870",
+  "download_filename": "charm_crypto_lite-0.61.2.tar.gz",
+  "download_time": "2026-02-05T08:05:49.786883",
   "package_url": "https://pypi.org/project/charm-crypto-lite/"
 }

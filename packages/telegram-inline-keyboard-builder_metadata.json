@@ -1,0 +1,11 @@
+{
+  "name": "telegram-inline-keyboard-builder",
+  "version": "1.0.0",
+  "summary": "Library-agnostic inline keyboard builder for Telegram bots (Aiogram, Pyrogram, python-telegram-bot).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "telegram_inline_keyboard_builder-1.0.0.tar.gz",
+  "download_time": "2026-02-05T08:05:41.452913",
+  "package_url": "https://pypi.org/project/telegram-inline-keyboard-builder/"
+}
