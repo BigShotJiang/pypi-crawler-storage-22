@@ -1,0 +1,11 @@
+{
+  "name": "pyenphase",
+  "version": "2.4.4",
+  "summary": "Library to control enphase envoy",
+  "author": "pyenphase",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyenphase-2.4.4.tar.gz",
+  "download_time": "2026-02-05T14:05:24.691417",
+  "package_url": "https://pypi.org/project/pyenphase/"
+}

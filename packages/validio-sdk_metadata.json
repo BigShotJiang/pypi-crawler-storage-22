@@ -1,0 +1,11 @@
+{
+  "name": "validio-sdk",
+  "version": "7.5.0",
+  "summary": "SDK to interact with the Validio platform",
+  "author": "Validio",
+  "license": "Apache-2.0",
+  "home_page": "https://validio.io/",
+  "download_filename": "validio_sdk-7.5.0.tar.gz",
+  "download_time": "2026-02-05T14:05:17.338434",
+  "package_url": "https://pypi.org/project/validio-sdk/"
+}

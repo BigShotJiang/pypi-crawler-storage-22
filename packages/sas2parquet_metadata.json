@@ -1,11 +1,11 @@
 {
   "name": "sas2parquet",
-  "version": "0.1.2",
+  "version": "0.1.9",
   "summary": "SAS → Parquet Hybrid Converter & Validator",
   "author": "Zaman Ziabakhshganji",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "sas2parquet-0.1.2.tar.gz",
-  "download_time": "2026-02-05T11:52:38.712574",
+  "download_filename": "sas2parquet-0.1.9.tar.gz",
+  "download_time": "2026-02-05T14:05:10.990734",
   "package_url": "https://pypi.org/project/sas2parquet/"
 }

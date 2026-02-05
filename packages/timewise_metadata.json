@@ -1,0 +1,11 @@
+{
+  "name": "timewise",
+  "version": "0.5.4",
+  "summary": "A small package to download infrared data from the WISE satellite",
+  "author": "Jannis Necker",
+  "license": "MIT",
+  "home_page": "https://github.com/JannisNe/timewise",
+  "download_filename": "timewise-0.5.4.tar.gz",
+  "download_time": "2026-02-05T14:05:33.075656",
+  "package_url": "https://pypi.org/project/timewise/"
+}

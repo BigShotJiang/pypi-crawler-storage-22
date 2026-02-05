@@ -1,0 +1,11 @@
+{
+  "name": "edx-games",
+  "version": "1.0.11",
+  "summary": "Interactive games XBlock for Open edX - Create flashcards and matching games with image support",
+  "author": "edX",
+  "license": "AGPL v3",
+  "home_page": "https://github.com/edx/gamesxblock",
+  "download_filename": "edx_games-1.0.11.tar.gz",
+  "download_time": "2026-02-05T14:05:43.667617",
+  "package_url": "https://pypi.org/project/edx-games/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pdemtools",
+  "version": "1.2.2",
+  "summary": "Conveniently search, download, and preprocess ArcticDEM and REMA products.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdemtools-1.2.2.tar.gz",
+  "download_time": "2026-02-05T14:05:54.710004",
+  "package_url": "https://pypi.org/project/pdemtools/"
+}

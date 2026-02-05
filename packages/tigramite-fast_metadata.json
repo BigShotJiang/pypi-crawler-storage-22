@@ -1,0 +1,11 @@
+{
+  "name": "tigramite-fast",
+  "version": "5.2.10.1",
+  "summary": "Tigramite causal inference for time series",
+  "author": "Jakob Runge",
+  "license": "GNU General Public License v3.0",
+  "home_page": "https://github.com/jakobrunge/tigramite/",
+  "download_filename": "tigramite_fast-5.2.10.1.tar.gz",
+  "download_time": "2026-02-05T14:05:30.949473",
+  "package_url": "https://pypi.org/project/tigramite-fast/"
+}
