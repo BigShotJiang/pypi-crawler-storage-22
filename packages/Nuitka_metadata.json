@@ -1,0 +1,11 @@
+{
+  "name": "Nuitka",
+  "version": "4.0",
+  "summary": "Python compiler with full language support and CPython compatibility",
+  "author": "Kay Hayen",
+  "license": "GNU Affero General Public License v3",
+  "home_page": "https://nuitka.net",
+  "download_filename": "nuitka-4.0.tar.gz",
+  "download_time": "2026-02-05T21:03:07.314503",
+  "package_url": "https://pypi.org/project/Nuitka/"
+}

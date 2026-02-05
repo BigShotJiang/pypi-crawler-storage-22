@@ -1,11 +1,11 @@
 {
   "name": "AbhiCalls",
-  "version": "2026.2.2",
+  "version": "2026.2.4",
   "summary": "Telegram Voice Chat Music Engine with Queue, Loop, ETA and Player controls",
   "author": "Abhishek Thakur",
   "license": "MIT",
   "home_page": "https://github.com/YouTubeMusicAPI/TgCall",
-  "download_filename": "abhicalls-2026.2.2.tar.gz",
-  "download_time": "2026-02-02T14:40:00.204468",
+  "download_filename": "abhicalls-2026.2.4.tar.gz",
+  "download_time": "2026-02-05T21:03:21.865958",
   "package_url": "https://pypi.org/project/AbhiCalls/"
 }

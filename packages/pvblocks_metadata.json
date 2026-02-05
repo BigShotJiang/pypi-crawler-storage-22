@@ -1,0 +1,11 @@
+{
+  "name": "pvblocks",
+  "version": "0.1.8",
+  "summary": "Python package to directly control pvblocks modules",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pvblocks-0.1.8.tar.gz",
+  "download_time": "2026-02-05T21:02:45.859958",
+  "package_url": "https://pypi.org/project/pvblocks/"
+}

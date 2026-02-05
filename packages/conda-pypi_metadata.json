@@ -1,0 +1,11 @@
+{
+  "name": "conda-pypi",
+  "version": "0.4.0",
+  "summary": "Better PyPI interoperability for the conda ecosystem.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conda_pypi-0.4.0.tar.gz",
+  "download_time": "2026-02-05T21:03:00.253772",
+  "package_url": "https://pypi.org/project/conda-pypi/"
+}

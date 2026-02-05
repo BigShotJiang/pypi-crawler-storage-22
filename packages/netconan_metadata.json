@@ -1,0 +1,11 @@
+{
+  "name": "netconan",
+  "version": "0.15.0",
+  "summary": "Netconan network configuration anonymization utilities",
+  "author": "Intentionet",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/intentionet/netconan",
+  "download_filename": "netconan-0.15.0.tar.gz",
+  "download_time": "2026-02-05T21:03:28.560579",
+  "package_url": "https://pypi.org/project/netconan/"
+}

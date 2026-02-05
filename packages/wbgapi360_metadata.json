@@ -1,11 +1,11 @@
 {
   "name": "wbgapi360",
-  "version": "0.2.8",
-  "summary": "Enterprise-grade Async Python Client for World Bank Data360 API",
-  "author": "Maykol Medrano",
+  "version": "0.3.0",
+  "summary": "Enterprise-grade World Bank Data Client for Humans & AI (MCP)",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wbgapi360-0.2.8.tar.gz",
-  "download_time": "2026-02-05T18:33:58.746705",
+  "download_filename": "wbgapi360-0.3.0.tar.gz",
+  "download_time": "2026-02-05T21:03:36.766596",
   "package_url": "https://pypi.org/project/wbgapi360/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "davext",
+  "version": "0.15.0",
+  "summary": "base module for the DAVE debugger extension",
+  "author": "maxmarsc",
+  "license": "GPLV3",
+  "home_page": "https://github.com/maxmarsc/dave",
+  "download_filename": "davext-0.15.0-py3-none-any.whl",
+  "download_time": "2026-02-05T21:03:20.790569",
+  "package_url": "https://pypi.org/project/davext/"
+}

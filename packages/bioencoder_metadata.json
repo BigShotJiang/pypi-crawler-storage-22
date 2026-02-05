@@ -1,0 +1,11 @@
+{
+  "name": "bioencoder",
+  "version": "1.0.5",
+  "summary": "A metric learning toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bioencoder-1.0.5.tar.gz",
+  "download_time": "2026-02-05T21:02:49.845463",
+  "package_url": "https://pypi.org/project/bioencoder/"
+}

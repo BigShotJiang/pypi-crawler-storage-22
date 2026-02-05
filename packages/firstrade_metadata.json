@@ -1,11 +1,11 @@
 {
   "name": "firstrade",
-  "version": "0.0.35",
+  "version": "0.0.38",
   "summary": "An unofficial API for Firstrade",
   "author": "MaxxRK",
   "license": "MIT",
   "home_page": "https://github.com/MaxxRK/firstrade-api",
-  "download_filename": "firstrade-0.0.35.tar.gz",
-  "download_time": "2026-02-03T16:06:12.696305",
+  "download_filename": "firstrade-0.0.38.tar.gz",
+  "download_time": "2026-02-05T21:03:34.128517",
   "package_url": "https://pypi.org/project/firstrade/"
 }

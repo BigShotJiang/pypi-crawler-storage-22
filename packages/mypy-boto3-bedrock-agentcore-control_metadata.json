@@ -1,11 +1,11 @@
 {
   "name": "mypy-boto3-bedrock-agentcore-control",
-  "version": "1.42.40",
-  "summary": "Type annotations for boto3 BedrockAgentCoreControl 1.42.40 service generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.43",
+  "summary": "Type annotations for boto3 BedrockAgentCoreControl 1.42.43 service generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mypy_boto3_bedrock_agentcore_control-1.42.40.tar.gz",
-  "download_time": "2026-02-02T23:38:34.956203",
+  "download_filename": "mypy_boto3_bedrock_agentcore_control-1.42.43.tar.gz",
+  "download_time": "2026-02-05T21:03:17.060988",
   "package_url": "https://pypi.org/project/mypy-boto3-bedrock-agentcore-control/"
 }
