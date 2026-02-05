@@ -1,0 +1,11 @@
+{
+  "name": "limits",
+  "version": "5.8.0",
+  "summary": "Rate limiting utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "limits-5.8.0.tar.gz",
+  "download_time": "2026-02-05T07:20:12.375167",
+  "package_url": "https://pypi.org/project/limits/"
+}

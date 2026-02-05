@@ -1,11 +1,11 @@
 {
   "name": "ezgo",
-  "version": "0.0.17",
+  "version": "0.0.23",
   "summary": "宇树Go2机器狗Python控制库",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ezgo-0.0.17.tar.gz",
-  "download_time": "2026-02-04T06:06:08.548767",
+  "download_filename": "ezgo-0.0.23.tar.gz",
+  "download_time": "2026-02-05T07:20:09.166199",
   "package_url": "https://pypi.org/project/ezgo/"
 }

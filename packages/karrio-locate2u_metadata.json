@@ -1,11 +1,11 @@
 {
   "name": "karrio-locate2u",
-  "version": "2026.1.4",
+  "version": "2026.1.5",
   "summary": "Karrio - Locate2u Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_locate2u-2026.1.4-py3-none-any.whl",
-  "download_time": "2026-01-31T06:59:29.793457",
+  "download_filename": "karrio_locate2u-2026.1.5-py3-none-any.whl",
+  "download_time": "2026-02-05T07:20:44.960914",
   "package_url": "https://pypi.org/project/karrio-locate2u/"
 }

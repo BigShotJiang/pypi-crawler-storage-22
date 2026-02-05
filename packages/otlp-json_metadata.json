@@ -1,0 +1,11 @@
+{
+  "name": "otlp-json",
+  "version": "1.0.1",
+  "summary": "🐍Lightweight OTEL span to JSON converter, no dependencies, pure Python🐍",
+  "author": null,
+  "license": "Apache License (2.0)",
+  "home_page": null,
+  "download_filename": "otlp_json-1.0.1.tar.gz",
+  "download_time": "2026-02-05T07:20:14.961663",
+  "package_url": "https://pypi.org/project/otlp-json/"
+}
