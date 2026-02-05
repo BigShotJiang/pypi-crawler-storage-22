@@ -1,11 +1,11 @@
 {
   "name": "dagster-twilio",
-  "version": "0.28.13",
+  "version": "0.28.14",
   "summary": "A Dagster integration for twilio",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-twilio",
-  "download_filename": "dagster_twilio-0.28.13.tar.gz",
-  "download_time": "2026-02-05T17:37:44.875738",
+  "download_filename": "dagster_twilio-0.28.14.tar.gz",
+  "download_time": "2026-02-05T21:41:23.801140",
   "package_url": "https://pypi.org/project/dagster-twilio/"
 }

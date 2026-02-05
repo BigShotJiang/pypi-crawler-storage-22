@@ -1,0 +1,11 @@
+{
+  "name": "rapyer",
+  "version": "1.2.1",
+  "summary": "Pydantic models with Redis as the backend",
+  "author": "YedidyaHKfir",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rapyer-1.2.1.tar.gz",
+  "download_time": "2026-02-05T21:41:09.239154",
+  "package_url": "https://pypi.org/project/rapyer/"
+}

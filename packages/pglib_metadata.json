@@ -1,0 +1,11 @@
+{
+  "name": "pglib",
+  "version": "5.13.0",
+  "summary": "A PostgreSQL interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pglib-5.13.0.tar.gz",
+  "download_time": "2026-02-05T21:40:40.180493",
+  "package_url": "https://pypi.org/project/pglib/"
+}

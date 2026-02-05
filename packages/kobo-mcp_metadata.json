@@ -1,0 +1,11 @@
+{
+  "name": "kobo-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for KoboToolbox - deploy surveys and fetch submissions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kobo_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-05T21:40:43.821077",
+  "package_url": "https://pypi.org/project/kobo-mcp/"
+}

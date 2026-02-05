@@ -1,11 +1,11 @@
 {
   "name": "dagster-tableau",
-  "version": "0.28.13",
+  "version": "0.28.14",
   "summary": "Build assets representing Tableau workbooks and sheets.",
   "author": "Dagster Labs",
   "license": "Apache-2.0",
   "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-tableau",
-  "download_filename": "dagster_tableau-0.28.13.tar.gz",
-  "download_time": "2026-02-05T17:37:54.030122",
+  "download_filename": "dagster_tableau-0.28.14.tar.gz",
+  "download_time": "2026-02-05T21:41:20.684054",
   "package_url": "https://pypi.org/project/dagster-tableau/"
 }

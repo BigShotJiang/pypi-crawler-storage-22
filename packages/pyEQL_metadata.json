@@ -1,0 +1,11 @@
+{
+  "name": "pyEQL",
+  "version": "1.3.2",
+  "summary": "A python interface for solution chemistry",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyeql-1.3.2.tar.gz",
+  "download_time": "2026-02-05T21:40:42.270225",
+  "package_url": "https://pypi.org/project/pyEQL/"
+}

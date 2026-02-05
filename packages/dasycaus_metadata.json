@@ -1,0 +1,11 @@
+{
+  "name": "dasycaus",
+  "version": "1.0.0",
+  "summary": "Dynamic Asymmetric Causality Tests for Time Series Analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dasycaus-1.0.0.tar.gz",
+  "download_time": "2026-02-05T21:40:38.112820",
+  "package_url": "https://pypi.org/project/dasycaus/"
+}
