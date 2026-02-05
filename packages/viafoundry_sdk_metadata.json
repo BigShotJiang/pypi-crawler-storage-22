@@ -1,0 +1,11 @@
+{
+  "name": "viafoundry_sdk",
+  "version": "1.0.26",
+  "summary": "A Python SDK and CLI tool for interacting with ViaFoundry APIs.",
+  "author": "Alper Kucukural",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "viafoundry_sdk-1.0.26.tar.gz",
+  "download_time": "2026-02-05T19:29:13.368375",
+  "package_url": "https://pypi.org/project/viafoundry_sdk/"
+}

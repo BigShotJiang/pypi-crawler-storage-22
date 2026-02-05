@@ -1,0 +1,11 @@
+{
+  "name": "container-source-policy",
+  "version": "0.5.2",
+  "summary": "Generate Buildx container source policy file for a given Dockerfile",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "container_source_policy-0.5.2-py3-none-macosx_10_15_x86_64.whl",
+  "download_time": "2026-02-05T19:29:31.926311",
+  "package_url": "https://pypi.org/project/container-source-policy/"
+}

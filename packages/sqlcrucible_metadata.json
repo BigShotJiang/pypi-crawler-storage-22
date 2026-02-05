@@ -1,11 +1,11 @@
 {
   "name": "sqlcrucible",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlcrucible-0.2.1.tar.gz",
-  "download_time": "2026-02-05T11:04:04.209712",
+  "download_filename": "sqlcrucible-0.2.3.tar.gz",
+  "download_time": "2026-02-05T19:29:46.327752",
   "package_url": "https://pypi.org/project/sqlcrucible/"
 }

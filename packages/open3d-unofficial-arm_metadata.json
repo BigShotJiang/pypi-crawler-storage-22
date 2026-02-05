@@ -1,0 +1,11 @@
+{
+  "name": "open3d-unofficial-arm",
+  "version": "0.19.0.post1",
+  "summary": "Universal Open3D installer: ARM wheels + fallback to official package",
+  "author": "Community Contributor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "open3d_unofficial_arm-0.19.0.post1.tar.gz",
+  "download_time": "2026-02-05T19:29:31.366949",
+  "package_url": "https://pypi.org/project/open3d-unofficial-arm/"
+}

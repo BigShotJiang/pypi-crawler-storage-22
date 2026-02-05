@@ -1,0 +1,11 @@
+{
+  "name": "ai-energymeter",
+  "version": "2.0.2",
+  "summary": "A library to measure energy consumption of applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_energymeter-2.0.2.tar.gz",
+  "download_time": "2026-02-05T19:29:33.009651",
+  "package_url": "https://pypi.org/project/ai-energymeter/"
+}

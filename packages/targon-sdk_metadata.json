@@ -1,0 +1,11 @@
+{
+  "name": "targon-sdk",
+  "version": "0.3.1",
+  "summary": "Targon SDK to interact with Targon rentals and serverless",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "targon_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-05T19:29:19.609808",
+  "package_url": "https://pypi.org/project/targon-sdk/"
+}

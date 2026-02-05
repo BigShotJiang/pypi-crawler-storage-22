@@ -1,11 +1,11 @@
 {
   "name": "nothx",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Smart enough to say no.",
   "author": "nothx contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "nothx-0.1.2.tar.gz",
-  "download_time": "2026-02-01T21:19:58.102975",
+  "download_filename": "nothx-0.1.3.tar.gz",
+  "download_time": "2026-02-05T19:29:15.508893",
   "package_url": "https://pypi.org/project/nothx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tracewave",
+  "version": "0.1.0",
+  "summary": "TraceWave video tracking pipeline using SAM2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tracewave-0.1.0.tar.gz",
+  "download_time": "2026-02-05T19:29:18.073753",
+  "package_url": "https://pypi.org/project/tracewave/"
+}

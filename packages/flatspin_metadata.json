@@ -1,0 +1,11 @@
+{
+  "name": "flatspin",
+  "version": "2.6",
+  "summary": "Artificial Spin Ice simulator",
+  "author": "Johannes H. Jensen",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://flatspin.gitlab.io/",
+  "download_filename": "flatspin-2.6.tar.gz",
+  "download_time": "2026-02-05T19:29:12.856634",
+  "package_url": "https://pypi.org/project/flatspin/"
+}
