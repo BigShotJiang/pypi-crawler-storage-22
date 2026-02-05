@@ -1,0 +1,11 @@
+{
+  "name": "sphinxnotes-data",
+  "version": "1.0a37",
+  "summary": "Use reStructuredText/markdown to define, constrain, render, and analyze data in Sphinx documentations",
+  "author": "Shengyu Zhang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxnotes_data-1.0a37.tar.gz",
+  "download_time": "2026-02-05T18:34:08.693622",
+  "package_url": "https://pypi.org/project/sphinxnotes-data/"
+}

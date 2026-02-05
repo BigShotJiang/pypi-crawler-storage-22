@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-google-drive",
-  "version": "0.1.57",
+  "version": "0.1.58",
   "summary": "Airbyte Google-Drive Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_google_drive-0.1.57.tar.gz",
-  "download_time": "2026-02-05T05:19:33.970784",
+  "download_filename": "airbyte_agent_google_drive-0.1.58.tar.gz",
+  "download_time": "2026-02-05T18:33:30.772333",
   "package_url": "https://pypi.org/project/airbyte-agent-google-drive/"
 }

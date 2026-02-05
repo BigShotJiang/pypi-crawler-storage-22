@@ -1,0 +1,11 @@
+{
+  "name": "SiPANN",
+  "version": "2.0.2",
+  "summary": "Artifical Neural Networks for use with Silicon Photonics",
+  "author": "Easton Potokar, Alec Hammond, R Scott Collings",
+  "license": null,
+  "home_page": "https://github.com/contagon/SiPANN",
+  "download_filename": "sipann-2.0.2.tar.gz",
+  "download_time": "2026-02-05T18:34:05.070448",
+  "package_url": "https://pypi.org/project/SiPANN/"
+}

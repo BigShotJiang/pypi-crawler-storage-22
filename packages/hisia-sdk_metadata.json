@@ -1,0 +1,11 @@
+{
+  "name": "hisia-sdk",
+  "version": "1.0.1",
+  "summary": "Hisia Climate Intelligence SDK - Earth observation APIs for Africa",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hisia_sdk-1.0.1.tar.gz",
+  "download_time": "2026-02-05T18:34:11.858043",
+  "package_url": "https://pypi.org/project/hisia-sdk/"
+}
