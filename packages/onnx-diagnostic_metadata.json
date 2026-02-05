@@ -1,0 +1,11 @@
+{
+  "name": "onnx-diagnostic",
+  "version": "0.9.0",
+  "summary": "Tools to help converting pytorch models into ONNX.",
+  "author": "Xavier Dupré",
+  "license": "MIT",
+  "home_page": "https://github.com/sdpython/onnx-diagnostic",
+  "download_filename": "onnx_diagnostic-0.9.0-py3-none-any.whl",
+  "download_time": "2026-02-05T15:04:13.230759",
+  "package_url": "https://pypi.org/project/onnx-diagnostic/"
+}

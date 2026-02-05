@@ -1,0 +1,11 @@
+{
+  "name": "gss-bi-udfs",
+  "version": "0.1.2",
+  "summary": "Utilidades reutilizables para Spark y Delta Lake en arquitecturas Lakehouse.",
+  "author": "Geronimo Forconi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gss_bi_udfs-0.1.2.tar.gz",
+  "download_time": "2026-02-05T15:04:31.169988",
+  "package_url": "https://pypi.org/project/gss-bi-udfs/"
+}

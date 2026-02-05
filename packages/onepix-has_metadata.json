@@ -1,0 +1,11 @@
+{
+  "name": "onepix-has",
+  "version": "0.1.1",
+  "summary": "Homogeneous Area Scanning (HAS) imaging method for ONE-PIX",
+  "author": "M. Ribes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "onepix_has-0.1.1.tar.gz",
+  "download_time": "2026-02-05T15:04:55.330642",
+  "package_url": "https://pypi.org/project/onepix-has/"
+}

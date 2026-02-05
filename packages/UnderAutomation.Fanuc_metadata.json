@@ -1,11 +1,11 @@
 {
   "name": "UnderAutomation.Fanuc",
-  "version": "4.1.0.0",
+  "version": "4.2.0.0",
   "summary": "Quickly create applications that communicate with your Fanuc robots",
   "author": "UnderAutomation",
   "license": null,
   "home_page": "https://underautomation.com/fanuc",
-  "download_filename": "underautomation_fanuc-4.1.0.0.tar.gz",
-  "download_time": "2026-02-03T10:26:53.319860",
+  "download_filename": "underautomation_fanuc-4.2.0.0.tar.gz",
+  "download_time": "2026-02-05T15:04:20.627879",
   "package_url": "https://pypi.org/project/UnderAutomation.Fanuc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hatch-django-collectstatic",
+  "version": "0.0.2",
+  "summary": "Build, collect and distribute django static files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_django_collectstatic-0.0.2.tar.gz",
+  "download_time": "2026-02-05T15:04:14.272222",
+  "package_url": "https://pypi.org/project/hatch-django-collectstatic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zhconv-rs",
+  "version": "0.4.1",
+  "summary": "zhconv as in MediaWiki, 🦀oxidized for more efficiency",
+  "author": "Hung-I Wang <whygowe@gmail.com>",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "zhconv_rs-0.4.1.tar.gz",
+  "download_time": "2026-02-05T15:04:59.701563",
+  "package_url": "https://pypi.org/project/zhconv-rs/"
+}

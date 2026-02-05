@@ -1,0 +1,11 @@
+{
+  "name": "datupapi",
+  "version": "1.115.1",
+  "summary": "Utility library to support Datup AI MLOps processes",
+  "author": "Datup AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datupapi-1.115.1.tar.gz",
+  "download_time": "2026-02-05T15:04:52.713844",
+  "package_url": "https://pypi.org/project/datupapi/"
+}

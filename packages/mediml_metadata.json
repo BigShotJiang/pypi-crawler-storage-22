@@ -1,0 +1,11 @@
+{
+  "name": "mediml",
+  "version": "0.9.10",
+  "summary": "MEDiml is a Python package for processing and extracting features from medical images",
+  "author": "MEDomics Consortium",
+  "license": "GPL-3.0",
+  "home_page": "https://mediml.app/",
+  "download_filename": "mediml-0.9.10.tar.gz",
+  "download_time": "2026-02-05T15:04:38.044811",
+  "package_url": "https://pypi.org/project/mediml/"
+}

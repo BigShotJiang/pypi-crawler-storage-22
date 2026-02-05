@@ -1,11 +1,11 @@
 {
   "name": "dinkleberg",
-  "version": "0.3.3",
+  "version": "0.3.6",
   "summary": "Your friendly neighbour when it comes to dependency management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dinkleberg-0.3.3-py3-none-any.whl",
-  "download_time": "2026-02-05T07:20:19.143563",
+  "download_filename": "dinkleberg-0.3.6-py3-none-any.whl",
+  "download_time": "2026-02-05T15:04:18.531519",
   "package_url": "https://pypi.org/project/dinkleberg/"
 }

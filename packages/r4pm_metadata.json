@@ -1,11 +1,11 @@
 {
   "name": "r4pm",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Rust-based Process Mining",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "r4pm-0.4.2.tar.gz",
-  "download_time": "2026-02-05T11:52:51.474545",
+  "download_filename": "r4pm-0.4.4.tar.gz",
+  "download_time": "2026-02-05T15:04:42.782827",
   "package_url": "https://pypi.org/project/r4pm/"
 }

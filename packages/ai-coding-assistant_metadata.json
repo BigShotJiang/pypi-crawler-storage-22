@@ -1,0 +1,11 @@
+{
+  "name": "ai-coding-assistant",
+  "version": "0.5.0",
+  "summary": "AI-powered coding assistant with semantic search, intelligent refactoring, and interactive chat",
+  "author": "Shreyyyas22",
+  "license": "MIT",
+  "home_page": "https://github.com/Shreyyyas22/ai-coding-assistant",
+  "download_filename": "ai_coding_assistant-0.5.0.tar.gz",
+  "download_time": "2026-02-05T15:04:35.381983",
+  "package_url": "https://pypi.org/project/ai-coding-assistant/"
+}

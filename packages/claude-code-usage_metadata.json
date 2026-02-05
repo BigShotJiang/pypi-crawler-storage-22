@@ -1,0 +1,11 @@
+{
+  "name": "claude-code-usage",
+  "version": "2.0.0",
+  "summary": "Cross-platform system tray monitor for Claude Code token usage",
+  "author": "Max",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claude_code_usage-2.0.0.tar.gz",
+  "download_time": "2026-02-05T15:04:51.146514",
+  "package_url": "https://pypi.org/project/claude-code-usage/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aix",
+  "version": "0.0.25",
+  "summary": "Artificial Intelligence eXtensions",
+  "author": "Thor Whalen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/thorwhalen/aix",
+  "download_filename": "aix-0.0.25.tar.gz",
+  "download_time": "2026-02-05T15:04:11.037375",
+  "package_url": "https://pypi.org/project/aix/"
+}

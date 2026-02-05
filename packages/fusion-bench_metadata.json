@@ -1,0 +1,11 @@
+{
+  "name": "fusion-bench",
+  "version": "0.2.32",
+  "summary": "A Comprehensive Benchmark of Deep Model Fusion",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fusion_bench-0.2.32.tar.gz",
+  "download_time": "2026-02-05T15:04:32.227615",
+  "package_url": "https://pypi.org/project/fusion-bench/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "docid",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Deterministyczny generator identyfikatorów dokumentów z OCR",
   "author": "Softreck",
   "license": "MIT",
   "home_page": "https://github.com/softreck/docid",
-  "download_filename": "docid-0.1.4.tar.gz",
-  "download_time": "2026-02-05T14:05:29.900189",
+  "download_filename": "docid-0.1.6.tar.gz",
+  "download_time": "2026-02-05T15:04:41.194394",
   "package_url": "https://pypi.org/project/docid/"
 }
