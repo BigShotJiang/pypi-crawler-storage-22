@@ -1,0 +1,11 @@
+{
+  "name": "metex",
+  "version": "1.2.1",
+  "summary": "Maximum Entropy Textures",
+  "author": "Eugenio Piasini",
+  "license": "GPLv3+",
+  "home_page": "https://gitlab.com/epiasini/metex",
+  "download_filename": "metex-1.2.1.tar.gz",
+  "download_time": "2026-02-05T22:36:18.228452",
+  "package_url": "https://pypi.org/project/metex/"
+}

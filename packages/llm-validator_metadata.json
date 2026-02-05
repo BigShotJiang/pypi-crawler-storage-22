@@ -1,11 +1,11 @@
 {
   "name": "llm-validator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-powered linting tool for code quality and validation",
   "author": "Arush Kali",
   "license": "MIT",
   "home_page": "https://github.com/SoulSniper-V2/lintai",
-  "download_filename": "llm_validator-0.1.0.tar.gz",
-  "download_time": "2026-02-05T21:02:59.682564",
+  "download_filename": "llm_validator-0.1.1.tar.gz",
+  "download_time": "2026-02-05T22:36:14.016787",
   "package_url": "https://pypi.org/project/llm-validator/"
 }

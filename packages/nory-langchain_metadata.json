@@ -1,0 +1,11 @@
+{
+  "name": "nory-langchain",
+  "version": "0.1.0",
+  "summary": "LangChain tools for x402 payments - Give AI agents the ability to pay",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nory_langchain-0.1.0.tar.gz",
+  "download_time": "2026-02-05T22:35:42.854942",
+  "package_url": "https://pypi.org/project/nory-langchain/"
+}

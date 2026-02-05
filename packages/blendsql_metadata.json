@@ -1,0 +1,11 @@
+{
+  "name": "blendsql",
+  "version": "0.1.10",
+  "summary": "Query language for blending SQL and LLMs across structured + unstructured data, with type constraints. ",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "blendsql-0.1.10.tar.gz",
+  "download_time": "2026-02-05T22:35:40.758908",
+  "package_url": "https://pypi.org/project/blendsql/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ribodetector",
+  "version": "0.3.3",
+  "summary": "Accurate and rapid RiboRNA sequences Detector based on deep learning.",
+  "author": "Z-L Deng",
+  "license": "GPL-3 License",
+  "home_page": "https://github.com/hzi-bifo/RiboDetector",
+  "download_filename": "ribodetector-0.3.3.tar.gz",
+  "download_time": "2026-02-05T22:36:02.447300",
+  "package_url": "https://pypi.org/project/ribodetector/"
+}

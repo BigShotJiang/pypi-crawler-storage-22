@@ -1,0 +1,11 @@
+{
+  "name": "taxforge",
+  "version": "0.9.1",
+  "summary": "AI-powered tax preparation assistant",
+  "author": "TaxForge Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taxforge-0.9.1.tar.gz",
+  "download_time": "2026-02-05T22:35:43.374421",
+  "package_url": "https://pypi.org/project/taxforge/"
+}

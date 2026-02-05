@@ -1,0 +1,11 @@
+{
+  "name": "fragment-py",
+  "version": "0.3.0",
+  "summary": "The official Python library for the fragment API",
+  "author": "Fragment",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fragment_py-0.3.0.tar.gz",
+  "download_time": "2026-02-05T22:35:59.819908",
+  "package_url": "https://pypi.org/project/fragment-py/"
+}

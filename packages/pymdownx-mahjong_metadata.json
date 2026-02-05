@@ -1,11 +1,11 @@
 {
   "name": "pymdownx-mahjong",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "Python Markdown extension to render and stylize Mahjong tiles.",
   "author": "Tyler Nguyen",
   "license": null,
   "home_page": null,
-  "download_filename": "pymdownx_mahjong-1.2.4.tar.gz",
-  "download_time": "2026-02-05T20:31:49.858899",
+  "download_filename": "pymdownx_mahjong-1.2.5.tar.gz",
+  "download_time": "2026-02-05T22:36:22.522687",
   "package_url": "https://pypi.org/project/pymdownx-mahjong/"
 }

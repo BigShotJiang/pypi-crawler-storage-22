@@ -1,0 +1,11 @@
+{
+  "name": "yanex",
+  "version": "0.5.0",
+  "summary": "Yet Another Experiment Tracker - A lightweight experiment tracking harness",
+  "author": "Thomas",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yanex-0.5.0.tar.gz",
+  "download_time": "2026-02-05T22:36:17.705557",
+  "package_url": "https://pypi.org/project/yanex/"
+}

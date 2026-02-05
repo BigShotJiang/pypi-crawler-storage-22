@@ -1,0 +1,11 @@
+{
+  "name": "DipsScripting",
+  "version": "9.2.0",
+  "summary": "Client library for interacting with Dips through python",
+  "author": "Rocscience",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dipsscripting-9.2.0.tar.gz",
+  "download_time": "2026-02-05T22:36:15.090186",
+  "package_url": "https://pypi.org/project/DipsScripting/"
+}
