@@ -1,11 +1,11 @@
 {
   "name": "ct",
-  "version": "0.10.8.118",
+  "version": "0.10.8.119",
   "summary": "Modern minimal web framework",
   "author": "Mario Balibrera",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "ct-0.10.8.118-py3-none-any.whl",
-  "download_time": "2026-02-03T22:58:39.262557",
+  "download_filename": "ct-0.10.8.119-py3-none-any.whl",
+  "download_time": "2026-02-05T23:04:09.015587",
   "package_url": "https://pypi.org/project/ct/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pulumi-xyz",
-  "version": "1.1.370",
+  "version": "1.1.371",
   "summary": "A Pulumi package for creating and managing xyz cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_xyz-1.1.370.tar.gz",
-  "download_time": "2026-02-03T22:27:27.756743",
+  "download_filename": "pulumi_xyz-1.1.371.tar.gz",
+  "download_time": "2026-02-05T23:04:39.192961",
   "package_url": "https://pypi.org/project/pulumi-xyz/"
 }

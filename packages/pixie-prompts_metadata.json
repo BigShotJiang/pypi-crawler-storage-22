@@ -1,11 +1,11 @@
 {
   "name": "pixie-prompts",
-  "version": "0.1.9",
+  "version": "0.1.12",
   "summary": "Code-first, type-safe prompt management",
   "author": "Yiou Li",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pixie_prompts-0.1.9.tar.gz",
-  "download_time": "2026-01-29T11:18:41.409527",
+  "download_filename": "pixie_prompts-0.1.12.tar.gz",
+  "download_time": "2026-02-05T23:04:25.430624",
   "package_url": "https://pypi.org/project/pixie-prompts/"
 }

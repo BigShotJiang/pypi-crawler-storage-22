@@ -1,11 +1,11 @@
 {
   "name": "sari",
-  "version": "0.3.10",
+  "version": "0.3.11",
   "summary": "Sari - Local Search MCP Server",
   "author": "Horadric",
   "license": null,
   "home_page": null,
-  "download_filename": "sari-0.3.10.tar.gz",
-  "download_time": "2026-02-05T22:35:59.297176",
+  "download_filename": "sari-0.3.11.tar.gz",
+  "download_time": "2026-02-05T23:04:38.668175",
   "package_url": "https://pypi.org/project/sari/"
 }

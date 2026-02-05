@@ -1,0 +1,11 @@
+{
+  "name": "latch-postgres",
+  "version": "0.2.1",
+  "summary": "Postges wrapper for latch python backend services",
+  "author": null,
+  "license": "CC0-1.0",
+  "home_page": null,
+  "download_filename": "latch_postgres-0.2.1.tar.gz",
+  "download_time": "2026-02-05T23:04:21.219962",
+  "package_url": "https://pypi.org/project/latch-postgres/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "chemrecon",
+  "version": "0.1.1",
+  "summary": "The ChemRecon library for integration and exploration of interconnected biochemical databases.",
+  "author": "Casper Asbjørn Eriksen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chemrecon-0.1.1.tar.gz",
+  "download_time": "2026-02-05T23:04:52.921074",
+  "package_url": "https://pypi.org/project/chemrecon/"
+}

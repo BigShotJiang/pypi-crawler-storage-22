@@ -1,11 +1,11 @@
 {
   "name": "spadix-cli",
-  "version": "0.7.5",
+  "version": "0.7.6",
   "summary": "A friendly wrapper for colcon",
   "author": "Serge Nikulin",
   "license": null,
   "home_page": "https://pronto.ai",
-  "download_filename": "spadix_cli-0.7.5.tar.gz",
-  "download_time": "2026-02-03T22:58:32.560559",
+  "download_filename": "spadix_cli-0.7.6.tar.gz",
+  "download_time": "2026-02-05T23:04:19.622697",
   "package_url": "https://pypi.org/project/spadix-cli/"
 }

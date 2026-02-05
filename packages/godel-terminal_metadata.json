@@ -1,0 +1,11 @@
+{
+  "name": "godel-terminal",
+  "version": "0.0.1",
+  "summary": "Python SDK for Godel Terminal",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "godel_terminal-0.0.1.tar.gz",
+  "download_time": "2026-02-05T23:04:27.996156",
+  "package_url": "https://pypi.org/project/godel-terminal/"
+}
