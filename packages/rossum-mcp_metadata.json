@@ -1,0 +1,11 @@
+{
+  "name": "rossum-mcp",
+  "version": "1.1.1",
+  "summary": "MCP server for AI-powered Rossum orchestration: document workflows, debug pipelines automatically, and configure intelligent document processing through natural language.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rossum_mcp-1.1.1.tar.gz",
+  "download_time": "2026-02-05T09:06:06.764794",
+  "package_url": "https://pypi.org/project/rossum-mcp/"
+}

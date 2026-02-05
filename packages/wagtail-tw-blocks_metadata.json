@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-tw-blocks",
+  "version": "1.0.0",
+  "summary": "a comprehensive library of production-ready `StreamField` components and UI elements designed for Wagtail CMS.",
+  "author": "Yousef Abu Shanab",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wagtail_tw_blocks-1.0.0.tar.gz",
+  "download_time": "2026-02-05T09:05:47.166478",
+  "package_url": "https://pypi.org/project/wagtail-tw-blocks/"
+}

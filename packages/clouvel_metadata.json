@@ -1,11 +1,11 @@
 {
   "name": "clouvel",
-  "version": "3.0.2",
+  "version": "3.2.0",
   "summary": "바이브코딩 프로세스를 강제하는 MCP 서버 - PRD 없으면 코딩 없다",
   "author": "SINABRO",
   "license": null,
   "home_page": null,
-  "download_filename": "clouvel-3.0.2.tar.gz",
-  "download_time": "2026-02-01T09:30:15.413614",
+  "download_filename": "clouvel-3.2.0.tar.gz",
+  "download_time": "2026-02-05T09:05:50.260546",
   "package_url": "https://pypi.org/project/clouvel/"
 }

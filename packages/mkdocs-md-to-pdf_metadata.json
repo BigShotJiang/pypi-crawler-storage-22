@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-md-to-pdf",
+  "version": "0.1.3",
+  "summary": "Convert Markdown files to PDF using MkDocs Material theme and Playwright",
+  "author": "Lode Rosseel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocs_md_to_pdf-0.1.3.tar.gz",
+  "download_time": "2026-02-05T09:05:28.444803",
+  "package_url": "https://pypi.org/project/mkdocs-md-to-pdf/"
+}

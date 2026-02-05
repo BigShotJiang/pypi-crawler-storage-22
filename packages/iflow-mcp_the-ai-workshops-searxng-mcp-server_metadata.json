@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_the-ai-workshops-searxng-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP server to search the web using SearXNG instance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_the_ai_workshops_searxng_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-05T09:06:02.129108",
+  "package_url": "https://pypi.org/project/iflow-mcp_the-ai-workshops-searxng-mcp-server/"
+}

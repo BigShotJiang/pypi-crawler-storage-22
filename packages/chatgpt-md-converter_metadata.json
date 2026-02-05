@@ -1,0 +1,11 @@
+{
+  "name": "chatgpt-md-converter",
+  "version": "0.3.12",
+  "summary": "A package for converting markdown to HTML for chat Telegram bots",
+  "author": "Kostiantyn Kriuchkov",
+  "license": null,
+  "home_page": "https://github.com/botfather-dev/formatter-chatgpt-telegram",
+  "download_filename": "chatgpt_md_converter-0.3.12.tar.gz",
+  "download_time": "2026-02-05T09:05:39.401861",
+  "package_url": "https://pypi.org/project/chatgpt-md-converter/"
+}

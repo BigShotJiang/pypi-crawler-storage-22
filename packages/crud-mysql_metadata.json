@@ -1,0 +1,11 @@
+{
+  "name": "crud-mysql",
+  "version": "0.1.9",
+  "summary": "crud defiend by json",
+  "author": "hanna",
+  "license": null,
+  "home_page": "https://github.com/Ms-Shoshany/crud-mysql",
+  "download_filename": "crud_mysql-0.1.9.tar.gz",
+  "download_time": "2026-02-05T09:05:44.072271",
+  "package_url": "https://pypi.org/project/crud-mysql/"
+}

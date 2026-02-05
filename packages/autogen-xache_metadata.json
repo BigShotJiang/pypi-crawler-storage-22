@@ -1,0 +1,11 @@
+{
+  "name": "autogen-xache",
+  "version": "0.1.4",
+  "summary": "AutoGen integration for Xache Protocol - verifiable AI agent memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autogen_xache-0.1.4.tar.gz",
+  "download_time": "2026-02-05T09:05:41.000411",
+  "package_url": "https://pypi.org/project/autogen-xache/"
+}

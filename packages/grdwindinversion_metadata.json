@@ -1,0 +1,11 @@
+{
+  "name": "grdwindinversion",
+  "version": "1.0.2",
+  "summary": "Package to perform Wind inversion from GRD Level-1 SAR images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grdwindinversion-1.0.2.tar.gz",
+  "download_time": "2026-02-05T09:05:35.757505",
+  "package_url": "https://pypi.org/project/grdwindinversion/"
+}
