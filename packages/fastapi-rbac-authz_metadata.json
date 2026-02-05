@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-rbac-authz",
+  "version": "0.5.0",
+  "summary": "Role-based access control with contextual authorization for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_rbac_authz-0.5.0.tar.gz",
+  "download_time": "2026-02-05T06:17:12.957181",
+  "package_url": "https://pypi.org/project/fastapi-rbac-authz/"
+}

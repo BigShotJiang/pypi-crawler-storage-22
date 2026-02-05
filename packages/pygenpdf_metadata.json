@@ -1,0 +1,11 @@
+{
+  "name": "pygenpdf",
+  "version": "0.1.16",
+  "summary": "access pygenpdf_json in a pythonic way (the pygenpdf-json library is a PDF generator)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygenpdf-0.1.16.tar.gz",
+  "download_time": "2026-02-05T06:17:00.576237",
+  "package_url": "https://pypi.org/project/pygenpdf/"
+}

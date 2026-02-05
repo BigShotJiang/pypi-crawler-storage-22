@@ -1,11 +1,35 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-05T05:20:08.291329
-- **Total Packages**: 89
-- **Total Size**: 60.13 MB
+- **Download Time**: 2026-02-05T06:17:54.236604
+- **Total Packages**: 90
+- **Total Size**: 26.84 MB
 
 ## Packages List
+- pygenpdf
+- crossref-local
+- nextrec
+- unitysvc-services
+- amigo_sdk
+- gllm-core-binary
+- zipinspect
+- kimi-code
+- kimi-cli
+- kosong
+- pytest-homeassistant-custom-component
+- scitex-cloud
+- tiktok-api-unofficial
+- mldeeptool
+- nlp2mcp
+- gpubackendtools
+- judgeval
+- bun-bench
+- smart-bot-factory
+- fastapi-rbac-authz
+- hvpdb
+- pymdownx-mahjong
+- acp-agent
+- openviking
 - pygenpdf-json
 - scitex
 - swauto
@@ -53,7 +77,6 @@
 - log-collector-async
 - gl-connectors-sdk
 - codetree-mcp
-- smart-bot-factory
 - phg-vis
 - coinsignal
 - ksapi
@@ -73,25 +96,3 @@
 - zlayer-sdk
 - turbine-lib
 - cosmoglint
-- unrealon
-- cybrid-api-organization-python
-- mcal-ai-autogen
-- mcal-ai-crewai
-- keras-nlp-nightly
-- mcal-ai-langgraph
-- mcal-ai
-- cybrid-api-id-python
-- keras-hub-nightly
-- appmod-catalog-blueprints
-- cmdop
-- avrae-ls
-- anss-formats
-- dycw-pre-commit-hooks
-- winterm-mcp
-- videosdk-plugins-rnnoise-dev
-- compair-core
-- ras-commander
-- aicert
-- grib2sail
-- otlp-test-data
-- cal-docs-client

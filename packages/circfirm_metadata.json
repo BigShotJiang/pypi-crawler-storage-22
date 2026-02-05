@@ -1,11 +1,11 @@
 {
   "name": "circfirm",
-  "version": "5.0.0",
+  "version": "5.1.0",
   "summary": "CLI tool for install firmware for CircuitPython boards",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "circfirm-5.0.0.tar.gz",
-  "download_time": "2026-02-05T05:19:35.056659",
+  "download_filename": "circfirm-5.1.0.tar.gz",
+  "download_time": "2026-02-05T06:17:33.858710",
   "package_url": "https://pypi.org/project/circfirm/"
 }

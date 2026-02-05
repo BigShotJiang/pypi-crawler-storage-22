@@ -1,0 +1,11 @@
+{
+  "name": "kosong",
+  "version": "0.41.1",
+  "summary": "The LLM abstraction layer for modern AI agent applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kosong-0.41.1.tar.gz",
+  "download_time": "2026-02-05T06:17:06.327748",
+  "package_url": "https://pypi.org/project/kosong/"
+}
