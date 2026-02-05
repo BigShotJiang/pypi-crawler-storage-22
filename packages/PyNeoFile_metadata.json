@@ -1,11 +1,11 @@
 {
   "name": "PyNeoFile",
-  "version": "0.28.0",
+  "version": "0.28.2",
   "summary": "A tar like file format name NeoFile.",
   "author": "Ouka Neko-chan",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/GameMaker2k/PyNeoFile",
-  "download_filename": "pyneofile-0.28.0.tar.gz",
-  "download_time": "2026-02-03T21:10:09.445981",
+  "download_filename": "pyneofile-0.28.2.tar.gz",
+  "download_time": "2026-02-05T01:31:15.408016",
   "package_url": "https://pypi.org/project/PyNeoFile/"
 }

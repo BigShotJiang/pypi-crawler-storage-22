@@ -1,0 +1,11 @@
+{
+  "name": "cacheshrink",
+  "version": "0.1.1",
+  "summary": "KV Cache Compression via Multi-Head Latent Attention with Riemannian Optimization",
+  "author": "cacheshrink contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cacheshrink-0.1.1.tar.gz",
+  "download_time": "2026-02-05T01:31:50.905295",
+  "package_url": "https://pypi.org/project/cacheshrink/"
+}

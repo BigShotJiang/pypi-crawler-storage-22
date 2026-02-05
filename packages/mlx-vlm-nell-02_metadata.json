@@ -1,0 +1,11 @@
+{
+  "name": "mlx-vlm-nell-02",
+  "version": "0.3.11",
+  "summary": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) and Omni Models (VLMs with audio and video support) on your Mac using MLX.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_vlm_nell_02-0.3.11.tar.gz",
+  "download_time": "2026-02-05T01:31:44.600529",
+  "package_url": "https://pypi.org/project/mlx-vlm-nell-02/"
+}

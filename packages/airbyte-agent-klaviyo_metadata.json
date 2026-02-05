@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-klaviyo",
-  "version": "0.1.6",
+  "version": "0.1.12",
   "summary": "Airbyte Klaviyo Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_klaviyo-0.1.6-py3-none-any.whl",
-  "download_time": "2026-02-03T22:58:20.916678",
+  "download_filename": "airbyte_agent_klaviyo-0.1.12.tar.gz",
+  "download_time": "2026-02-05T01:31:33.518264",
   "package_url": "https://pypi.org/project/airbyte-agent-klaviyo/"
 }

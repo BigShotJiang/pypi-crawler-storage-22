@@ -1,0 +1,11 @@
+{
+  "name": "claudetube",
+  "version": "1.0.0",
+  "summary": "Let Claude watch YouTube videos - transcripts + on-demand frame extraction",
+  "author": "Daniel Barrett",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "claudetube-1.0.0.tar.gz",
+  "download_time": "2026-02-05T01:31:30.400337",
+  "package_url": "https://pypi.org/project/claudetube/"
+}

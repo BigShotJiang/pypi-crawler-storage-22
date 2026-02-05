@@ -1,0 +1,11 @@
+{
+  "name": "geomeffibem",
+  "version": "0.1.9",
+  "summary": "A small library to facilitate some building energy modeling geometry operations with OpenStudio and EnergyPlus in mind.",
+  "author": "Julien Marrec",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geomeffibem-0.1.9.tar.gz",
+  "download_time": "2026-02-05T01:31:48.771235",
+  "package_url": "https://pypi.org/project/geomeffibem/"
+}

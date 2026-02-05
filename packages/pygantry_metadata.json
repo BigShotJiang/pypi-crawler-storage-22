@@ -1,0 +1,11 @@
+{
+  "name": "pygantry",
+  "version": "1.0.0",
+  "summary": "The ultra-lightweight Docker alternative for Python developers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygantry-1.0.0.tar.gz",
+  "download_time": "2026-02-05T01:31:47.208318",
+  "package_url": "https://pypi.org/project/pygantry/"
+}

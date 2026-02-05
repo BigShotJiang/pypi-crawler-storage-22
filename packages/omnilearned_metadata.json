@@ -1,0 +1,11 @@
+{
+  "name": "omnilearned",
+  "version": "0.2.0",
+  "summary": "OmniLearned: A unified deep learning approach for particle physics",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omnilearned-0.2.0.tar.gz",
+  "download_time": "2026-02-05T01:31:07.490547",
+  "package_url": "https://pypi.org/project/omnilearned/"
+}

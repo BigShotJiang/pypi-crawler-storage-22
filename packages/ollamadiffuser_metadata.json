@@ -1,0 +1,11 @@
+{
+  "name": "ollamadiffuser",
+  "version": "2.0.3",
+  "summary": "Local AI Image Generation with Ollama-style CLI for Stable Diffusion, FLUX, and LoRA support",
+  "author": "OllamaDiffuser Team",
+  "license": "MIT",
+  "home_page": "https://github.com/ollamadiffuser/ollamadiffuser",
+  "download_filename": "ollamadiffuser-2.0.3.tar.gz",
+  "download_time": "2026-02-05T01:31:28.256843",
+  "package_url": "https://pypi.org/project/ollamadiffuser/"
+}

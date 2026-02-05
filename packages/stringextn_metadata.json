@@ -1,0 +1,11 @@
+{
+  "name": "stringextn",
+  "version": "1.0.3",
+  "summary": "Pragmatic string utilities for APIs and data cleaning",
+  "author": "Balaji Katta Venkatarathnam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stringextn-1.0.3.tar.gz",
+  "download_time": "2026-02-05T01:31:14.330421",
+  "package_url": "https://pypi.org/project/stringextn/"
+}

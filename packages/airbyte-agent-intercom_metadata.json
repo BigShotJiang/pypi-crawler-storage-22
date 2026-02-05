@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-intercom",
-  "version": "0.1.48",
+  "version": "0.1.55",
   "summary": "Airbyte Intercom Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_intercom-0.1.48.tar.gz",
-  "download_time": "2026-02-03T00:00:42.740771",
+  "download_filename": "airbyte_agent_intercom-0.1.55.tar.gz",
+  "download_time": "2026-02-05T01:31:40.383039",
   "package_url": "https://pypi.org/project/airbyte-agent-intercom/"
 }

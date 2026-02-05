@@ -1,0 +1,11 @@
+{
+  "name": "tempoeval",
+  "version": "0.1.0",
+  "summary": "A comprehensive evaluation framework for temporal IR, QA, and RAG systems",
+  "author": "TempoEval Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tempoeval-0.1.0.tar.gz",
+  "download_time": "2026-02-05T01:31:45.113346",
+  "package_url": "https://pypi.org/project/tempoeval/"
+}
