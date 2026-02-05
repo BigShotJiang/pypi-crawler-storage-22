@@ -1,0 +1,11 @@
+{
+  "name": "diff-set",
+  "version": "0.1.0",
+  "summary": "A backend-agnostic diff engine for comparing and synchronizing datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diff_set-0.1.0.tar.gz",
+  "download_time": "2026-02-05T05:19:30.889371",
+  "package_url": "https://pypi.org/project/diff-set/"
+}

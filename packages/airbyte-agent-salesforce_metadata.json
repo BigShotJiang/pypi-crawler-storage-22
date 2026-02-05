@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-salesforce",
-  "version": "0.1.78",
+  "version": "0.1.81",
   "summary": "Airbyte Salesforce Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_salesforce-0.1.78.tar.gz",
-  "download_time": "2026-02-05T01:31:34.055454",
+  "download_filename": "airbyte_agent_salesforce-0.1.81.tar.gz",
+  "download_time": "2026-02-05T05:19:32.431369",
   "package_url": "https://pypi.org/project/airbyte-agent-salesforce/"
 }

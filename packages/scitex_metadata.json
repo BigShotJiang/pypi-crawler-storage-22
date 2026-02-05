@@ -1,11 +1,11 @@
 {
   "name": "scitex",
-  "version": "2.17.3",
+  "version": "2.17.5",
   "summary": "A comprehensive Python library for scientific computing and data analysis",
   "author": null,
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "scitex-2.17.3.tar.gz",
-  "download_time": "2026-02-02T23:07:09.662852",
+  "download_filename": "scitex-2.17.5-py3-none-any.whl",
+  "download_time": "2026-02-05T05:19:19.865864",
   "package_url": "https://pypi.org/project/scitex/"
 }

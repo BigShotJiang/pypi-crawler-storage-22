@@ -1,0 +1,11 @@
+{
+  "name": "arinc429",
+  "version": "0.1.7",
+  "summary": "A library for working with ARINC 429 data",
+  "author": "Jaime Bowen Varela",
+  "license": null,
+  "home_page": "https://github.com/jaimebw/arinc429",
+  "download_filename": "arinc429-0.1.7.tar.gz",
+  "download_time": "2026-02-05T05:19:21.441179",
+  "package_url": "https://pypi.org/project/arinc429/"
+}

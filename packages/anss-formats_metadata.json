@@ -1,0 +1,11 @@
+{
+  "name": "anss-formats",
+  "version": "0.1.2",
+  "summary": "Python implementation of the library used to communicate seismic event detection information between systems",
+  "author": "John Patton",
+  "license": "CC0-1.0",
+  "home_page": "https://gitlab.com/anss-netops/anss-data-formats",
+  "download_filename": "anss_formats-0.1.2.tar.gz",
+  "download_time": "2026-02-05T05:20:02.599234",
+  "package_url": "https://pypi.org/project/anss-formats/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ras-commander",
-  "version": "0.88.7",
+  "version": "0.89.0",
   "summary": "A Python library for automating HEC-RAS 6.x operations",
   "author": "William M. Katzenmeyer, P.E., C.F.M.",
   "license": null,
   "home_page": "https://github.com/gpt-cmdr/ras-commander",
-  "download_filename": "ras_commander-0.88.7.tar.gz",
-  "download_time": "2026-02-04T17:54:29.046922",
+  "download_filename": "ras_commander-0.89.0.tar.gz",
+  "download_time": "2026-02-05T05:20:05.214849",
   "package_url": "https://pypi.org/project/ras-commander/"
 }
