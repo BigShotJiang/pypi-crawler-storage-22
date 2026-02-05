@@ -1,11 +1,11 @@
 {
   "name": "additory",
-  "version": "0.1.1a4",
-  "summary": "Data augmentation library with Rust-accelerated operations",
+  "version": "0.1.2a1",
+  "summary": "Data augmentation and transformation library with Rust-accelerated operations and comprehensive validation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "additory-0.1.1a4.tar.gz",
-  "download_time": "2026-02-04T12:02:52.038859",
+  "download_filename": "additory-0.1.2a1-py3-none-any.whl",
+  "download_time": "2026-02-05T16:48:18.414708",
   "package_url": "https://pypi.org/project/additory/"
 }

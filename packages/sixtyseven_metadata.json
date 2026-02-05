@@ -1,11 +1,11 @@
 {
   "name": "sixtyseven",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Python SDK for Sixtyseven ML experiment tracking",
   "author": "Sixtyseven Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sixtyseven-0.1.0-py3-none-macosx_10_13_universal2.whl",
-  "download_time": "2026-02-05T15:04:36.988170",
+  "download_filename": "sixtyseven-0.3.0-py3-none-macosx_10_13_universal2.whl",
+  "download_time": "2026-02-05T16:48:24.842844",
   "package_url": "https://pypi.org/project/sixtyseven/"
 }

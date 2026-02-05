@@ -1,11 +1,11 @@
 {
   "name": "python-tty",
-  "version": "0.1.6",
+  "version": "0.2.1",
   "summary": "A multi-console TTY framework for complex CLI/TTY apps",
   "author": "ROOKIEMIE",
   "license": "Apache-2.0",
   "home_page": "https://github.com/ROOKIEMIE/python-tty",
-  "download_filename": "python_tty-0.1.6.tar.gz",
-  "download_time": "2026-02-01T15:51:18.134700",
+  "download_filename": "python_tty-0.2.1.tar.gz",
+  "download_time": "2026-02-05T16:48:34.701440",
   "package_url": "https://pypi.org/project/python-tty/"
 }

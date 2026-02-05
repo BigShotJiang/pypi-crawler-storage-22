@@ -1,0 +1,11 @@
+{
+  "name": "quixlake-sdk",
+  "version": "0.2.1",
+  "summary": "Python SDK for QuixLake - Easy data querying and management",
+  "author": "QuixLake Team",
+  "license": "MIT",
+  "home_page": "https://github.com/quixlake/quixlake-sdk",
+  "download_filename": "quixlake_sdk-0.2.1-py3-none-any.whl",
+  "download_time": "2026-02-05T16:48:31.596299",
+  "package_url": "https://pypi.org/project/quixlake-sdk/"
+}

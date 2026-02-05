@@ -1,0 +1,11 @@
+{
+  "name": "effibemviewer",
+  "version": "0.2.1",
+  "summary": "A 3D viewer for OpenStudio building energy models using GLTF and Three.js",
+  "author": "Julien Marrec",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "effibemviewer-0.2.1.tar.gz",
+  "download_time": "2026-02-05T16:48:44.109964",
+  "package_url": "https://pypi.org/project/effibemviewer/"
+}

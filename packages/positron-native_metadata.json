@@ -1,11 +1,11 @@
 {
   "name": "positron-native",
-  "version": "0.1.0",
-  "summary": "Build cross-platform desktop apps with React and Python",
+  "version": "0.1.5",
+  "summary": "Build cross-platform desktop apps with Python and modern web frameworks (React, Vue, Svelte, Next.js)",
   "author": "tomlin7",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "positron_native-0.1.0.tar.gz",
-  "download_time": "2026-02-05T11:52:57.524127",
+  "download_filename": "positron_native-0.1.5.tar.gz",
+  "download_time": "2026-02-05T16:48:47.712564",
   "package_url": "https://pypi.org/project/positron-native/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xlm-core",
+  "version": "0.1.1",
+  "summary": "XLM Framework",
+  "author": "Dhruvesh Patel, Benjamin Rozonoyer, Sai Sreenivas Chintha, Durga Prasad Maram",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xlm_core-0.1.1.tar.gz",
+  "download_time": "2026-02-05T16:48:26.927441",
+  "package_url": "https://pypi.org/project/xlm-core/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "elaunira-r2index",
-  "version": "0.4.0",
+  "version": "0.6.0",
   "summary": "Python library for uploading files to R2 and registering them with the r2index API",
   "author": "Elaunira",
   "license": null,
   "home_page": null,
-  "download_filename": "elaunira_r2index-0.4.0.tar.gz",
-  "download_time": "2026-02-05T15:04:50.095074",
+  "download_filename": "elaunira_r2index-0.6.0.tar.gz",
+  "download_time": "2026-02-05T16:48:12.887375",
   "package_url": "https://pypi.org/project/elaunira-r2index/"
 }
