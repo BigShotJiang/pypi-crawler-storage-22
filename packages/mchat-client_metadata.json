@@ -1,11 +1,11 @@
 {
   "name": "mchat-client",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "MoltChat Python 客户端 SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mchat_client-0.2.2.tar.gz",
-  "download_time": "2026-02-04T17:54:27.926951",
+  "download_filename": "mchat_client-0.2.6.tar.gz",
+  "download_time": "2026-02-05T04:00:10.698003",
   "package_url": "https://pypi.org/project/mchat-client/"
 }

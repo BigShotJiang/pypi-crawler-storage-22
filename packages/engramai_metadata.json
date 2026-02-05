@@ -1,11 +1,11 @@
 {
   "name": "engramai",
-  "version": "0.3.5",
-  "summary": "Neuroscience-grounded memory for AI agents",
+  "version": "1.0.0",
+  "summary": "Neuroscience-grounded memory system for AI agents with semantic search and auto-fallback",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "engramai-0.3.5.tar.gz",
-  "download_time": "2026-02-04T03:57:26.149645",
+  "download_filename": "engramai-1.0.0.tar.gz",
+  "download_time": "2026-02-05T04:00:22.386370",
   "package_url": "https://pypi.org/project/engramai/"
 }

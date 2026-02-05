@@ -1,11 +1,11 @@
 {
   "name": "instructvault",
-  "version": "0.2.5",
+  "version": "0.3.1",
   "summary": "Git-first prompt registry + CI evals + lightweight runtime SDK (ivault).",
   "author": "InstructVault OSS Maintainers",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "instructvault-0.2.5.tar.gz",
-  "download_time": "2026-02-01T23:48:26.901640",
+  "download_filename": "instructvault-0.3.1.tar.gz",
+  "download_time": "2026-02-05T04:00:44.161131",
   "package_url": "https://pypi.org/project/instructvault/"
 }

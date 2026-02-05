@@ -1,0 +1,11 @@
+{
+  "name": "dwipe",
+  "version": "3.0.0",
+  "summary": "A tool to wipe disks and partitions for Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dwipe-3.0.0.tar.gz",
+  "download_time": "2026-02-05T04:00:07.389211",
+  "package_url": "https://pypi.org/project/dwipe/"
+}

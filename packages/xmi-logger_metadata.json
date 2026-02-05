@@ -1,0 +1,11 @@
+{
+  "name": "xmi-logger",
+  "version": "0.0.10",
+  "summary": "An enhanced logger based on Loguru",
+  "author": "gm.xmi.one",
+  "license": "MIT",
+  "home_page": "https://github.com/xmi-one/xmi_logger",
+  "download_filename": "xmi_logger-0.0.10.tar.gz",
+  "download_time": "2026-02-05T04:00:21.273245",
+  "package_url": "https://pypi.org/project/xmi-logger/"
+}

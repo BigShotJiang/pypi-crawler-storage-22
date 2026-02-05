@@ -1,0 +1,11 @@
+{
+  "name": "disposable-email-domains",
+  "version": "0.0.159",
+  "summary": "A set of disposable email domains",
+  "author": "Dustin Ingram",
+  "license": "MIT",
+  "home_page": "https://github.com/disposable-email-domains/disposable-email-domains",
+  "download_filename": "disposable_email_domains-0.0.159.tar.gz",
+  "download_time": "2026-02-05T04:00:26.729749",
+  "package_url": "https://pypi.org/project/disposable-email-domains/"
+}

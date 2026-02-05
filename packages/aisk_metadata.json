@@ -1,0 +1,11 @@
+{
+  "name": "aisk",
+  "version": "0.1.1",
+  "summary": "AI-powered terminal command assistant",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aisk-0.1.1.tar.gz",
+  "download_time": "2026-02-05T04:00:12.357466",
+  "package_url": "https://pypi.org/project/aisk/"
+}

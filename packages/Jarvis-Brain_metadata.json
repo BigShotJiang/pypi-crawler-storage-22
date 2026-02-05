@@ -1,11 +1,11 @@
 {
   "name": "Jarvis-Brain",
-  "version": "0.1.13.7",
+  "version": "0.2.1.3",
   "summary": "Jarvis brain mcp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jarvis_brain-0.1.13.7.tar.gz",
-  "download_time": "2026-02-03T06:33:27.278997",
+  "download_filename": "jarvis_brain-0.2.1.3.tar.gz",
+  "download_time": "2026-02-05T04:00:22.924188",
   "package_url": "https://pypi.org/project/Jarvis-Brain/"
 }

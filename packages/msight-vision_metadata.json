@@ -1,0 +1,11 @@
+{
+  "name": "msight-vision",
+  "version": "0.1.0",
+  "summary": "2D detection module for the MSight roadside perception system",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "msight_vision-0.1.0.tar.gz",
+  "download_time": "2026-02-05T04:00:36.707344",
+  "package_url": "https://pypi.org/project/msight-vision/"
+}

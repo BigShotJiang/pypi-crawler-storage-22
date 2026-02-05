@@ -1,11 +1,11 @@
 {
   "name": "indexdoc-converter",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "可以将Word文档(仅.docx)、Excel表格、Html网页、PPt文件 转化为Markdown文件。",
   "author": "杭州智予数信息技术有限公司",
   "license": null,
   "home_page": "https://github.com/indexdoc/indexdoc-converter.git",
-  "download_filename": "indexdoc_converter-0.2.5.tar.gz",
-  "download_time": "2026-02-04T10:10:47.209993",
+  "download_filename": "indexdoc_converter-0.2.6.tar.gz",
+  "download_time": "2026-02-05T04:00:18.057755",
   "package_url": "https://pypi.org/project/indexdoc-converter/"
 }
