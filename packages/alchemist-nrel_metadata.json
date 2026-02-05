@@ -1,0 +1,11 @@
+{
+  "name": "alchemist-nrel",
+  "version": "0.3.2",
+  "summary": "Active learning and optimization toolkit for chemical and materials research",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "alchemist_nrel-0.3.2.tar.gz",
+  "download_time": "2026-02-05T22:01:37.437036",
+  "package_url": "https://pypi.org/project/alchemist-nrel/"
+}

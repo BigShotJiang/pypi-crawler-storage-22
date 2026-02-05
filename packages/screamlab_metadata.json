@@ -1,11 +1,11 @@
 {
   "name": "screamlab",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Package for reproducible evaluation of SCREAM-DNP data.",
   "author": "Florian Taube",
   "license": "BSD",
   "home_page": "https://github.com/FlorianTaube/screamlab",
-  "download_filename": "screamlab-0.3.0.tar.gz",
-  "download_time": "2026-02-04T11:02:16.696635",
+  "download_filename": "screamlab-0.3.1.tar.gz",
+  "download_time": "2026-02-05T22:01:43.381466",
   "package_url": "https://pypi.org/project/screamlab/"
 }

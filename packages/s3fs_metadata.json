@@ -1,0 +1,11 @@
+{
+  "name": "s3fs",
+  "version": "2026.2.0",
+  "summary": "Convenient Filesystem interface over S3",
+  "author": null,
+  "license": "BSD",
+  "home_page": "http://github.com/fsspec/s3fs/",
+  "download_filename": "s3fs-2026.2.0.tar.gz",
+  "download_time": "2026-02-05T22:01:30.210544",
+  "package_url": "https://pypi.org/project/s3fs/"
+}

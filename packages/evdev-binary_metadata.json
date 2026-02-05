@@ -1,0 +1,11 @@
+{
+  "name": "evdev-binary",
+  "version": "1.9.3",
+  "summary": "Bindings to the Linux input handling subsystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "evdev_binary-1.9.3-cp310-cp310-manylinux1_x86_64.manylinux_2_28_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2026-02-05T22:01:28.640969",
+  "package_url": "https://pypi.org/project/evdev-binary/"
+}
