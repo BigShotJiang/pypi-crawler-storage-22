@@ -1,11 +1,11 @@
 {
   "name": "hdo",
-  "version": "0.0.2",
-  "summary": "Simple package",
+  "version": "0.0.5",
+  "summary": "TikTok username availability checker",
   "author": "IS71s",
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "hdo-0.0.2.tar.gz",
-  "download_time": "2026-02-05T19:29:24.938112",
+  "download_filename": "hdo-0.0.5.tar.gz",
+  "download_time": "2026-02-05T19:58:30.039806",
   "package_url": "https://pypi.org/project/hdo/"
 }

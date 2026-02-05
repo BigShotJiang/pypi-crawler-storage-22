@@ -1,11 +1,11 @@
 {
   "name": "sandboxy",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "summary": "Open-source agent simulation and benchmarking platform",
   "author": "Sandboxy Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sandboxy-0.0.5.tar.gz",
-  "download_time": "2026-02-05T15:59:13.829912",
+  "download_filename": "sandboxy-0.0.7.tar.gz",
+  "download_time": "2026-02-05T19:59:04.436149",
   "package_url": "https://pypi.org/project/sandboxy/"
 }

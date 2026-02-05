@@ -1,0 +1,11 @@
+{
+  "name": "mrnoor",
+  "version": "1.0.0",
+  "summary": "Live age calculator & social media username/stats checker",
+  "author": "Mr Noor",
+  "license": "MIT",
+  "home_page": "https://mrnoor.in",
+  "download_filename": "mrnoor-1.0.0.tar.gz",
+  "download_time": "2026-02-05T19:58:43.670569",
+  "package_url": "https://pypi.org/project/mrnoor/"
+}

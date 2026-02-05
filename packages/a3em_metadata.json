@@ -1,0 +1,11 @@
+{
+  "name": "a3em",
+  "version": "1.0.4",
+  "summary": "A3EM Management Dashboard",
+  "author": "Will Hedgecock",
+  "license": null,
+  "home_page": "https://github.com/vu-a3em/a3em-dashboard",
+  "download_filename": "a3em-1.0.4.tar.gz",
+  "download_time": "2026-02-05T19:58:25.829148",
+  "package_url": "https://pypi.org/project/a3em/"
+}
