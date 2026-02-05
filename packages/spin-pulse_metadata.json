@@ -1,0 +1,11 @@
+{
+  "name": "spin-pulse",
+  "version": "1.0.3",
+  "summary": "Quobly noise accurate simulation toolbox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spin_pulse-1.0.3.tar.gz",
+  "download_time": "2026-02-05T16:00:05.233088",
+  "package_url": "https://pypi.org/project/spin-pulse/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "libvespy",
+  "version": "0.1.0",
+  "summary": "Python implementation of various tools for handling most file formats used in Tales of Vesperia.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "libvespy-0.1.0.tar.gz",
+  "download_time": "2026-02-05T16:00:13.679436",
+  "package_url": "https://pypi.org/project/libvespy/"
+}

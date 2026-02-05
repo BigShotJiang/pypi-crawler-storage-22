@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-meta4",
+  "version": "1.0.1",
+  "summary": "Meta4 wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_meta4-1.0.1.tar.gz",
+  "download_time": "2026-02-05T15:59:49.137272",
+  "package_url": "https://pypi.org/project/brynq-sdk-meta4/"
+}

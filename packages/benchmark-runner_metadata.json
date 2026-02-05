@@ -1,0 +1,11 @@
+{
+  "name": "benchmark-runner",
+  "version": "1.0.949",
+  "summary": "Benchmark Runner Tool",
+  "author": "Red Hat",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/redhat-performance/benchmark-runner",
+  "download_filename": "benchmark_runner-1.0.949.tar.gz",
+  "download_time": "2026-02-05T15:59:37.161400",
+  "package_url": "https://pypi.org/project/benchmark-runner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "h5yaml",
+  "version": "0.3.0",
+  "summary": "Use YAML configuration file to generate HDF5/netCDF4 formated files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "h5yaml-0.3.0.tar.gz",
+  "download_time": "2026-02-05T15:59:26.971989",
+  "package_url": "https://pypi.org/project/h5yaml/"
+}

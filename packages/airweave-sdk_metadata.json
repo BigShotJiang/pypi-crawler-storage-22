@@ -1,11 +1,11 @@
 {
   "name": "airweave-sdk",
-  "version": "0.8.68",
+  "version": "0.8.70",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "airweave_sdk-0.8.68.tar.gz",
-  "download_time": "2026-02-04T23:52:17.185372",
+  "download_filename": "airweave_sdk-0.8.70.tar.gz",
+  "download_time": "2026-02-05T16:00:14.327004",
   "package_url": "https://pypi.org/project/airweave-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "4mica-x402",
+  "version": "0.1.0",
+  "summary": "Python integration for x402 Payment Protocol with 4mica credit flow",
+  "author": "4mica",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "4mica_x402-0.1.0.tar.gz",
+  "download_time": "2026-02-05T16:00:00.807202",
+  "package_url": "https://pypi.org/project/4mica-x402/"
+}

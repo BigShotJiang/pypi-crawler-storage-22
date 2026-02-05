@@ -1,0 +1,11 @@
+{
+  "name": "yesdb",
+  "version": "0.1.2",
+  "summary": "A lightweight, relational database built from scratch in Python",
+  "author": "Azhar",
+  "license": "MIT",
+  "home_page": "https://github.com/AzharAhmed-bot/yesdb",
+  "download_filename": "yesdb-0.1.2.tar.gz",
+  "download_time": "2026-02-05T16:00:14.970926",
+  "package_url": "https://pypi.org/project/yesdb/"
+}

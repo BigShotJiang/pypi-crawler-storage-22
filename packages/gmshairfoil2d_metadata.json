@@ -1,0 +1,11 @@
+{
+  "name": "gmshairfoil2d",
+  "version": "0.2.33",
+  "summary": "Python tool to generate 2D mesh around an airfoil",
+  "author": "Giacomo Benedetti",
+  "license": null,
+  "home_page": "https://github.com/cfsengineering/GMSH-Airfoil-2D",
+  "download_filename": "gmshairfoil2d-0.2.33.tar.gz",
+  "download_time": "2026-02-05T15:59:33.324778",
+  "package_url": "https://pypi.org/project/gmshairfoil2d/"
+}

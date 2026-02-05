@@ -1,0 +1,11 @@
+{
+  "name": "micropsi-integration-sdk",
+  "version": "0.26.0",
+  "summary": "Integration SDK for Micropsi Industries",
+  "author": "Micropsi Industries",
+  "license": "MIT",
+  "home_page": "https://github.com/micropsi-industries/micropsi-integration-sdk",
+  "download_filename": "micropsi_integration_sdk-0.26.0.tar.gz",
+  "download_time": "2026-02-05T15:59:21.080848",
+  "package_url": "https://pypi.org/project/micropsi-integration-sdk/"
+}

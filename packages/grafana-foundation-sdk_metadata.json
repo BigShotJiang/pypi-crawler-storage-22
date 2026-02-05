@@ -1,0 +1,11 @@
+{
+  "name": "grafana-foundation-sdk",
+  "version": "1769699998!10.1.0",
+  "summary": "A set of tools, types and libraries for building and manipulating Grafana objects.",
+  "author": "Grafana Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "grafana_foundation_sdk-1769699998!10.1.0.tar.gz",
+  "download_time": "2026-02-05T15:59:31.386551",
+  "package_url": "https://pypi.org/project/grafana-foundation-sdk/"
+}

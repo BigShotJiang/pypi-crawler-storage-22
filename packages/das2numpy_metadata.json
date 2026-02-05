@@ -1,0 +1,11 @@
+{
+  "name": "das2numpy",
+  "version": "1.1.1",
+  "summary": "A simple and universal package for loading large amounts of distributed acoustic sensing (DAS) data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "das2numpy-1.1.1.tar.gz",
+  "download_time": "2026-02-05T16:00:09.228530",
+  "package_url": "https://pypi.org/project/das2numpy/"
+}
