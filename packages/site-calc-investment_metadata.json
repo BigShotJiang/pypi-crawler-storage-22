@@ -1,11 +1,11 @@
 {
   "name": "site-calc-investment",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "summary": "Python client for Site-Calc investment planning (capacity sizing, ROI analysis)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "site_calc_investment-1.2.3.tar.gz",
-  "download_time": "2026-02-04T15:12:17.037080",
+  "download_filename": "site_calc_investment-1.2.5.tar.gz",
+  "download_time": "2026-02-05T11:52:58.616573",
   "package_url": "https://pypi.org/project/site-calc-investment/"
 }

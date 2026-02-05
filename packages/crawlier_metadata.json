@@ -1,0 +1,11 @@
+{
+  "name": "crawlier",
+  "version": "0.0.2",
+  "summary": "A modern crawling library built completely from Python",
+  "author": "Pansilu Chethiya (yoohoo-dev)",
+  "license": "MIT",
+  "home_page": "https://github.com/YooHoo-byte/Crawlier",
+  "download_filename": "crawlier-0.0.2.tar.gz",
+  "download_time": "2026-02-05T11:52:14.301982",
+  "package_url": "https://pypi.org/project/crawlier/"
+}

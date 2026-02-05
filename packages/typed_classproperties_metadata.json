@@ -1,0 +1,11 @@
+{
+  "name": "typed_classproperties",
+  "version": "1.5.0",
+  "summary": "Typed decorators for classproperty and cached_classproperty.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_classproperties-1.5.0.tar.gz",
+  "download_time": "2026-02-05T11:52:23.574637",
+  "package_url": "https://pypi.org/project/typed_classproperties/"
+}

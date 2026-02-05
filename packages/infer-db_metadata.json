@@ -1,0 +1,11 @@
+{
+  "name": "infer-db",
+  "version": "0.1.1",
+  "summary": "Auto-detect Foreign Keys and Relationships in legacy databases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "infer_db-0.1.1.tar.gz",
+  "download_time": "2026-02-05T11:52:55.338616",
+  "package_url": "https://pypi.org/project/infer-db/"
+}

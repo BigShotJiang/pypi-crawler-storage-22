@@ -1,0 +1,11 @@
+{
+  "name": "psychopy-eyetracker-tobii",
+  "version": "0.0.5",
+  "summary": "Extension package for PsychoPy which adds support for Tobii eyetrackers to ioHub.",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "psychopy_eyetracker_tobii-0.0.5.tar.gz",
+  "download_time": "2026-02-05T11:52:49.257642",
+  "package_url": "https://pypi.org/project/psychopy-eyetracker-tobii/"
+}

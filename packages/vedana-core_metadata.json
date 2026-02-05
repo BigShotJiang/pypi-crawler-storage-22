@@ -1,11 +1,11 @@
 {
   "name": "vedana-core",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Semantic Graph RAG App",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vedana_core-0.6.0.tar.gz",
-  "download_time": "2026-01-29T12:44:49.270474",
+  "download_filename": "vedana_core-0.6.2.tar.gz",
+  "download_time": "2026-02-05T11:52:40.921124",
   "package_url": "https://pypi.org/project/vedana-core/"
 }

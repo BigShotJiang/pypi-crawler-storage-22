@@ -1,0 +1,11 @@
+{
+  "name": "p2pstore",
+  "version": "0.1.12",
+  "summary": "P2P Store - High-performance distributed data transfer system built on RDMA, supports Paddle Tensor, NumPy array transfer with Redis metadata backends",
+  "author": "Paddle",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "p2pstore-0.1.12-py3-none-any.whl",
+  "download_time": "2026-02-05T11:52:13.736820",
+  "package_url": "https://pypi.org/project/p2pstore/"
+}

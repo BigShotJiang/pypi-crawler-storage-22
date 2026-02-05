@@ -1,11 +1,11 @@
 {
   "name": "unique_toolkit",
-  "version": "1.45.9",
+  "version": "1.45.10",
   "summary": null,
   "author": "Cedric Klinkert",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_toolkit-1.45.9.tar.gz",
-  "download_time": "2026-02-03T12:49:36.967602",
+  "download_filename": "unique_toolkit-1.45.10.tar.gz",
+  "download_time": "2026-02-05T11:52:49.811032",
   "package_url": "https://pypi.org/project/unique_toolkit/"
 }

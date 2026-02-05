@@ -1,0 +1,11 @@
+{
+  "name": "thingsboard-gateway",
+  "version": "3.8.2",
+  "summary": "Thingsboard Gateway for IoT devices.",
+  "author": "ThingsBoard",
+  "license": "Apache Software License (Apache Software License 2.0)",
+  "home_page": "https://github.com/thingsboard/thingsboard-gateway",
+  "download_filename": "thingsboard_gateway-3.8.2-py3-none-any.whl",
+  "download_time": "2026-02-05T11:52:44.212349",
+  "package_url": "https://pypi.org/project/thingsboard-gateway/"
+}

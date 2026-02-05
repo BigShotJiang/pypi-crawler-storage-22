@@ -1,11 +1,11 @@
 {
   "name": "direl-ts-tool-kit",
-  "version": "0.10.2",
+  "version": "0.10.4",
   "summary": "A toolbox for time series analysis and visualization.",
   "author": "Diego Restrepo-Leal",
   "license": null,
   "home_page": "https://gitlab.com/direl/direl_tool_kit",
-  "download_filename": "direl_ts_tool_kit-0.10.2.tar.gz",
-  "download_time": "2026-02-04T23:24:22.952725",
+  "download_filename": "direl_ts_tool_kit-0.10.4.tar.gz",
+  "download_time": "2026-02-05T11:52:22.440471",
   "package_url": "https://pypi.org/project/direl-ts-tool-kit/"
 }

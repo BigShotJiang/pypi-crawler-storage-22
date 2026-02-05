@@ -1,0 +1,11 @@
+{
+  "name": "pkg-ext",
+  "version": "0.3.1",
+  "summary": "Python package public API management, versioning, and changelog generation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pkg_ext-0.3.1.tar.gz",
+  "download_time": "2026-02-05T11:52:21.893477",
+  "package_url": "https://pypi.org/project/pkg-ext/"
+}
