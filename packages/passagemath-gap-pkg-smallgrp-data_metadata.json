@@ -1,11 +1,11 @@
 {
   "name": "passagemath-gap-pkg-smallgrp-data",
-  "version": "10.6.47",
+  "version": "10.6.48",
   "summary": "passagemath: Computational Group Theory with GAP: smallgrp data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_gap_pkg_smallgrp_data-10.6.47.tar.gz",
-  "download_time": "2026-01-28T18:53:33.821677",
+  "download_filename": "passagemath_gap_pkg_smallgrp_data-10.6.48.tar.gz",
+  "download_time": "2026-02-05T10:03:50.282039",
   "package_url": "https://pypi.org/project/passagemath-gap-pkg-smallgrp-data/"
 }

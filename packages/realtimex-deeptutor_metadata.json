@@ -1,11 +1,11 @@
 {
   "name": "realtimex-deeptutor",
-  "version": "0.5.0.post9",
+  "version": "0.5.0.post11",
   "summary": "RealTimeX DeepTutor - Intelligent learning companion with multi-agent collaboration and LightRAG",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "realtimex_deeptutor-0.5.0.post9.tar.gz",
-  "download_time": "2026-02-05T09:05:23.123737",
+  "download_filename": "realtimex_deeptutor-0.5.0.post11.tar.gz",
+  "download_time": "2026-02-05T10:03:11.493873",
   "package_url": "https://pypi.org/project/realtimex-deeptutor/"
 }

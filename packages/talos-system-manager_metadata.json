@@ -1,11 +1,11 @@
 {
   "name": "talos-system-manager",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Talos CLI: pip-installable launcher for talos server and UI containers. Run 'talos up' to start Docker stack.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "talos_system_manager-0.1.1.tar.gz",
-  "download_time": "2026-02-05T07:20:24.360418",
+  "download_filename": "talos_system_manager-0.1.2.tar.gz",
+  "download_time": "2026-02-05T10:03:24.081482",
   "package_url": "https://pypi.org/project/talos-system-manager/"
 }

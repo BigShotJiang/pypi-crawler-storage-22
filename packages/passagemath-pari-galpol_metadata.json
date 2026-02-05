@@ -1,11 +1,11 @@
 {
   "name": "passagemath-pari-galpol",
-  "version": "10.6.47",
+  "version": "10.6.48",
   "summary": "passagemath: Computational Number Theory with PARI/GP: Galois group data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_pari_galpol-10.6.47.tar.gz",
-  "download_time": "2026-01-28T18:53:26.497084",
+  "download_filename": "passagemath_pari_galpol-10.6.48.tar.gz",
+  "download_time": "2026-02-05T10:03:41.881534",
   "package_url": "https://pypi.org/project/passagemath-pari-galpol/"
 }

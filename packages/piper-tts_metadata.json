@@ -1,0 +1,11 @@
+{
+  "name": "piper-tts",
+  "version": "1.4.1",
+  "summary": "Fast and local neural text-to-speech engine",
+  "author": "The Home Assistant Authors",
+  "license": "GPL-3.0-or-later",
+  "home_page": "http://github.com/OHF-voice/piper1-gpl",
+  "download_filename": "piper_tts-1.4.1.tar.gz",
+  "download_time": "2026-02-05T10:03:25.670340",
+  "package_url": "https://pypi.org/project/piper-tts/"
+}

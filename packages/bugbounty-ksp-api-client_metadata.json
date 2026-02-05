@@ -1,0 +1,11 @@
+{
+  "name": "bugbounty-ksp-api-client",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for BugBountyKE-KSP platform API",
+  "author": "BugBountyKE-KSP Team -- Theoriest",
+  "license": "MIT",
+  "home_page": "https://github.com/BugBounty-MockingBird/bugbounty-ksp-api-client",
+  "download_filename": "bugbounty_ksp_api_client-1.0.0.tar.gz",
+  "download_time": "2026-02-05T10:03:33.579492",
+  "package_url": "https://pypi.org/project/bugbounty-ksp-api-client/"
+}

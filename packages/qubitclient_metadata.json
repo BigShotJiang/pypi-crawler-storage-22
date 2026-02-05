@@ -1,0 +1,11 @@
+{
+  "name": "qubitclient",
+  "version": "0.2.9",
+  "summary": "qubit analysis client",
+  "author": "Yaqiang Sun",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/yaqiangsun/QubitClient",
+  "download_filename": "qubitclient-0.2.9-py3-none-any.whl",
+  "download_time": "2026-02-05T10:03:37.747347",
+  "package_url": "https://pypi.org/project/qubitclient/"
+}
