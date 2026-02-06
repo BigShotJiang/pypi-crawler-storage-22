@@ -1,0 +1,11 @@
+{
+  "name": "google-maps-platform-sdk",
+  "version": "1.0.0",
+  "summary": "Get location data for over 200 million places, and add place details, search, and autocomplete to your apps.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_maps_platform_sdk-1.0.0.tar.gz",
+  "download_time": "2026-02-06T14:46:42.248694",
+  "package_url": "https://pypi.org/project/google-maps-platform-sdk/"
+}

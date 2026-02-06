@@ -1,0 +1,11 @@
+{
+  "name": "zndraw-socketio",
+  "version": "0.1.0",
+  "summary": "Typed wrapper for python-socketio with Pydantic validation and dependency injection.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zndraw_socketio-0.1.0.tar.gz",
+  "download_time": "2026-02-06T14:46:31.269012",
+  "package_url": "https://pypi.org/project/zndraw-socketio/"
+}

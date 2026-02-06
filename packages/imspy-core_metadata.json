@@ -1,0 +1,11 @@
+{
+  "name": "imspy-core",
+  "version": "0.4.0",
+  "summary": "Core data structures and utilities for processing timsTOF ion mobility spectrometry data.",
+  "author": "theGreatHerrLebert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "imspy_core-0.4.0.tar.gz",
+  "download_time": "2026-02-06T14:46:57.349016",
+  "package_url": "https://pypi.org/project/imspy-core/"
+}

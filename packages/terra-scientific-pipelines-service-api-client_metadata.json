@@ -1,11 +1,11 @@
 {
   "name": "terra-scientific-pipelines-service-api-client",
-  "version": "2.1.8",
+  "version": "2.1.11",
   "summary": "Terra Scientific Pipelines Service",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": null,
-  "download_filename": "terra_scientific_pipelines_service_api_client-2.1.8.tar.gz",
-  "download_time": "2026-02-03T17:15:27.578827",
+  "download_filename": "terra_scientific_pipelines_service_api_client-2.1.11.tar.gz",
+  "download_time": "2026-02-06T14:46:38.445759",
   "package_url": "https://pypi.org/project/terra-scientific-pipelines-service-api-client/"
 }

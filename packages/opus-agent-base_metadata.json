@@ -1,0 +1,11 @@
+{
+  "name": "opus-agent-base",
+  "version": "0.1.0",
+  "summary": "Base framework for Opus AI Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opus_agent_base-0.1.0.tar.gz",
+  "download_time": "2026-02-06T14:46:44.957099",
+  "package_url": "https://pypi.org/project/opus-agent-base/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tensortrade",
+  "version": "1.0.4",
+  "summary": "TensorTrade: A reinforcement learning library for training, evaluating, and deploying robust trading agents.",
+  "author": "Adam King <adamjking3@gmail.com>, Matthew Brulhardt <mwbrulhardt@gmail.com>",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/tensortrade-org/tensortrade",
+  "download_filename": "tensortrade-1.0.4-py3-none-any.whl",
+  "download_time": "2026-02-06T14:46:17.653383",
+  "package_url": "https://pypi.org/project/tensortrade/"
+}

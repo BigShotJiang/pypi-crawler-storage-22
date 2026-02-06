@@ -1,0 +1,11 @@
+{
+  "name": "guarddog",
+  "version": "2.9.0",
+  "summary": "GuardDog is a CLI tool for identifying malicious open source packages",
+  "author": "Ellen Wang",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "guarddog-2.9.0.tar.gz",
+  "download_time": "2026-02-06T14:46:31.812435",
+  "package_url": "https://pypi.org/project/guarddog/"
+}

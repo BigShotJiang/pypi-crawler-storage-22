@@ -1,11 +1,11 @@
 {
   "name": "kalong",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "summary": "A new take on python debugging",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kalong-0.8.0.tar.gz",
-  "download_time": "2026-01-31T16:35:31.911926",
+  "download_filename": "kalong-0.8.1.tar.gz",
+  "download_time": "2026-02-06T14:46:18.215023",
   "package_url": "https://pypi.org/project/kalong/"
 }

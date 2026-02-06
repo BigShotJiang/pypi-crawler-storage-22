@@ -1,11 +1,11 @@
 {
   "name": "django-batch-sheet",
-  "version": "0.20.0",
+  "version": "0.90.0",
   "summary": "Create Excel Sheet from Django Model and load them automatically",
   "author": "Mohamed El-Kalioby, Mahmood Nasr",
   "license": "MIT",
   "home_page": "https://github.com/mkalioby/django-batch-sheet/",
-  "download_filename": "django_batch_sheet-0.20.0.tar.gz",
-  "download_time": "2026-02-04T13:38:05.432212",
+  "download_filename": "django_batch_sheet-0.90.0.tar.gz",
+  "download_time": "2026-02-06T14:46:50.894585",
   "package_url": "https://pypi.org/project/django-batch-sheet/"
 }

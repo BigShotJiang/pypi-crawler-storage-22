@@ -1,0 +1,11 @@
+{
+  "name": "mimicpy",
+  "version": "0.3.0",
+  "summary": "Companion library to the MiMiC framework for input preparation.",
+  "author": "Bharath Raghavan, Florian K. Schackert, Sachin Shivakumar",
+  "license": "GNU Lesser General Public License v3 or later (LGPLv3+)",
+  "home_page": "https://gitlab.com/mimic-project/mimicpy",
+  "download_filename": "mimicpy-0.3.0.tar.gz",
+  "download_time": "2026-02-06T14:46:40.073176",
+  "package_url": "https://pypi.org/project/mimicpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kandrwmrtn-cplusplus_mcp",
+  "version": "0.1.0",
+  "summary": "An MCP server for analyzing C++ codebases using libclang",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_kandrwmrtn_cplusplus_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-06T14:46:49.286421",
+  "package_url": "https://pypi.org/project/iflow-mcp_kandrwmrtn-cplusplus_mcp/"
+}

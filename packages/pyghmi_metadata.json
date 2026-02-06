@@ -1,0 +1,11 @@
+{
+  "name": "pyghmi",
+  "version": "1.6.12",
+  "summary": "Python General Hardware Management Initiative (IPMI and others)",
+  "author": "Jarrod Johnson",
+  "license": "Apache License, Version 2.0",
+  "home_page": "http://github.com/openstack/pyghmi/",
+  "download_filename": "pyghmi-1.6.12.tar.gz",
+  "download_time": "2026-02-06T14:46:47.655347",
+  "package_url": "https://pypi.org/project/pyghmi/"
+}
