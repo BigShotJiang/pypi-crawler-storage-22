@@ -1,11 +1,11 @@
 {
   "name": "omnirag",
-  "version": "1.0.4",
+  "version": "1.0.9",
   "summary": "OmniRAG: Universal RAG System combining Liquid + Agentic + Chain RAG",
   "author": "Girinath V",
   "license": null,
   "home_page": "https://github.com/Giri530/omnirag",
-  "download_filename": "omnirag-1.0.4.tar.gz",
-  "download_time": "2026-02-05T09:05:25.258675",
+  "download_filename": "omnirag-1.0.9.tar.gz",
+  "download_time": "2026-02-06T05:23:57.086816",
   "package_url": "https://pypi.org/project/omnirag/"
 }

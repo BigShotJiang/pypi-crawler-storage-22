@@ -1,0 +1,11 @@
+{
+  "name": "mindquest",
+  "version": "0.4.0",
+  "summary": "mindquest: An AI-powered platform that creates fun, educational podcasts for children aged 6–12 by turning verified facts into engaging audio stories using LLMs and high-quality text-to-speech technology",
+  "author": "Dima Statz",
+  "license": null,
+  "home_page": "https://github.com/dimastatz/whisper-flow",
+  "download_filename": "mindquest-0.4.0.tar.gz",
+  "download_time": "2026-02-06T05:24:16.610565",
+  "package_url": "https://pypi.org/project/mindquest/"
+}

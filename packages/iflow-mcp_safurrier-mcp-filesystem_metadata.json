@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_safurrier-mcp-filesystem",
+  "version": "0.2.0",
+  "summary": "MCP server for filesystem search and manipulation with granular search, content search and file edits",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_safurrier_mcp_filesystem-0.2.0.tar.gz",
+  "download_time": "2026-02-06T05:23:56.060066",
+  "package_url": "https://pypi.org/project/iflow-mcp_safurrier-mcp-filesystem/"
+}

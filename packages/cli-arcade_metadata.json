@@ -1,11 +1,11 @@
 {
   "name": "cli-arcade",
-  "version": "2026.2.0",
+  "version": "2026.3.0",
   "summary": "Collection of terminal CLI games",
   "author": "Bro Code Technologies LLC",
   "license": "MIT",
   "home_page": "https://github.com/Bro-Code-Technologies/cli-arcade/tree/main/windows",
-  "download_filename": "cli_arcade-2026.2.0.tar.gz",
-  "download_time": "2026-02-04T23:24:01.896041",
+  "download_filename": "cli_arcade-2026.3.0.tar.gz",
+  "download_time": "2026-02-06T05:23:47.866837",
   "package_url": "https://pypi.org/project/cli-arcade/"
 }

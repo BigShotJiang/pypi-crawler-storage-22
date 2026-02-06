@@ -1,0 +1,11 @@
+{
+  "name": "gector-triton",
+  "version": "1.2.1",
+  "summary": "gotutiyan/gector with remote triton backend",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gector_triton-1.2.1.tar.gz",
+  "download_time": "2026-02-06T05:24:03.233366",
+  "package_url": "https://pypi.org/project/gector-triton/"
+}

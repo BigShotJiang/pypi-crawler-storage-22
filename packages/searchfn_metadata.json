@@ -1,0 +1,11 @@
+{
+  "name": "searchfn",
+  "version": "0.1.0",
+  "summary": "Server SDK for SearchFn - Full text search for DataFn",
+  "author": "21n",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "searchfn-0.1.0.tar.gz",
+  "download_time": "2026-02-06T05:23:37.614213",
+  "package_url": "https://pypi.org/project/searchfn/"
+}

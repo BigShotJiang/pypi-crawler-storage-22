@@ -1,11 +1,11 @@
 {
   "name": "kard-financial-sdk",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kard_financial_sdk-2.2.1.tar.gz",
-  "download_time": "2026-02-05T22:35:46.534453",
+  "download_filename": "kard_financial_sdk-2.2.2.tar.gz",
+  "download_time": "2026-02-06T05:24:03.743522",
   "package_url": "https://pypi.org/project/kard-financial-sdk/"
 }

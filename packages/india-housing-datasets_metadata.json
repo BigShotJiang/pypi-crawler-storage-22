@@ -1,0 +1,11 @@
+{
+  "name": "india-housing-datasets",
+  "version": "1.0.0",
+  "summary": "Standardized Indian housing datasets for data analysis, visualization, and machine learning practice.",
+  "author": "Vishal Baghel",
+  "license": "MIT",
+  "home_page": "https://github.com/Rvbaghel/india_housing_datasets",
+  "download_filename": "india_housing_datasets-1.0.0.tar.gz",
+  "download_time": "2026-02-06T05:23:46.830276",
+  "package_url": "https://pypi.org/project/india-housing-datasets/"
+}

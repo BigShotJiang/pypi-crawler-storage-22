@@ -1,11 +1,11 @@
 {
   "name": "tribalmemory",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Shared memory infrastructure for multi-instance AI agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "tribalmemory-0.5.0.tar.gz",
-  "download_time": "2026-02-05T23:04:25.944736",
+  "download_filename": "tribalmemory-0.5.1.tar.gz",
+  "download_time": "2026-02-06T05:23:48.895306",
   "package_url": "https://pypi.org/project/tribalmemory/"
 }
