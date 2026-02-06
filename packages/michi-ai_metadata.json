@@ -1,0 +1,11 @@
+{
+  "name": "michi-ai",
+  "version": "0.1.1",
+  "summary": "Full-duplex speech LLM client for MichiAI",
+  "author": "Damian Krystkiewicz",
+  "license": "Apache-2.0",
+  "home_page": "https://ketsuilabs.io",
+  "download_filename": "michi_ai-0.1.1.tar.gz",
+  "download_time": "2026-02-06T04:13:29.645729",
+  "package_url": "https://pypi.org/project/michi-ai/"
+}

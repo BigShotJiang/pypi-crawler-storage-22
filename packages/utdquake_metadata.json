@@ -1,0 +1,11 @@
+{
+  "name": "utdquake",
+  "version": "0.1.1",
+  "summary": "University of Texas at Dallas Earthquake Dataset",
+  "author": "ecastillot (Emmanuel Castillo)",
+  "license": null,
+  "home_page": "https://github.com/ecastillot/UTDQuake",
+  "download_filename": "utdquake-0.1.1.tar.gz",
+  "download_time": "2026-02-06T04:13:19.222658",
+  "package_url": "https://pypi.org/project/utdquake/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-extra",
+  "version": "0.3.1",
+  "summary": "extra package for fastapi.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "fastapi_extra-0.3.1.tar.gz",
+  "download_time": "2026-02-06T04:13:36.527532",
+  "package_url": "https://pypi.org/project/fastapi-extra/"
+}

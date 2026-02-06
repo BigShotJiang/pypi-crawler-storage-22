@@ -1,0 +1,11 @@
+{
+  "name": "trailblazer-ml",
+  "version": "0.1.1",
+  "summary": "Uma biblioteca de AutoML Exploratório e 'Glass-Box'.",
+  "author": "Gabriel Sales",
+  "license": null,
+  "home_page": "https://github.com/gabsalles/trailblazer-ml",
+  "download_filename": "trailblazer_ml-0.1.1.tar.gz",
+  "download_time": "2026-02-06T04:13:51.171765",
+  "package_url": "https://pypi.org/project/trailblazer-ml/"
+}

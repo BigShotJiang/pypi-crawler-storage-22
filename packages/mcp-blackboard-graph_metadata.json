@@ -1,0 +1,11 @@
+{
+  "name": "mcp-blackboard-graph",
+  "version": "0.1.0",
+  "summary": "MCP server for multi-agent coordination via shared graph - nodes with messages, notes, and status",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_blackboard_graph-0.1.0.tar.gz",
+  "download_time": "2026-02-06T04:13:41.248923",
+  "package_url": "https://pypi.org/project/mcp-blackboard-graph/"
+}

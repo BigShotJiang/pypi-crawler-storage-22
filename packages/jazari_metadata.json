@@ -1,0 +1,11 @@
+{
+  "name": "jazari",
+  "version": "0.1.2",
+  "summary": "The orchestration layer for modern Slurm clusters.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jazari-0.1.2.tar.gz",
+  "download_time": "2026-02-06T04:13:50.108625",
+  "package_url": "https://pypi.org/project/jazari/"
+}

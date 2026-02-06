@@ -1,0 +1,11 @@
+{
+  "name": "sideloader",
+  "version": "2.2.0",
+  "summary": "Download large files via PyPI packages",
+  "author": "Null Void",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sideloader-2.2.0.tar.gz",
+  "download_time": "2026-02-06T04:13:48.549443",
+  "package_url": "https://pypi.org/project/sideloader/"
+}

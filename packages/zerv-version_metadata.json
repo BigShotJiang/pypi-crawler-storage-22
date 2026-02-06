@@ -1,0 +1,11 @@
+{
+  "name": "zerv-version",
+  "version": "0.7.103a68073.post4.dev1770350634",
+  "summary": "Dynamic versioning CLI tool",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/wislertt/zerv",
+  "download_filename": "zerv_version-0.7.103a68073.post4.dev1770350634.tar.gz",
+  "download_time": "2026-02-06T04:13:23.921705",
+  "package_url": "https://pypi.org/project/zerv-version/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dm2xcod",
+  "version": "0.3.9",
+  "summary": "DOCX to Markdown converter written in Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/KimSeogyu/dm2xcod",
+  "download_filename": "dm2xcod-0.3.9.tar.gz",
+  "download_time": "2026-02-06T04:13:08.271406",
+  "package_url": "https://pypi.org/project/dm2xcod/"
+}

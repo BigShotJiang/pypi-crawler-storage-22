@@ -1,0 +1,11 @@
+{
+  "name": "sygmail",
+  "version": "0.1.2",
+  "summary": "Lightweight Gmail notification wrapper",
+  "author": "Satoshi Nakabayashi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sygmail-0.1.2.tar.gz",
+  "download_time": "2026-02-06T04:13:42.816859",
+  "package_url": "https://pypi.org/project/sygmail/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lifejacket",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Consistent standard errors for longitudinal data collected under pooling online decision policies.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lifejacket-1.2.0.tar.gz",
-  "download_time": "2026-02-04T06:06:28.758310",
+  "download_filename": "lifejacket-1.3.0.tar.gz",
+  "download_time": "2026-02-06T04:13:27.029505",
   "package_url": "https://pypi.org/project/lifejacket/"
 }
