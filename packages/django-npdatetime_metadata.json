@@ -1,11 +1,11 @@
 {
   "name": "django-npdatetime",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Nepali Date Field and Date Picker Widget for Django",
   "author": "Amrit Giri",
   "license": "MIT",
   "home_page": "https://github.com/4mritGiri/npdatetime-rust",
-  "download_filename": "django_npdatetime-0.1.5.tar.gz",
-  "download_time": "2026-02-06T08:42:30.718345",
+  "download_filename": "django_npdatetime-0.1.6.tar.gz",
+  "download_time": "2026-02-06T09:30:34.182554",
   "package_url": "https://pypi.org/project/django-npdatetime/"
 }

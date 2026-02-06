@@ -1,0 +1,11 @@
+{
+  "name": "multisafepay",
+  "version": "2.2.0",
+  "summary": "Multisafepay API wrapper",
+  "author": "Multisafepay",
+  "license": "OSL-3.0",
+  "home_page": null,
+  "download_filename": "multisafepay-2.2.0.tar.gz",
+  "download_time": "2026-02-06T09:30:43.134343",
+  "package_url": "https://pypi.org/project/multisafepay/"
+}

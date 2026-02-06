@@ -1,0 +1,11 @@
+{
+  "name": "comfyui-animatool",
+  "version": "0.1.1",
+  "summary": "Standalone MCP server + client for generating Anima-style images via a remote/local ComfyUI Server API.",
+  "author": "Moeblack",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "comfyui_animatool-0.1.1.tar.gz",
+  "download_time": "2026-02-06T09:30:43.652587",
+  "package_url": "https://pypi.org/project/comfyui-animatool/"
+}

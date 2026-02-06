@@ -1,11 +1,11 @@
 {
   "name": "partake",
-  "version": "0.1.0",
+  "version": "0.4.1",
   "summary": "Shard text streams to persistent jobs at raw pipe speed.",
   "author": "Ben Skubi",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "partake-0.1.0.tar.gz",
-  "download_time": "2026-02-04T11:42:05.241480",
+  "download_filename": "partake-0.4.1.tar.gz",
+  "download_time": "2026-02-06T09:30:40.515612",
   "package_url": "https://pypi.org/project/partake/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "markitai",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Opinionated Markdown converter with native LLM enhancement support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "markitai-0.4.0.tar.gz",
-  "download_time": "2026-01-29T08:58:22.759627",
+  "download_filename": "markitai-0.5.0.tar.gz",
+  "download_time": "2026-02-06T09:30:17.436674",
   "package_url": "https://pypi.org/project/markitai/"
 }

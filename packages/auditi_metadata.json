@@ -1,0 +1,11 @@
+{
+  "name": "auditi",
+  "version": "0.1.2",
+  "summary": "Trace, monitor, and evaluate AI agents and LLM applications with simple decorators",
+  "author": "Dedy Ariansyah",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "auditi-0.1.2.tar.gz",
+  "download_time": "2026-02-06T09:30:42.096452",
+  "package_url": "https://pypi.org/project/auditi/"
+}

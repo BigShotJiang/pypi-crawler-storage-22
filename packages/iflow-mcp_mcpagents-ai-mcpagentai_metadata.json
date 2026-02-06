@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcpagents-ai-mcpagentai",
+  "version": "1.0.0",
+  "summary": "A generic multi-tool MCP Agent with Twitter, Eliza, Weather, Dictionary, Calculator, etc.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcpagents_ai_mcpagentai-1.0.0.tar.gz",
+  "download_time": "2026-02-06T09:30:16.829846",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcpagents-ai-mcpagentai/"
+}

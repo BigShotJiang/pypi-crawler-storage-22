@@ -1,0 +1,11 @@
+{
+  "name": "cobo-cli",
+  "version": "0.1.1",
+  "summary": "Cobo Command-line Tool",
+  "author": "Cobo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cobo_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-06T09:30:41.577231",
+  "package_url": "https://pypi.org/project/cobo-cli/"
+}
