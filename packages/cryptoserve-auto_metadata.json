@@ -1,0 +1,11 @@
+{
+  "name": "cryptoserve-auto",
+  "version": "0.1.0",
+  "summary": "CryptoServe Auto-Protect - Automatic encryption for third-party libraries",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cryptoserve_auto-0.1.0.tar.gz",
+  "download_time": "2026-02-06T17:07:31.615151",
+  "package_url": "https://pypi.org/project/cryptoserve-auto/"
+}

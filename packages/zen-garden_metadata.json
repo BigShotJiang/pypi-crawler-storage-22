@@ -1,11 +1,11 @@
 {
   "name": "zen-garden",
-  "version": "2.9.2",
+  "version": "2.9.5",
   "summary": "ZEN-garden is an optimization model of energy systems and value chains.",
   "author": "Alissa Ganter, Johannes Burger, Francesco De Marco, Lukas Kunz, Lukas Schmidt-Engelbertz, Christoph Funke, Paolo Gabrielli, Giovanni Sansavini",
   "license": null,
   "home_page": null,
-  "download_filename": "zen_garden-2.9.2.tar.gz",
-  "download_time": "2026-02-06T08:42:41.768740",
+  "download_filename": "zen_garden-2.9.5.tar.gz",
+  "download_time": "2026-02-06T17:06:44.121027",
   "package_url": "https://pypi.org/project/zen-garden/"
 }

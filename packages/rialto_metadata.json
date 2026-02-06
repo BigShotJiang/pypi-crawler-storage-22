@@ -1,0 +1,11 @@
+{
+  "name": "rialto",
+  "version": "2.1.3",
+  "summary": "Rialto is a framework for building and deploying machine learning features in a scalable and reusable way. It provides a set of tools that make it easy to define and deploy features and models, and it provides a way to orchestrate the execution of these features and models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rialto-2.1.3.tar.gz",
+  "download_time": "2026-02-06T17:07:22.687722",
+  "package_url": "https://pypi.org/project/rialto/"
+}

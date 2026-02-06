@@ -1,0 +1,11 @@
+{
+  "name": "socks5-killswitch",
+  "version": "0.0.3",
+  "summary": "SOCKS5 proxy session with kill switch — blocks all requests if the proxy fails, no silent fallback.",
+  "author": "Mykola",
+  "license": null,
+  "home_page": null,
+  "download_filename": "socks5_killswitch-0.0.3.tar.gz",
+  "download_time": "2026-02-06T17:07:18.787629",
+  "package_url": "https://pypi.org/project/socks5-killswitch/"
+}

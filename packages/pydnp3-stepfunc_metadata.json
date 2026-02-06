@@ -1,11 +1,11 @@
 {
   "name": "pydnp3-stepfunc",
-  "version": "1.6.0.7",
+  "version": "1.6.0.10",
   "summary": "Python bindings for the stepfunc/dnp3 Rust library via cffi",
   "author": "f0rw4rd",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pydnp3_stepfunc-1.6.0.7-py3-none-manylinux1_x86_64.whl",
-  "download_time": "2026-02-06T15:30:50.114710",
+  "download_filename": "pydnp3_stepfunc-1.6.0.10-py3-none-manylinux1_x86_64.whl",
+  "download_time": "2026-02-06T17:07:21.409629",
   "package_url": "https://pypi.org/project/pydnp3-stepfunc/"
 }

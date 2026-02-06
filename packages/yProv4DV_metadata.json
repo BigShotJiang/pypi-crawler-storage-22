@@ -1,0 +1,11 @@
+{
+  "name": "yProv4DV",
+  "version": "1.0.4",
+  "summary": "yProv4DV (Data Visualization) is a python utility which allows for packaging of code, inputs and outputs of data visualization scripts. Once integrated, it will produce a zip file which includes all information necessary for reproducibility of the current script, including a copy of the files used.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yprov4dv-1.0.4.tar.gz",
+  "download_time": "2026-02-06T17:06:53.369492",
+  "package_url": "https://pypi.org/project/yProv4DV/"
+}

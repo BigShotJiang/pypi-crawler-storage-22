@@ -1,0 +1,11 @@
+{
+  "name": "xiaozhi-sdk",
+  "version": "0.4.10",
+  "summary": "一个用于连接和控制小智智能设备的Python SDK，支持实时音频通信、MCP工具集成和设备管理功能。",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xiaozhi_sdk-0.4.10.tar.gz",
+  "download_time": "2026-02-06T17:07:38.870368",
+  "package_url": "https://pypi.org/project/xiaozhi-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fastapi-nplusone",
-  "version": "0.0.1b0",
+  "version": "0.0.1b2",
   "summary": "A middlewere to help find n+1 queries in sqlalchemy.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastapi_nplusone-0.0.1b0.tar.gz",
-  "download_time": "2026-02-06T16:05:48.782828",
+  "download_filename": "fastapi_nplusone-0.0.1b2.tar.gz",
+  "download_time": "2026-02-06T17:06:56.702660",
   "package_url": "https://pypi.org/project/fastapi-nplusone/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "maspy-gui",
-  "version": "2026.2.6",
+  "version": "2026.2.6.post4",
   "summary": "Interface for the Visual Representation and Debugging of the MASPY Framework",
   "author": "Gabriel Galvan Neres",
   "license": null,
   "home_page": null,
-  "download_filename": "maspy_gui-2026.2.6.tar.gz",
-  "download_time": "2026-02-06T16:06:11.540124",
+  "download_filename": "maspy_gui-2026.2.6.post4.tar.gz",
+  "download_time": "2026-02-06T17:06:41.489872",
   "package_url": "https://pypi.org/project/maspy-gui/"
 }

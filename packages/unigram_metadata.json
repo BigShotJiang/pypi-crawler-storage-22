@@ -1,11 +1,11 @@
 {
   "name": "unigram",
-  "version": "0.15.2",
+  "version": "0.15.3",
   "summary": null,
   "author": "Damien Sileo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "unigram-0.15.2.tar.gz",
-  "download_time": "2026-01-30T13:43:13.136765",
+  "download_filename": "unigram-0.15.3.tar.gz",
+  "download_time": "2026-02-06T17:07:29.607781",
   "package_url": "https://pypi.org/project/unigram/"
 }

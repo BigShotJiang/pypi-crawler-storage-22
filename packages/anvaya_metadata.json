@@ -1,11 +1,11 @@
 {
   "name": "anvaya",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Anvaya (अन्वय) - A comprehensive Python mathematics library inspired by ancient Indian mathematical traditions",
   "author": "Akash Rahut",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "anvaya-1.0.0.tar.gz",
-  "download_time": "2026-02-06T16:06:27.974246",
+  "download_filename": "anvaya-1.0.2.tar.gz",
+  "download_time": "2026-02-06T17:07:01.037434",
   "package_url": "https://pypi.org/project/anvaya/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cybrid-api-bank-python",
-  "version": "0.126.110",
+  "version": "0.126.114",
   "summary": "Cybrid Bank API",
   "author": "Cybrid Support",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Cybrid-app/cybrid-api-bank-python/",
-  "download_filename": "cybrid_api_bank_python-0.126.110.tar.gz",
-  "download_time": "2026-02-05T19:58:58.581476",
+  "download_filename": "cybrid_api_bank_python-0.126.114.tar.gz",
+  "download_time": "2026-02-06T17:07:09.868277",
   "package_url": "https://pypi.org/project/cybrid-api-bank-python/"
 }

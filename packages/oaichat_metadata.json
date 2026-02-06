@@ -1,0 +1,11 @@
+{
+  "name": "oaichat",
+  "version": "0.1.0",
+  "summary": "A beautiful CLI for testing OpenAI-compatible chat APIs",
+  "author": "Fahad Hossain",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "oaichat-0.1.0.tar.gz",
+  "download_time": "2026-02-06T17:07:33.575374",
+  "package_url": "https://pypi.org/project/oaichat/"
+}

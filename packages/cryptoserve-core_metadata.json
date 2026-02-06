@@ -1,0 +1,11 @@
+{
+  "name": "cryptoserve-core",
+  "version": "0.1.0",
+  "summary": "CryptoServe Core - Pure cryptographic primitives",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cryptoserve_core-0.1.0.tar.gz",
+  "download_time": "2026-02-06T17:07:34.215911",
+  "package_url": "https://pypi.org/project/cryptoserve-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lockss-pybasic",
+  "version": "0.1.1",
+  "summary": "Basic Python utilities",
+  "author": "Thib Guicherd-Callin",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/lockss/lockss-pybasic",
+  "download_filename": "lockss_pybasic-0.1.1.tar.gz",
+  "download_time": "2026-02-06T17:07:08.549536",
+  "package_url": "https://pypi.org/project/lockss-pybasic/"
+}
