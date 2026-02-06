@@ -1,0 +1,11 @@
+{
+  "name": "sitk-cli",
+  "version": "0.8.0",
+  "summary": "Wrap SimpleITK functions as command lines",
+  "author": "dyollb",
+  "license": "MIT License",
+  "home_page": "https://github.com/dyollb/sitk-cli",
+  "download_filename": "sitk_cli-0.8.0-py3-none-any.whl",
+  "download_time": "2026-02-06T18:02:30.180216",
+  "package_url": "https://pypi.org/project/sitk-cli/"
+}

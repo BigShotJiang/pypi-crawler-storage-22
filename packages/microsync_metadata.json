@@ -1,0 +1,11 @@
+{
+  "name": "microsync",
+  "version": "2.6.3",
+  "summary": "Python driver for 32-bit microscope synchronization device.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsync-2.6.3.tar.gz",
+  "download_time": "2026-02-06T18:02:12.537533",
+  "package_url": "https://pypi.org/project/microsync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "soSaver",
+  "version": "1.0.1",
+  "summary": "Utility for dumping .so files from Android applications using Frida.",
+  "author": "Anatoliy Fedorenko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sosaver-1.0.1.tar.gz",
+  "download_time": "2026-02-06T18:02:23.872977",
+  "package_url": "https://pypi.org/project/soSaver/"
+}

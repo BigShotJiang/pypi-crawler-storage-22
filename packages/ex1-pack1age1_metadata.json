@@ -1,0 +1,11 @@
+{
+  "name": "ex1-pack1age1",
+  "version": "0.1.1",
+  "summary": "Example pip-installable Python package",
+  "author": "Tertiary Ion",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ex1_pack1age1-0.1.1.tar.gz",
+  "download_time": "2026-02-06T18:02:13.114865",
+  "package_url": "https://pypi.org/project/ex1-pack1age1/"
+}

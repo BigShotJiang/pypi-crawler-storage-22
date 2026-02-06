@@ -1,0 +1,11 @@
+{
+  "name": "Aplicacion-ventas-Torres",
+  "version": "0.1.0",
+  "summary": "Paquete para gestionar una aplicación de ventas, precios, impuestos y descuentos",
+  "author": "Emerson Torres",
+  "license": null,
+  "home_page": "https://github.com/emerson-torres/Aplicacion_ventas",
+  "download_filename": "aplicacion_ventas_torres-0.1.0.tar.gz",
+  "download_time": "2026-02-06T18:02:48.127554",
+  "package_url": "https://pypi.org/project/Aplicacion-ventas-Torres/"
+}

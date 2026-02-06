@@ -1,0 +1,11 @@
+{
+  "name": "upd-builder",
+  "version": "1.0.2",
+  "summary": "Генератор валидного УПД (Универсального Передаточного Документа) в формате XML файла в соответствии со спецификацей XSD v5.03",
+  "author": "Georgy",
+  "license": "MIT",
+  "home_page": "https://github.com/daoman/upd-builder",
+  "download_filename": "upd_builder-1.0.2.tar.gz",
+  "download_time": "2026-02-06T18:02:47.583930",
+  "package_url": "https://pypi.org/project/upd-builder/"
+}
