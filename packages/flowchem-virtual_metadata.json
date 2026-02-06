@@ -1,0 +1,11 @@
+{
+  "name": "flowchem-virtual",
+  "version": "1.0.0",
+  "summary": "Flowchem-Virtual is a virtual version of the flowchem - library to control instruments and devices commonly found in chemistry labs via an interoperable web API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flowchem_virtual-1.0.0.tar.gz",
+  "download_time": "2026-02-06T10:10:12.061607",
+  "package_url": "https://pypi.org/project/flowchem-virtual/"
+}

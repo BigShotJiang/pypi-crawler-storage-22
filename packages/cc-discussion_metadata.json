@@ -1,11 +1,11 @@
 {
   "name": "cc-discussion",
-  "version": "1.0.5",
+  "version": "1.1.2",
   "summary": "Multi-Claude discussion platform with ClaudeCode context",
   "author": "nogataka",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cc_discussion-1.0.5.tar.gz",
-  "download_time": "2026-02-05T07:20:21.210603",
+  "download_filename": "cc_discussion-1.1.2.tar.gz",
+  "download_time": "2026-02-06T10:10:02.861525",
   "package_url": "https://pypi.org/project/cc-discussion/"
 }

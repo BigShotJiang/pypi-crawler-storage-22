@@ -1,0 +1,11 @@
+{
+  "name": "nxsconfigserver",
+  "version": "2.22.0",
+  "summary": "Configuration Server for Nexus Data Writer",
+  "author": "Jan Kotanski, Eugen Wintersberger , Halil Pasic",
+  "license": "GNU GENERAL PUBLIC LICENSE v3",
+  "home_page": "http://github.com/jkotan/nexdatas/nxsconfigserver",
+  "download_filename": "nxsconfigserver-2.22.0.tar.gz",
+  "download_time": "2026-02-06T10:10:22.049533",
+  "package_url": "https://pypi.org/project/nxsconfigserver/"
+}

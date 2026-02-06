@@ -1,0 +1,11 @@
+{
+  "name": "ExoIris",
+  "version": "1.1.0",
+  "summary": "Easy and robust exoplanet transmission spectroscopy.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "exoiris-1.1.0-py3-none-any.whl",
+  "download_time": "2026-02-06T10:10:29.359037",
+  "package_url": "https://pypi.org/project/ExoIris/"
+}

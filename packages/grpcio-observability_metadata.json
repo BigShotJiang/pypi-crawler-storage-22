@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-observability",
+  "version": "1.78.0",
+  "summary": "gRPC Python observability package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grpcio_observability-1.78.0.tar.gz",
+  "download_time": "2026-02-06T10:10:13.467620",
+  "package_url": "https://pypi.org/project/grpcio-observability/"
+}

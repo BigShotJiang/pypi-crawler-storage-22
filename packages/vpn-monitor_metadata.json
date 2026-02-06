@@ -1,0 +1,11 @@
+{
+  "name": "vpn-monitor",
+  "version": "1.2.0",
+  "summary": "Monitors Windows App and enforces VPN usage.",
+  "author": "VPN Monitor Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vpn_monitor-1.2.0.tar.gz",
+  "download_time": "2026-02-06T10:09:50.946665",
+  "package_url": "https://pypi.org/project/vpn-monitor/"
+}

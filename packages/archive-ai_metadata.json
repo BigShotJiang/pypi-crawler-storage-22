@@ -1,0 +1,11 @@
+{
+  "name": "archive-ai",
+  "version": "1.0.2",
+  "summary": "A Django app for AI and OCR logic.",
+  "author": "Debeski",
+  "license": "MIT",
+  "home_page": "https://github.com/debeski1/archive-ai-app",
+  "download_filename": "archive_ai-1.0.2.tar.gz",
+  "download_time": "2026-02-06T10:10:24.350101",
+  "package_url": "https://pypi.org/project/archive-ai/"
+}

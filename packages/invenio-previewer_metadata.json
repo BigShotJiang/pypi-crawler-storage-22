@@ -1,0 +1,11 @@
+{
+  "name": "invenio-previewer",
+  "version": "4.0.0",
+  "summary": "Invenio module for previewing files.",
+  "author": "CERN",
+  "license": "MIT",
+  "home_page": "https://github.com/inveniosoftware/invenio-previewer",
+  "download_filename": "invenio_previewer-4.0.0.tar.gz",
+  "download_time": "2026-02-06T10:10:26.315753",
+  "package_url": "https://pypi.org/project/invenio-previewer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "piproc",
+  "version": "0.3.4",
+  "summary": "A package which connects Plastic-i projects with a processing database",
+  "author": "Plastic-i",
+  "license": null,
+  "home_page": "https://gitlab.com/plastic-i/piproc",
+  "download_filename": "piproc-0.3.4.tar.gz",
+  "download_time": "2026-02-06T10:10:44.242999",
+  "package_url": "https://pypi.org/project/piproc/"
+}

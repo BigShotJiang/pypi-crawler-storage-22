@@ -1,0 +1,11 @@
+{
+  "name": "swisstopopy",
+  "version": "0.3.0",
+  "summary": "swisstopo geospatial Python utilities",
+  "author": "Martí Bosch",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swisstopopy-0.3.0.tar.gz",
+  "download_time": "2026-02-06T10:09:54.533762",
+  "package_url": "https://pypi.org/project/swisstopopy/"
+}

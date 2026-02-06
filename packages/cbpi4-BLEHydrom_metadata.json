@@ -1,0 +1,11 @@
+{
+  "name": "cbpi4-BLEHydrom",
+  "version": "1.0.0",
+  "summary": "CraftBeerPi4 Plugin for Hydrom and Tilt (BLE connection)",
+  "author": "Alexander Vollkopf",
+  "license": null,
+  "home_page": "https://github.com/avollkopf/cbpi4-BLEHydrom",
+  "download_filename": "cbpi4_blehydrom-1.0.0.tar.gz",
+  "download_time": "2026-02-06T10:10:15.166088",
+  "package_url": "https://pypi.org/project/cbpi4-BLEHydrom/"
+}

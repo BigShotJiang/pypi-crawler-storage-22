@@ -1,0 +1,11 @@
+{
+  "name": "grpcio-admin",
+  "version": "1.78.0",
+  "summary": "a collection of admin services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grpcio_admin-1.78.0.tar.gz",
+  "download_time": "2026-02-06T10:10:05.746436",
+  "package_url": "https://pypi.org/project/grpcio-admin/"
+}

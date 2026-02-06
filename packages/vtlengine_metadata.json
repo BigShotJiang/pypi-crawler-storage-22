@@ -1,0 +1,11 @@
+{
+  "name": "vtlengine",
+  "version": "1.4.0",
+  "summary": "Run and Validate VTL Scripts",
+  "author": "MeaningfulData",
+  "license": null,
+  "home_page": "https://github.com/Meaningful-Data/vtlengine",
+  "download_filename": "vtlengine-1.4.0.tar.gz",
+  "download_time": "2026-02-06T10:10:46.518901",
+  "package_url": "https://pypi.org/project/vtlengine/"
+}

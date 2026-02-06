@@ -1,11 +1,11 @@
 {
   "name": "community-of-python-flake8-plugin",
-  "version": "0.1.1",
+  "version": "0.3.2",
   "summary": "Community of Python flake8 plugin",
   "author": "Lev Vereshchagin",
   "license": null,
   "home_page": null,
-  "download_filename": "community_of_python_flake8_plugin-0.1.1.tar.gz",
-  "download_time": "2026-02-04T11:02:48.213835",
+  "download_filename": "community_of_python_flake8_plugin-0.3.2.tar.gz",
+  "download_time": "2026-02-06T10:09:49.783862",
   "package_url": "https://pypi.org/project/community-of-python-flake8-plugin/"
 }
