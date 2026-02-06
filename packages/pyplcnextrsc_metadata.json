@@ -1,0 +1,11 @@
+{
+  "name": "pyplcnextrsc",
+  "version": "0.1.15",
+  "summary": "RSC Client for PLCnext",
+  "author": "Song Yantao (PXC/IMA&STE)",
+  "license": "MIT",
+  "home_page": "https://www.phoenixcontact.com/",
+  "download_filename": "pyplcnextrsc-0.1.15.tar.gz",
+  "download_time": "2026-02-06T08:42:39.008142",
+  "package_url": "https://pypi.org/project/pyplcnextrsc/"
+}

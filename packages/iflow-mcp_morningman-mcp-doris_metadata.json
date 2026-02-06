@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_morningman-mcp-doris",
+  "version": "0.1.1",
+  "summary": "An MCP server for Apache Doris.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_morningman_mcp_doris-0.1.1.tar.gz",
+  "download_time": "2026-02-06T08:42:49.976724",
+  "package_url": "https://pypi.org/project/iflow-mcp_morningman-mcp-doris/"
+}

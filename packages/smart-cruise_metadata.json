@@ -1,0 +1,11 @@
+{
+  "name": "smart-cruise",
+  "version": "0.1.1",
+  "summary": "Find Pareto-optimal cruise trajectories to optimize energy consumption and travel time for any vehicle with state-dependent costs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_cruise-0.1.1.tar.gz",
+  "download_time": "2026-02-06T08:42:43.401519",
+  "package_url": "https://pypi.org/project/smart-cruise/"
+}

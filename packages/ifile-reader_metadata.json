@@ -1,0 +1,11 @@
+{
+  "name": "ifile-reader",
+  "version": "0.1.2",
+  "summary": "Python reader for AVL IFILE using Catool backend",
+  "author": "william-using-git",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ifile_reader-0.1.2.tar.gz",
+  "download_time": "2026-02-06T08:42:15.877180",
+  "package_url": "https://pypi.org/project/ifile-reader/"
+}

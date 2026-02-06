@@ -1,0 +1,11 @@
+{
+  "name": "ui-bridge-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for UI Bridge - enables AI to inspect and interact with UI elements",
+  "author": "Qontinui Team",
+  "license": "MIT",
+  "home_page": "https://github.com/qontinui/ui-bridge-mcp",
+  "download_filename": "ui_bridge_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-06T08:42:46.666665",
+  "package_url": "https://pypi.org/project/ui-bridge-mcp/"
+}

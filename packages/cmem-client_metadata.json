@@ -1,0 +1,11 @@
+{
+  "name": "cmem-client",
+  "version": "0.8.1",
+  "summary": "Next generation eccenca Corporate Memory client library.",
+  "author": "eccenca GmbH",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cmem_client-0.8.1.tar.gz",
+  "download_time": "2026-02-06T08:42:07.595663",
+  "package_url": "https://pypi.org/project/cmem-client/"
+}

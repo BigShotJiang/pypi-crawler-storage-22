@@ -1,11 +1,11 @@
 {
   "name": "shipthisapi-python",
-  "version": "2.1.0",
-  "summary": "ShipthisAPI utility package",
+  "version": "3.0.0",
+  "summary": "ShipthisAPI async utility package",
   "author": "Mayur Rawte",
   "license": null,
   "home_page": "https://github.com/shipthisco/shipthisapi-python",
-  "download_filename": "shipthisapi_python-2.1.0.tar.gz",
-  "download_time": "2026-02-05T08:05:24.538664",
+  "download_filename": "shipthisapi_python-3.0.0.tar.gz",
+  "download_time": "2026-02-06T08:42:22.945015",
   "package_url": "https://pypi.org/project/shipthisapi-python/"
 }

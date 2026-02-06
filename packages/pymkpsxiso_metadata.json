@@ -1,0 +1,11 @@
+{
+  "name": "pymkpsxiso",
+  "version": "0.2.0",
+  "summary": "Python interface for mkpsxiso.",
+  "author": "Illidan",
+  "license": "MIT",
+  "home_page": "https://github.com/Illidanz/pymkpsxiso",
+  "download_filename": "pymkpsxiso-0.2.0.tar.gz",
+  "download_time": "2026-02-06T08:42:24.626264",
+  "package_url": "https://pypi.org/project/pymkpsxiso/"
+}

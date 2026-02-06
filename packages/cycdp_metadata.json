@@ -1,0 +1,11 @@
+{
+  "name": "cycdp",
+  "version": "0.1.2",
+  "summary": "Cython bindings for the CDP audio processing library",
+  "author": null,
+  "license": "LGPL-2.1-or-later",
+  "home_page": null,
+  "download_filename": "cycdp-0.1.2.tar.gz",
+  "download_time": "2026-02-06T08:42:34.071524",
+  "package_url": "https://pypi.org/project/cycdp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "python3-commons",
-  "version": "0.14.25",
+  "version": "0.14.26",
   "summary": "Re-usable Python3 code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "python3_commons-0.14.25.tar.gz",
-  "download_time": "2026-02-01T17:50:32.906388",
+  "download_filename": "python3_commons-0.14.26.tar.gz",
+  "download_time": "2026-02-06T08:42:20.223189",
   "package_url": "https://pypi.org/project/python3-commons/"
 }

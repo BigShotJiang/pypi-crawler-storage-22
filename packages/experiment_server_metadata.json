@@ -1,0 +1,11 @@
+{
+  "name": "experiment_server",
+  "version": "0.3.7",
+  "summary": "Server for experiments to get configuarations from",
+  "author": "Ahmed Shariff",
+  "license": "MIT",
+  "home_page": "https://shariff-faleel.com/experiment_server/",
+  "download_filename": "experiment_server-0.3.7.tar.gz",
+  "download_time": "2026-02-06T08:42:30.139991",
+  "package_url": "https://pypi.org/project/experiment_server/"
+}

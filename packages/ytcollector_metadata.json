@@ -1,11 +1,11 @@
 {
   "name": "ytcollector",
-  "version": "1.2.9",
+  "version": "1.3.0",
   "summary": "YouTube 콘텐츠 수집기 - 얼굴, 번호판, 타투, 텍스트 감지",
   "author": "YTCollector Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ytcollector-1.2.9.tar.gz",
-  "download_time": "2026-02-06T08:00:41.288951",
+  "download_filename": "ytcollector-1.3.0.tar.gz",
+  "download_time": "2026-02-06T08:42:48.320715",
   "package_url": "https://pypi.org/project/ytcollector/"
 }

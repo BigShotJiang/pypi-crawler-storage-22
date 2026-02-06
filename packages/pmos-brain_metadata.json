@@ -1,0 +1,11 @@
+{
+  "name": "pmos-brain",
+  "version": "2.0.0",
+  "summary": "Semantic Knowledge Graph with Graph Analytics, Enrichment Pipeline & Quality Scoring",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pmos_brain-2.0.0.tar.gz",
+  "download_time": "2026-02-06T08:42:54.295251",
+  "package_url": "https://pypi.org/project/pmos-brain/"
+}

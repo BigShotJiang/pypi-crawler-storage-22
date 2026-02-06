@@ -1,0 +1,11 @@
+{
+  "name": "sysbot",
+  "version": "0.2.0",
+  "summary": "System test automation library",
+  "author": "Thibault SCIRE",
+  "license": "MIT",
+  "home_page": "https://github.com/JoReci2/sysbot.git",
+  "download_filename": "sysbot-0.2.0.tar.gz",
+  "download_time": "2026-02-06T08:42:47.750911",
+  "package_url": "https://pypi.org/project/sysbot/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "FAST-OAD-core",
+  "version": "1.9.0",
+  "summary": "FAST-OAD is a framework for performing rapid Overall Aircraft Design",
+  "author": "Christophe DAVID",
+  "license": null,
+  "home_page": "https://github.com/fast-aircraft-design/FAST-OAD",
+  "download_filename": "fast_oad_core-1.9.0.tar.gz",
+  "download_time": "2026-02-06T08:42:45.032364",
+  "package_url": "https://pypi.org/project/FAST-OAD-core/"
+}

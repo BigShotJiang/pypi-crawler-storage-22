@@ -1,0 +1,11 @@
+{
+  "name": "markdown-img-icexmoon",
+  "version": "2.0.5",
+  "summary": "A program for find and upload images in markdown file and will replace them.",
+  "author": "icexmoon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_img_icexmoon-2.0.5.tar.gz",
+  "download_time": "2026-02-06T08:42:57.012164",
+  "package_url": "https://pypi.org/project/markdown-img-icexmoon/"
+}
