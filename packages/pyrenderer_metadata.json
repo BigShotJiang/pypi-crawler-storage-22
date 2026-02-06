@@ -1,0 +1,11 @@
+{
+  "name": "pyrenderer",
+  "version": "0.1.0",
+  "summary": "A beautiful and simple rendering library for Python",
+  "author": "PyRenderer Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/pyrenderer",
+  "download_filename": "pyrenderer-0.1.0.tar.gz",
+  "download_time": "2026-02-06T08:00:38.907999",
+  "package_url": "https://pypi.org/project/pyrenderer/"
+}

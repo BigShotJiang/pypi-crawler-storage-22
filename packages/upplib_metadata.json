@@ -1,11 +1,11 @@
 {
   "name": "upplib",
-  "version": "3.6.2",
+  "version": "3.6.4",
   "summary": "util",
   "author": "Luck",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "upplib-3.6.2.tar.gz",
-  "download_time": "2026-02-06T07:16:01.643864",
+  "download_filename": "upplib-3.6.4.tar.gz",
+  "download_time": "2026-02-06T08:00:33.127127",
   "package_url": "https://pypi.org/project/upplib/"
 }

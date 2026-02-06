@@ -1,11 +1,11 @@
 {
   "name": "chatsbom",
-  "version": "0.2.2",
+  "version": "0.2.7",
   "summary": "ChatSBOM - Talk to your Supply Chain. Chat with SBOMs.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chatsbom-0.2.2.tar.gz",
-  "download_time": "2026-02-06T07:16:07.088140",
+  "download_filename": "chatsbom-0.2.7.tar.gz",
+  "download_time": "2026-02-06T08:00:27.430215",
   "package_url": "https://pypi.org/project/chatsbom/"
 }

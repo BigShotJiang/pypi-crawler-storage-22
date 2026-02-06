@@ -1,0 +1,11 @@
+{
+  "name": "baldertest",
+  "version": "0.1.2",
+  "summary": "balder: reusable scenario based test framework",
+  "author": "Max Stahlschmidt and others",
+  "license": "MIT",
+  "home_page": "https://docs.balder.dev",
+  "download_filename": "baldertest-0.1.2.tar.gz",
+  "download_time": "2026-02-06T08:00:12.067121",
+  "package_url": "https://pypi.org/project/baldertest/"
+}

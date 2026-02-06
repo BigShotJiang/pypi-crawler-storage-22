@@ -1,11 +1,11 @@
 {
   "name": "pyepias",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "EPİAŞ (Turkish Electricity Market) transparency platform data API client",
   "author": "Hasan Çağrı Güngör",
   "license": "MIT",
   "home_page": "https://www.cagrigungor.com",
-  "download_filename": "pyepias-0.1.3.tar.gz",
-  "download_time": "2026-02-05T20:31:38.794501",
+  "download_filename": "pyepias-0.1.5.tar.gz",
+  "download_time": "2026-02-06T08:00:24.310173",
   "package_url": "https://pypi.org/project/pyepias/"
 }

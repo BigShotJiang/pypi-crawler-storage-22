@@ -1,0 +1,11 @@
+{
+  "name": "megfile",
+  "version": "5.0.8",
+  "summary": "Megvii file operation library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "megfile-5.0.8-py3-none-any.whl",
+  "download_time": "2026-02-06T08:00:23.800652",
+  "package_url": "https://pypi.org/project/megfile/"
+}

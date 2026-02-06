@@ -1,11 +1,11 @@
 {
   "name": "plover",
-  "version": "5.2.0",
+  "version": "5.2.1",
   "summary": "Open Source Stenography Software",
   "author": "Joshua Harlan Lifton",
   "license": "GNU General Public License v2 or later (GPLv2+)",
   "home_page": "http://www.openstenoproject.org/",
-  "download_filename": "plover-5.2.0.tar.gz",
-  "download_time": "2026-02-01T07:55:39.816720",
+  "download_filename": "plover-5.2.1.tar.gz",
+  "download_time": "2026-02-06T08:00:13.884672",
   "package_url": "https://pypi.org/project/plover/"
 }
