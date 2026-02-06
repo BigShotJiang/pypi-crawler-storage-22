@@ -1,11 +1,11 @@
 {
   "name": "dotted-notation",
-  "version": "0.20.3",
+  "version": "0.22.0",
   "summary": "Dotted notation for safe nested data traversal with optional chaining, pattern matching, and transforms",
   "author": "Frey Waid",
   "license": "MIT license",
   "home_page": "https://github.com/freywaid/dotted",
-  "download_filename": "dotted_notation-0.20.3.tar.gz",
-  "download_time": "2026-02-05T21:03:39.585302",
+  "download_filename": "dotted_notation-0.22.0.tar.gz",
+  "download_time": "2026-02-06T21:29:38.117882",
   "package_url": "https://pypi.org/project/dotted-notation/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-assemblyai",
+  "version": "1.4.0",
+  "summary": "Agent Framework plugin for AssemblyAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_assemblyai-1.4.0.tar.gz",
+  "download_time": "2026-02-06T21:29:45.857810",
+  "package_url": "https://pypi.org/project/livekit-plugins-assemblyai/"
+}

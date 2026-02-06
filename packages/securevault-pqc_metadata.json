@@ -1,0 +1,11 @@
+{
+  "name": "securevault-pqc",
+  "version": "0.2.0.post2",
+  "summary": "Post-quantum file encryption using ML-KEM-768 + X25519",
+  "author": "Megane Alexis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "securevault_pqc-0.2.0.post2.tar.gz",
+  "download_time": "2026-02-06T21:29:28.291006",
+  "package_url": "https://pypi.org/project/securevault-pqc/"
+}

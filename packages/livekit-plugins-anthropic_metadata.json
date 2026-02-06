@@ -1,0 +1,11 @@
+{
+  "name": "livekit-plugins-anthropic",
+  "version": "1.4.0",
+  "summary": "Agent Framework plugin for services from Anthropic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "livekit_plugins_anthropic-1.4.0.tar.gz",
+  "download_time": "2026-02-06T21:29:46.376694",
+  "package_url": "https://pypi.org/project/livekit-plugins-anthropic/"
+}

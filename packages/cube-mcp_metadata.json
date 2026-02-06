@@ -1,0 +1,11 @@
+{
+  "name": "cube-mcp",
+  "version": "0.3.3",
+  "summary": "MCP server for EdgescaleAI Cube operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cube_mcp-0.3.3.tar.gz",
+  "download_time": "2026-02-06T21:29:04.765776",
+  "package_url": "https://pypi.org/project/cube-mcp/"
+}

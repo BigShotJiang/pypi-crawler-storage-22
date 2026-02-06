@@ -1,0 +1,11 @@
+{
+  "name": "tengwar",
+  "version": "0.3.6",
+  "summary": "The AI-Native Programming Language",
+  "author": "TENGWAR Project",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tengwar-0.3.6.tar.gz",
+  "download_time": "2026-02-06T21:29:39.666260",
+  "package_url": "https://pypi.org/project/tengwar/"
+}

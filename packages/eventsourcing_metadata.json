@@ -1,0 +1,11 @@
+{
+  "name": "eventsourcing",
+  "version": "9.5.3",
+  "summary": "Event sourcing in Python",
+  "author": "John Bywater",
+  "license": null,
+  "home_page": "https://github.com/pyeventsourcing/eventsourcing",
+  "download_filename": "eventsourcing-9.5.3.tar.gz",
+  "download_time": "2026-02-06T21:29:51.128060",
+  "package_url": "https://pypi.org/project/eventsourcing/"
+}

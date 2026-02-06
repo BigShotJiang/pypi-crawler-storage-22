@@ -1,0 +1,11 @@
+{
+  "name": "dask-cudf-cu13",
+  "version": "26.2.0",
+  "summary": "Utilities for Dask and cuDF interactions",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dask_cudf_cu13-26.2.0-py3-none-any.whl",
+  "download_time": "2026-02-06T21:29:23.482885",
+  "package_url": "https://pypi.org/project/dask-cudf-cu13/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opentargets-mcp",
+  "version": "0.5.0",
+  "summary": "MCP server for Open Targets Platform biomedical data access",
+  "author": "Nick Ren",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opentargets_mcp-0.5.0.tar.gz",
+  "download_time": "2026-02-06T21:29:20.376046",
+  "package_url": "https://pypi.org/project/opentargets-mcp/"
+}

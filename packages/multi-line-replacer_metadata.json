@@ -1,0 +1,11 @@
+{
+  "name": "multi-line-replacer",
+  "version": "3.0.0",
+  "summary": "A CLI utility for replacing multi-line strings in files. Supports textual replacements with wildcard matching and indentation-awareness.",
+  "author": "Caleb Evans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "multi_line_replacer-3.0.0.tar.gz",
+  "download_time": "2026-02-06T21:29:16.779151",
+  "package_url": "https://pypi.org/project/multi-line-replacer/"
+}

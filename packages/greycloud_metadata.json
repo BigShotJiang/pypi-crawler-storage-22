@@ -1,0 +1,11 @@
+{
+  "name": "greycloud",
+  "version": "0.3.0",
+  "summary": "Reusable Google GenAI/Vertex AI Client Module",
+  "author": "GreyCloud Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "greycloud-0.3.0.tar.gz",
+  "download_time": "2026-02-06T21:29:32.427834",
+  "package_url": "https://pypi.org/project/greycloud/"
+}
