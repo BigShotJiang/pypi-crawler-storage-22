@@ -1,11 +1,11 @@
 {
   "name": "tracktolib",
-  "version": "0.69.0",
+  "version": "0.71.0",
   "summary": "Utility library for python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracktolib-0.69.0.tar.gz",
-  "download_time": "2026-02-04T07:57:26.177594",
+  "download_filename": "tracktolib-0.71.0.tar.gz",
+  "download_time": "2026-02-06T16:06:02.273375",
   "package_url": "https://pypi.org/project/tracktolib/"
 }

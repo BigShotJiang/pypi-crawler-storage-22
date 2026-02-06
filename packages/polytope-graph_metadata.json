@@ -1,0 +1,11 @@
+{
+  "name": "polytope-graph",
+  "version": "0.0.1",
+  "summary": "Polytope graphs in Sagemath",
+  "author": "Paul Mercat and David Siukaev",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://gitlab.com/davidsiukaev/polytopegraphs-in-sagemath",
+  "download_filename": "polytope_graph-0.0.1.tar.gz",
+  "download_time": "2026-02-06T16:05:59.198996",
+  "package_url": "https://pypi.org/project/polytope-graph/"
+}

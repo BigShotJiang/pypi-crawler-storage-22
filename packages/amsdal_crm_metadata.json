@@ -1,11 +1,11 @@
 {
   "name": "amsdal_crm",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "amsdal-crm plugin for AMSDAL Framework",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amsdal_crm-0.2.0.tar.gz",
-  "download_time": "2026-01-30T22:53:22.084978",
+  "download_filename": "amsdal_crm-0.3.0.tar.gz",
+  "download_time": "2026-02-06T16:06:36.195620",
   "package_url": "https://pypi.org/project/amsdal_crm/"
 }

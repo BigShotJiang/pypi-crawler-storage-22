@@ -1,0 +1,11 @@
+{
+  "name": "fmtconv-cli",
+  "version": "0.1.0",
+  "summary": "Convert between JSON, YAML, TOML, and INI config formats",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmtconv_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-06T16:05:56.097281",
+  "package_url": "https://pypi.org/project/fmtconv-cli/"
+}

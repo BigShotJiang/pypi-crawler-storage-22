@@ -1,11 +1,11 @@
 {
   "name": "codeix",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Portable, composable code index — build with tree-sitter, query via MCP",
   "author": "Montane Tech",
   "license": null,
   "home_page": null,
-  "download_filename": "codeix-0.1.7.tar.gz",
-  "download_time": "2026-02-05T19:29:51.983527",
+  "download_filename": "codeix-0.2.0.tar.gz",
+  "download_time": "2026-02-06T16:06:12.566163",
   "package_url": "https://pypi.org/project/codeix/"
 }

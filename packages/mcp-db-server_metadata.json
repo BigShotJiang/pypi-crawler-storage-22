@@ -1,0 +1,11 @@
+{
+  "name": "mcp-db-server",
+  "version": "0.1.3",
+  "summary": "MCP Database Server with read-only access",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_db_server-0.1.3.tar.gz",
+  "download_time": "2026-02-06T16:06:13.590605",
+  "package_url": "https://pypi.org/project/mcp-db-server/"
+}

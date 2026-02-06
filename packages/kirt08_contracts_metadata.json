@@ -1,11 +1,11 @@
 {
   "name": "kirt08_contracts",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": null,
   "author": "romanov.da",
   "license": null,
   "home_page": null,
-  "download_filename": "kirt08_contracts-0.1.6.tar.gz",
-  "download_time": "2026-02-03T22:28:07.836933",
+  "download_filename": "kirt08_contracts-0.1.8.tar.gz",
+  "download_time": "2026-02-06T16:06:10.007043",
   "package_url": "https://pypi.org/project/kirt08_contracts/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-chart-update",
+  "version": "18.0.1.1.5",
+  "summary": "Wizard to update a company's account chart from a template",
+  "author": "Tecnativa, BCIM, Okia, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-financial-tools",
+  "download_filename": "odoo_addon_account_chart_update-18.0.1.1.5-py3-none-any.whl",
+  "download_time": "2026-02-06T16:06:28.999263",
+  "package_url": "https://pypi.org/project/odoo-addon-account-chart-update/"
+}
