@@ -1,11 +1,11 @@
 {
   "name": "SoilRunNutri",
-  "version": "0.1.14",
+  "version": "0.1.16",
   "summary": "A Python package to estimate nutrient loss based on soil erosion.",
   "author": "Soumya Pant, Dr. Sadikul Islam, Dr. Gopal Kumar, Dr. M. Madhu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soilrunnutri-0.1.14.tar.gz",
-  "download_time": "2026-02-06T05:23:37.102548",
+  "download_filename": "soilrunnutri-0.1.16.tar.gz",
+  "download_time": "2026-02-06T06:14:31.049066",
   "package_url": "https://pypi.org/project/SoilRunNutri/"
 }

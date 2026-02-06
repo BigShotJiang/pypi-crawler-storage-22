@@ -1,11 +1,11 @@
 {
   "name": "zlayer-sdk",
-  "version": "0.9.61",
+  "version": "0.9.72",
   "summary": "ZLayer Plugin Development Kit for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zlayer_sdk-0.9.61.tar.gz",
-  "download_time": "2026-02-06T01:57:21.148321",
+  "download_filename": "zlayer_sdk-0.9.72.tar.gz",
+  "download_time": "2026-02-06T06:14:35.405839",
   "package_url": "https://pypi.org/project/zlayer-sdk/"
 }

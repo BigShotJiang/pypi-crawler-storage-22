@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-resource",
+  "version": "25.0.0",
+  "summary": "Microsoft Azure Resource Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_resource-25.0.0.tar.gz",
+  "download_time": "2026-02-06T06:14:40.805939",
+  "package_url": "https://pypi.org/project/azure-mgmt-resource/"
+}

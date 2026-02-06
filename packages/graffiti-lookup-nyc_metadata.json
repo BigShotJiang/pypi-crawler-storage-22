@@ -1,11 +1,11 @@
 {
   "name": "graffiti-lookup-nyc",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "Query NYC 311 Graffiti Cleanup Requests via CLI and Python API.",
   "author": "Nabil Jamaleddine",
   "license": null,
   "home_page": "https://github.com/njamaleddine/graffiti-lookup-nyc",
-  "download_filename": "graffiti_lookup_nyc-1.0.3.tar.gz",
-  "download_time": "2026-02-01T04:37:56.263299",
+  "download_filename": "graffiti_lookup_nyc-1.0.5.tar.gz",
+  "download_time": "2026-02-06T06:14:56.503171",
   "package_url": "https://pypi.org/project/graffiti-lookup-nyc/"
 }

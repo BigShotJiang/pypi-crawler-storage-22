@@ -1,0 +1,11 @@
+{
+  "name": "waldur-site-agent-digitalocean",
+  "version": "0.1.0",
+  "summary": "DigitalOcean plugin for Waldur Site Agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "waldur_site_agent_digitalocean-0.1.0.tar.gz",
+  "download_time": "2026-02-06T06:14:26.712193",
+  "package_url": "https://pypi.org/project/waldur-site-agent-digitalocean/"
+}

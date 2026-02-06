@@ -1,0 +1,11 @@
+{
+  "name": "search-query",
+  "version": "0.15.0",
+  "summary": "Package for managing literature search queries.",
+  "author": "Peter Eckhardt, Katharina Ernst, Thomas Fleischmann, Anna Geßler, Karl Schnickmann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "search_query-0.15.0.tar.gz",
+  "download_time": "2026-02-06T06:14:20.017823",
+  "package_url": "https://pypi.org/project/search-query/"
+}

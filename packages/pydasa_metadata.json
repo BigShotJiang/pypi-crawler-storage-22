@@ -1,11 +1,11 @@
 {
   "name": "pydasa",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "PyDASA (Dimensional Analysis for Scientific Applications and Software Architecture) is an open-source Python library for dimensional analysis of complex phenomena across physical, chemical, computational, and software domains using the Buckingham Pi-theorem.",
   "author": "@SFAM",
   "license": null,
   "home_page": "https://github.com/DASA-Design/PyDASA",
-  "download_filename": "pydasa-0.6.6.tar.gz",
-  "download_time": "2026-02-03T08:07:11.838251",
+  "download_filename": "pydasa-0.6.7.tar.gz",
+  "download_time": "2026-02-06T06:14:34.319685",
   "package_url": "https://pypi.org/project/pydasa/"
 }

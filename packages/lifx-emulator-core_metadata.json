@@ -1,11 +1,11 @@
 {
   "name": "lifx-emulator-core",
-  "version": "3.6.0",
+  "version": "3.6.2",
   "summary": "Core LIFX Emulator library for testing LIFX LAN protocol libraries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lifx_emulator_core-3.6.0.tar.gz",
-  "download_time": "2026-02-04T03:57:52.162135",
+  "download_filename": "lifx_emulator_core-3.6.2.tar.gz",
+  "download_time": "2026-02-06T06:14:31.591522",
   "package_url": "https://pypi.org/project/lifx-emulator-core/"
 }

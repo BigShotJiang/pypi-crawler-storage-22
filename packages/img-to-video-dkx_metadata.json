@@ -1,0 +1,11 @@
+{
+  "name": "img-to-video-dkx",
+  "version": "0.1.0",
+  "summary": "图片转视频 MCP Server - 基于百度千帆 viduq2-turbo 模型",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "img_to_video_dkx-0.1.0.tar.gz",
+  "download_time": "2026-02-06T06:14:59.290792",
+  "package_url": "https://pypi.org/project/img-to-video-dkx/"
+}

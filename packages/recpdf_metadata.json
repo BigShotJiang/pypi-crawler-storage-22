@@ -1,11 +1,11 @@
 {
   "name": "recpdf",
-  "version": "0.1.0",
+  "version": "0.1.8",
   "summary": "Using large model to parse and translate PDF.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "recpdf-0.1.0.tar.gz",
-  "download_time": "2026-02-05T08:05:49.275807",
+  "download_filename": "recpdf-0.1.8.tar.gz",
+  "download_time": "2026-02-06T06:14:41.347411",
   "package_url": "https://pypi.org/project/recpdf/"
 }

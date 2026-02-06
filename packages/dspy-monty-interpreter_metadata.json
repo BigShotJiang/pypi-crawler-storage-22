@@ -1,0 +1,11 @@
+{
+  "name": "dspy-monty-interpreter",
+  "version": "0.1.1",
+  "summary": "DSPy CodeInterpreter implementation using Monty, a secure Python interpreter written in Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dspy_monty_interpreter-0.1.1.tar.gz",
+  "download_time": "2026-02-06T06:14:43.436259",
+  "package_url": "https://pypi.org/project/dspy-monty-interpreter/"
+}
