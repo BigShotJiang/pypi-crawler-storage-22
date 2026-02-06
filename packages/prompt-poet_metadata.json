@@ -1,0 +1,11 @@
+{
+  "name": "prompt-poet",
+  "version": "0.0.51",
+  "summary": "Streamlines and simplifies prompt design for both developers and non-technical users with a low code approach.",
+  "author": "James Groeneveld",
+  "license": "MIT",
+  "home_page": "https://github.com/character-ai/prompt-poet",
+  "download_filename": "prompt_poet-0.0.51.tar.gz",
+  "download_time": "2026-02-06T22:53:00.848282",
+  "package_url": "https://pypi.org/project/prompt-poet/"
+}

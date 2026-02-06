@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-sendgrid",
+  "version": "0.1.0a2",
+  "summary": "A Pulumi provider for managing SendGrid resources.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/JDetmar/pulumi-sendgrid",
+  "download_filename": "pulumi_sendgrid-0.1.0a2.tar.gz",
+  "download_time": "2026-02-06T22:53:38.298854",
+  "package_url": "https://pypi.org/project/pulumi-sendgrid/"
+}

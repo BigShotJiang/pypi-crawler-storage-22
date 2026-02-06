@@ -1,11 +1,11 @@
 {
   "name": "pyhesaff",
-  "version": "2.1.4",
+  "version": "2.2.0",
   "summary": "Routines for computation of hessian affine keypoints in images.",
-  "author": "Krystian Mikolajczyk, Michal Perdoch, Jon Crall, Avi Weinstock",
+  "author": "Krystian Mikolajczyk, Michal Perdoch, Avi Weinstock",
   "license": "Apache 2",
-  "home_page": "https://github.com/Erotemic/pyhesaff",
-  "download_filename": "pyhesaff-2.1.4-cp310-cp310-win_amd64.whl",
-  "download_time": "2026-02-04T03:57:35.921094",
+  "home_page": null,
+  "download_filename": "pyhesaff-2.2.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-02-06T22:53:22.938136",
   "package_url": "https://pypi.org/project/pyhesaff/"
 }

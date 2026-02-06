@@ -1,11 +1,11 @@
 {
   "name": "mud-slop",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A terminal-based MUD client with GMCP support, ANSI colors, and protocol inspection",
   "author": "mrosata",
   "license": null,
   "home_page": null,
-  "download_filename": "mud_slop-0.1.2.tar.gz",
-  "download_time": "2026-02-06T19:00:54.070417",
+  "download_filename": "mud_slop-0.1.4.tar.gz",
+  "download_time": "2026-02-06T22:53:14.094196",
   "package_url": "https://pypi.org/project/mud-slop/"
 }

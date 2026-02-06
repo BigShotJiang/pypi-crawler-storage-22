@@ -1,11 +1,11 @@
 {
   "name": "cl-preset",
-  "version": "0.3.0",
+  "version": "0.5.2",
   "summary": "A package for managing Claude Code configuration presets and strategies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cl_preset-0.3.0.tar.gz",
-  "download_time": "2026-02-06T10:10:12.638410",
+  "download_filename": "cl_preset-0.5.2.tar.gz",
+  "download_time": "2026-02-06T22:53:09.697085",
   "package_url": "https://pypi.org/project/cl-preset/"
 }

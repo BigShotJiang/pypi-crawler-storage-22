@@ -1,0 +1,11 @@
+{
+  "name": "inference-perf",
+  "version": "0.4.0",
+  "summary": "A GenAI inference performance benchmarking tool.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "inference_perf-0.4.0.tar.gz",
+  "download_time": "2026-02-06T22:53:10.240485",
+  "package_url": "https://pypi.org/project/inference-perf/"
+}

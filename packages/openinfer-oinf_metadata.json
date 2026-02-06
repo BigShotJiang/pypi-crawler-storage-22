@@ -1,0 +1,11 @@
+{
+  "name": "openinfer-oinf",
+  "version": "0.1.0",
+  "summary": "Python tooling for the .oinf model format.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openinfer_oinf-0.1.0.tar.gz",
+  "download_time": "2026-02-06T22:53:43.184003",
+  "package_url": "https://pypi.org/project/openinfer-oinf/"
+}

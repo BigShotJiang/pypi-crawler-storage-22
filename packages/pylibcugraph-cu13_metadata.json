@@ -1,0 +1,11 @@
+{
+  "name": "pylibcugraph-cu13",
+  "version": "26.2.0",
+  "summary": "pylibcugraph - Python bindings for the libcugraph cuGraph C/C++/CUDA library",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylibcugraph_cu13-26.2.0.tar.gz",
+  "download_time": "2026-02-06T22:53:46.496902",
+  "package_url": "https://pypi.org/project/pylibcugraph-cu13/"
+}

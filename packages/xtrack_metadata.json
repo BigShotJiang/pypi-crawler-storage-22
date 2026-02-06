@@ -1,11 +1,11 @@
 {
   "name": "xtrack",
-  "version": "0.99.2",
+  "version": "0.99.4",
   "summary": "Tracking library for particle accelerators",
   "author": "G. Iadarola et al.",
   "license": null,
   "home_page": null,
-  "download_filename": "xtrack-0.99.2.tar.gz",
-  "download_time": "2026-02-04T20:00:53.269450",
+  "download_filename": "xtrack-0.99.4.tar.gz",
+  "download_time": "2026-02-06T22:53:42.098509",
   "package_url": "https://pypi.org/project/xtrack/"
 }

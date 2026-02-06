@@ -1,0 +1,11 @@
+{
+  "name": "onlyfans-sdk",
+  "version": "2.2.2",
+  "summary": "OFAuth Python SDK v2 - Type-safe API client with Pydantic models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onlyfans_sdk-2.2.2.tar.gz",
+  "download_time": "2026-02-06T22:53:03.812784",
+  "package_url": "https://pypi.org/project/onlyfans-sdk/"
+}

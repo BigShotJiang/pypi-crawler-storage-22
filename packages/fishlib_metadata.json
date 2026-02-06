@@ -1,11 +1,11 @@
 {
   "name": "fishlib",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "A Python library for parsing, standardizing, and comparing seafood product descriptions in foodservice",
   "author": "Karen Morton",
   "license": null,
   "home_page": "https://github.com/KTG0409/fishlib",
-  "download_filename": "fishlib-0.1.0.tar.gz",
-  "download_time": "2026-01-30T22:20:58.702552",
+  "download_filename": "fishlib-0.2.0.tar.gz",
+  "download_time": "2026-02-06T22:53:44.847502",
   "package_url": "https://pypi.org/project/fishlib/"
 }
