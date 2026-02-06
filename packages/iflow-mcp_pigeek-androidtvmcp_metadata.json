@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_pigeek-androidtvmcp",
+  "version": "0.2.0",
+  "summary": "Android TV Remote Control to MCP Bridge",
+  "author": "Pigeek",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_pigeek_androidtvmcp-0.2.0.tar.gz",
+  "download_time": "2026-02-06T19:41:28.319341",
+  "package_url": "https://pypi.org/project/iflow-mcp_pigeek-androidtvmcp/"
+}

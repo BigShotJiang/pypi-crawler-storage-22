@@ -1,11 +1,11 @@
 {
   "name": "paid-python",
-  "version": "0.6.0",
+  "version": "1.0.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "paid_python-0.6.0.tar.gz",
-  "download_time": "2026-02-04T17:54:20.411602",
+  "download_filename": "paid_python-1.0.2.tar.gz",
+  "download_time": "2026-02-06T19:41:42.095493",
   "package_url": "https://pypi.org/project/paid-python/"
 }

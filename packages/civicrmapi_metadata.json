@@ -1,0 +1,11 @@
+{
+  "name": "civicrmapi",
+  "version": "0.3",
+  "summary": "Connect with the CiviCRM APIv3 and APIv4 via HTTP and cv.",
+  "author": null,
+  "license": "BSD License",
+  "home_page": null,
+  "download_filename": "civicrmapi-0.3.tar.gz",
+  "download_time": "2026-02-06T19:42:08.670854",
+  "package_url": "https://pypi.org/project/civicrmapi/"
+}

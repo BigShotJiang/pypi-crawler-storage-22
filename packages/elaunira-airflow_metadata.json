@@ -1,11 +1,11 @@
 {
   "name": "elaunira-airflow",
-  "version": "3.1.9",
-  "summary": "Elaunira Airflow operators and hooks for R2Index",
+  "version": "3.1.12",
+  "summary": "Meta-package bundling Airflow providers for Elaunira",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elaunira_airflow-3.1.9.tar.gz",
-  "download_time": "2026-02-05T23:04:55.619820",
+  "download_filename": "elaunira_airflow-3.1.12.tar.gz",
+  "download_time": "2026-02-06T19:41:49.349415",
   "package_url": "https://pypi.org/project/elaunira-airflow/"
 }

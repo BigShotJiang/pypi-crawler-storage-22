@@ -1,0 +1,11 @@
+{
+  "name": "emerald-core",
+  "version": "99.0.0",
+  "summary": "Security test package for dependency confusion",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emerald_core-99.0.0.tar.gz",
+  "download_time": "2026-02-06T19:41:59.696804",
+  "package_url": "https://pypi.org/project/emerald-core/"
+}

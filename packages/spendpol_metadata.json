@@ -1,0 +1,11 @@
+{
+  "name": "spendpol",
+  "version": "0.1.0",
+  "summary": "Spendpol — AI Spend Protocol. Delegated spending governance for autonomous AI agents.",
+  "author": "Spendpol Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spendpol-0.1.0.tar.gz",
+  "download_time": "2026-02-06T19:41:46.195160",
+  "package_url": "https://pypi.org/project/spendpol/"
+}
