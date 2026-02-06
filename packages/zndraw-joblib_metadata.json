@@ -1,0 +1,11 @@
+{
+  "name": "zndraw-joblib",
+  "version": "0.1.1",
+  "summary": "FastAPI job queue with SQLite-backed persistence for ZnDraw",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zndraw_joblib-0.1.1.tar.gz",
+  "download_time": "2026-02-06T23:23:56.854373",
+  "package_url": "https://pypi.org/project/zndraw-joblib/"
+}

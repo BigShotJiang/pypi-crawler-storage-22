@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_4r9un-mcp-kql-server",
+  "version": "2.1.0",
+  "summary": "AI-Powered MCP server for KQL query execution with Natural Language to KQL (NL2KQL) conversion, intelligent schema memory, RAG-enhanced context assistance, and semantic search capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_4r9un_mcp_kql_server-2.1.0.tar.gz",
+  "download_time": "2026-02-06T23:23:42.358312",
+  "package_url": "https://pypi.org/project/iflow-mcp_4r9un-mcp-kql-server/"
+}

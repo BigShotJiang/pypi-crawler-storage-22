@@ -1,0 +1,11 @@
+{
+  "name": "python-gitlab-plus",
+  "version": "1.0.9",
+  "summary": "Enhanced Python GitLab client.",
+  "author": "Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_gitlab_plus-1.0.9.tar.gz",
+  "download_time": "2026-02-06T23:23:47.516386",
+  "package_url": "https://pypi.org/project/python-gitlab-plus/"
+}

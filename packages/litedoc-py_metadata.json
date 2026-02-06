@@ -1,0 +1,11 @@
+{
+  "name": "litedoc-py",
+  "version": "0.1.0",
+  "summary": "Deterministic document parser for AI agents and LLM output",
+  "author": "nssalian",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "litedoc_py-0.1.0-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-06T23:23:49.588263",
+  "package_url": "https://pypi.org/project/litedoc-py/"
+}

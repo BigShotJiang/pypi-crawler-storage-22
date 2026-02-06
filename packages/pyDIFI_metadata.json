@@ -1,0 +1,11 @@
+{
+  "name": "pyDIFI",
+  "version": "8.1.4",
+  "summary": "The python module for DIFI-8 and xDIFI2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydifi-8.1.4.tar.gz",
+  "download_time": "2026-02-06T23:24:05.129302",
+  "package_url": "https://pypi.org/project/pyDIFI/"
+}

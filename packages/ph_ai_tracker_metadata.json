@@ -1,0 +1,11 @@
+{
+  "name": "ph_ai_tracker",
+  "version": "0.1.1",
+  "summary": "Library to identify trending AI products on Product Hunt (API + scraping fallback).",
+  "author": "atg25",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ph_ai_tracker-0.1.1.tar.gz",
+  "download_time": "2026-02-06T23:23:59.962289",
+  "package_url": "https://pypi.org/project/ph_ai_tracker/"
+}

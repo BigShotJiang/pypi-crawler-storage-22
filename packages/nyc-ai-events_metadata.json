@@ -1,0 +1,11 @@
+{
+  "name": "nyc-ai-events",
+  "version": "0.1.0",
+  "summary": "Scrape/search for AI events in NYC (Eventbrite API first, HTML fallback).",
+  "author": "Andrew Gardner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nyc_ai_events-0.1.0.tar.gz",
+  "download_time": "2026-02-06T23:23:27.174411",
+  "package_url": "https://pypi.org/project/nyc-ai-events/"
+}

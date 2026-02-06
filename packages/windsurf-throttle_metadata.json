@@ -1,0 +1,11 @@
+{
+  "name": "windsurf-throttle",
+  "version": "1.0.2",
+  "summary": "Streamlit app for managing Windsurf credit caps",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "windsurf_throttle-1.0.2.tar.gz",
+  "download_time": "2026-02-06T23:23:26.662642",
+  "package_url": "https://pypi.org/project/windsurf-throttle/"
+}

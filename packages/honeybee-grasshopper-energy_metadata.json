@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-grasshopper-energy",
+  "version": "1.59.8",
+  "summary": "Honeybee Energy plugin for Grasshopper.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-grasshopper-energy",
+  "download_filename": "honeybee_grasshopper_energy-1.59.8.tar.gz",
+  "download_time": "2026-02-06T23:23:26.148983",
+  "package_url": "https://pypi.org/project/honeybee-grasshopper-energy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "microsoft-fabric-rti-mcp",
+  "version": "0.4.0",
+  "summary": "Microsoft Fabric RTI MCP",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "microsoft_fabric_rti_mcp-0.4.0.tar.gz",
+  "download_time": "2026-02-06T23:23:46.991062",
+  "package_url": "https://pypi.org/project/microsoft-fabric-rti-mcp/"
+}

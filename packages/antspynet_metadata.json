@@ -1,0 +1,11 @@
+{
+  "name": "antspynet",
+  "version": "0.3.2",
+  "summary": "A collection of deep learning architectures ported to the python language and tools for basic medical image processing.",
+  "author": "Brian B. Avants, Nick Cullen",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "antspynet-0.3.2.tar.gz",
+  "download_time": "2026-02-06T23:23:53.746959",
+  "package_url": "https://pypi.org/project/antspynet/"
+}

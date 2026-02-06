@@ -1,0 +1,11 @@
+{
+  "name": "python-jira-plus",
+  "version": "2.0.5",
+  "summary": "Enhanced Python client for JIRA with better error handling, pagination, and metadata validation.",
+  "author": "Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_jira_plus-2.0.5.tar.gz",
+  "download_time": "2026-02-06T23:23:33.470695",
+  "package_url": "https://pypi.org/project/python-jira-plus/"
+}

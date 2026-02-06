@@ -1,0 +1,11 @@
+{
+  "name": "ndx-optogenetics",
+  "version": "0.4.0",
+  "summary": "NWB extension to enhance support for optogenetics data and metadata in NWB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndx_optogenetics-0.4.0.tar.gz",
+  "download_time": "2026-02-06T23:23:25.616897",
+  "package_url": "https://pypi.org/project/ndx-optogenetics/"
+}
