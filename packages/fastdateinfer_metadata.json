@@ -1,0 +1,11 @@
+{
+  "name": "fastdateinfer",
+  "version": "0.1.6",
+  "summary": "Fast, consensus-based date format inference",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastdateinfer-0.1.6.tar.gz",
+  "download_time": "2026-02-06T21:55:57.252094",
+  "package_url": "https://pypi.org/project/fastdateinfer/"
+}

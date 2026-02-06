@@ -1,0 +1,11 @@
+{
+  "name": "talk-python-cli",
+  "version": "0.1.1",
+  "summary": "CLI for the Talk Python to Me podcast and courses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "talk_python_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-06T21:55:37.325141",
+  "package_url": "https://pypi.org/project/talk-python-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_bulice-interactive-feedback-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for interactive user feedback and command execution in AI-assisted development, by Fábio Ferreira.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_bulice_interactive_feedback_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-06T21:55:32.117441",
+  "package_url": "https://pypi.org/project/iflow-mcp_bulice-interactive-feedback-mcp/"
+}

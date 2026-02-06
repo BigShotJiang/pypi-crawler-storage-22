@@ -1,11 +1,11 @@
 {
   "name": "meshagent-agents",
-  "version": "0.25.6",
+  "version": "0.25.7",
   "summary": "Agent Building Blocks for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_agents-0.25.6.tar.gz",
-  "download_time": "2026-02-06T11:04:31.390591",
+  "download_filename": "meshagent_agents-0.25.7.tar.gz",
+  "download_time": "2026-02-06T21:55:39.420115",
   "package_url": "https://pypi.org/project/meshagent-agents/"
 }

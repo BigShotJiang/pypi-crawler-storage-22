@@ -1,11 +1,11 @@
 {
   "name": "socketscout",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "summary": "A fast, async port scanner with banner grabbing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "socketscout-1.0.1.tar.gz",
-  "download_time": "2026-02-06T06:14:48.368704",
+  "download_filename": "socketscout-1.0.3.tar.gz",
+  "download_time": "2026-02-06T21:55:55.659425",
   "package_url": "https://pypi.org/project/socketscout/"
 }

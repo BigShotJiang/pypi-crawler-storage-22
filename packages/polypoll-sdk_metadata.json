@@ -1,11 +1,11 @@
 {
   "name": "polypoll-sdk",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "summary": "Unified SDK for prediction market data aggregation across Polymarket, Kalshi, Manifold, Metaculus, and PredictIt",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "polypoll_sdk-0.1.2.tar.gz",
-  "download_time": "2026-02-06T21:29:37.074368",
+  "download_filename": "polypoll_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-06T21:56:11.034530",
   "package_url": "https://pypi.org/project/polypoll-sdk/"
 }

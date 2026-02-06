@@ -1,11 +1,11 @@
 {
   "name": "lara-django-organisms-grpc",
-  "version": "0.2.93",
+  "version": "0.2.94",
   "summary": "gRPC interface to lara_django_organisms",
   "author": "mark doerr",
   "license": null,
   "home_page": null,
-  "download_filename": "lara_django_organisms_grpc-0.2.93.tar.gz",
-  "download_time": "2026-02-06T19:01:32.474838",
+  "download_filename": "lara_django_organisms_grpc-0.2.94.tar.gz",
+  "download_time": "2026-02-06T21:55:46.662534",
   "package_url": "https://pypi.org/project/lara-django-organisms-grpc/"
 }
