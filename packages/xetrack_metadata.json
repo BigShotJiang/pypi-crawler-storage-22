@@ -1,0 +1,11 @@
+{
+  "name": "xetrack",
+  "version": "0.5.1",
+  "summary": "A simple tool for benchamrking and tracking machine learning models and experiments.",
+  "author": "xdssio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xetrack-0.5.1.tar.gz",
+  "download_time": "2026-02-06T23:51:32.810563",
+  "package_url": "https://pypi.org/project/xetrack/"
+}

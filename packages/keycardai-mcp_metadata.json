@@ -1,0 +1,11 @@
+{
+  "name": "keycardai-mcp",
+  "version": "0.20.1",
+  "summary": "A Python SDK for Model Context Protocol (MCP) functionality with simplified authentication and authorization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "keycardai_mcp-0.20.1.tar.gz",
+  "download_time": "2026-02-06T23:50:57.157641",
+  "package_url": "https://pypi.org/project/keycardai-mcp/"
+}

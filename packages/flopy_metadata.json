@@ -1,0 +1,11 @@
+{
+  "name": "flopy",
+  "version": "3.10.0",
+  "summary": "FloPy is a Python package to create, run, and post-process MODFLOW-based models",
+  "author": null,
+  "license": "CC0",
+  "home_page": null,
+  "download_filename": "flopy-3.10.0.tar.gz",
+  "download_time": "2026-02-06T23:51:10.602657",
+  "package_url": "https://pypi.org/project/flopy/"
+}

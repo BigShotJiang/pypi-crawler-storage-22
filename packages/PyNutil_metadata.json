@@ -1,0 +1,11 @@
+{
+  "name": "PyNutil",
+  "version": "0.4.0",
+  "summary": "a package to quantify atlas registered brain data",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/Neural-Systems-at-UIO/PyNutil",
+  "download_filename": "pynutil-0.4.0.tar.gz",
+  "download_time": "2026-02-06T23:51:18.338051",
+  "package_url": "https://pypi.org/project/PyNutil/"
+}

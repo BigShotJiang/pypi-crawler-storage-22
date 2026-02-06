@@ -1,0 +1,11 @@
+{
+  "name": "thermopro-ble",
+  "version": "1.1.3",
+  "summary": "Thermopro BLE Sensors",
+  "author": "J. Nick Koston",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "thermopro_ble-1.1.3-py3-none-any.whl",
+  "download_time": "2026-02-06T23:50:53.497599",
+  "package_url": "https://pypi.org/project/thermopro-ble/"
+}
