@@ -1,0 +1,11 @@
+{
+  "name": "amdirt",
+  "version": "1.7.1",
+  "summary": "amdirt: AncientMetagenomeDir Toolkit",
+  "author": null,
+  "license": "GNU-GPLv3",
+  "home_page": "https://github.com/SPAAM-community/amdirt",
+  "download_filename": "amdirt-1.7.1.tar.gz",
+  "download_time": "2026-02-06T19:01:16.384337",
+  "package_url": "https://pypi.org/project/amdirt/"
+}

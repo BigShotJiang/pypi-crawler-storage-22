@@ -1,11 +1,11 @@
 {
   "name": "py10x-core",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "10X Universe Core Internals",
-  "author": "Alexander Davidovich, Ilya Pevzner",
+  "author": null,
   "license": "Proprietary - See LICENSE file for details.",
   "home_page": null,
-  "download_filename": "py10x_core-0.1.6-cp311-cp311-macosx_13_0_universal2.whl",
-  "download_time": "2026-02-06T01:58:01.605312",
+  "download_filename": "py10x_core-0.1.8-cp311-cp311-macosx_13_0_universal2.whl",
+  "download_time": "2026-02-06T19:00:55.113234",
   "package_url": "https://pypi.org/project/py10x-core/"
 }

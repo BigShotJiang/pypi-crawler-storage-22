@@ -1,0 +1,11 @@
+{
+  "name": "NanoparticleAtomCounter",
+  "version": "0.1.7",
+  "summary": "Estimates atom counts in monometallic nanoparticles given radius and contact angle",
+  "author": "Gbolagade Olajide, Tibor Szilvasi",
+  "license": "MIT",
+  "home_page": "https://github.com/szilvasi-group/NanoparticleAtomCounter#readme",
+  "download_filename": "nanoparticleatomcounter-0.1.7.tar.gz",
+  "download_time": "2026-02-06T19:01:23.595488",
+  "package_url": "https://pypi.org/project/NanoparticleAtomCounter/"
+}

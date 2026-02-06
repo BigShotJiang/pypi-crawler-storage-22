@@ -1,0 +1,11 @@
+{
+  "name": "shield-scp",
+  "version": "0.1.1",
+  "summary": "Sovereign Communication Protocol SDK.",
+  "author": "Shield Sovereign",
+  "license": null,
+  "home_page": null,
+  "download_filename": "shield_scp-0.1.1.tar.gz",
+  "download_time": "2026-02-06T19:01:22.567831",
+  "package_url": "https://pypi.org/project/shield-scp/"
+}

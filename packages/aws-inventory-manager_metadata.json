@@ -1,11 +1,11 @@
 {
   "name": "aws-inventory-manager",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "AWS Resource Inventory Management & Delta Tracking CLI tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aws_inventory_manager-1.1.0.tar.gz",
-  "download_time": "2026-02-04T23:52:48.017621",
+  "download_filename": "aws_inventory_manager-1.2.1.tar.gz",
+  "download_time": "2026-02-06T19:01:05.474970",
   "package_url": "https://pypi.org/project/aws-inventory-manager/"
 }

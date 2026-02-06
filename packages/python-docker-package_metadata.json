@@ -1,0 +1,11 @@
+{
+  "name": "python-docker-package",
+  "version": "1.0.0",
+  "summary": "Tool for running legacy Python scripts in isolated virtual environments",
+  "author": "thenola",
+  "license": "MIT",
+  "home_page": "https://github.com/thenola/pythondocker",
+  "download_filename": "python_docker_package-1.0.0.tar.gz",
+  "download_time": "2026-02-06T19:01:31.427741",
+  "package_url": "https://pypi.org/project/python-docker-package/"
+}

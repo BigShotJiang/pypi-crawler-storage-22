@@ -1,0 +1,11 @@
+{
+  "name": "ml-metadata-czgdp1807",
+  "version": "1.18.0.dev6",
+  "summary": "A library for maintaining metadata for artifacts.",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/google/ml-metadata",
+  "download_filename": "ml_metadata_czgdp1807-1.18.0.dev6-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-06T19:00:54.599057",
+  "package_url": "https://pypi.org/project/ml-metadata-czgdp1807/"
+}
