@@ -1,0 +1,11 @@
+{
+  "name": "voice-input",
+  "version": "1.0.0",
+  "summary": "跨设备语音输入传输系统 - 将手机端语音识别文本传送到电脑",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voice_input-1.0.0.tar.gz",
+  "download_time": "2026-02-06T07:15:57.126812",
+  "package_url": "https://pypi.org/project/voice-input/"
+}

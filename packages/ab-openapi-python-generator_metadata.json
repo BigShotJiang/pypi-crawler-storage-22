@@ -1,11 +1,11 @@
 {
   "name": "ab-openapi-python-generator",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "summary": "Openapi Python Generator",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ab_openapi_python_generator-2.2.4.tar.gz",
-  "download_time": "2026-02-06T05:23:55.547119",
+  "download_filename": "ab_openapi_python_generator-2.2.5.tar.gz",
+  "download_time": "2026-02-06T07:16:08.700577",
   "package_url": "https://pypi.org/project/ab-openapi-python-generator/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flight-search",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "CLI tool to search Google Flights - prices, times, and airlines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flight_search-0.1.0.tar.gz",
-  "download_time": "2026-02-06T06:14:33.777685",
+  "download_filename": "flight_search-0.1.4.tar.gz",
+  "download_time": "2026-02-06T07:16:23.882654",
   "package_url": "https://pypi.org/project/flight-search/"
 }

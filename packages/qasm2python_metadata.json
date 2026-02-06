@@ -1,0 +1,11 @@
+{
+  "name": "qasm2python",
+  "version": "0.3.1",
+  "summary": "Convert OpenQASM 3 to Python Qiskit code dynamically.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qasm2python-0.3.1.tar.gz",
+  "download_time": "2026-02-06T07:16:24.954613",
+  "package_url": "https://pypi.org/project/qasm2python/"
+}

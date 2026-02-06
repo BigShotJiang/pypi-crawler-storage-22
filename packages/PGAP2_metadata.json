@@ -1,0 +1,11 @@
+{
+  "name": "PGAP2",
+  "version": "1.1.0",
+  "summary": "PGAP2: a comprehensive pan-genome analysis pipeline for prokaryotic genomes",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pgap2-1.1.0.tar.gz",
+  "download_time": "2026-02-06T07:16:42.288099",
+  "package_url": "https://pypi.org/project/PGAP2/"
+}

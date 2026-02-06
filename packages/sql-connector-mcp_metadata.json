@@ -1,0 +1,11 @@
+{
+  "name": "sql-connector-mcp",
+  "version": "0.1.1",
+  "summary": "An MCP server for SQL database connectivity",
+  "author": "Battula Anil Kumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sql_connector_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-06T07:16:10.861918",
+  "package_url": "https://pypi.org/project/sql-connector-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "qwen-claude",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Qwen + Claude Code Router bootstrapper",
-  "author": "Saad-Kamran-2006",
+  "author": "Saad Kamran",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qwen_claude-0.1.0.tar.gz",
-  "download_time": "2026-02-02T10:08:43.868623",
+  "download_filename": "qwen_claude-0.1.4.tar.gz",
+  "download_time": "2026-02-06T07:16:00.585860",
   "package_url": "https://pypi.org/project/qwen-claude/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "claudemol",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "PyMOL integration for Claude Code - control molecular visualization via natural language",
   "author": "Alex Naka",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claudemol-0.3.0.tar.gz",
-  "download_time": "2026-02-06T06:14:30.507212",
+  "download_filename": "claudemol-0.4.0.tar.gz",
+  "download_time": "2026-02-06T07:16:43.363134",
   "package_url": "https://pypi.org/project/claudemol/"
 }

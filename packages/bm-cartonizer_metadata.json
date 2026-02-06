@@ -1,0 +1,11 @@
+{
+  "name": "bm-cartonizer",
+  "version": "0.1.2",
+  "summary": "bm产品装箱（重量合规、SKU 优先）",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bm_cartonizer-0.1.2.tar.gz",
+  "download_time": "2026-02-06T07:16:17.428262",
+  "package_url": "https://pypi.org/project/bm-cartonizer/"
+}

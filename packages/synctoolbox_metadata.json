@@ -1,0 +1,11 @@
+{
+  "name": "synctoolbox",
+  "version": "1.4.1",
+  "summary": "Python Package for Efficient, Robust, and Accurate Music Synchronization (Sync Toolbox)",
+  "author": "Yigitcan Özer, Michael Krause, Thomas Prätzlich, Jonathan Driedger",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synctoolbox-1.4.1-py3-none-any.whl",
+  "download_time": "2026-02-06T07:16:08.161418",
+  "package_url": "https://pypi.org/project/synctoolbox/"
+}
