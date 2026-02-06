@@ -1,0 +1,11 @@
+{
+  "name": "go3",
+  "version": "0.3.0",
+  "summary": "Semantic similarity computations using Gene Ontology with Rust performance",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "go3-0.3.0-cp310-cp310-manylinux_2_12_i686.manylinux2010_i686.whl",
+  "download_time": "2026-02-06T11:04:54.850813",
+  "package_url": "https://pypi.org/project/go3/"
+}

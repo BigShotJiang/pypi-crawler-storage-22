@@ -1,0 +1,11 @@
+{
+  "name": "sphinx-pybtex-etal-style",
+  "version": "0.0.4",
+  "summary": "Abbreviate long author lists with et al. in BibTeX bibliographies for Sphinx",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "sphinx_pybtex_etal_style-0.0.4.tar.gz",
+  "download_time": "2026-02-06T11:05:00.991270",
+  "package_url": "https://pypi.org/project/sphinx-pybtex-etal-style/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stcrpy",
+  "version": "1.0.6",
+  "summary": "Set of methods to parse, annotate, and calculate features of TCR structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stcrpy-1.0.6.tar.gz",
+  "download_time": "2026-02-06T11:04:35.852201",
+  "package_url": "https://pypi.org/project/stcrpy/"
+}

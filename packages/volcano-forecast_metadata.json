@@ -1,0 +1,11 @@
+{
+  "name": "volcano-forecast",
+  "version": "1.0.0",
+  "summary": "Multi-parameter volcanic unrest monitoring and eruption forecasting framework",
+  "author": "Samir Baladi",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/gitdeeper3/volcano",
+  "download_filename": "volcano_forecast-1.0.0.tar.gz",
+  "download_time": "2026-02-06T11:04:44.779308",
+  "package_url": "https://pypi.org/project/volcano-forecast/"
+}

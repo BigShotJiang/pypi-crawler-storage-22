@@ -1,0 +1,11 @@
+{
+  "name": "neutts",
+  "version": "0.1.0",
+  "summary": "NeuTTS - a package for text-to-speech generation using Neuphonics TTS models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neutts-0.1.0.tar.gz",
+  "download_time": "2026-02-06T11:04:26.782896",
+  "package_url": "https://pypi.org/project/neutts/"
+}

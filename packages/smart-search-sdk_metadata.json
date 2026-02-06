@@ -1,0 +1,11 @@
+{
+  "name": "smart-search-sdk",
+  "version": "0.0.11b1",
+  "summary": "SDK for Smart Search API backend",
+  "author": "Smart Search Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smart_search_sdk-0.0.11b1-py3-none-any.whl",
+  "download_time": "2026-02-06T11:05:01.500695",
+  "package_url": "https://pypi.org/project/smart-search-sdk/"
+}

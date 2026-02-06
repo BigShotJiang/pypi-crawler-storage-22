@@ -1,11 +1,11 @@
 {
   "name": "pyiskra",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "summary": "Python Iskra devices interface",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyiskra-0.1.28.tar.gz",
-  "download_time": "2026-02-03T08:07:51.345535",
+  "download_filename": "pyiskra-0.1.29.tar.gz",
+  "download_time": "2026-02-06T11:04:57.411066",
   "package_url": "https://pypi.org/project/pyiskra/"
 }

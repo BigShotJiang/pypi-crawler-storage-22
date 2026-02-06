@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-mcsa",
+  "version": "0.1.1",
+  "summary": "MCP server for Motor Current Signature Analysis (MCSA) — spectral analysis, fault frequency calculation, and fault detection in electric motors",
+  "author": "LGDiMaggio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_server_mcsa-0.1.1.tar.gz",
+  "download_time": "2026-02-06T11:04:41.689744",
+  "package_url": "https://pypi.org/project/mcp-server-mcsa/"
+}

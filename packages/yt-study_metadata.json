@@ -1,11 +1,11 @@
 {
   "name": "yt-study",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Convert YouTube videos into AI-powered study notes with chapter support",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yt_study-0.2.0.tar.gz",
-  "download_time": "2026-02-06T10:10:10.363167",
+  "download_filename": "yt_study-0.2.1.tar.gz",
+  "download_time": "2026-02-06T11:04:56.388339",
   "package_url": "https://pypi.org/project/yt-study/"
 }
