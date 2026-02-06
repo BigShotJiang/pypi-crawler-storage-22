@@ -1,11 +1,11 @@
 {
   "name": "jseye",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "summary": "JavaScript Intelligence & Attack Surface Discovery Tool",
   "author": "Lakshmikanthan K",
   "license": "MIT",
   "home_page": "https://github.com/letchupkt/jseye",
-  "download_filename": "jseye-1.0.3.tar.gz",
-  "download_time": "2026-02-05T19:29:54.042534",
+  "download_filename": "jseye-1.0.5.tar.gz",
+  "download_time": "2026-02-06T15:30:12.582396",
   "package_url": "https://pypi.org/project/jseye/"
 }

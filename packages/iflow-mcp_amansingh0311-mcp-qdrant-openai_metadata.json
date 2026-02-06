@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_amansingh0311-mcp-qdrant-openai",
+  "version": "0.1.0",
+  "summary": "MCP Qdrant Server with OpenAI Embeddings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_amansingh0311_mcp_qdrant_openai-0.1.0.tar.gz",
+  "download_time": "2026-02-06T15:30:25.608407",
+  "package_url": "https://pypi.org/project/iflow-mcp_amansingh0311-mcp-qdrant-openai/"
+}

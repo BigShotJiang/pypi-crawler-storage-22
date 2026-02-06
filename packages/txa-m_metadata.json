@@ -1,0 +1,11 @@
+{
+  "name": "txa-m",
+  "version": "2.0.1",
+  "summary": "A modern, high-speed downloader for MediaFire files and folders",
+  "author": "TXA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "txa_m-2.0.1.tar.gz",
+  "download_time": "2026-02-06T15:30:20.883923",
+  "package_url": "https://pypi.org/project/txa-m/"
+}

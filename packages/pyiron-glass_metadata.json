@@ -1,0 +1,11 @@
+{
+  "name": "pyiron-glass",
+  "version": "0.0.12",
+  "summary": "Workflows for atomistic modeling of oxide glasses",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyiron_glass-0.0.12.tar.gz",
+  "download_time": "2026-02-06T15:30:52.168716",
+  "package_url": "https://pypi.org/project/pyiron-glass/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spotify-profile-monitor",
+  "version": "3.2",
+  "summary": "Track Spotify profile, follower and playlist changes in real time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spotify_profile_monitor-3.2.tar.gz",
+  "download_time": "2026-02-06T15:30:24.018122",
+  "package_url": "https://pypi.org/project/spotify-profile-monitor/"
+}

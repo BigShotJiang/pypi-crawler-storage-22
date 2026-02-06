@@ -1,0 +1,11 @@
+{
+  "name": "django-search-visualizer",
+  "version": "0.2",
+  "summary": "A Django web view for Models data search",
+  "author": "Filipe Fraqueiro",
+  "license": null,
+  "home_page": "https://github.com/filipefraqueiro/django-search-visualizer",
+  "download_filename": "django_search_visualizer-0.2.tar.gz",
+  "download_time": "2026-02-06T15:31:01.596807",
+  "package_url": "https://pypi.org/project/django-search-visualizer/"
+}

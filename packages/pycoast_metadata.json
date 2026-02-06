@@ -1,0 +1,11 @@
+{
+  "name": "pycoast",
+  "version": "1.8.0",
+  "summary": "Writing of coastlines, borders and rivers to images in Python",
+  "author": "Esben S. Nielsen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pycoast-1.8.0-py3-none-any.whl",
+  "download_time": "2026-02-06T15:30:33.433217",
+  "package_url": "https://pypi.org/project/pycoast/"
+}

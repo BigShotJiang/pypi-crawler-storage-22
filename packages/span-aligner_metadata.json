@@ -1,0 +1,11 @@
+{
+  "name": "span-aligner",
+  "version": "0.2.4",
+  "summary": "A utility for aligning and mapping text spans between different text representations.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "span_aligner-0.2.4.tar.gz",
+  "download_time": "2026-02-06T15:30:36.254011",
+  "package_url": "https://pypi.org/project/span-aligner/"
+}

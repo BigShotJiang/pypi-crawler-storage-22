@@ -1,0 +1,11 @@
+{
+  "name": "fun-args",
+  "version": "0.0.3",
+  "summary": "Tiny CLI argument parser inspired by Typer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fun_args-0.0.3.tar.gz",
+  "download_time": "2026-02-06T15:30:26.697971",
+  "package_url": "https://pypi.org/project/fun-args/"
+}
