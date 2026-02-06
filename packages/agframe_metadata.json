@@ -1,0 +1,11 @@
+{
+  "name": "agframe",
+  "version": "0.2.1",
+  "summary": "This is an playground for AI agents to code within. Constraints are clearly outlined and code is cleary displayed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agframe-0.2.1.tar.gz",
+  "download_time": "2026-02-06T22:21:45.396838",
+  "package_url": "https://pypi.org/project/agframe/"
+}

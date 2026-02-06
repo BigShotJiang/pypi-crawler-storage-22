@@ -1,0 +1,11 @@
+{
+  "name": "frooky",
+  "version": "0.2.1",
+  "summary": "Frida-powered hook runner based on JSON hook files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frooky-0.2.1-py3-none-any.whl",
+  "download_time": "2026-02-06T22:21:39.370251",
+  "package_url": "https://pypi.org/project/frooky/"
+}

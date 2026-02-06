@@ -1,0 +1,11 @@
+{
+  "name": "rt",
+  "version": "3.6.0",
+  "summary": "Python interface to Request Tracker API",
+  "author": null,
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": null,
+  "download_filename": "rt-3.6.0-py3-none-any.whl",
+  "download_time": "2026-02-06T22:21:32.357376",
+  "package_url": "https://pypi.org/project/rt/"
+}

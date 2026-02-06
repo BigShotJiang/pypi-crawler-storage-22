@@ -1,0 +1,11 @@
+{
+  "name": "xgt",
+  "version": "2.5.0",
+  "summary": "The Python interface to the Rocketgraph xGT graph analytics engine.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xgt-2.5.0.tar.gz",
+  "download_time": "2026-02-06T22:22:04.248169",
+  "package_url": "https://pypi.org/project/xgt/"
+}

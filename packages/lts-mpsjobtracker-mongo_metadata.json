@@ -1,0 +1,11 @@
+{
+  "name": "lts-mpsjobtracker-mongo",
+  "version": "0.1.34",
+  "summary": "A job tracker management module",
+  "author": "Katie Amaral",
+  "license": null,
+  "home_page": "https://github.huit.harvard.edu/LTS/mps-jobtracker",
+  "download_filename": "lts_mpsjobtracker_mongo-0.1.34.tar.gz",
+  "download_time": "2026-02-06T22:21:23.739913",
+  "package_url": "https://pypi.org/project/lts-mpsjobtracker-mongo/"
+}

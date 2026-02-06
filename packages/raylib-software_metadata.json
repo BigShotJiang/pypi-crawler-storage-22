@@ -1,0 +1,11 @@
+{
+  "name": "raylib-software",
+  "version": "5.6.0.0.dev4",
+  "summary": "Python CFFI bindings for Raylib",
+  "author": "Electron Studio",
+  "license": null,
+  "home_page": "https://github.com/electronstudio/raylib-python-cffi",
+  "download_filename": "raylib_software-5.6.0.0.dev4-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.whl",
+  "download_time": "2026-02-06T22:21:55.466293",
+  "package_url": "https://pypi.org/project/raylib-software/"
+}

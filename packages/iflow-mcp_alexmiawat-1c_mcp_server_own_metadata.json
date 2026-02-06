@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_alexmiawat-1c_mcp_server_own",
+  "version": "1.0.0",
+  "summary": "MCP proxy server for 1C:Enterprise - bridge between AI agents and 1C database",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_alexmiawat_1c_mcp_server_own-1.0.0.tar.gz",
+  "download_time": "2026-02-06T22:21:27.501544",
+  "package_url": "https://pypi.org/project/iflow-mcp_alexmiawat-1c_mcp_server_own/"
+}

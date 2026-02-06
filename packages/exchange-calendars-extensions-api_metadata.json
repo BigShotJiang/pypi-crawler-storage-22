@@ -1,0 +1,11 @@
+{
+  "name": "exchange-calendars-extensions-api",
+  "version": "0.5.1",
+  "summary": "A package that defines parts of the API of the exchange-calendars-extensions package.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "exchange_calendars_extensions_api-0.5.1.tar.gz",
+  "download_time": "2026-02-06T22:21:42.720430",
+  "package_url": "https://pypi.org/project/exchange-calendars-extensions-api/"
+}

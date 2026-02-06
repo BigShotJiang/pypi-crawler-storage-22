@@ -1,11 +1,11 @@
 {
   "name": "wefml",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "A C++ deep learning library with Vulkan GPU acceleration, exposed to Python",
   "author": "wefml contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wefml-0.1.2.tar.gz",
-  "download_time": "2026-02-06T21:29:22.969590",
+  "download_filename": "wefml-0.1.5.tar.gz",
+  "download_time": "2026-02-06T22:21:19.895161",
   "package_url": "https://pypi.org/project/wefml/"
 }

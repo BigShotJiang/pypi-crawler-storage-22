@@ -1,0 +1,11 @@
+{
+  "name": "watflow",
+  "version": "0.0.1",
+  "summary": "WAT Framework for AI-powered workflow automations",
+  "author": "cilladev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "watflow-0.0.1.tar.gz",
+  "download_time": "2026-02-06T22:21:32.888117",
+  "package_url": "https://pypi.org/project/watflow/"
+}
