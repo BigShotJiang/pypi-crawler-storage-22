@@ -1,11 +1,11 @@
 {
   "name": "docling-jobkit",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "summary": "Running a distributed job processing documents with Docling.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "docling_jobkit-1.10.0.tar.gz",
-  "download_time": "2026-02-05T12:53:31.217224",
+  "download_filename": "docling_jobkit-1.10.1.tar.gz",
+  "download_time": "2026-02-06T11:51:47.689759",
   "package_url": "https://pypi.org/project/docling-jobkit/"
 }

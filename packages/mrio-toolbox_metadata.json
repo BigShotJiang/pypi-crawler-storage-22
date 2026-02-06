@@ -1,0 +1,11 @@
+{
+  "name": "mrio-toolbox",
+  "version": "1.2.1",
+  "summary": "Basic manipulation of Multi-Regional Input-Output tables.",
+  "author": "Florian Wirth",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mrio_toolbox-1.2.1.tar.gz",
+  "download_time": "2026-02-06T11:51:23.687354",
+  "package_url": "https://pypi.org/project/mrio-toolbox/"
+}

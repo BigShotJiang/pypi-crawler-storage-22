@@ -1,0 +1,11 @@
+{
+  "name": "biquad",
+  "version": "0.5",
+  "summary": "Collection of alterable digital biquad filters for dynamic audio effect creation",
+  "author": "Juergen Hock",
+  "license": "MIT",
+  "home_page": "https://github.com/jurihock/biquad",
+  "download_filename": "biquad-0.5.tar.gz",
+  "download_time": "2026-02-06T11:51:17.687917",
+  "package_url": "https://pypi.org/project/biquad/"
+}

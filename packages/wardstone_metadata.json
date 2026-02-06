@@ -1,0 +1,11 @@
+{
+  "name": "wardstone",
+  "version": "0.1.0",
+  "summary": "Official Wardstone SDK for LLM security, prompt injection detection, content moderation, and AI guardrails",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wardstone-0.1.0.tar.gz",
+  "download_time": "2026-02-06T11:51:37.292209",
+  "package_url": "https://pypi.org/project/wardstone/"
+}

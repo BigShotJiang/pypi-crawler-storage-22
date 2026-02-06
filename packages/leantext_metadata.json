@@ -1,11 +1,11 @@
 {
   "name": "leantext",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leantext-1.1.0-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-01-31T01:26:46.634567",
+  "download_filename": "leantext-1.1.1-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-06T11:51:07.853234",
   "package_url": "https://pypi.org/project/leantext/"
 }

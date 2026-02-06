@@ -1,0 +1,11 @@
+{
+  "name": "vtjson",
+  "version": "2.2.8",
+  "summary": "An easy to use validation library compatible with Python type annotations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vtjson-2.2.8.tar.gz",
+  "download_time": "2026-02-06T11:51:00.143361",
+  "package_url": "https://pypi.org/project/vtjson/"
+}

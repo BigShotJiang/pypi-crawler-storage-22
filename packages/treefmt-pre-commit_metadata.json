@@ -1,11 +1,11 @@
 {
   "name": "treefmt-pre-commit",
-  "version": "2.4.0.15",
+  "version": "2.4.0.16",
   "summary": "Pre-commit hooks for treefmt",
   "author": null,
   "license": "MIT OR Apache-2.0",
   "home_page": "https://github.com/MaxMatti/treefmt-pre-commit",
-  "download_filename": "treefmt_pre_commit-2.4.0.15-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2026-02-06T11:04:53.158530",
+  "download_filename": "treefmt_pre_commit-2.4.0.16-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-06T11:50:57.133498",
   "package_url": "https://pypi.org/project/treefmt-pre-commit/"
 }

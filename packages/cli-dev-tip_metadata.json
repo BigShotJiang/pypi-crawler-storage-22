@@ -1,0 +1,11 @@
+{
+  "name": "cli-dev-tip",
+  "version": "0.1.2",
+  "summary": "Bite-sized developer tips in your terminal",
+  "author": "My-CD-ROM",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cli_dev_tip-0.1.2.tar.gz",
+  "download_time": "2026-02-06T11:51:41.634312",
+  "package_url": "https://pypi.org/project/cli-dev-tip/"
+}

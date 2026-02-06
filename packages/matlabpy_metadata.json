@@ -1,0 +1,11 @@
+{
+  "name": "matlabpy",
+  "version": "0.0.3",
+  "summary": "A Python library for MATLAB integration",
+  "author": "Daniel F. Hernández Gardiol",
+  "license": null,
+  "home_page": null,
+  "download_filename": "matlabpy-0.0.3.tar.gz",
+  "download_time": "2026-02-06T11:51:09.584820",
+  "package_url": "https://pypi.org/project/matlabpy/"
+}

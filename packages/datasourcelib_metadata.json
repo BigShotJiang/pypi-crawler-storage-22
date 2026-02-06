@@ -1,0 +1,11 @@
+{
+  "name": "datasourcelib",
+  "version": "0.1.14",
+  "summary": "Data source sync strategies for vector DBs",
+  "author": "Akash Kumar Maurya",
+  "license": null,
+  "home_page": "https://github.com/akashmaurya0217/datasourcelib",
+  "download_filename": "datasourcelib-0.1.14.tar.gz",
+  "download_time": "2026-02-06T11:51:11.508398",
+  "package_url": "https://pypi.org/project/datasourcelib/"
+}

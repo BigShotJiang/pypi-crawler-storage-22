@@ -1,0 +1,11 @@
+{
+  "name": "atom-audio-engine",
+  "version": "0.1.0",
+  "summary": "A pluggable, async-first Python framework for real-time audio-to-audio conversational AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atom_audio_engine-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-06T11:51:02.455202",
+  "package_url": "https://pypi.org/project/atom-audio-engine/"
+}

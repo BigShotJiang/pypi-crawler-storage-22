@@ -1,0 +1,11 @@
+{
+  "name": "pipecat-respeecher",
+  "version": "0.1.3",
+  "summary": "Respeecher real-time TTS plugin for Pipecat",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipecat_respeecher-0.1.3.tar.gz",
+  "download_time": "2026-02-06T11:50:58.353469",
+  "package_url": "https://pypi.org/project/pipecat-respeecher/"
+}

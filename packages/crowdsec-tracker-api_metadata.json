@@ -1,0 +1,11 @@
+{
+  "name": "crowdsec-tracker-api",
+  "version": "1.102.4",
+  "summary": "This is the API to manage Crowdsec Live Exploit Tracker service",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crowdsec_tracker_api-1.102.4.tar.gz",
+  "download_time": "2026-02-06T11:51:29.068504",
+  "package_url": "https://pypi.org/project/crowdsec-tracker-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "multivol",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "summary": "MultiVolatility: Analyze memory dumps faster than ever with Volatility2 and Volatility3 in parallel using Docker",
   "author": null,
   "license": null,
   "home_page": "https://github.com/BoBNewz/MultiVolatility",
-  "download_filename": "multivol-0.1.4.tar.gz",
-  "download_time": "2026-02-03T12:49:17.283622",
+  "download_filename": "multivol-1.0.0.tar.gz",
+  "download_time": "2026-02-06T11:51:34.032115",
   "package_url": "https://pypi.org/project/multivol/"
 }
