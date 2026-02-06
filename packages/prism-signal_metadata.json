@@ -1,0 +1,11 @@
+{
+  "name": "prism-signal",
+  "version": "1.0.0",
+  "summary": "Pure mathematical signal analysis primitives",
+  "author": "Jason Rudder",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prism_signal-1.0.0.tar.gz",
+  "download_time": "2026-02-05T23:59:38.250468",
+  "package_url": "https://pypi.org/project/prism-signal/"
+}

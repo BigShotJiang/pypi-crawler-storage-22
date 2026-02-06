@@ -1,0 +1,11 @@
+{
+  "name": "pyicu",
+  "version": "2.16.1",
+  "summary": "Python extension wrapping the ICU C++ API",
+  "author": "Andi Vajda",
+  "license": "MIT",
+  "home_page": "https://gitlab.pyicu.org/main/pyicu",
+  "download_filename": "pyicu-2.16.1.tar.gz",
+  "download_time": "2026-02-05T23:59:52.986086",
+  "package_url": "https://pypi.org/project/pyicu/"
+}

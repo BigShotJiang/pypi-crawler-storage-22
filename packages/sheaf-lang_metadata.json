@@ -1,0 +1,11 @@
+{
+  "name": "sheaf-lang",
+  "version": "1.2.0",
+  "summary": "A functional language for differentiable programming",
+  "author": "Damien Boureille",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sheaf_lang-1.2.0.tar.gz",
+  "download_time": "2026-02-05T23:59:24.310090",
+  "package_url": "https://pypi.org/project/sheaf-lang/"
+}

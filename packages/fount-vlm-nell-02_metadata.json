@@ -1,0 +1,11 @@
+{
+  "name": "fount-vlm-nell-02",
+  "version": "0.3.11",
+  "summary": "fork of mlx-vlm for fount",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fount_vlm_nell_02-0.3.11.tar.gz",
+  "download_time": "2026-02-05T23:59:49.849211",
+  "package_url": "https://pypi.org/project/fount-vlm-nell-02/"
+}

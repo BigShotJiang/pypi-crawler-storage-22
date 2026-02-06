@@ -1,11 +1,11 @@
 {
   "name": "aiondtech",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "Official Python SDK for AiondTech Resume Analyser API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiondtech-2.4.0.tar.gz",
-  "download_time": "2026-02-05T23:41:07.914976",
+  "download_filename": "aiondtech-2.5.0.tar.gz",
+  "download_time": "2026-02-05T23:59:56.122176",
   "package_url": "https://pypi.org/project/aiondtech/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "datfid",
+  "version": "0.1.27",
+  "summary": "SDK to access the DATFID API hosted on Hugging Face Spaces",
+  "author": "DATFID",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datfid-0.1.27.tar.gz",
+  "download_time": "2026-02-05T23:59:55.602102",
+  "package_url": "https://pypi.org/project/datfid/"
+}

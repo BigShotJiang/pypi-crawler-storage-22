@@ -1,0 +1,11 @@
+{
+  "name": "pynnlf",
+  "version": "0.2.4",
+  "summary": "Python Network Net Load Forecasting (PyNNLF): reproducible evaluation of net load forecasting models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pynnlf-0.2.4.tar.gz",
+  "download_time": "2026-02-05T23:59:45.670119",
+  "package_url": "https://pypi.org/project/pynnlf/"
+}

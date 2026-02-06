@@ -1,11 +1,11 @@
 {
   "name": "omextra-cext",
-  "version": "0.0.0.dev518",
+  "version": "0.0.0.dev522",
   "summary": "omextra",
   "author": "wrmsr",
   "license": null,
   "home_page": null,
-  "download_filename": "omextra_cext-0.0.0.dev518.tar.gz",
-  "download_time": "2026-02-03T07:33:06.540566",
+  "download_filename": "omextra_cext-0.0.0.dev522.tar.gz",
+  "download_time": "2026-02-05T23:59:24.830539",
   "package_url": "https://pypi.org/project/omextra-cext/"
 }

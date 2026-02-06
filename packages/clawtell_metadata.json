@@ -1,11 +1,11 @@
 {
   "name": "clawtell",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Universal messaging SDK for AI agents",
   "author": "ClawTell",
   "license": null,
   "home_page": "https://github.com/clawtell/clawtell-python",
-  "download_filename": "clawtell-0.1.2.tar.gz",
-  "download_time": "2026-02-05T23:04:37.012297",
+  "download_filename": "clawtell-0.1.4.tar.gz",
+  "download_time": "2026-02-05T23:59:47.767541",
   "package_url": "https://pypi.org/project/clawtell/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyscitt",
+  "version": "0.13.0",
+  "summary": "Tools to sign claims and interact with a SCITT CCF Ledger",
+  "author": "SCITT CCF Team",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/microsoft/scitt-ccf-ledger/tree/main/pyscitt",
+  "download_filename": "pyscitt-0.13.0.tar.gz",
+  "download_time": "2026-02-05T23:59:42.455254",
+  "package_url": "https://pypi.org/project/pyscitt/"
+}
