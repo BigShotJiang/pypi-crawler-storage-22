@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_vdlaptrinh-mcp-history",
+  "version": "0.1.0",
+  "summary": "MCP skill for retrieving 'Ngày này năm xưa' (historical events) from lichngaytot.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_vdlaptrinh_mcp_history-0.1.0.tar.gz",
+  "download_time": "2026-02-06T20:53:45.831190",
+  "package_url": "https://pypi.org/project/iflow-mcp_vdlaptrinh-mcp-history/"
+}

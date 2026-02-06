@@ -1,0 +1,11 @@
+{
+  "name": "textual-reactive",
+  "version": "0.1.0a1",
+  "summary": "React-like state management for Textual TUI framework",
+  "author": "ierence",
+  "license": null,
+  "home_page": null,
+  "download_filename": "textual_reactive-0.1.0a1.tar.gz",
+  "download_time": "2026-02-06T20:53:55.636313",
+  "package_url": "https://pypi.org/project/textual-reactive/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "emojiout",
+  "version": "0.1.2",
+  "summary": "Biblioteca simples para forçar UTF-8 no stdout e evitar erros com emojis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "emojiout-0.1.2.tar.gz",
+  "download_time": "2026-02-06T20:53:57.188386",
+  "package_url": "https://pypi.org/project/emojiout/"
+}

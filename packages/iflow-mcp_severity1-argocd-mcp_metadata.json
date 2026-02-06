@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_severity1-argocd-mcp",
+  "version": "0.1.0",
+  "summary": "An MCP (Model Context Protocol) server that integrates with the ArgoCD API, enabling agentic tools to manage ArgoCD through natural language interactions. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_severity1_argocd_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-06T20:53:17.064605",
+  "package_url": "https://pypi.org/project/iflow-mcp_severity1-argocd-mcp/"
+}

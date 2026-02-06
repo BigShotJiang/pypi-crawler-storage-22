@@ -1,0 +1,11 @@
+{
+  "name": "libwholegraph-cu12",
+  "version": "26.2.0",
+  "summary": "wholegraph",
+  "author": "NVIDIA Corporation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "libwholegraph_cu12-26.2.0.tar.gz",
+  "download_time": "2026-02-06T20:53:43.262888",
+  "package_url": "https://pypi.org/project/libwholegraph-cu12/"
+}

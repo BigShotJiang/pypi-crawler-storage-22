@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_labeveryday-mcp-obsidian",
+  "version": "0.1.0",
+  "summary": "MCP server for Obsidian integration with AI assistants",
+  "author": "MCP Obsidian Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_labeveryday_mcp_obsidian-0.1.0.tar.gz",
+  "download_time": "2026-02-06T20:54:00.355735",
+  "package_url": "https://pypi.org/project/iflow-mcp_labeveryday-mcp-obsidian/"
+}

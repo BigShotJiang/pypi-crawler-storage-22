@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-myonlineportal",
+  "version": "0.1.1",
+  "summary": "Obtain certificates using a DNS TXT record for MyOnlinePortal.net domains",
+  "author": "geraldhansen",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/geraldhansen/certbot_dns_myonlineportal",
+  "download_filename": "certbot_dns_myonlineportal-0.1.1.tar.gz",
+  "download_time": "2026-02-06T20:53:35.509969",
+  "package_url": "https://pypi.org/project/certbot-dns-myonlineportal/"
+}

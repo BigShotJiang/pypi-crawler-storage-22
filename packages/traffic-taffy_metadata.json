@@ -1,0 +1,11 @@
+{
+  "name": "traffic-taffy",
+  "version": "1.0",
+  "summary": "A tool for doing differential analysis of pcap files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "traffic_taffy-1.0.tar.gz",
+  "download_time": "2026-02-06T20:53:50.450710",
+  "package_url": "https://pypi.org/project/traffic-taffy/"
+}

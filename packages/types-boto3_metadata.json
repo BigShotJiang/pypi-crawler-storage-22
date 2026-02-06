@@ -1,11 +1,11 @@
 {
   "name": "types-boto3",
-  "version": "1.42.43",
-  "summary": "Type annotations for boto3 1.42.43 generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.44",
+  "summary": "Type annotations for boto3 1.42.44 generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_boto3-1.42.43.tar.gz",
-  "download_time": "2026-02-05T21:03:08.938919",
+  "download_filename": "types_boto3-1.42.44.tar.gz",
+  "download_time": "2026-02-06T20:53:56.672039",
   "package_url": "https://pypi.org/project/types-boto3/"
 }

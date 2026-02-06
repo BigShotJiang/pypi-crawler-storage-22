@@ -1,0 +1,11 @@
+{
+  "name": "wrtrade",
+  "version": "2.1.1",
+  "summary": "Ultra-fast backtesting and trading framework. Built with Polars for speed, designed for simplicity.",
+  "author": "Wayy Research",
+  "license": null,
+  "home_page": "https://github.com/wayy-research/wrtrade",
+  "download_filename": "wrtrade-2.1.1.tar.gz",
+  "download_time": "2026-02-06T20:53:26.744388",
+  "package_url": "https://pypi.org/project/wrtrade/"
+}

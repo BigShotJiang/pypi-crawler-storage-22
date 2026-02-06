@@ -1,0 +1,11 @@
+{
+  "name": "aid-discovery",
+  "version": "1.2.0",
+  "summary": "Python library for Agent Identity & Discovery (AID) - v1.2.0 release",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aid_discovery-1.2.0.tar.gz",
+  "download_time": "2026-02-06T20:53:18.130961",
+  "package_url": "https://pypi.org/project/aid-discovery/"
+}

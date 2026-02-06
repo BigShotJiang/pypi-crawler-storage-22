@@ -1,11 +1,11 @@
 {
   "name": "yt-dbl",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "summary": "CLI tool for automatic YouTube video dubbing with voice cloning (Apple Silicon)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yt_dbl-1.2.0.tar.gz",
-  "download_time": "2026-02-06T20:04:50.266927",
+  "download_filename": "yt_dbl-1.4.0.tar.gz",
+  "download_time": "2026-02-06T20:53:17.599780",
   "package_url": "https://pypi.org/project/yt-dbl/"
 }
