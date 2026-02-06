@@ -1,0 +1,11 @@
+{
+  "name": "django-flex-blob",
+  "version": "0.0.14",
+  "summary": "A django app dedicated for managing media files and access to them",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "django_flex_blob-0.0.14.tar.gz",
+  "download_time": "2026-02-06T20:04:40.768543",
+  "package_url": "https://pypi.org/project/django-flex-blob/"
+}

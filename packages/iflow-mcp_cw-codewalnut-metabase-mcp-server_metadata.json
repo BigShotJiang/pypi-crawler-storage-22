@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cw-codewalnut-metabase-mcp-server",
+  "version": "0.1.0",
+  "summary": "A Metabase MCP (Model Context Protocol) server for integrating Metabase with AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_cw_codewalnut_metabase_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-06T20:04:47.630241",
+  "package_url": "https://pypi.org/project/iflow-mcp_cw-codewalnut-metabase-mcp-server/"
+}

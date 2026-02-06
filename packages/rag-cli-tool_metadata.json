@@ -1,0 +1,11 @@
+{
+  "name": "rag-cli-tool",
+  "version": "0.1.0",
+  "summary": "CLI tool for RAG over local documents",
+  "author": "Lukasz Grochal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rag_cli_tool-0.1.0.tar.gz",
+  "download_time": "2026-02-06T20:05:17.853163",
+  "package_url": "https://pypi.org/project/rag-cli-tool/"
+}

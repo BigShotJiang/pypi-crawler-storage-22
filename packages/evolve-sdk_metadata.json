@@ -1,11 +1,11 @@
 {
   "name": "evolve-sdk",
-  "version": "0.0.19",
+  "version": "0.0.20",
   "summary": "Pythonic SDK for multi-agent orchestration in E2B sandboxes",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "evolve_sdk-0.0.19.tar.gz",
-  "download_time": "2026-02-06T07:16:21.762045",
+  "download_filename": "evolve_sdk-0.0.20.tar.gz",
+  "download_time": "2026-02-06T20:05:07.301499",
   "package_url": "https://pypi.org/project/evolve-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "feed-ursus",
+  "version": "1.5.1",
+  "summary": "Command line tool to load CSV content into a Solr index for the UCLA Digital Library's frontend, Ursus (https://digital.library.ucla.edu/)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "feed_ursus-1.5.1.tar.gz",
+  "download_time": "2026-02-06T20:04:56.740793",
+  "package_url": "https://pypi.org/project/feed-ursus/"
+}

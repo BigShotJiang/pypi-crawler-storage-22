@@ -1,11 +1,11 @@
 {
   "name": "htoolbox",
-  "version": "0.8.0",
+  "version": "0.8.4",
   "summary": "This package includes various tools for developers.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "htoolbox-0.8.0.tar.gz",
-  "download_time": "2026-02-06T07:16:16.891064",
+  "download_filename": "htoolbox-0.8.4.tar.gz",
+  "download_time": "2026-02-06T20:05:14.663408",
   "package_url": "https://pypi.org/project/htoolbox/"
 }

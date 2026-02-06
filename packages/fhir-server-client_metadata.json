@@ -1,0 +1,11 @@
+{
+  "name": "fhir-server-client",
+  "version": "0.0.4",
+  "summary": "A Python client to interact with FHIR servers",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/TobiKuehn7/fhir-client",
+  "download_filename": "fhir_server_client-0.0.4.tar.gz",
+  "download_time": "2026-02-06T20:05:03.071250",
+  "package_url": "https://pypi.org/project/fhir-server-client/"
+}
