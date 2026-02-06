@@ -1,11 +1,11 @@
 {
   "name": "airbyte-source-github",
-  "version": "2.1.8",
+  "version": "2.1.9",
   "summary": "Source implementation for GitHub.",
   "author": "Airbyte",
   "license": "ELv2",
   "home_page": "https://airbyte.com",
-  "download_filename": "airbyte_source_github-2.1.8.tar.gz",
-  "download_time": "2026-02-04T21:49:34.347172",
+  "download_filename": "airbyte_source_github-2.1.9.tar.gz",
+  "download_time": "2026-02-06T01:57:39.617752",
   "package_url": "https://pypi.org/project/airbyte-source-github/"
 }

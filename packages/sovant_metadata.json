@@ -1,0 +1,11 @@
+{
+  "name": "sovant",
+  "version": "1.3.3",
+  "summary": "Sovant Python SDK — governed AI memory layer for AI agents and applications",
+  "author": "Sovant",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sovant-1.3.3.tar.gz",
+  "download_time": "2026-02-06T01:57:35.232374",
+  "package_url": "https://pypi.org/project/sovant/"
+}

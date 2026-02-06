@@ -1,11 +1,11 @@
 {
   "name": "a2a-lite",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Simplified wrapper for Google's A2A Protocol SDK",
   "author": "A2A Lite Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "a2a_lite-0.2.1.tar.gz",
-  "download_time": "2026-02-05T23:04:45.022860",
+  "download_filename": "a2a_lite-0.2.3.tar.gz",
+  "download_time": "2026-02-06T01:57:40.933588",
   "package_url": "https://pypi.org/project/a2a-lite/"
 }

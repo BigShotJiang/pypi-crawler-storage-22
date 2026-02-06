@@ -1,0 +1,11 @@
+{
+  "name": "metaspn-gates",
+  "version": "0.1.0",
+  "summary": "Config-driven gate and state machine evaluator for MetaSPN entity pipelines",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "metaspn_gates-0.1.0.tar.gz",
+  "download_time": "2026-02-06T01:57:23.087763",
+  "package_url": "https://pypi.org/project/metaspn-gates/"
+}

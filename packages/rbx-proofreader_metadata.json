@@ -1,0 +1,11 @@
+{
+  "name": "rbx-proofreader",
+  "version": "1.1.2",
+  "summary": "Visual trade detection and OCR engine",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rbx_proofreader-1.1.2.tar.gz",
+  "download_time": "2026-02-06T01:57:38.322064",
+  "package_url": "https://pypi.org/project/rbx-proofreader/"
+}

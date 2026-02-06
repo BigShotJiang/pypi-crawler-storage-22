@@ -1,11 +1,11 @@
 {
   "name": "django-periodic-tasks",
-  "version": "0.1.0a4",
+  "version": "0.1.0b0",
   "summary": "Periodic/cron task scheduling for django-tasks. Backend-agnostic replacement for celery-beat.",
   "author": null,
   "license": "ISC",
   "home_page": null,
-  "download_filename": "django_periodic_tasks-0.1.0a4.tar.gz",
-  "download_time": "2026-02-05T23:59:30.790656",
+  "download_filename": "django_periodic_tasks-0.1.0b0.tar.gz",
+  "download_time": "2026-02-06T01:57:27.046370",
   "package_url": "https://pypi.org/project/django-periodic-tasks/"
 }
