@@ -1,0 +1,11 @@
+{
+  "name": "formog2p",
+  "version": "0.1.2",
+  "summary": "Formosan Languages Grapheme-to-Phoneme (G2P) Toolkit - 台灣本土語言文字轉音素工具",
+  "author": "HS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "formog2p-0.1.2.tar.gz",
+  "download_time": "2026-02-06T14:03:11.860517",
+  "package_url": "https://pypi.org/project/formog2p/"
+}

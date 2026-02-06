@@ -1,0 +1,11 @@
+{
+  "name": "ralph-any",
+  "version": "0.1.0",
+  "summary": "Ralph Wiggum Loop — iterative AI dev loop via ACP (supports Claude, Gemini, and more)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ralph_any-0.1.0.tar.gz",
+  "download_time": "2026-02-06T14:02:55.573475",
+  "package_url": "https://pypi.org/project/ralph-any/"
+}

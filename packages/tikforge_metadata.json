@@ -1,0 +1,11 @@
+{
+  "name": "tikforge",
+  "version": "0.0.6",
+  "summary": "TikTok private API utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tikforge-0.0.6.tar.gz",
+  "download_time": "2026-02-06T14:02:52.339013",
+  "package_url": "https://pypi.org/project/tikforge/"
+}

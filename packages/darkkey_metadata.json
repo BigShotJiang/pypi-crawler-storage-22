@@ -1,0 +1,11 @@
+{
+  "name": "darkkey",
+  "version": "0.1.0",
+  "summary": "Lightweight Python code packer with in-memory execution",
+  "author": "DARK7V",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "darkkey-0.1.0.tar.gz",
+  "download_time": "2026-02-06T14:02:55.043280",
+  "package_url": "https://pypi.org/project/darkkey/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ai-dockpack",
+  "version": "0.1.1",
+  "summary": "AI-readable doc pack generator (CLI)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_dockpack-0.1.1.tar.gz",
+  "download_time": "2026-02-06T14:03:23.112591",
+  "package_url": "https://pypi.org/project/ai-dockpack/"
+}

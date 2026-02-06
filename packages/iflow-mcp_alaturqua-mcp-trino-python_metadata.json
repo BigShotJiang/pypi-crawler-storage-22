@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_alaturqua-mcp-trino-python",
+  "version": "0.7.2",
+  "summary": "A Model Context Protocol (MCP) connector for Trino, enabling seamless integration between MCP-compliant services and Trino query engine",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_alaturqua_mcp_trino_python-0.7.2.tar.gz",
+  "download_time": "2026-02-06T14:03:13.454069",
+  "package_url": "https://pypi.org/project/iflow-mcp_alaturqua-mcp-trino-python/"
+}

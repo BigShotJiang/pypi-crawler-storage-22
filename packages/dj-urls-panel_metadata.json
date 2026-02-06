@@ -1,0 +1,11 @@
+{
+  "name": "dj-urls-panel",
+  "version": "0.2.0",
+  "summary": "Visualize Django URL routing inside the Django Admin, including patterns, views, namespaces, etc",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dj_urls_panel-0.2.0.tar.gz",
+  "download_time": "2026-02-06T14:02:58.979960",
+  "package_url": "https://pypi.org/project/dj-urls-panel/"
+}

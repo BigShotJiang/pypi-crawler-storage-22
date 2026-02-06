@@ -1,0 +1,11 @@
+{
+  "name": "sumtyme",
+  "version": "2.0.5",
+  "summary": "Python Client for Causal Intelligence Layer (CIL) by sumtyme.ai",
+  "author": "sumteam",
+  "license": null,
+  "home_page": "https://docs.sumtyme.ai/",
+  "download_filename": "sumtyme-2.0.5.tar.gz",
+  "download_time": "2026-02-06T14:03:07.514497",
+  "package_url": "https://pypi.org/project/sumtyme/"
+}

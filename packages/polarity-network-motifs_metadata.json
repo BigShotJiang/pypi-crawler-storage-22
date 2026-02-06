@@ -1,0 +1,11 @@
+{
+  "name": "polarity-network-motifs",
+  "version": "0.2.0",
+  "summary": "A Python package for detecting and analyzing polarity network motifs - i.e., signed/typed networks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "polarity_network_motifs-0.2.0.tar.gz",
+  "download_time": "2026-02-06T14:03:04.318105",
+  "package_url": "https://pypi.org/project/polarity-network-motifs/"
+}

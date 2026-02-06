@@ -1,0 +1,11 @@
+{
+  "name": "scitex-linter",
+  "version": "0.1.2",
+  "summary": "AST-based linter enforcing SciTeX reproducible research patterns",
+  "author": "ywatanabe",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "scitex_linter-0.1.2.tar.gz",
+  "download_time": "2026-02-06T14:03:06.982703",
+  "package_url": "https://pypi.org/project/scitex-linter/"
+}

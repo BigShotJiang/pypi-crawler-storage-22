@@ -1,11 +1,11 @@
 {
   "name": "mlquantify",
-  "version": "0.1.28",
+  "version": "0.1.30",
   "summary": "Quantification Library",
   "author": null,
   "license": null,
   "home_page": "https://github.com/luizfernandolj/QuantifyML/tree/master",
-  "download_filename": "mlquantify-0.1.28.tar.gz",
-  "download_time": "2026-02-05T21:02:51.525111",
+  "download_filename": "mlquantify-0.1.30.tar.gz",
+  "download_time": "2026-02-06T14:03:12.923398",
   "package_url": "https://pypi.org/project/mlquantify/"
 }

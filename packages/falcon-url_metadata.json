@@ -1,0 +1,11 @@
+{
+  "name": "falcon-url",
+  "version": "0.1.2",
+  "summary": "Falcon router with url_for-like support",
+  "author": "jkmnt",
+  "license": null,
+  "home_page": null,
+  "download_filename": "falcon_url-0.1.2.tar.gz",
+  "download_time": "2026-02-06T14:03:12.392251",
+  "package_url": "https://pypi.org/project/falcon-url/"
+}

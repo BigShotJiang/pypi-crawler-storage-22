@@ -1,0 +1,11 @@
+{
+  "name": "databot-ai",
+  "version": "0.1.0",
+  "summary": "A lightweight, open-source AI assistant for data platform operations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "databot_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-06T14:03:33.254925",
+  "package_url": "https://pypi.org/project/databot-ai/"
+}

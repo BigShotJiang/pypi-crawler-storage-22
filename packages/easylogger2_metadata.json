@@ -1,0 +1,11 @@
+{
+  "name": "easylogger2",
+  "version": "0.1.0",
+  "summary": "A simplified Python logging library with colored console output and automatic file logging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "easylogger2-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-06T14:02:58.449419",
+  "package_url": "https://pypi.org/project/easylogger2/"
+}
