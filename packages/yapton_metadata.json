@@ -1,0 +1,11 @@
+{
+  "name": "yapton",
+  "version": "0.1.1",
+  "summary": "Yapton is an transpiler that converts Yapton code into Python code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yapton-0.1.1.tar.gz",
+  "download_time": "2026-02-06T12:49:17.528694",
+  "package_url": "https://pypi.org/project/yapton/"
+}

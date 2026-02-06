@@ -1,0 +1,11 @@
+{
+  "name": "edcpy",
+  "version": "0.11.2",
+  "summary": "Package that provides a series of utilities to facilitate interaction with the Management and Control APIs of an EDC connector",
+  "author": "Andres Garcia Mangas",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "edcpy-0.11.2.tar.gz",
+  "download_time": "2026-02-06T12:48:57.638726",
+  "package_url": "https://pypi.org/project/edcpy/"
+}

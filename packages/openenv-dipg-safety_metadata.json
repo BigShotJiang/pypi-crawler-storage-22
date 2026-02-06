@@ -1,11 +1,11 @@
 {
   "name": "openenv-dipg-safety",
-  "version": "0.1.46",
+  "version": "0.1.51",
   "summary": "DIPG Safety Environment for OpenEnv",
   "author": "surfiniaburger",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "openenv_dipg_safety-0.1.46.tar.gz",
-  "download_time": "2026-02-06T11:51:18.231731",
+  "download_filename": "openenv_dipg_safety-0.1.51.tar.gz",
+  "download_time": "2026-02-06T12:48:44.803639",
   "package_url": "https://pypi.org/project/openenv-dipg-safety/"
 }

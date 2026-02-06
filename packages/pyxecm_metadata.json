@@ -1,11 +1,11 @@
 {
   "name": "pyxecm",
-  "version": "3.2.3",
+  "version": "3.2.5",
   "summary": "A Python library to interact with Opentext Content Management Rest API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyxecm-3.2.3.tar.gz",
-  "download_time": "2026-02-04T08:37:32.201521",
+  "download_filename": "pyxecm-3.2.5.tar.gz",
+  "download_time": "2026-02-06T12:48:52.613245",
   "package_url": "https://pypi.org/project/pyxecm/"
 }

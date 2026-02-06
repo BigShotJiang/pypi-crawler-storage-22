@@ -1,0 +1,11 @@
+{
+  "name": "pyprodrisk",
+  "version": "2.0.3",
+  "summary": "Python interface to Prodrisk",
+  "author": "SINTEF Energy Research",
+  "license": "MIT",
+  "home_page": "https://www.sintef.no/en/software/prodrisk",
+  "download_filename": "pyprodrisk-2.0.3.tar.gz",
+  "download_time": "2026-02-06T12:49:24.040537",
+  "package_url": "https://pypi.org/project/pyprodrisk/"
+}

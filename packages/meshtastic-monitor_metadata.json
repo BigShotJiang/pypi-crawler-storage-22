@@ -1,0 +1,11 @@
+{
+  "name": "meshtastic-monitor",
+  "version": "0.1.4",
+  "summary": "Simple Meshtastic monitoring UI + JSON API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "meshtastic_monitor-0.1.4.tar.gz",
+  "download_time": "2026-02-06T12:49:23.498793",
+  "package_url": "https://pypi.org/project/meshtastic-monitor/"
+}

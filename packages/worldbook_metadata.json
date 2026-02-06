@@ -1,11 +1,11 @@
 {
   "name": "worldbook",
-  "version": "0.1.1",
-  "summary": "CLI for AI agents to access world knowledge - Human uses GUI, We uses CLI",
-  "author": "femto",
+  "version": "0.1.3",
+  "summary": "AI's Knowledge Base / World Model - Dual Protocol for AI Accessibility",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "worldbook-0.1.1.tar.gz",
-  "download_time": "2026-02-05T12:53:16.511786",
+  "download_filename": "worldbook-0.1.3.tar.gz",
+  "download_time": "2026-02-06T12:48:53.812967",
   "package_url": "https://pypi.org/project/worldbook/"
 }

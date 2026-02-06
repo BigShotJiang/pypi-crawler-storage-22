@@ -1,0 +1,11 @@
+{
+  "name": "niapy",
+  "version": "2.7.0",
+  "summary": "Python micro framework for building nature-inspired algorithms.",
+  "author": "NiaOrg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "niapy-2.7.0.tar.gz",
+  "download_time": "2026-02-06T12:48:43.732403",
+  "package_url": "https://pypi.org/project/niapy/"
+}

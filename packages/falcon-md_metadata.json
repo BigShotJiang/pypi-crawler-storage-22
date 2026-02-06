@@ -1,0 +1,11 @@
+{
+  "name": "falcon-md",
+  "version": "1.3.0",
+  "summary": "The python distribution for the FALCON on-the-fly Machine Learning ab initio Molecular Dynamics code",
+  "author": "Noah Felis and  Wilke Dononelli",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/thequantumchemist/falcon",
+  "download_filename": "falcon_md-1.3.0.tar.gz",
+  "download_time": "2026-02-06T12:49:13.213595",
+  "package_url": "https://pypi.org/project/falcon-md/"
+}

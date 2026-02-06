@@ -1,0 +1,11 @@
+{
+  "name": "devpi-server",
+  "version": "6.19.0",
+  "summary": "devpi-server: reliable, private, and pypi.org caching server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "devpi_server-6.19.0.tar.gz",
+  "download_time": "2026-02-06T12:49:12.670822",
+  "package_url": "https://pypi.org/project/devpi-server/"
+}

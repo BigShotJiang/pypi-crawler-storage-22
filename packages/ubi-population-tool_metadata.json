@@ -1,0 +1,11 @@
+{
+  "name": "ubi-population-tool",
+  "version": "0.18.2",
+  "summary": "Tool for populating ubi repositories",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ubi_population_tool-0.18.2.tar.gz",
+  "download_time": "2026-02-06T12:49:07.819760",
+  "package_url": "https://pypi.org/project/ubi-population-tool/"
+}
