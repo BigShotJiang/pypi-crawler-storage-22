@@ -1,0 +1,11 @@
+{
+  "name": "rsstail",
+  "version": "0.7.0",
+  "summary": "A command-line syndication feed monitor mimicking tail -f",
+  "author": "Georgi Valkov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsstail-0.7.0.tar.gz",
+  "download_time": "2026-02-07T13:34:32.672595",
+  "package_url": "https://pypi.org/project/rsstail/"
+}

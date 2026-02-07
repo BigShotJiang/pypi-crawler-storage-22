@@ -1,11 +1,11 @@
 {
   "name": "callguard",
-  "version": "0.2.0",
-  "summary": "Runtime safety for AI agents. Stop agents before they break things.",
+  "version": "0.3.99",
+  "summary": "DEPRECATED — renamed to edictum. Use: pip install edictum",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "callguard-0.2.0.tar.gz",
-  "download_time": "2026-02-06T20:04:49.742539",
+  "download_filename": "callguard-0.3.99.tar.gz",
+  "download_time": "2026-02-07T13:35:08.688578",
   "package_url": "https://pypi.org/project/callguard/"
 }

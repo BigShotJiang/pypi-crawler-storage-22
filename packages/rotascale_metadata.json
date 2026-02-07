@@ -1,11 +1,11 @@
 {
   "name": "rotascale",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python SDK for the Rotascale Trust Intelligence Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rotascale-0.1.0.tar.gz",
-  "download_time": "2026-02-07T09:06:09.029711",
+  "download_filename": "rotascale-0.1.1.tar.gz",
+  "download_time": "2026-02-07T13:35:04.482767",
   "package_url": "https://pypi.org/project/rotascale/"
 }

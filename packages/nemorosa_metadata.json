@@ -1,0 +1,11 @@
+{
+  "name": "nemorosa",
+  "version": "0.4.3",
+  "summary": "A specialized cross-seeding tool designed for music torrents, featuring automatic file mapping, partial matching, and seamless torrent injection",
+  "author": "KyokoMiki",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "nemorosa-0.4.3.tar.gz",
+  "download_time": "2026-02-07T13:34:17.409871",
+  "package_url": "https://pypi.org/project/nemorosa/"
+}

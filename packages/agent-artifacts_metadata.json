@@ -1,0 +1,11 @@
+{
+  "name": "agent-artifacts",
+  "version": "0.1.1",
+  "summary": "Transactional memory + skill artifacts for AI agents",
+  "author": "HengYpinn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_artifacts-0.1.1.tar.gz",
+  "download_time": "2026-02-07T13:34:20.567618",
+  "package_url": "https://pypi.org/project/agent-artifacts/"
+}

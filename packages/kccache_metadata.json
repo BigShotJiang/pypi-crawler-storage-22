@@ -1,0 +1,11 @@
+{
+  "name": "kccache",
+  "version": "3.54",
+  "summary": "kccache",
+  "author": "坤坤",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "kccache-3.54.tar.gz",
+  "download_time": "2026-02-07T13:34:55.621179",
+  "package_url": "https://pypi.org/project/kccache/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "anki-yaml-tool",
+  "version": "0.4.0",
+  "summary": "A generic tool for building and pushing Anki decks from YAML",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "anki_yaml_tool-0.4.0.tar.gz",
+  "download_time": "2026-02-07T13:34:31.642537",
+  "package_url": "https://pypi.org/project/anki-yaml-tool/"
+}
