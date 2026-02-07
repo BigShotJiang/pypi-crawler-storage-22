@@ -1,11 +1,11 @@
 {
   "name": "flareio-cli",
-  "version": "0.4.2",
+  "version": "0.6.0",
   "summary": "CLI interface for the flare.io API",
   "author": "Alexandre Viau",
   "license": null,
   "home_page": null,
-  "download_filename": "flareio_cli-0.4.2.tar.gz",
-  "download_time": "2026-02-07T09:49:01.919618",
+  "download_filename": "flareio_cli-0.6.0.tar.gz",
+  "download_time": "2026-02-07T20:54:08.265758",
   "package_url": "https://pypi.org/project/flareio-cli/"
 }

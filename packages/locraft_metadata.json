@@ -1,0 +1,11 @@
+{
+  "name": "locraft",
+  "version": "0.0.1",
+  "summary": "AI-powered localization pipeline. Translate, validate, and ship your app in 70+ languages.",
+  "author": null,
+  "license": "Business Source License 1.1",
+  "home_page": null,
+  "download_filename": "locraft-0.0.1.tar.gz",
+  "download_time": "2026-02-07T20:53:57.763560",
+  "package_url": "https://pypi.org/project/locraft/"
+}

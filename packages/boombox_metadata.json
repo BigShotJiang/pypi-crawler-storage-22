@@ -1,0 +1,11 @@
+{
+  "name": "boombox",
+  "version": "0.57",
+  "summary": "A short, cross-platform, pure-python audio file  player and tone-generating module.",
+  "author": "Army of Light",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/mixmastamyk/boombox",
+  "download_filename": "boombox-0.57.tar.gz",
+  "download_time": "2026-02-07T20:54:22.968023",
+  "package_url": "https://pypi.org/project/boombox/"
+}

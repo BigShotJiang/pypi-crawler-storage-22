@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_lyellr88-marm-mcp-server",
+  "version": "2.2.6",
+  "summary": "MARM-Systems is a complete protocol and platform—combining an advanced memory backend, modular semantic search, and agent-to-agent coordination with a scientifically structured, community-vetted methodology for reasoning, session recall, and collaborative AI workflows. More then just a set of tools, it's a complete AI memory ecosystem",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_lyellr88_marm_mcp_server-2.2.6.tar.gz",
+  "download_time": "2026-02-07T20:54:24.529622",
+  "package_url": "https://pypi.org/project/iflow-mcp_lyellr88-marm-mcp-server/"
+}

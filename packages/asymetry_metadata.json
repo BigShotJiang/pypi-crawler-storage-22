@@ -1,11 +1,11 @@
 {
   "name": "asymetry",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "LLM observability SDK for OpenAI and Anthropic",
   "author": "Asymetry Team",
   "license": "MIT",
   "home_page": "https://asymetry.co",
-  "download_filename": "asymetry-0.1.6.tar.gz",
-  "download_time": "2026-01-31T19:42:19.550024",
+  "download_filename": "asymetry-0.1.7.tar.gz",
+  "download_time": "2026-02-07T20:53:47.300422",
   "package_url": "https://pypi.org/project/asymetry/"
 }
