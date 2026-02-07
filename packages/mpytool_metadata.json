@@ -1,11 +1,11 @@
 {
   "name": "mpytool",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "summary": "MPY tool - manage files on devices running MicroPython",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mpytool-2.2.1.tar.gz",
-  "download_time": "2026-02-06T23:51:33.838888",
+  "download_filename": "mpytool-2.2.2.tar.gz",
+  "download_time": "2026-02-07T15:03:23.400453",
   "package_url": "https://pypi.org/project/mpytool/"
 }

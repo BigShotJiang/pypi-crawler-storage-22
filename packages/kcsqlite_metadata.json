@@ -1,11 +1,11 @@
 {
   "name": "kcsqlite",
-  "version": "3.54",
+  "version": "4.1",
   "summary": "kcsqlite",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcsqlite-3.54.tar.gz",
-  "download_time": "2026-02-07T13:34:47.869905",
+  "download_filename": "kcsqlite-4.1.tar.gz",
+  "download_time": "2026-02-07T15:03:34.915747",
   "package_url": "https://pypi.org/project/kcsqlite/"
 }

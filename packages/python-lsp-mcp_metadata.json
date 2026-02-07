@@ -1,0 +1,11 @@
+{
+  "name": "python-lsp-mcp",
+  "version": "0.3.1",
+  "summary": "MCP server providing Python code analysis using Rope and Pyright",
+  "author": "treedy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_lsp_mcp-0.3.1.tar.gz",
+  "download_time": "2026-02-07T15:03:47.029116",
+  "package_url": "https://pypi.org/project/python-lsp-mcp/"
+}

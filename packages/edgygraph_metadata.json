@@ -1,11 +1,11 @@
 {
   "name": "edgygraph",
-  "version": "0.0.80",
+  "version": "0.0.82",
   "summary": "Graph-based Pipeline Builder",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edgygraph-0.0.80.tar.gz",
-  "download_time": "2026-02-06T14:46:17.109940",
+  "download_filename": "edgygraph-0.0.82.tar.gz",
+  "download_time": "2026-02-07T15:03:50.136395",
   "package_url": "https://pypi.org/project/edgygraph/"
 }

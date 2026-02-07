@@ -1,11 +1,11 @@
 {
   "name": "kcmysql",
-  "version": "3.54",
+  "version": "4.1",
   "summary": "kcmysql",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "kcmysql-3.54.tar.gz",
-  "download_time": "2026-02-07T13:34:52.005518",
+  "download_filename": "kcmysql-4.1.tar.gz",
+  "download_time": "2026-02-07T15:03:33.879184",
   "package_url": "https://pypi.org/project/kcmysql/"
 }

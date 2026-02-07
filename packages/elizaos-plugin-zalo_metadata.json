@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-zalo",
+  "version": "2.0.0a4",
+  "summary": "Zalo Official Account Bot API plugin for elizaOS - Python implementation",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_zalo-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T15:03:51.175501",
+  "package_url": "https://pypi.org/project/elizaos-plugin-zalo/"
+}

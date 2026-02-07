@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-whatsapp",
+  "version": "2.0.0a4",
+  "summary": "WhatsApp Cloud API plugin for ElizaOS agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_whatsapp-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T15:03:53.255878",
+  "package_url": "https://pypi.org/project/elizaos-plugin-whatsapp/"
+}

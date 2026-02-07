@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-vision",
+  "version": "2.0.0a4",
+  "summary": "Vision plugin for ElizaOS - provides camera integration and visual awareness",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_vision-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T15:03:41.837355",
+  "package_url": "https://pypi.org/project/elizaos-plugin-vision/"
+}

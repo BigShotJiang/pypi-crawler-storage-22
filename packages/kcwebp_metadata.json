@@ -1,0 +1,11 @@
+{
+  "name": "kcwebp",
+  "version": "4.1",
+  "summary": "kcwebp是建立在 kcwebs 框架的基础上研发的一套 linux 服务器容器系统",
+  "author": "百里",
+  "license": "Apache License 2.0",
+  "home_page": "https://docs.kwebapp.cn/index/index/3",
+  "download_filename": "kcwebp-4.1.tar.gz",
+  "download_time": "2026-02-07T15:03:35.963272",
+  "package_url": "https://pypi.org/project/kcwebp/"
+}

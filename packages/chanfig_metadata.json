@@ -1,0 +1,11 @@
+{
+  "name": "chanfig",
+  "version": "0.0.115",
+  "summary": "Easier Configuration",
+  "author": null,
+  "license": "Unlicense OR AGPL-3.0-or-later OR GPL-2.0-or-later OR BSD-4-Clause OR MIT OR Apache-2.0\n        ",
+  "home_page": null,
+  "download_filename": "chanfig-0.0.115.tar.gz",
+  "download_time": "2026-02-07T15:03:38.191466",
+  "package_url": "https://pypi.org/project/chanfig/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pyjanitor",
-  "version": "0.32.12",
+  "version": "0.32.13",
   "summary": "Tools for cleaning pandas DataFrames",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyjanitor-0.32.12.tar.gz",
-  "download_time": "2026-02-07T14:47:33.027343",
+  "download_filename": "pyjanitor-0.32.13.tar.gz",
+  "download_time": "2026-02-07T15:03:48.061202",
   "package_url": "https://pypi.org/project/pyjanitor/"
 }

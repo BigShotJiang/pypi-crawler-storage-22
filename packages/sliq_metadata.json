@@ -1,0 +1,11 @@
+{
+  "name": "sliq",
+  "version": "0.2.0",
+  "summary": "Sliq automatically fixes dataset schema issues, missing values, duplicate rows, and formatting errors so data professionals can get clean data in minutes, not hours or days.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sliq-0.2.0.tar.gz",
+  "download_time": "2026-02-07T15:03:41.316418",
+  "package_url": "https://pypi.org/project/sliq/"
+}

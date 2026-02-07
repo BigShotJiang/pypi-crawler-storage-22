@@ -1,0 +1,11 @@
+{
+  "name": "all-in-mcp",
+  "version": "0.4.4",
+  "summary": "An MCP (Model Context Protocol) server providing daily-use utility functions and academic paper search capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "all_in_mcp-0.4.4-py3-none-any.whl",
+  "download_time": "2026-02-07T15:03:30.244082",
+  "package_url": "https://pypi.org/project/all-in-mcp/"
+}

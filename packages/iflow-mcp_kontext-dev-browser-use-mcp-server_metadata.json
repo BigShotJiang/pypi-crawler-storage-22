@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kontext-dev-browser-use-mcp-server",
+  "version": "1.0.4",
+  "summary": "MCP browser-use server library",
+  "author": "Cobrowser Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_kontext_dev_browser_use_mcp_server-1.0.4.tar.gz",
+  "download_time": "2026-02-07T15:03:52.734256",
+  "package_url": "https://pypi.org/project/iflow-mcp_kontext-dev-browser-use-mcp-server/"
+}

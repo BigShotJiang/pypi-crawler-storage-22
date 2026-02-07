@@ -1,11 +1,11 @@
 {
   "name": "kcwapi",
-  "version": "3.54",
+  "version": "4.1",
   "summary": "kcwapi",
   "author": "坤坤",
   "license": "MIT License",
   "home_page": "https://docs.kwebapp.cn/index/index/2",
-  "download_filename": "kcwapi-3.54.tar.gz",
-  "download_time": "2026-02-07T13:34:46.839219",
+  "download_filename": "kcwapi-4.1.tar.gz",
+  "download_time": "2026-02-07T15:03:37.609630",
   "package_url": "https://pypi.org/project/kcwapi/"
 }
