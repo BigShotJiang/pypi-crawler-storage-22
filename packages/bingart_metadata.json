@@ -1,0 +1,11 @@
+{
+  "name": "bingart",
+  "version": "1.5.1",
+  "summary": "bingart is an unofficial async API wrapper for Bing Image & Video Creator",
+  "author": "Maehdakvan",
+  "license": null,
+  "home_page": "https://github.com/DedInc/bingart",
+  "download_filename": "bingart-1.5.1.tar.gz",
+  "download_time": "2026-02-07T07:48:31.563397",
+  "package_url": "https://pypi.org/project/bingart/"
+}

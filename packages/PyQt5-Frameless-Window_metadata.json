@@ -1,0 +1,11 @@
+{
+  "name": "PyQt5-Frameless-Window",
+  "version": "0.8.0",
+  "summary": "A cross-platform frameless window based on pyqt5, support Win32, X11, Wayland and macOS.",
+  "author": "zhiyiYo",
+  "license": "GPLv3",
+  "home_page": "https://github.com/zhiyiYo/PyQt-Frameless-Window",
+  "download_filename": "pyqt5_frameless_window-0.8.0.tar.gz",
+  "download_time": "2026-02-07T07:48:11.706695",
+  "package_url": "https://pypi.org/project/PyQt5-Frameless-Window/"
+}

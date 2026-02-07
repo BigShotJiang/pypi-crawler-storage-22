@@ -1,0 +1,11 @@
+{
+  "name": "ai-shopping-monitor",
+  "version": "1.0.0",
+  "summary": "AI-powered shopping monitor and auto-purchase agent",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/ai-shopping-monitor",
+  "download_filename": "ai_shopping_monitor-1.0.0.tar.gz",
+  "download_time": "2026-02-07T07:48:10.107331",
+  "package_url": "https://pypi.org/project/ai-shopping-monitor/"
+}

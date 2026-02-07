@@ -1,0 +1,11 @@
+{
+  "name": "PyQt6-Frameless-Window",
+  "version": "0.8.0",
+  "summary": "A cross-platform frameless window based on pyqt6, support Win32, Linux and macOS.",
+  "author": "zhiyiYo",
+  "license": "GPLv3",
+  "home_page": "https://github.com/zhiyiYo/PyQt-Frameless-Window/tree/PyQt6",
+  "download_filename": "pyqt6_frameless_window-0.8.0.tar.gz",
+  "download_time": "2026-02-07T07:48:11.174487",
+  "package_url": "https://pypi.org/project/PyQt6-Frameless-Window/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "subsurfer",
+  "version": "1.2.6",
+  "summary": "Red Teaming and Web Bug Bounty Fast Asset Identification Tool",
+  "author": "arrester",
+  "license": null,
+  "home_page": "https://github.com/arrester/subsurfer",
+  "download_filename": "subsurfer-1.2.6.tar.gz",
+  "download_time": "2026-02-07T07:48:33.167245",
+  "package_url": "https://pypi.org/project/subsurfer/"
+}

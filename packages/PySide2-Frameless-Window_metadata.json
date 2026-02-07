@@ -1,0 +1,11 @@
+{
+  "name": "PySide2-Frameless-Window",
+  "version": "0.8.0",
+  "summary": "A cross-platform frameless window based on pyside2, support Win32, Linux and macOS.",
+  "author": "zhiyiYo",
+  "license": "LGPLv3",
+  "home_page": "https://github.com/zhiyiYo/PyQt-Frameless-Window/tree/Pyside2",
+  "download_filename": "pyside2_frameless_window-0.8.0.tar.gz",
+  "download_time": "2026-02-07T07:48:10.640262",
+  "package_url": "https://pypi.org/project/PySide2-Frameless-Window/"
+}

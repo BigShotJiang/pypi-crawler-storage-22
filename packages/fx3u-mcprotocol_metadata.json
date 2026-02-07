@@ -1,0 +1,11 @@
+{
+  "name": "fx3u-mcprotocol",
+  "version": "0.4.0",
+  "summary": "MC Protocol Ethernet driver for Mitsubishi FX3 PLCs",
+  "author": "PIYUSH GHUMELIA",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fx3u_mcprotocol-0.4.0.tar.gz",
+  "download_time": "2026-02-07T07:48:29.951443",
+  "package_url": "https://pypi.org/project/fx3u-mcprotocol/"
+}

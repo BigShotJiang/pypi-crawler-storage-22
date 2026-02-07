@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_gitreceiver-tama-cli",
+  "version": "0.1.1",
+  "summary": "一个由 AI 驱动的任务管理命令行工具",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_gitreceiver_tama_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-07T07:48:07.932689",
+  "package_url": "https://pypi.org/project/iflow-mcp_gitreceiver-tama-cli/"
+}

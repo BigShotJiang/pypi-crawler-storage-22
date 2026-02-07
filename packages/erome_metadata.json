@@ -1,0 +1,11 @@
+{
+  "name": "erome",
+  "version": "0.1.1",
+  "summary": "A lightweight, robust Python wrapper for Erome.com, supporting both synchronous and asynchronous operations.",
+  "author": "Dankaristic",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "erome-0.1.1.tar.gz",
+  "download_time": "2026-02-07T07:48:05.705794",
+  "package_url": "https://pypi.org/project/erome/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "beancount-lsp",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "summary": "Beancount LSP packaged for Python environments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "beancount_lsp-0.0.6.tar.gz",
-  "download_time": "2026-02-06T17:06:47.794639",
+  "download_filename": "beancount_lsp-0.0.8.tar.gz",
+  "download_time": "2026-02-07T07:48:36.384995",
   "package_url": "https://pypi.org/project/beancount-lsp/"
 }

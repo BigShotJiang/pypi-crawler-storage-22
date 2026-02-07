@@ -1,0 +1,11 @@
+{
+  "name": "schemapin",
+  "version": "1.1.5",
+  "summary": "Cryptographic schema integrity verification for AI tools",
+  "author": "ThirdKey",
+  "license": "MIT",
+  "home_page": "https://github.com/thirdkey/schemapin",
+  "download_filename": "schemapin-1.1.5.tar.gz",
+  "download_time": "2026-02-07T07:48:08.486245",
+  "package_url": "https://pypi.org/project/schemapin/"
+}

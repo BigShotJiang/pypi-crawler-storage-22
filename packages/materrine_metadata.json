@@ -1,11 +1,11 @@
 {
   "name": "materrine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Materrine™ is a powerful, readable, relative database which allows you to store your data anywhere, anyplace. And also allows you to store tags related with data into the database. The powerful built-in searching function will search ALL the data related to your targets. With useful tools to help you to manage all you data, everyone is able to use it. Storing data by just one function. Use materrine.help() for more info. Created by Marcy Mill. ",
   "author": "Marcy Mill",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "materrine-0.1.1.tar.gz",
-  "download_time": "2026-02-07T05:01:23.718415",
+  "download_filename": "materrine-0.1.2.tar.gz",
+  "download_time": "2026-02-07T07:48:41.738839",
   "package_url": "https://pypi.org/project/materrine/"
 }
