@@ -1,11 +1,11 @@
 {
   "name": "dycw-utilities",
-  "version": "0.188.22",
+  "version": "0.188.23",
   "summary": "Miscellaneous Python utilities",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_utilities-0.188.22-py3-none-any.whl",
-  "download_time": "2026-02-07T03:46:18.859687",
+  "download_filename": "dycw_utilities-0.188.23-py3-none-any.whl",
+  "download_time": "2026-02-07T05:01:19.094937",
   "package_url": "https://pypi.org/project/dycw-utilities/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "plop-sdk",
+  "version": "0.1.0",
+  "summary": "Plop Python SDK — receive and poll for emails in your tests and applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plop_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-07T05:01:02.455276",
+  "package_url": "https://pypi.org/project/plop-sdk/"
+}

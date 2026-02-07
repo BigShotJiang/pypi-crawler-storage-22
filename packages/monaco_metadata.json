@@ -1,11 +1,11 @@
 {
   "name": "monaco",
-  "version": "0.20.2",
+  "version": "0.20.3",
   "summary": "Quantify uncertainty and sensitivities in your models with an industry-grade Monte Carlo library.",
   "author": "Scott Shambaugh",
   "license": null,
   "home_page": null,
-  "download_filename": "monaco-0.20.2.tar.gz",
-  "download_time": "2026-02-07T03:46:05.734925",
+  "download_filename": "monaco-0.20.3.tar.gz",
+  "download_time": "2026-02-07T05:01:19.610678",
   "package_url": "https://pypi.org/project/monaco/"
 }

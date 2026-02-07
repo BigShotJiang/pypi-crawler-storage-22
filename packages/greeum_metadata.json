@@ -1,0 +1,11 @@
+{
+  "name": "greeum",
+  "version": "5.2.0",
+  "summary": "LLM-Integrated Memory System with InsightJudge, HybridGraphSearch, and Branch-aware Storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "greeum-5.2.0.tar.gz",
+  "download_time": "2026-02-07T05:01:00.387075",
+  "package_url": "https://pypi.org/project/greeum/"
+}

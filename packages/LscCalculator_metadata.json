@@ -1,0 +1,11 @@
+{
+  "name": "LscCalculator",
+  "version": "0.0.4",
+  "summary": "计算库（整合decimal）",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsccalculator-0.0.4.tar.gz",
+  "download_time": "2026-02-07T05:01:09.743700",
+  "package_url": "https://pypi.org/project/LscCalculator/"
+}

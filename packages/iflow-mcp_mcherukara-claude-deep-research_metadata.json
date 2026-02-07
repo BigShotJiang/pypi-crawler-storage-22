@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mcherukara-claude-deep-research",
+  "version": "0.1.0",
+  "summary": "An MCP server that provides comprehensive research capabilities with web and academic search",
+  "author": "mcherukara",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mcherukara_claude_deep_research-0.1.0.tar.gz",
+  "download_time": "2026-02-07T05:01:13.350169",
+  "package_url": "https://pypi.org/project/iflow-mcp_mcherukara-claude-deep-research/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "seispolarity",
+  "version": "0.1.2",
+  "summary": "Framework for seismic waveform polarity picking with unified APIs",
+  "author": "Xingchen He",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "seispolarity-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-07T05:01:08.204145",
+  "package_url": "https://pypi.org/project/seispolarity/"
+}

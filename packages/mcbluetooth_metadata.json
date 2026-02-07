@@ -1,0 +1,11 @@
+{
+  "name": "mcbluetooth",
+  "version": "2026.2.6",
+  "summary": "Comprehensive BlueZ MCP server - expose the full Linux Bluetooth stack to LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcbluetooth-2026.2.6.tar.gz",
+  "download_time": "2026-02-07T05:01:22.181300",
+  "package_url": "https://pypi.org/project/mcbluetooth/"
+}

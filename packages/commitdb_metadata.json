@@ -1,11 +1,11 @@
 {
   "name": "commitdb",
-  "version": "2.7.0",
+  "version": "2.10.0",
   "summary": "Python Client for CommitDB SQL Server",
   "author": "CommitDB Contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "commitdb-2.7.0.tar.gz",
-  "download_time": "2026-02-07T01:31:06.326749",
+  "download_filename": "commitdb-2.10.0.tar.gz",
+  "download_time": "2026-02-07T05:00:52.467999",
   "package_url": "https://pypi.org/project/commitdb/"
 }

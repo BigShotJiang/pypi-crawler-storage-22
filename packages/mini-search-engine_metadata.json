@@ -1,0 +1,11 @@
+{
+  "name": "mini-search-engine",
+  "version": "1.0.1",
+  "summary": "A simple search engine library scraping Google and DuckDuckGo.",
+  "author": "Shriyan Salapakkam and Jules",
+  "license": null,
+  "home_page": "https://github.com/Shrisal/Web-Search-Python-Library",
+  "download_filename": "mini_search_engine-1.0.1.tar.gz",
+  "download_time": "2026-02-07T05:01:14.410028",
+  "package_url": "https://pypi.org/project/mini-search-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "drf-scoped-permissions",
+  "version": "0.1.0",
+  "summary": "Resource-scoped API key and group permissions for Django REST Framework. Built for startups moving fast.",
+  "author": "Frankapps",
+  "license": "MIT",
+  "home_page": "https://github.com/frankapps-io/drf-scoped-permissions",
+  "download_filename": "drf_scoped_permissions-0.1.0.tar.gz",
+  "download_time": "2026-02-07T05:01:09.232768",
+  "package_url": "https://pypi.org/project/drf-scoped-permissions/"
+}
