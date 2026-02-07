@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_glissemantv-mcpo-file-generation-tool",
+  "version": "0.8.1",
+  "summary": "MCPO File Generation Tool - Export Files Directly from Open WebUI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_glissemantv_mcpo_file_generation_tool-0.8.1.tar.gz",
+  "download_time": "2026-02-07T23:28:13.898433",
+  "package_url": "https://pypi.org/project/iflow-mcp_glissemantv-mcpo-file-generation-tool/"
+}

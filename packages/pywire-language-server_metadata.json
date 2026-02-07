@@ -1,0 +1,11 @@
+{
+  "name": "pywire-language-server",
+  "version": "0.1.3",
+  "summary": "Language Server Protocol implementation for PyWire",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pywire_language_server-0.1.3.tar.gz",
+  "download_time": "2026-02-07T23:28:28.538598",
+  "package_url": "https://pypi.org/project/pywire-language-server/"
+}

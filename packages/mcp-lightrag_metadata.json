@@ -1,0 +1,11 @@
+{
+  "name": "mcp-lightrag",
+  "version": "0.2.1",
+  "summary": "MCP Server for LightRAG with smart document upsert capabilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_lightrag-0.2.1.tar.gz",
+  "download_time": "2026-02-07T23:28:09.723467",
+  "package_url": "https://pypi.org/project/mcp-lightrag/"
+}

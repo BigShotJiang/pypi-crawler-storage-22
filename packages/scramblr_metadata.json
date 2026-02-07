@@ -1,0 +1,11 @@
+{
+  "name": "scramblr",
+  "version": "1.0.0",
+  "summary": "A single-file toolkit for secure passwords, ciphers, and AES-GCM.",
+  "author": "Ethan Wu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scramblr-1.0.0.tar.gz",
+  "download_time": "2026-02-07T23:27:58.731002",
+  "package_url": "https://pypi.org/project/scramblr/"
+}

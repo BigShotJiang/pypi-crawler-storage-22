@@ -1,11 +1,11 @@
 {
   "name": "yaml-reference",
-  "version": "0.3.5",
+  "version": "1.0.0",
   "summary": "Extension package built on top of  `ruamel.yaml` to support cross-file references in YAML files using tags `!reference` and `!reference-all`.",
-  "author": "David Sillman",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yaml_reference-0.3.5.tar.gz",
-  "download_time": "2026-02-01T19:54:46.292546",
+  "download_filename": "yaml_reference-1.0.0.tar.gz",
+  "download_time": "2026-02-07T23:28:06.068709",
   "package_url": "https://pypi.org/project/yaml-reference/"
 }

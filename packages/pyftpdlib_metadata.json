@@ -1,0 +1,11 @@
+{
+  "name": "pyftpdlib",
+  "version": "2.2.0",
+  "summary": "Very fast asynchronous FTP server library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyftpdlib-2.2.0.tar.gz",
+  "download_time": "2026-02-07T23:28:18.631700",
+  "package_url": "https://pypi.org/project/pyftpdlib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "picocrypto",
+  "version": "0.0.2",
+  "summary": "Picocrypto cryptography utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picocrypto-0.0.2.tar.gz",
+  "download_time": "2026-02-07T23:28:15.477455",
+  "package_url": "https://pypi.org/project/picocrypto/"
+}

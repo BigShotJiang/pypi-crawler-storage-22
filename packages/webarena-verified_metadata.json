@@ -1,11 +1,11 @@
 {
   "name": "webarena-verified",
-  "version": "1.1.1",
+  "version": "1.2.3",
   "summary": "A verified version of the WebArena Benchmark",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webarena_verified-1.1.1.tar.gz",
-  "download_time": "2026-02-05T11:04:29.886266",
+  "download_filename": "webarena_verified-1.2.3.tar.gz",
+  "download_time": "2026-02-07T23:28:37.439924",
   "package_url": "https://pypi.org/project/webarena-verified/"
 }

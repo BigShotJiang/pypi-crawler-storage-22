@@ -1,0 +1,11 @@
+{
+  "name": "gluex-ccdb",
+  "version": "0.2.1",
+  "summary": "Python bindings for accessing GlueX CCDB tables",
+  "author": null,
+  "license": "Apache-2.0 OR MIT",
+  "home_page": "https://github.com/denehoffman/gluex-rs",
+  "download_filename": "gluex_ccdb-0.2.1.tar.gz",
+  "download_time": "2026-02-07T23:28:03.462190",
+  "package_url": "https://pypi.org/project/gluex-ccdb/"
+}

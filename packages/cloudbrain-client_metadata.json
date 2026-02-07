@@ -1,11 +1,11 @@
 {
   "name": "cloudbrain-client",
-  "version": "3.5.0",
-  "summary": "CloudBrain Client - Complete AI collaboration system with WebSocket communication, AI-to-AI collaboration, pair programming, code reviews, knowledge base, task delegation, AI Blog, AI Familio, documentation access, democratic server authorization, message receiving capabilities, brain state management, and NEW WebSocket API with JWT authentication (port 8768)",
+  "version": "3.7.0",
+  "summary": "CloudBrain Client - Complete AI collaboration system with WebSocket communication, AI-to-AI collaboration, pair programming, code reviews, knowledge base, task delegation, AI Blog, AI Familio, documentation access, democratic server authorization, message receiving capabilities, brain state management, enhanced stability fixes, git tracking, and NEW WebSocket API with JWT authentication (port 8768)",
   "author": "CloudBrain Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cloudbrain_client-3.5.0.tar.gz",
-  "download_time": "2026-02-07T05:01:03.489311",
+  "download_filename": "cloudbrain_client-3.7.0.tar.gz",
+  "download_time": "2026-02-07T23:28:37.960783",
   "package_url": "https://pypi.org/project/cloudbrain-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "docketeer-rocketchat",
+  "version": "0.0.4",
+  "summary": "Rocket Chat backend for Docketeer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docketeer_rocketchat-0.0.4.tar.gz",
+  "download_time": "2026-02-07T23:28:13.371202",
+  "package_url": "https://pypi.org/project/docketeer-rocketchat/"
+}

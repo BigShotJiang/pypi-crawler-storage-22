@@ -1,0 +1,11 @@
+{
+  "name": "pybibx",
+  "version": "5.3.0",
+  "summary": "A Bibliometric and Scientometric Library Powered with Artificial Intelligence Tools",
+  "author": "Valdecy Pereira",
+  "license": "GNU",
+  "home_page": "https://github.com/Valdecy/pybibx",
+  "download_filename": "pybibx-5.3.0.tar.gz",
+  "download_time": "2026-02-07T23:28:29.591193",
+  "package_url": "https://pypi.org/project/pybibx/"
+}

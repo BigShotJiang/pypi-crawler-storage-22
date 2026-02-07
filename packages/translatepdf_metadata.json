@@ -1,0 +1,11 @@
+{
+  "name": "translatepdf",
+  "version": "1.0.0",
+  "summary": "Translate PDF documents using OCR and machine translation",
+  "author": "Bhanu Pratap Singh Rathore",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "translatepdf-1.0.0.tar.gz",
+  "download_time": "2026-02-07T23:28:34.299431",
+  "package_url": "https://pypi.org/project/translatepdf/"
+}

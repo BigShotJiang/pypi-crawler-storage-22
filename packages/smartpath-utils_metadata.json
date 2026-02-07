@@ -1,0 +1,11 @@
+{
+  "name": "smartpath-utils",
+  "version": "1.0.0",
+  "summary": "Small utilities for working with project-local paths",
+  "author": "lelewithheart",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smartpath_utils-1.0.0.tar.gz",
+  "download_time": "2026-02-07T23:28:25.929317",
+  "package_url": "https://pypi.org/project/smartpath-utils/"
+}

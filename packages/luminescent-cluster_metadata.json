@@ -1,0 +1,11 @@
+{
+  "name": "luminescent-cluster",
+  "version": "0.5.0",
+  "summary": "Context-aware AI development system with session memory and long-term knowledge",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "luminescent_cluster-0.5.0.tar.gz",
+  "download_time": "2026-02-07T23:27:59.259341",
+  "package_url": "https://pypi.org/project/luminescent-cluster/"
+}
