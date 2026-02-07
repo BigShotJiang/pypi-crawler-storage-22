@@ -1,0 +1,11 @@
+{
+  "name": "cdpify",
+  "version": "0.2.4",
+  "summary": "A Python client for the Chrome DevTools Protocol (CDP) optimized for DX.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cdpify-0.2.4.tar.gz",
+  "download_time": "2026-02-07T09:48:56.702935",
+  "package_url": "https://pypi.org/project/cdpify/"
+}

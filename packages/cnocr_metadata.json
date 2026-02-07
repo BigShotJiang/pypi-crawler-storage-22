@@ -1,0 +1,11 @@
+{
+  "name": "cnocr",
+  "version": "2.3.2.3",
+  "summary": "Python3 package for Chinese/English OCR, with small pretrained models",
+  "author": "breezedeus",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/breezedeus/cnocr",
+  "download_filename": "cnocr-2.3.2.3.tar.gz",
+  "download_time": "2026-02-07T09:49:07.122354",
+  "package_url": "https://pypi.org/project/cnocr/"
+}

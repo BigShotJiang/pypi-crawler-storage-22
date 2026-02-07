@@ -1,0 +1,11 @@
+{
+  "name": "safenest",
+  "version": "1.0.1",
+  "summary": "Official Python SDK for SafeNest - AI-powered child safety API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "safenest-1.0.1.tar.gz",
+  "download_time": "2026-02-07T09:48:58.287130",
+  "package_url": "https://pypi.org/project/safenest/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcppkg",
+  "version": "0.0.1",
+  "summary": "MCP packaging tools. Part of the skillmd ecosystem.",
+  "author": "parkerbrown",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcppkg-0.0.1.tar.gz",
+  "download_time": "2026-02-07T09:48:46.818332",
+  "package_url": "https://pypi.org/project/mcppkg/"
+}

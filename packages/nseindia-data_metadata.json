@@ -1,0 +1,11 @@
+{
+  "name": "nseindia-data",
+  "version": "2.0.1",
+  "summary": "Unofficial Python Api for NSE India stock exchange",
+  "author": "Benny Thadikaran, Pandas (pandasyy)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nseindia_data-2.0.1.tar.gz",
+  "download_time": "2026-02-07T09:49:03.998095",
+  "package_url": "https://pypi.org/project/nseindia-data/"
+}

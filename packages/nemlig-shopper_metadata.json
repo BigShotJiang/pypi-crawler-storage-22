@@ -1,11 +1,11 @@
 {
   "name": "nemlig-shopper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Recipe-to-Cart CLI Tool for Nemlig.com",
   "author": "mhattingpete",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nemlig_shopper-1.0.0.tar.gz",
-  "download_time": "2026-02-05T11:52:56.431281",
+  "download_filename": "nemlig_shopper-1.0.1.tar.gz",
+  "download_time": "2026-02-07T09:49:20.670421",
   "package_url": "https://pypi.org/project/nemlig-shopper/"
 }

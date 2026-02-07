@@ -1,11 +1,11 @@
 {
   "name": "public-data-extractor-for-meetup-com",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Public Data Extractor for meetup.com",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "public_data_extractor_for_meetup_com-0.2.0.tar.gz",
-  "download_time": "2026-02-02T18:07:19.230860",
+  "download_filename": "public_data_extractor_for_meetup_com-0.2.1.tar.gz",
+  "download_time": "2026-02-07T09:49:15.465014",
   "package_url": "https://pypi.org/project/public-data-extractor-for-meetup-com/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ucm-sdk",
+  "version": "0.2.0",
+  "summary": "Python SDK for UCM — Agent-Native API Marketplace",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ucm_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-07T09:49:18.061418",
+  "package_url": "https://pypi.org/project/ucm-sdk/"
+}

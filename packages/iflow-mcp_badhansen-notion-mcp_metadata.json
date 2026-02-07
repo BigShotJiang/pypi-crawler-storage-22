@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_badhansen-notion-mcp",
+  "version": "1.0.3",
+  "summary": "A simple Model Context Protocol (MCP) server that integrates with Notion's API to manage my personal todo list.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_badhansen_notion_mcp-1.0.3.tar.gz",
+  "download_time": "2026-02-07T09:49:21.705961",
+  "package_url": "https://pypi.org/project/iflow-mcp_badhansen-notion-mcp/"
+}

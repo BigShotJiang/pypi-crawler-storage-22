@@ -1,11 +1,11 @@
 {
   "name": "adversarial-workflow",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Multi-stage AI evaluation system for task plans, code review, and test validation",
   "author": "Fredrik Matheson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adversarial_workflow-0.9.2.tar.gz",
-  "download_time": "2026-02-06T19:00:49.944512",
+  "download_filename": "adversarial_workflow-0.9.3.tar.gz",
+  "download_time": "2026-02-07T09:48:53.586700",
   "package_url": "https://pypi.org/project/adversarial-workflow/"
 }

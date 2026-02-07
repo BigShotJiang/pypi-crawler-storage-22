@@ -1,0 +1,11 @@
+{
+  "name": "agentskillspkg",
+  "version": "0.0.1",
+  "summary": "Agent skills packaging. Part of the skillmd ecosystem.",
+  "author": "parkerbrown",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentskillspkg-0.0.1.tar.gz",
+  "download_time": "2026-02-07T09:48:49.955179",
+  "package_url": "https://pypi.org/project/agentskillspkg/"
+}

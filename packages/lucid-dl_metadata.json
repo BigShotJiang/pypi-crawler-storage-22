@@ -1,11 +1,11 @@
 {
   "name": "lucid-dl",
-  "version": "2.12.1",
+  "version": "2.12.2",
   "summary": "Lumerico's Comprehensive Interface for Deep Learning",
   "author": "ChanLumerico",
   "license": null,
   "home_page": "https://github.com/ChanLumerico/lucid",
-  "download_filename": "lucid_dl-2.12.1.tar.gz",
-  "download_time": "2026-02-06T11:50:55.903330",
+  "download_filename": "lucid_dl-2.12.2.tar.gz",
+  "download_time": "2026-02-07T09:48:57.224486",
   "package_url": "https://pypi.org/project/lucid-dl/"
 }

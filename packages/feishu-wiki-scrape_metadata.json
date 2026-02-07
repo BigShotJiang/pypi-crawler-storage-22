@@ -1,0 +1,11 @@
+{
+  "name": "feishu-wiki-scrape",
+  "version": "0.1.0",
+  "summary": "A Python library to scrape Feishu wiki pages and convert them to Markdown",
+  "author": "rwifeng",
+  "license": null,
+  "home_page": "https://github.com/rwifeng/feishu-wiki-scrape",
+  "download_filename": "feishu_wiki_scrape-0.1.0.tar.gz",
+  "download_time": "2026-02-07T09:48:58.807806",
+  "package_url": "https://pypi.org/project/feishu-wiki-scrape/"
+}

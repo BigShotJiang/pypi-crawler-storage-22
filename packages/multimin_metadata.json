@@ -1,11 +1,11 @@
 {
   "name": "multimin",
-  "version": "0.5.12",
+  "version": "0.6.3",
   "summary": "MultiMin: Multivariate Gaussian fitting",
   "author": "Jorge I. Zuluaga",
   "license": "AGPL-3.0-only",
   "home_page": "https://github.com/seap-udea/multimin",
-  "download_filename": "multimin-0.5.12.tar.gz",
-  "download_time": "2026-02-07T07:10:17.114550",
+  "download_filename": "multimin-0.6.3.tar.gz",
+  "download_time": "2026-02-07T09:48:49.436518",
   "package_url": "https://pypi.org/project/multimin/"
 }

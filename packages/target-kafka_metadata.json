@@ -1,0 +1,11 @@
+{
+  "name": "target-kafka",
+  "version": "0.1.0",
+  "summary": "Singer target for Kafka, built with the Meltano Singer SDK.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "target_kafka-0.1.0.tar.gz",
+  "download_time": "2026-02-07T09:49:17.543085",
+  "package_url": "https://pypi.org/project/target-kafka/"
+}

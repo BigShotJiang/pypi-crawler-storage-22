@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_netease-im-yunxin-mcp-server",
+  "version": "0.1.6",
+  "summary": "yunxin mcp server to request im/rtc api",
+  "author": "caojiajun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_netease_im_yunxin_mcp_server-0.1.6.tar.gz",
+  "download_time": "2026-02-07T09:48:57.765002",
+  "package_url": "https://pypi.org/project/iflow-mcp_netease-im-yunxin-mcp-server/"
+}
