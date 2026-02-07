@@ -1,0 +1,11 @@
+{
+  "name": "yaml-oop",
+  "version": "0.0.16",
+  "summary": "A Python library that enables features such as inheritance, variables, and instantiation in YAML files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaml_oop-0.0.16.tar.gz",
+  "download_time": "2026-02-07T03:45:59.752326",
+  "package_url": "https://pypi.org/project/yaml-oop/"
+}

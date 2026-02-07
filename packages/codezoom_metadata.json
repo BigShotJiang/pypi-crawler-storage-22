@@ -1,0 +1,11 @@
+{
+  "name": "codezoom",
+  "version": "1.0.0",
+  "summary": "Multi-level code structure explorer — interactive drill-down HTML visualizations",
+  "author": "Curtis Rueden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codezoom-1.0.0.tar.gz",
+  "download_time": "2026-02-07T03:46:02.656814",
+  "package_url": "https://pypi.org/project/codezoom/"
+}

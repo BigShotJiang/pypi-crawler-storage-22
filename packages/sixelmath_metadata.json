@@ -1,0 +1,11 @@
+{
+  "name": "sixelmath",
+  "version": "0.1",
+  "summary": "Render LaTeX math and Sympy expressions to Sixel Terminal Graphics. Suuports any Math-enabled font, no LaTeX installation required.",
+  "author": "Collin J. Delker",
+  "license": "MIT",
+  "home_page": "https://github.com/cdelker/sixelmath",
+  "download_filename": "sixelmath-0.1.tar.gz",
+  "download_time": "2026-02-07T03:46:14.550308",
+  "package_url": "https://pypi.org/project/sixelmath/"
+}

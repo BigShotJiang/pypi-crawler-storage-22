@@ -1,0 +1,11 @@
+{
+  "name": "blobfile",
+  "version": "3.2.0",
+  "summary": "Read GCS, ABS and local paths with the same interface, clone of tensorflow.io.gfile",
+  "author": "Christopher Hesse",
+  "license": "Public Domain",
+  "home_page": null,
+  "download_filename": "blobfile-3.2.0.tar.gz",
+  "download_time": "2026-02-07T03:46:20.832405",
+  "package_url": "https://pypi.org/project/blobfile/"
+}

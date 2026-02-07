@@ -1,0 +1,11 @@
+{
+  "name": "ozwald",
+  "version": "0.0.2",
+  "summary": "Ozwald is a multi-tool for container provisioning.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ozwald-0.0.2.tar.gz",
+  "download_time": "2026-02-07T03:45:39.798226",
+  "package_url": "https://pypi.org/project/ozwald/"
+}

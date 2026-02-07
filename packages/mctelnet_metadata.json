@@ -1,0 +1,11 @@
+{
+  "name": "mctelnet",
+  "version": "2025.2.6",
+  "summary": "MCP server providing telnet client capabilities for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mctelnet-2025.2.6.tar.gz",
+  "download_time": "2026-02-07T03:45:56.054739",
+  "package_url": "https://pypi.org/project/mctelnet/"
+}

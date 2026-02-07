@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pos-tare",
+  "version": "16.0.1.0.0.29",
+  "summary": "Manage Tare in Point Of Sale module",
+  "author": "GRAP, Le Nid, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/pos",
+  "download_filename": "odoo_addon_pos_tare-16.0.1.0.0.29-py3-none-any.whl",
+  "download_time": "2026-02-07T03:45:37.220203",
+  "package_url": "https://pypi.org/project/odoo-addon-pos-tare/"
+}

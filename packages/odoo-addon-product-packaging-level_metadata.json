@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-packaging-level",
+  "version": "18.0.1.1.0",
+  "summary": "This module binds a product packaging to a packaging level",
+  "author": "Camptocamp, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/product-attribute",
+  "download_filename": "odoo_addon_product_packaging_level-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-02-07T03:45:34.116640",
+  "package_url": "https://pypi.org/project/odoo-addon-product-packaging-level/"
+}

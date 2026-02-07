@@ -1,0 +1,11 @@
+{
+  "name": "aiosyslogd",
+  "version": "1.1.1",
+  "summary": "Asynchronous Syslog server using asyncio, with an optional uvloop integration and SQLite backend.",
+  "author": "Chaiwat Suttipongsakul",
+  "license": "MIT",
+  "home_page": "https://sr.ht/~cwt/aiosyslogd/",
+  "download_filename": "aiosyslogd-1.1.1.tar.gz",
+  "download_time": "2026-02-07T03:46:12.487788",
+  "package_url": "https://pypi.org/project/aiosyslogd/"
+}

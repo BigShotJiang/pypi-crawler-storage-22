@@ -1,11 +1,11 @@
 {
   "name": "underthesea",
-  "version": "9.2.8",
+  "version": "9.2.11",
   "summary": "Vietnamese NLP Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "underthesea-9.2.8.tar.gz",
-  "download_time": "2026-02-02T10:08:59.102105",
+  "download_filename": "underthesea-9.2.11.tar.gz",
+  "download_time": "2026-02-07T03:46:01.621622",
   "package_url": "https://pypi.org/project/underthesea/"
 }

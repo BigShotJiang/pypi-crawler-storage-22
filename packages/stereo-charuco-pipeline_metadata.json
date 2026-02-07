@@ -1,11 +1,11 @@
 {
   "name": "stereo-charuco-pipeline",
-  "version": "0.4.7",
+  "version": "0.4.12",
   "summary": "Stereo ChArUco 3D motion capture pipeline with auto-calibration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stereo_charuco_pipeline-0.4.7.tar.gz",
-  "download_time": "2026-02-06T11:51:24.230737",
+  "download_filename": "stereo_charuco_pipeline-0.4.12.tar.gz",
+  "download_time": "2026-02-07T03:46:10.926940",
   "package_url": "https://pypi.org/project/stereo-charuco-pipeline/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "meterdatalogic",
-  "version": "0.1.7",
+  "version": "0.2.0",
   "summary": "Tiny meter data transforms, summaries, and pricing",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "meterdatalogic-0.1.7.tar.gz",
-  "download_time": "2026-02-06T14:03:16.097978",
+  "download_filename": "meterdatalogic-0.2.0.tar.gz",
+  "download_time": "2026-02-07T03:45:38.242282",
   "package_url": "https://pypi.org/project/meterdatalogic/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "q2lsp",
+  "version": "1.0.0",
+  "summary": "A language server protocol implementation for qiime2.",
+  "author": "q2lsp contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "q2lsp-1.0.0.tar.gz",
+  "download_time": "2026-02-07T03:45:41.391444",
+  "package_url": "https://pypi.org/project/q2lsp/"
+}

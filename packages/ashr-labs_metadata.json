@@ -1,0 +1,11 @@
+{
+  "name": "ashr-labs",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Ashr Labs voice agent testing platform",
+  "author": "Ashr Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ashr_labs-0.1.0.tar.gz",
+  "download_time": "2026-02-07T03:46:04.212580",
+  "package_url": "https://pypi.org/project/ashr-labs/"
+}
