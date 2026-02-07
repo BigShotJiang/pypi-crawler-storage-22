@@ -1,11 +1,11 @@
 {
   "name": "moonbridge",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "MCP server for spawning AI coding agents (Kimi, Codex, and more)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "moonbridge-0.12.0.tar.gz",
-  "download_time": "2026-02-07T05:00:48.295751",
+  "download_filename": "moonbridge-0.12.1.tar.gz",
+  "download_time": "2026-02-07T18:31:33.960104",
   "package_url": "https://pypi.org/project/moonbridge/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cwubs-models",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "Shared module for models in the cwubs app",
   "author": "Duncan Scuffell",
   "license": null,
   "home_page": null,
-  "download_filename": "cwubs_models-0.1.0.tar.gz",
-  "download_time": "2026-02-07T16:31:47.581920",
+  "download_filename": "cwubs_models-0.1.5.tar.gz",
+  "download_time": "2026-02-07T18:31:23.450081",
   "package_url": "https://pypi.org/project/cwubs-models/"
 }

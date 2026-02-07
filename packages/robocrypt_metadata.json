@@ -1,0 +1,11 @@
+{
+  "name": "robocrypt",
+  "version": "4.2.7",
+  "summary": "Simple encryption library that handles the background details for you.",
+  "author": "Noah Broyles",
+  "license": "MIT",
+  "home_page": "https://github.com/noahbroyles/Robocrypt",
+  "download_filename": "robocrypt-4.2.7.tar.gz",
+  "download_time": "2026-02-07T18:31:10.906464",
+  "package_url": "https://pypi.org/project/robocrypt/"
+}

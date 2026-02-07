@@ -1,11 +1,11 @@
 {
   "name": "kube-lint-mcp",
-  "version": "0.3.9",
+  "version": "0.4.5",
   "summary": "MCP server for Kubernetes manifest and Helm chart validation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kube_lint_mcp-0.3.9.tar.gz",
-  "download_time": "2026-02-07T14:47:26.802233",
+  "download_filename": "kube_lint_mcp-0.4.5.tar.gz",
+  "download_time": "2026-02-07T18:31:09.860116",
   "package_url": "https://pypi.org/project/kube-lint-mcp/"
 }

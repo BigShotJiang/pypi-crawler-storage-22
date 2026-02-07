@@ -1,11 +1,11 @@
 {
   "name": "mkdocstrings-python-xref",
-  "version": "1.16.5",
+  "version": "2.0.0",
   "summary": "Enhanced mkdocstrings python handler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mkdocstrings_python_xref-1.16.5.tar.gz",
-  "download_time": "2026-02-07T16:31:22.706782",
+  "download_filename": "mkdocstrings_python_xref-2.0.0.tar.gz",
+  "download_time": "2026-02-07T18:31:44.416806",
   "package_url": "https://pypi.org/project/mkdocstrings-python-xref/"
 }
