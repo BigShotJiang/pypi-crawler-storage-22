@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-agent-orchestrator",
+  "version": "2.0.0a4",
+  "summary": "Agent Orchestrator Plugin for ElizaOS - orchestrates tasks across agent providers",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_agent_orchestrator-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T11:58:55.917024",
+  "package_url": "https://pypi.org/project/elizaos-plugin-agent-orchestrator/"
+}

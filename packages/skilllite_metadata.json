@@ -1,11 +1,11 @@
 {
   "name": "skilllite",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "A lightweight Skills execution engine with LLM integration for LLM agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "skilllite-0.1.1.tar.gz",
-  "download_time": "2026-02-01T09:30:20.399888",
+  "download_filename": "skilllite-0.1.4.tar.gz",
+  "download_time": "2026-02-07T11:59:15.800332",
   "package_url": "https://pypi.org/project/skilllite/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-edge-tts",
+  "version": "2.0.0a4",
+  "summary": "Free text-to-speech plugin for ElizaOS using Microsoft Edge TTS - no API key required",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_edge_tts-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T11:58:46.555984",
+  "package_url": "https://pypi.org/project/elizaos-plugin-edge-tts/"
+}

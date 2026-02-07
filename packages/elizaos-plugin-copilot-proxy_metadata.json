@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-copilot-proxy",
+  "version": "2.0.0a4",
+  "summary": "elizaOS Copilot Proxy Plugin - OpenAI-compatible local proxy for VS Code Copilot",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_copilot_proxy-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T11:58:48.633425",
+  "package_url": "https://pypi.org/project/elizaos-plugin-copilot-proxy/"
+}

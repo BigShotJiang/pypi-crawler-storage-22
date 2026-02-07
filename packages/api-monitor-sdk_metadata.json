@@ -1,0 +1,11 @@
+{
+  "name": "api-monitor-sdk",
+  "version": "0.1.2",
+  "summary": "Automatic HTTP request monitoring for Python applications",
+  "author": "riken-khadela",
+  "license": null,
+  "home_page": "https://github.com/riken-khadela/api-monitor-sdk",
+  "download_filename": "api_monitor_sdk-0.1.2.tar.gz",
+  "download_time": "2026-02-07T11:59:03.253052",
+  "package_url": "https://pypi.org/project/api-monitor-sdk/"
+}

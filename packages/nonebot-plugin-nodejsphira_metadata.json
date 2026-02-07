@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-nodejsphira",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Phira Server Manager plugin for NoneBot2",
   "author": "chuzouX",
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_nodejsphira-0.1.0.tar.gz",
-  "download_time": "2026-02-07T10:24:13.877653",
+  "download_filename": "nonebot_plugin_nodejsphira-0.1.4.tar.gz",
+  "download_time": "2026-02-07T11:59:14.238212",
   "package_url": "https://pypi.org/project/nonebot-plugin-nodejsphira/"
 }

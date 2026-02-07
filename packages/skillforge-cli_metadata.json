@@ -1,0 +1,11 @@
+{
+  "name": "skillforge-cli",
+  "version": "0.1.1",
+  "summary": "AI-powered CLI tool for interactive, personalized learning experiences",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skillforge_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-07T11:59:05.883725",
+  "package_url": "https://pypi.org/project/skillforge-cli/"
+}

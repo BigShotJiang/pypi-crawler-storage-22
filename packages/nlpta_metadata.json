@@ -1,0 +1,11 @@
+{
+  "name": "nlpta",
+  "version": "0.1.1",
+  "summary": "NLP Toolkit for Amharic",
+  "author": "Fuad Sadik",
+  "license": "MIT",
+  "home_page": "https://github.com/fuadsadik21/nlpta",
+  "download_filename": "nlpta-0.1.1.tar.gz",
+  "download_time": "2026-02-07T11:59:01.688146",
+  "package_url": "https://pypi.org/project/nlpta/"
+}

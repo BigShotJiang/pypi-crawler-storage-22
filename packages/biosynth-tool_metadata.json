@@ -1,0 +1,11 @@
+{
+  "name": "biosynth-tool",
+  "version": "2.0.0",
+  "summary": "BioSynth is a synthetic DNA design tool that eliminates unwanted patterns from sequences using a biologically informed cost model and optimized algorithms. It leverages a finite state machine with two-base memory and dynamic programming to generate minimum-cost sequences that preserve protein function, respect codon usage bias, and avoid unwanted patterns. The tool provides both GUI and CLI interfaces for flexible and efficient DNA design workflows.",
+  "author": "Hadar Pur",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "biosynth_tool-2.0.0.tar.gz",
+  "download_time": "2026-02-07T11:58:58.043804",
+  "package_url": "https://pypi.org/project/biosynth-tool/"
+}

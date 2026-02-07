@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-auto-trader",
+  "version": "2.0.0a4",
+  "summary": "elizaOS Auto Trader Plugin - automated trading strategies",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_auto_trader-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T11:58:54.352013",
+  "package_url": "https://pypi.org/project/elizaos-plugin-auto-trader/"
+}

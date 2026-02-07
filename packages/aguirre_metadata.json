@@ -1,0 +1,11 @@
+{
+  "name": "aguirre",
+  "version": "0.3.0",
+  "summary": "Let Python webservers self-host JS/CSS/etc assets like unpkg does",
+  "author": "P. S. Clarke",
+  "license": "cf:licence",
+  "home_page": "https://github.com/pscl4rke/aguirre",
+  "download_filename": "aguirre-0.3.0.tar.gz",
+  "download_time": "2026-02-07T11:58:53.828512",
+  "package_url": "https://pypi.org/project/aguirre/"
+}

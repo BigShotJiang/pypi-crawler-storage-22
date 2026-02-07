@@ -1,0 +1,11 @@
+{
+  "name": "satellite-telemetry-decoder",
+  "version": "1.0.0",
+  "summary": "Production-grade satellite-telemetry-decoder component",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "satellite_telemetry_decoder-1.0.0.tar.gz",
+  "download_time": "2026-02-07T11:59:13.199519",
+  "package_url": "https://pypi.org/project/satellite-telemetry-decoder/"
+}

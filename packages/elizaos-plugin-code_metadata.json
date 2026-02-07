@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-code",
+  "version": "2.0.0a4",
+  "summary": "elizaOS Coder Plugin - filesystem + shell + git (restricted)",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_code-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T11:58:50.191430",
+  "package_url": "https://pypi.org/project/elizaos-plugin-code/"
+}

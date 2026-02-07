@@ -1,0 +1,11 @@
+{
+  "name": "rateon",
+  "version": "0.1.1",
+  "summary": "Production-grade Python rate-limiting library with Redis backend",
+  "author": "Tural Muradov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rateon-0.1.1.tar.gz",
+  "download_time": "2026-02-07T11:58:36.041071",
+  "package_url": "https://pypi.org/project/rateon/"
+}

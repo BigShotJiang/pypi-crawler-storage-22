@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-elevenlabs",
+  "version": "2.0.0a4",
+  "summary": "High-quality text-to-speech and speech-to-text plugin for ElizaOS using ElevenLabs API",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_elevenlabs-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T11:58:46.037647",
+  "package_url": "https://pypi.org/project/elizaos-plugin-elevenlabs/"
+}

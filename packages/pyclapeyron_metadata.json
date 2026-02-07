@@ -1,0 +1,11 @@
+{
+  "name": "pyclapeyron",
+  "version": "0.1.1",
+  "summary": "Python bindings for the Julia package Clapeyron.jl",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyclapeyron-0.1.1.tar.gz",
+  "download_time": "2026-02-07T11:58:43.441434",
+  "package_url": "https://pypi.org/project/pyclapeyron/"
+}

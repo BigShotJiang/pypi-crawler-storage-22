@@ -1,0 +1,11 @@
+{
+  "name": "pyperf",
+  "version": "2.10.0",
+  "summary": "Python module to run and analyze benchmarks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyperf-2.10.0.tar.gz",
+  "download_time": "2026-02-07T11:59:08.486966",
+  "package_url": "https://pypi.org/project/pyperf/"
+}

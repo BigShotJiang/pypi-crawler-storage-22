@@ -1,11 +1,11 @@
 {
   "name": "spforge",
-  "version": "0.8.45",
+  "version": "0.8.50",
   "summary": "A flexible framework for generating features, ratings, and building machine learning or other models for training and inference on sports data.",
   "author": null,
   "license": "See LICENSE file",
   "home_page": null,
-  "download_filename": "spforge-0.8.45.tar.gz",
-  "download_time": "2026-02-05T23:41:08.439227",
+  "download_filename": "spforge-0.8.50.tar.gz",
+  "download_time": "2026-02-07T11:59:02.214687",
   "package_url": "https://pypi.org/project/spforge/"
 }

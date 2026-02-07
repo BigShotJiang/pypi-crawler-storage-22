@@ -1,0 +1,11 @@
+{
+  "name": "animated-pystyle",
+  "version": "0.3.1",
+  "summary": "Animated colored gradient text for ANSI terminals",
+  "author": "Zalcus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "animated_pystyle-0.3.1.tar.gz",
+  "download_time": "2026-02-07T11:59:17.361600",
+  "package_url": "https://pypi.org/project/animated-pystyle/"
+}
