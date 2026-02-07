@@ -1,11 +1,11 @@
 {
   "name": "aline-ai",
-  "version": "0.7.7",
+  "version": "0.7.11",
   "summary": "Shared AI memory; everyone knows everything in teams",
   "author": "Sharemind",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aline_ai-0.7.7-py3-none-any.whl",
-  "download_time": "2026-02-05T19:29:41.184232",
+  "download_filename": "aline_ai-0.7.11-py3-none-any.whl",
+  "download_time": "2026-02-07T07:10:10.286256",
   "package_url": "https://pypi.org/project/aline-ai/"
 }

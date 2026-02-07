@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_arkel-ai-attio-mcp-server",
+  "version": "0.1.1",
+  "summary": "MCP server for Attio API integration with tools to interact with Attio workspace resources",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_arkel_ai_attio_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-07T07:10:39.960829",
+  "package_url": "https://pypi.org/project/iflow-mcp_arkel-ai-attio-mcp-server/"
+}

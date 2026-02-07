@@ -1,11 +1,11 @@
 {
   "name": "utss",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "Universal Trading Strategy Schema - A composable schema for expressing any trading strategy",
   "author": "obichan117",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "utss-1.0.0.tar.gz",
-  "download_time": "2026-02-01T09:30:53.231469",
+  "download_filename": "utss-1.1.0.tar.gz",
+  "download_time": "2026-02-07T07:10:37.351522",
   "package_url": "https://pypi.org/project/utss/"
 }

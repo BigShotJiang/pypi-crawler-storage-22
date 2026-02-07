@@ -1,11 +1,11 @@
 {
   "name": "Undefined-bot",
-  "version": "2.11.1",
+  "version": "2.12.0",
   "summary": "A high-performance, highly scalable QQ group and private chat robot based on a self-developed architecture.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "undefined_bot-2.11.1.tar.gz",
-  "download_time": "2026-02-05T12:53:49.982209",
+  "download_filename": "undefined_bot-2.12.0.tar.gz",
+  "download_time": "2026-02-07T07:10:16.574200",
   "package_url": "https://pypi.org/project/Undefined-bot/"
 }

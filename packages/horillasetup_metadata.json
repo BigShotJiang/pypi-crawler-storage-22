@@ -1,0 +1,11 @@
+{
+  "name": "horillasetup",
+  "version": "1.0.3",
+  "summary": "CLI tool to build and manage Horilla projects",
+  "author": "Horilla",
+  "license": null,
+  "home_page": "https://github.com/horilla-opensource/horilla-setup",
+  "download_filename": "horillasetup-1.0.3.tar.gz",
+  "download_time": "2026-02-07T07:10:27.908189",
+  "package_url": "https://pypi.org/project/horillasetup/"
+}

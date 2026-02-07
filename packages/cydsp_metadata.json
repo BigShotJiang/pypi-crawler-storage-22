@@ -1,0 +1,11 @@
+{
+  "name": "cydsp",
+  "version": "0.1.1",
+  "summary": "High-performance Python DSP toolkit built on C++ libraries via nanobind",
+  "author": "cydsp contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cydsp-0.1.1.tar.gz",
+  "download_time": "2026-02-07T07:10:10.814236",
+  "package_url": "https://pypi.org/project/cydsp/"
+}

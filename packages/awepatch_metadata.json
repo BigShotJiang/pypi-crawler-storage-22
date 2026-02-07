@@ -1,0 +1,11 @@
+{
+  "name": "awepatch",
+  "version": "0.1.6",
+  "summary": "A Python library for runtime function patching using AST manipulation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "awepatch-0.1.6.tar.gz",
+  "download_time": "2026-02-07T07:10:19.171783",
+  "package_url": "https://pypi.org/project/awepatch/"
+}

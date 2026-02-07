@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_r-brink-polars-mcp",
+  "version": "0.2.1",
+  "summary": "MCP server providing Polars API reference and usage guides for efficient Polars query development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_r_brink_polars_mcp-0.2.1.tar.gz",
+  "download_time": "2026-02-07T07:10:20.194902",
+  "package_url": "https://pypi.org/project/iflow-mcp_r-brink-polars-mcp/"
+}

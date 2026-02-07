@@ -1,0 +1,11 @@
+{
+  "name": "foxar",
+  "version": "0.0.0",
+  "summary": "Flask-style API layer running on FastAPI",
+  "author": null,
+  "license": "GNU Affero General Public License v3.0",
+  "home_page": null,
+  "download_filename": "foxar-0.0.0.tar.gz",
+  "download_time": "2026-02-07T07:10:32.108499",
+  "package_url": "https://pypi.org/project/foxar/"
+}

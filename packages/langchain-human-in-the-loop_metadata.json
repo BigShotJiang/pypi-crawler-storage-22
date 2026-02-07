@@ -1,0 +1,11 @@
+{
+  "name": "langchain-human-in-the-loop",
+  "version": "0.2.0",
+  "summary": "Human-in-the-loop LangChain integration for CodeVF",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_human_in_the_loop-0.2.0.tar.gz",
+  "download_time": "2026-02-07T07:10:34.226785",
+  "package_url": "https://pypi.org/project/langchain-human-in-the-loop/"
+}

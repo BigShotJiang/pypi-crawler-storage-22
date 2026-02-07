@@ -1,11 +1,11 @@
 {
   "name": "ado-git-repo-insights",
-  "version": "5.20.1",
+  "version": "5.22.1",
   "summary": "Extract Azure DevOps Pull Request metrics to SQLite and generate PowerBI-compatible CSVs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ado_git_repo_insights-5.20.1.tar.gz",
-  "download_time": "2026-02-03T22:58:57.573129",
+  "download_filename": "ado_git_repo_insights-5.22.1.tar.gz",
+  "download_time": "2026-02-07T07:10:24.313854",
   "package_url": "https://pypi.org/project/ado-git-repo-insights/"
 }

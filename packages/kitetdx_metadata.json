@@ -1,11 +1,11 @@
 {
   "name": "kitetdx",
-  "version": "0.1.16",
+  "version": "0.1.18",
   "summary": "A custom wrapper and extension for mootdx.",
   "author": "Kiteflyingee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kitetdx-0.1.16.tar.gz",
-  "download_time": "2026-02-06T07:16:28.735514",
+  "download_filename": "kitetdx-0.1.18.tar.gz",
+  "download_time": "2026-02-07T07:10:20.706732",
   "package_url": "https://pypi.org/project/kitetdx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "utss-llm",
+  "version": "0.1.1",
+  "summary": "LLM-powered natural language to UTSS strategy parser",
+  "author": "obichan117",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "utss_llm-0.1.1.tar.gz",
+  "download_time": "2026-02-07T07:10:36.839517",
+  "package_url": "https://pypi.org/project/utss-llm/"
+}

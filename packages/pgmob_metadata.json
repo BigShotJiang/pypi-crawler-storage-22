@@ -1,0 +1,11 @@
+{
+  "name": "pgmob",
+  "version": "0.3.0",
+  "summary": "Postgres Managed Objects - a Postgres database management interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgmob-0.3.0.tar.gz",
+  "download_time": "2026-02-07T07:10:41.552096",
+  "package_url": "https://pypi.org/project/pgmob/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pymupdf-stubs",
+  "version": "1.26.7.post3",
+  "summary": "Type stubs for PyMuPDF (fitz), automatically generated",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pymupdf_stubs-1.26.7.post3.tar.gz",
+  "download_time": "2026-02-07T07:10:06.660097",
+  "package_url": "https://pypi.org/project/pymupdf-stubs/"
+}

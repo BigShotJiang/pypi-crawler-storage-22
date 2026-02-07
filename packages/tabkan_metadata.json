@@ -1,0 +1,11 @@
+{
+  "name": "tabkan",
+  "version": "1.0.2",
+  "summary": "TabKAN: A Framework for Advancing Tabular Data Analysis using Kolmogorov-Arnold Networks",
+  "author": "Ali Eslamian, Alireza Afzal Aghaei, Qiang Cheng",
+  "license": null,
+  "home_page": "https://github.com/aseslamian/TabKAN",
+  "download_filename": "tabkan-1.0.2.tar.gz",
+  "download_time": "2026-02-07T07:10:39.451266",
+  "package_url": "https://pypi.org/project/tabkan/"
+}
