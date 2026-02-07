@@ -1,0 +1,11 @@
+{
+  "name": "disreguard-sig",
+  "version": "0.2.0",
+  "summary": "Sign and verify prompt templates for AI agent security",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "disreguard_sig-0.2.0.tar.gz",
+  "download_time": "2026-02-07T05:44:04.428863",
+  "package_url": "https://pypi.org/project/disreguard-sig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_quentincody-github-graphql-mcp-server",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol (MCP) server that provides access to GitHub's GraphQL API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_quentincody_github_graphql_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-07T05:44:16.939677",
+  "package_url": "https://pypi.org/project/iflow-mcp_quentincody-github-graphql-mcp-server/"
+}

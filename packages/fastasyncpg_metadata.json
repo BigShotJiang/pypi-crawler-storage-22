@@ -1,0 +1,11 @@
+{
+  "name": "fastasyncpg",
+  "version": "0.0.2",
+  "summary": "A simple wrapper for asyncpg",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastasyncpg-0.0.2.tar.gz",
+  "download_time": "2026-02-07T05:44:17.974512",
+  "package_url": "https://pypi.org/project/fastasyncpg/"
+}

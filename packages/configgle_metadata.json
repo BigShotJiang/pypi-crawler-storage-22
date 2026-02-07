@@ -1,11 +1,11 @@
 {
   "name": "configgle",
-  "version": "0.1.4",
+  "version": "1.0.0",
   "summary": "Hierarchical experiment configuration and dependency injection using pure Python dataclass factories.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "configgle-0.1.4.tar.gz",
-  "download_time": "2026-02-05T18:34:07.644355",
+  "download_filename": "configgle-1.0.0.tar.gz",
+  "download_time": "2026-02-07T05:44:10.699560",
   "package_url": "https://pypi.org/project/configgle/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cjm-transcription-plugin-gemini",
+  "version": "0.0.15",
+  "summary": "Google Gemini API plugin for the cjm-transcription-plugin-system library - provides speech-to-text transcription with configurable model selection and parameter control.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-transcription-plugin-gemini",
+  "download_filename": "cjm_transcription_plugin_gemini-0.0.15.tar.gz",
+  "download_time": "2026-02-07T05:43:35.638497",
+  "package_url": "https://pypi.org/project/cjm-transcription-plugin-gemini/"
+}
