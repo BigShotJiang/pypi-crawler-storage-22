@@ -1,0 +1,11 @@
+{
+  "name": "autoscore",
+  "version": "1.0.5",
+  "summary": "A comprehensive automated credit risk scorecard modeling library",
+  "author": "AutoScore Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/autoscore",
+  "download_filename": "autoscore-1.0.5.tar.gz",
+  "download_time": "2026-02-07T08:44:00.904486",
+  "package_url": "https://pypi.org/project/autoscore/"
+}

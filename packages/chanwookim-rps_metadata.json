@@ -1,0 +1,11 @@
+{
+  "name": "chanwookim-rps",
+  "version": "0.1.0",
+  "summary": "A simple and fun rock-paper-scissors CLI game with score tracking",
+  "author": "chanwookim0716",
+  "license": "MIT",
+  "home_page": "https://github.com/chanwookim0716/chanwookim-rps",
+  "download_filename": "chanwookim_rps-0.1.0.tar.gz",
+  "download_time": "2026-02-07T08:44:29.141514",
+  "package_url": "https://pypi.org/project/chanwookim-rps/"
+}

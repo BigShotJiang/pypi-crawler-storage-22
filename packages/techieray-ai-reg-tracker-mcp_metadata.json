@@ -1,0 +1,11 @@
+{
+  "name": "techieray-ai-reg-tracker-mcp",
+  "version": "1.0.1",
+  "summary": "Python client library for the AI Regulation Tracker MCP server",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "techieray_ai_reg_tracker_mcp-1.0.1.tar.gz",
+  "download_time": "2026-02-07T08:43:55.650815",
+  "package_url": "https://pypi.org/project/techieray-ai-reg-tracker-mcp/"
+}

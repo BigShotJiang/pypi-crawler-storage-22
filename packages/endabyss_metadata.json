@@ -1,0 +1,11 @@
+{
+  "name": "endabyss",
+  "version": "1.1.0",
+  "summary": "Red Teaming and Web Bug Bounty Fast Endpoint Discovery Tool",
+  "author": "arrester",
+  "license": null,
+  "home_page": "https://github.com/arrester/endabyss",
+  "download_filename": "endabyss-1.1.0.tar.gz",
+  "download_time": "2026-02-07T08:44:36.425540",
+  "package_url": "https://pypi.org/project/endabyss/"
+}

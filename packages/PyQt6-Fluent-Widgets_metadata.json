@@ -1,0 +1,11 @@
+{
+  "name": "PyQt6-Fluent-Widgets",
+  "version": "1.11.1",
+  "summary": "A fluent design widgets library based on PyQt6",
+  "author": "zhiyiYo",
+  "license": "GPLv3",
+  "home_page": "https://qfluentwidgets.com",
+  "download_filename": "pyqt6_fluent_widgets-1.11.1.tar.gz",
+  "download_time": "2026-02-07T08:43:58.803658",
+  "package_url": "https://pypi.org/project/PyQt6-Fluent-Widgets/"
+}

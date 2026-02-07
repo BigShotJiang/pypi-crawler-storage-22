@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kirandawadi-volatility3-mcp",
+  "version": "0.1.0",
+  "summary": "Volatility3 MCP Server - Memory forensics analysis through MCP protocol",
+  "author": "Kirandawadi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_kirandawadi_volatility3_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-07T08:44:07.717803",
+  "package_url": "https://pypi.org/project/iflow-mcp_kirandawadi-volatility3-mcp/"
+}

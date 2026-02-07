@@ -1,0 +1,11 @@
+{
+  "name": "loopforge",
+  "version": "0.1.0",
+  "summary": "A typed, auditable state machine for the issue → PR → CI → merge → close lifecycle. Every transition validated, timestamped, and recorded.",
+  "author": "fenderfonic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "loopforge-0.1.0.tar.gz",
+  "download_time": "2026-02-07T08:44:41.124096",
+  "package_url": "https://pypi.org/project/loopforge/"
+}

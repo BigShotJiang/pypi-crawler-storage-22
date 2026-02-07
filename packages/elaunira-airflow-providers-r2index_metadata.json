@@ -1,11 +1,11 @@
 {
   "name": "elaunira-airflow-providers-r2index",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Airflow provider for Elaunira R2Index connections",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elaunira_airflow_providers_r2index-0.4.0.tar.gz",
-  "download_time": "2026-02-06T10:09:50.395792",
+  "download_filename": "elaunira_airflow_providers_r2index-0.4.1.tar.gz",
+  "download_time": "2026-02-07T08:44:19.730996",
   "package_url": "https://pypi.org/project/elaunira-airflow-providers-r2index/"
 }

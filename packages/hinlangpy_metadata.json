@@ -1,0 +1,11 @@
+{
+  "name": "hinlangpy",
+  "version": "1.0.0",
+  "summary": "A pure-Python Hinglish ↔ Hindi (Devanagari) transliterator",
+  "author": "Ranjan",
+  "license": null,
+  "home_page": "https://github.com/ranjanlive/hinlang",
+  "download_filename": "hinlangpy-1.0.0.tar.gz",
+  "download_time": "2026-02-07T08:44:40.078948",
+  "package_url": "https://pypi.org/project/hinlangpy/"
+}

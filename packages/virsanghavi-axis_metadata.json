@@ -1,0 +1,11 @@
+{
+  "name": "virsanghavi-axis",
+  "version": "1.0.0",
+  "summary": "Python SDK for the Axis Context Protocol",
+  "author": "Axis Governance",
+  "license": null,
+  "home_page": "https://github.com/VirSanghavi/shared-context",
+  "download_filename": "virsanghavi_axis-1.0.0.tar.gz",
+  "download_time": "2026-02-07T08:44:29.659329",
+  "package_url": "https://pypi.org/project/virsanghavi-axis/"
+}

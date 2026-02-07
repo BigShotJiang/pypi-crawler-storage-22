@@ -1,0 +1,11 @@
+{
+  "name": "open-binancian-futures",
+  "version": "26.2.1",
+  "summary": "A robust framework for creating, backtesting, and deploying trading bots for Binance USDⓈ-M Futures",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "open_binancian_futures-26.2.1.tar.gz",
+  "download_time": "2026-02-07T08:44:23.949257",
+  "package_url": "https://pypi.org/project/open-binancian-futures/"
+}
