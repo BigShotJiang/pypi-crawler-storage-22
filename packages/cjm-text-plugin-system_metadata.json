@@ -1,0 +1,11 @@
+{
+  "name": "cjm-text-plugin-system",
+  "version": "0.0.2",
+  "summary": "Defines standardized interfaces and data structures for text processing plugins, enabling modular NLP operations like sentence splitting, tokenization, and chunking within the cjm-plugin-system ecosystem.",
+  "author": "Christian J. Mills",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cj-mills/cjm-text-plugin-system",
+  "download_filename": "cjm_text_plugin_system-0.0.2.tar.gz",
+  "download_time": "2026-02-07T01:30:31.163135",
+  "package_url": "https://pypi.org/project/cjm-text-plugin-system/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "velm",
-  "version": "0.1.9",
+  "version": "0.2.3",
   "summary": "VELM: The Sovereign God-Engine for Architecture-as-Code (AaC). Built on the Scaffold Methodology.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "velm-0.1.9.tar.gz",
-  "download_time": "2026-02-05T23:59:44.626198",
+  "download_filename": "velm-0.2.3.tar.gz",
+  "download_time": "2026-02-07T01:30:40.641688",
   "package_url": "https://pypi.org/project/velm/"
 }

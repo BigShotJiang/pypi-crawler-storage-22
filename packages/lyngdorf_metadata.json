@@ -1,11 +1,11 @@
 {
   "name": "lyngdorf",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Library to control a Lyngdorf A/V processor",
   "author": "Alex Fishlock",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lyngdorf-1.2.1.tar.gz",
-  "download_time": "2026-02-06T23:23:41.318568",
+  "download_filename": "lyngdorf-1.2.2.tar.gz",
+  "download_time": "2026-02-07T01:30:40.088850",
   "package_url": "https://pypi.org/project/lyngdorf/"
 }

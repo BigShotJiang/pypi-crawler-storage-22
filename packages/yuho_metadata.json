@@ -1,0 +1,11 @@
+{
+  "name": "yuho",
+  "version": "5.1.0",
+  "summary": "A domain-specific language for encoding legal statutes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yuho-5.1.0.tar.gz",
+  "download_time": "2026-02-07T01:31:00.990780",
+  "package_url": "https://pypi.org/project/yuho/"
+}

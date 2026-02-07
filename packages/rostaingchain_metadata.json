@@ -1,0 +1,11 @@
+{
+  "name": "rostaingchain",
+  "version": "1.0.1",
+  "summary": "The Ultimate Agentic RAG Framework: Autonomous Agents, Self-Healing Code Execution, Multimodal Vision, Live Watcher & Dynamic Security.",
+  "author": "Davila Rostaing",
+  "license": "MIT",
+  "home_page": "https://github.com/Rostaing/rostaingchain",
+  "download_filename": "rostaingchain-1.0.1.tar.gz",
+  "download_time": "2026-02-07T01:31:13.170907",
+  "package_url": "https://pypi.org/project/rostaingchain/"
+}

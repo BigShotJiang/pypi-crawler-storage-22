@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_naosen-spine2d-animation-mcp",
+  "version": "0.1.2",
+  "summary": "MCP server for generating SPINE2D animations from PSD files using natural language",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/yourusername/spine2d-animation-mcp",
+  "download_filename": "iflow_mcp_naosen_spine2d_animation_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-07T01:30:31.683524",
+  "package_url": "https://pypi.org/project/iflow-mcp_naosen-spine2d-animation-mcp/"
+}

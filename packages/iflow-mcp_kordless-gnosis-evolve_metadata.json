@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kordless-gnosis-evolve",
+  "version": "1.1.0",
+  "summary": "Build. Extend. Evolve. Give Claude Desktop superpowers by creating and using its own Python tools.",
+  "author": "kordless",
+  "license": "Sovereign v1.1",
+  "home_page": null,
+  "download_filename": "iflow_mcp_kordless_gnosis_evolve-1.1.0.tar.gz",
+  "download_time": "2026-02-07T01:30:33.283673",
+  "package_url": "https://pypi.org/project/iflow-mcp_kordless-gnosis-evolve/"
+}

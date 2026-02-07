@@ -1,0 +1,11 @@
+{
+  "name": "rfdom",
+  "version": "0.0.1",
+  "summary": "Hardware random number generator using RTL-SDR radio frequency noise",
+  "author": "douxxtech",
+  "license": "GPLv3",
+  "home_page": "https://github.com/douxxtech/rfdom",
+  "download_filename": "rfdom-0.0.1.tar.gz",
+  "download_time": "2026-02-07T01:30:55.269444",
+  "package_url": "https://pypi.org/project/rfdom/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "coglet",
+  "version": "0.0.1",
+  "summary": "Rust powered C2 for Cog",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "coglet-0.0.1.tar.gz",
+  "download_time": "2026-02-07T01:31:04.653167",
+  "package_url": "https://pypi.org/project/coglet/"
+}

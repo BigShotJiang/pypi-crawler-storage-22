@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_alucek-simple-mcp-examples",
+  "version": "0.1.0",
+  "summary": "MCP server for document search with RAG capabilities using ChromaDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_alucek_simple_mcp_examples-0.1.0.tar.gz",
+  "download_time": "2026-02-07T01:31:04.116260",
+  "package_url": "https://pypi.org/project/iflow-mcp_alucek-simple-mcp-examples/"
+}
