@@ -1,0 +1,11 @@
+{
+  "name": "protobuf-protoc-bin",
+  "version": "33.5",
+  "summary": "Pip package to host the protobuf protoc binary",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "protobuf_protoc_bin-33.5.tar.gz",
+  "download_time": "2026-02-07T06:26:49.853772",
+  "package_url": "https://pypi.org/project/protobuf-protoc-bin/"
+}

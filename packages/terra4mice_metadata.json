@@ -1,11 +1,11 @@
 {
   "name": "terra4mice",
-  "version": "0.1.0.dev16",
+  "version": "0.1.0.dev17",
   "summary": "State-Driven Development Framework - Terraform for your codebase",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "terra4mice-0.1.0.dev16.tar.gz",
-  "download_time": "2026-02-07T03:45:40.880179",
+  "download_filename": "terra4mice-0.1.0.dev17.tar.gz",
+  "download_time": "2026-02-07T06:27:20.858882",
   "package_url": "https://pypi.org/project/terra4mice/"
 }

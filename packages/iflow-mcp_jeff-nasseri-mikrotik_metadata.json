@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jeff-nasseri-mikrotik",
+  "version": "0.1.14",
+  "summary": "MCP server for MikroTik integration with Claude and other AI assistants",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_jeff_nasseri_mikrotik-0.1.14.tar.gz",
+  "download_time": "2026-02-07T06:27:12.509232",
+  "package_url": "https://pypi.org/project/iflow-mcp_jeff-nasseri-mikrotik/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mapmatcher4gmns",
+  "version": "0.1.6",
+  "summary": "A high-performance map matching tool for GMNS networks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mapmatcher4gmns-0.1.6.tar.gz",
+  "download_time": "2026-02-07T06:27:04.789442",
+  "package_url": "https://pypi.org/project/mapmatcher4gmns/"
+}

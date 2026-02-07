@@ -1,0 +1,11 @@
+{
+  "name": "piazza-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for browsing Piazza course forums",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "piazza_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-07T06:27:00.124527",
+  "package_url": "https://pypi.org/project/piazza-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rosbag-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for analyzing ROS and ROS 2 bag files with LLMs",
+  "author": "Junhyeok Choi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rosbag_mcp-0.2.0.tar.gz",
+  "download_time": "2026-02-07T06:27:28.556169",
+  "package_url": "https://pypi.org/project/rosbag-mcp/"
+}

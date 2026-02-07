@@ -1,0 +1,11 @@
+{
+  "name": "FortniteAPIAsync",
+  "version": "2.0.0",
+  "summary": "Asynchronous Python wrapper for Fortnite-API.com.",
+  "author": "xMistt",
+  "license": null,
+  "home_page": "https://github.com/xMistt/FortniteAPIAsync",
+  "download_filename": "fortniteapiasync-2.0.0.tar.gz",
+  "download_time": "2026-02-07T06:26:56.017122",
+  "package_url": "https://pypi.org/project/FortniteAPIAsync/"
+}

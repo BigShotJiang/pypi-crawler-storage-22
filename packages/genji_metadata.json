@@ -1,0 +1,11 @@
+{
+  "name": "genji",
+  "version": "0.1.0",
+  "summary": "Jinja2-based templating for LLM-generated structured output",
+  "author": "Caleb Evans",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genji-0.1.0.tar.gz",
+  "download_time": "2026-02-07T06:27:02.692373",
+  "package_url": "https://pypi.org/project/genji/"
+}
