@@ -1,0 +1,11 @@
+{
+  "name": "ginsim",
+  "version": "0.4.7",
+  "summary": "Python interface to GINsim and BioLQM API",
+  "author": "Aurélien Naldi",
+  "license": null,
+  "home_page": "https://github.com/GINsim/GINsim-python",
+  "download_filename": "ginsim-0.4.7.tar.gz",
+  "download_time": "2026-02-07T10:23:35.505595",
+  "package_url": "https://pypi.org/project/ginsim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nwebclient",
+  "version": "1.0.314",
+  "summary": "NWebClient via HTTP",
+  "author": "Bjoern Salgert",
+  "license": null,
+  "home_page": "https://bsnx.net/4.0/group/pynwebclient",
+  "download_filename": "nwebclient-1.0.314.tar.gz",
+  "download_time": "2026-02-07T10:24:10.024886",
+  "package_url": "https://pypi.org/project/nwebclient/"
+}

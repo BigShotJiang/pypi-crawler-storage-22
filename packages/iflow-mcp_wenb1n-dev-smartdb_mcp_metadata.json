@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_wenb1n-dev-smartdb_mcp",
+  "version": "1.0.0",
+  "summary": "SmartDB is a universal database gateway that implements the Model Context Protocol (MCP) server interface.SmartDB not only provides basic database connection and exploration capabilities but also adds advanced features such as OAuth 2.0 authentication , health checks, SQL optimization, and index health detection, making database management and maintenance more secure and intelligent.",
+  "author": "wenb1n",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_wenb1n_dev_smartdb_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-07T10:24:05.704301",
+  "package_url": "https://pypi.org/project/iflow-mcp_wenb1n-dev-smartdb_mcp/"
+}

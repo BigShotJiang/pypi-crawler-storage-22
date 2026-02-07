@@ -1,11 +1,11 @@
 {
   "name": "marimushka",
-  "version": "0.2.6",
+  "version": "0.3.1",
   "summary": "Export marimo notebooks in style",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "marimushka-0.2.6.tar.gz",
-  "download_time": "2026-02-02T06:46:15.337056",
+  "download_filename": "marimushka-0.3.1.tar.gz",
+  "download_time": "2026-02-07T10:24:04.073511",
   "package_url": "https://pypi.org/project/marimushka/"
 }

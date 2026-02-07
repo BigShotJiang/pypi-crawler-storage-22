@@ -1,0 +1,11 @@
+{
+  "name": "pyannote-audio",
+  "version": "4.0.4",
+  "summary": "State-of-the-art speaker diarization toolkit",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyannote_audio-4.0.4-py3-none-any.whl",
+  "download_time": "2026-02-07T10:24:05.161765",
+  "package_url": "https://pypi.org/project/pyannote-audio/"
+}

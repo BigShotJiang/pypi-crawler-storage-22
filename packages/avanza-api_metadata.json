@@ -1,0 +1,11 @@
+{
+  "name": "avanza-api",
+  "version": "16.1.0",
+  "summary": "A Python library for the unofficial Avanza API",
+  "author": "André Andersson",
+  "license": "MIT",
+  "home_page": "https://github.com/Qluxzz/avanza",
+  "download_filename": "avanza_api-16.1.0.tar.gz",
+  "download_time": "2026-02-07T10:23:36.046823",
+  "package_url": "https://pypi.org/project/avanza-api/"
+}

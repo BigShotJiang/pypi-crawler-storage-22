@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_kvadratni-speech-mcp",
+  "version": "1.1.1",
+  "summary": "Speech MCP Server with command-line interface and Kokoro TTS support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_kvadratni_speech_mcp-1.1.1.tar.gz",
+  "download_time": "2026-02-07T10:23:41.681656",
+  "package_url": "https://pypi.org/project/iflow-mcp_kvadratni-speech-mcp/"
+}

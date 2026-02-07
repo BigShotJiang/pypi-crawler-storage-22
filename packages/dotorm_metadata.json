@@ -1,0 +1,11 @@
+{
+  "name": "dotorm",
+  "version": "2.1.1",
+  "summary": "Async Python ORM for PostgreSQL, MySQL and ClickHouse with dot-notation access",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dotorm-2.1.1.tar.gz",
+  "download_time": "2026-02-07T10:23:33.893832",
+  "package_url": "https://pypi.org/project/dotorm/"
+}

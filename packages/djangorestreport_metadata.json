@@ -1,0 +1,11 @@
+{
+  "name": "djangorestreport",
+  "version": "0.0.2",
+  "summary": "A versatile Django toolkit for generating reports from various backends",
+  "author": "Chinmay Roy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangorestreport-0.0.2.tar.gz",
+  "download_time": "2026-02-07T10:24:01.900231",
+  "package_url": "https://pypi.org/project/djangorestreport/"
+}
