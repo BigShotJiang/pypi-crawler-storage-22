@@ -1,0 +1,11 @@
+{
+  "name": "compressor-rs",
+  "version": "0.1.0",
+  "summary": "Bibliothèque de compression de docier rapide pour Python utilisant Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "compressor_rs-0.1.0.tar.gz",
+  "download_time": "2026-02-07T14:46:57.970706",
+  "package_url": "https://pypi.org/project/compressor-rs/"
+}

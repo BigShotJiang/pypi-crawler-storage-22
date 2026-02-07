@@ -1,0 +1,11 @@
+{
+  "name": "dfe-nfse",
+  "version": "0.2.1",
+  "summary": "Biblioteca para baixar NFSe do Ambiente Nacional (ADN)",
+  "author": "David Silva",
+  "license": null,
+  "home_page": "https://github.com/DaavidSiilva/dfe-nfse",
+  "download_filename": "dfe_nfse-0.2.1.tar.gz",
+  "download_time": "2026-02-07T14:47:17.326212",
+  "package_url": "https://pypi.org/project/dfe-nfse/"
+}

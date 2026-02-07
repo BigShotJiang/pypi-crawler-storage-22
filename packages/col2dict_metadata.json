@@ -1,0 +1,11 @@
+{
+  "name": "col2dict",
+  "version": "0.8.0",
+  "summary": "Create nested dictionaries from columns of tabular data",
+  "author": "Daniele Gregori",
+  "license": null,
+  "home_page": null,
+  "download_filename": "col2dict-0.8.0.tar.gz",
+  "download_time": "2026-02-07T14:47:40.303643",
+  "package_url": "https://pypi.org/project/col2dict/"
+}

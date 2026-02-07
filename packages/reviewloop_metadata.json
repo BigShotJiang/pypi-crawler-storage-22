@@ -1,11 +1,11 @@
 {
   "name": "reviewloop",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Autonomous review loop - automates the review-fix-push cycle",
   "author": "Fabian Both",
   "license": null,
   "home_page": null,
-  "download_filename": "reviewloop-0.3.2.tar.gz",
-  "download_time": "2026-02-06T16:06:07.448174",
+  "download_filename": "reviewloop-0.3.3.tar.gz",
+  "download_time": "2026-02-07T14:47:00.054561",
   "package_url": "https://pypi.org/project/reviewloop/"
 }

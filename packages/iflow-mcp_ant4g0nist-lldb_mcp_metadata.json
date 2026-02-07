@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_ant4g0nist-lldb_mcp",
+  "version": "0.1.0",
+  "summary": "LLDB MCP Server for AI-assisted debugging",
+  "author": "ant4g0nist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_ant4g0nist_lldb_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-07T14:47:01.640059",
+  "package_url": "https://pypi.org/project/iflow-mcp_ant4g0nist-lldb_mcp/"
+}

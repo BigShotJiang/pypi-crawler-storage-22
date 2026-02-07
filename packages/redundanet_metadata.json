@@ -1,11 +1,11 @@
 {
   "name": "redundanet",
-  "version": "2.0.10",
+  "version": "2.0.11",
   "summary": "Distributed encrypted storage on a mesh VPN network",
   "author": "Alessandro De Filippo",
   "license": "GPL-3.0",
   "home_page": "https://github.com/alessandrodefilippo/redundanet",
-  "download_filename": "redundanet-2.0.10.tar.gz",
-  "download_time": "2026-02-06T08:42:25.715964",
+  "download_filename": "redundanet-2.0.11.tar.gz",
+  "download_time": "2026-02-07T14:47:34.586464",
   "package_url": "https://pypi.org/project/redundanet/"
 }

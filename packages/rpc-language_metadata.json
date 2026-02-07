@@ -1,11 +1,11 @@
 {
   "name": "rpc-language",
-  "version": "4.1",
+  "version": "4.5",
   "summary": "RPC Language - RustPythonCode 转译器",
   "author": "XiaoME",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rpc_language-4.1.tar.gz",
-  "download_time": "2026-02-07T11:59:00.131768",
+  "download_filename": "rpc_language-4.5.tar.gz",
+  "download_time": "2026-02-07T14:47:14.190324",
   "package_url": "https://pypi.org/project/rpc-language/"
 }

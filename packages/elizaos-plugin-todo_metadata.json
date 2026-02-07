@@ -1,0 +1,11 @@
+{
+  "name": "elizaos-plugin-todo",
+  "version": "2.0.0a4",
+  "summary": "elizaOS Todo Plugin - Task management with daily recurring and one-off tasks",
+  "author": "elizaOS Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "elizaos_plugin_todo-2.0.0a4.tar.gz",
+  "download_time": "2026-02-07T14:46:56.404659",
+  "package_url": "https://pypi.org/project/elizaos-plugin-todo/"
+}

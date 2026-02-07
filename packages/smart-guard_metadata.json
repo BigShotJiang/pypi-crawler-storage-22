@@ -1,0 +1,11 @@
+{
+  "name": "smart-guard",
+  "version": "0.1.2",
+  "summary": "A simple decorator to guard function inputs and outputs by converting them to strings for validation.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "smart_guard-0.1.2.tar.gz",
+  "download_time": "2026-02-07T14:47:12.079743",
+  "package_url": "https://pypi.org/project/smart-guard/"
+}

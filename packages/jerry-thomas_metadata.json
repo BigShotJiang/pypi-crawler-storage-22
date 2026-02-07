@@ -1,11 +1,11 @@
 {
   "name": "jerry-thomas",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Jerry-Thomas: a stream-first, plugin-friendly data pipeline (mixology-themed CLI)",
   "author": "Anders Skott Lind",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jerry_thomas-2.0.0.tar.gz",
-  "download_time": "2026-02-06T15:30:46.328691",
+  "download_filename": "jerry_thomas-2.1.0.tar.gz",
+  "download_time": "2026-02-07T14:47:02.160481",
   "package_url": "https://pypi.org/project/jerry-thomas/"
 }

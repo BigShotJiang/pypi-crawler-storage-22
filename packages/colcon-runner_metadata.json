@@ -1,0 +1,11 @@
+{
+  "name": "colcon-runner",
+  "version": "0.10.0",
+  "summary": "A concise CLI wrapper for colcon build/test/clean workflows.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "colcon_runner-0.10.0.tar.gz",
+  "download_time": "2026-02-07T14:47:36.670095",
+  "package_url": "https://pypi.org/project/colcon-runner/"
+}
