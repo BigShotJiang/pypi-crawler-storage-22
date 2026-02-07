@@ -1,0 +1,11 @@
+{
+  "name": "yandex-ai-studio-sdk",
+  "version": "0.19.2",
+  "summary": "Multimodal SDK for working with Yandex AI Studio services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yandex_ai_studio_sdk-0.19.2.tar.gz",
+  "download_time": "2026-02-07T16:32:04.866370",
+  "package_url": "https://pypi.org/project/yandex-ai-studio-sdk/"
+}

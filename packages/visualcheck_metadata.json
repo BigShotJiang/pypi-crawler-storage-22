@@ -1,0 +1,11 @@
+{
+  "name": "visualcheck",
+  "version": "0.1.0",
+  "summary": "Visual regression checking with figma-first baselines, pixel+SSIM diffing, ignore regions, and HTML reports.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "visualcheck-0.1.0.tar.gz",
+  "download_time": "2026-02-07T16:31:28.443447",
+  "package_url": "https://pypi.org/project/visualcheck/"
+}

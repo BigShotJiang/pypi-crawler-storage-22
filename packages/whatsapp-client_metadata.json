@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-client",
+  "version": "0.2.0",
+  "summary": "Async Python client for the WhatsApp Business Cloud API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "whatsapp_client-0.2.0.tar.gz",
+  "download_time": "2026-02-07T16:32:03.302178",
+  "package_url": "https://pypi.org/project/whatsapp-client/"
+}

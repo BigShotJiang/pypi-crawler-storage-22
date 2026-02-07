@@ -1,0 +1,11 @@
+{
+  "name": "metamath-py",
+  "version": "0.0.8",
+  "summary": "A Python interface to Metamath",
+  "author": "Chad T. Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "metamath_py-0.0.8.tar.gz",
+  "download_time": "2026-02-07T16:31:22.186515",
+  "package_url": "https://pypi.org/project/metamath-py/"
+}

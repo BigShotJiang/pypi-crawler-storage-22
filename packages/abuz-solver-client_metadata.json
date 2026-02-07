@@ -1,11 +1,11 @@
 {
   "name": "abuz-solver-client",
-  "version": "0.1.2",
-  "summary": "Client for remote task solver (single solve function).",
+  "version": "0.1.6",
+  "summary": "Client for remote task solver (solve, send_to_saved, listen_and_save_telegram).",
   "author": "Abuz",
   "license": null,
   "home_page": null,
-  "download_filename": "abuz_solver_client-0.1.2.tar.gz",
-  "download_time": "2026-02-07T11:58:37.090010",
+  "download_filename": "abuz_solver_client-0.1.6.tar.gz",
+  "download_time": "2026-02-07T16:31:58.601100",
   "package_url": "https://pypi.org/project/abuz-solver-client/"
 }

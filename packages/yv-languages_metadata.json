@@ -1,0 +1,11 @@
+{
+  "name": "yv-languages",
+  "version": "1.0.5",
+  "summary": "Languages package for YouVersion usage.",
+  "author": "Bradley Belyeu",
+  "license": null,
+  "home_page": "https://gitlab.com/lifechurch/youversion/apis/libraries/yv-languages",
+  "download_filename": "yv_languages-1.0.5.tar.gz",
+  "download_time": "2026-02-07T16:31:57.026723",
+  "package_url": "https://pypi.org/project/yv-languages/"
+}

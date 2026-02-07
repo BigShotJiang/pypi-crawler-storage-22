@@ -1,0 +1,11 @@
+{
+  "name": "rsge-python",
+  "version": "1.0.0",
+  "summary": "Python SDK for the Georgian Revenue Service (RS.ge) – WayBill & Customs Declarations API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rsge_python-1.0.0.tar.gz",
+  "download_time": "2026-02-07T16:31:27.922660",
+  "package_url": "https://pypi.org/project/rsge-python/"
+}

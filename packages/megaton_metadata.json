@@ -1,0 +1,11 @@
+{
+  "name": "megaton",
+  "version": "1.0.0",
+  "summary": "Utilities for Google Analytics, Google Analytics 4, Google Sheets, Search Console and Google Cloud Platform.",
+  "author": "Makoto Shimizu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "megaton-1.0.0.tar.gz",
+  "download_time": "2026-02-07T16:32:04.346953",
+  "package_url": "https://pypi.org/project/megaton/"
+}

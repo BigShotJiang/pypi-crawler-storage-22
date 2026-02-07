@@ -1,11 +1,11 @@
 {
   "name": "chzzk-python",
-  "version": "0.13.0",
+  "version": "0.14.1",
   "summary": "Unofficial Python SDK for Chzzk (NAVER Live Streaming Platform) API",
   "author": "hypn4",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chzzk_python-0.13.0.tar.gz",
-  "download_time": "2026-01-28T16:57:09.597728",
+  "download_filename": "chzzk_python-0.14.1.tar.gz",
+  "download_time": "2026-02-07T16:31:35.325082",
   "package_url": "https://pypi.org/project/chzzk-python/"
 }

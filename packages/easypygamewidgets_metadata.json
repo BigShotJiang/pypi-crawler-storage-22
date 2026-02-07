@@ -1,0 +1,11 @@
+{
+  "name": "easypygamewidgets",
+  "version": "1.2.1",
+  "summary": "Create GUIs for pygame.",
+  "author": "PizzaPost",
+  "license": null,
+  "home_page": "https://github.com/PizzaPost/pywidgets ",
+  "download_filename": "easypygamewidgets-1.2.1.tar.gz",
+  "download_time": "2026-02-07T16:31:46.477998",
+  "package_url": "https://pypi.org/project/easypygamewidgets/"
+}

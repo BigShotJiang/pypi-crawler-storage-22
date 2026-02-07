@@ -1,11 +1,11 @@
 {
   "name": "vibeguard-cli",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "summary": "Unified security scanner orchestrator for local repos",
   "author": "VibeGuard Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vibeguard_cli-1.0.4.tar.gz",
-  "download_time": "2026-02-05T21:41:09.750835",
+  "download_filename": "vibeguard_cli-1.1.0.tar.gz",
+  "download_time": "2026-02-07T16:31:34.796486",
   "package_url": "https://pypi.org/project/vibeguard-cli/"
 }

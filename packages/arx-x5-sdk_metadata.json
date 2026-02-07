@@ -1,0 +1,11 @@
+{
+  "name": "arx-x5-sdk",
+  "version": "0.1.6",
+  "summary": "ARX X5 Robot Arm Python SDK",
+  "author": "Remi Cadene, UMA",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arx_x5_sdk-0.1.6.tar.gz",
+  "download_time": "2026-02-07T16:31:48.150965",
+  "package_url": "https://pypi.org/project/arx-x5-sdk/"
+}

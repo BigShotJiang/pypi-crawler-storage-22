@@ -1,0 +1,11 @@
+{
+  "name": "orchat",
+  "version": "1.4.5",
+  "summary": "A powerful CLI for chatting with AI models through OpenRouter",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "orchat-1.4.5.tar.gz",
+  "download_time": "2026-02-07T16:31:29.044680",
+  "package_url": "https://pypi.org/project/orchat/"
+}
