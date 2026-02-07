@@ -1,11 +1,11 @@
 {
   "name": "querycraft",
-  "version": "0.0.91",
+  "version": "0.0.93",
   "summary": "Provide usefully SQL classes and functions to execute SQL queries step by step",
   "author": "Emmanuel Desmontils",
   "license": "GPL V3",
   "home_page": "https://gitlab.univ-nantes.fr/ls2n-didactique/querycraft",
-  "download_filename": "querycraft-0.0.91.tar.gz",
-  "download_time": "2026-02-06T18:02:09.009960",
+  "download_filename": "querycraft-0.0.93.tar.gz",
+  "download_time": "2026-02-07T08:03:12.764859",
   "package_url": "https://pypi.org/project/querycraft/"
 }

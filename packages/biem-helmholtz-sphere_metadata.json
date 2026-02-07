@@ -1,0 +1,11 @@
+{
+  "name": "biem-helmholtz-sphere",
+  "version": "1.2.0",
+  "summary": "Acoustic scattering from multiple n-spheres in NumPy / PyTorch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biem_helmholtz_sphere-1.2.0.tar.gz",
+  "download_time": "2026-02-07T08:03:08.947699",
+  "package_url": "https://pypi.org/project/biem-helmholtz-sphere/"
+}

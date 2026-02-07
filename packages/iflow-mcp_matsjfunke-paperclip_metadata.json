@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_matsjfunke-paperclip",
+  "version": "0.1.0",
+  "summary": "Paperclip MCP Server - Search and retrieve research papers from Arxiv, OSF, and OpenAlex",
+  "author": "matsjfunke",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_matsjfunke_paperclip-0.1.0.tar.gz",
+  "download_time": "2026-02-07T08:03:15.721035",
+  "package_url": "https://pypi.org/project/iflow-mcp_matsjfunke-paperclip/"
+}

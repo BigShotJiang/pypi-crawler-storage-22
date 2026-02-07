@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mlit-data-platform-mlit-dpf-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for MLIT (MLIT Data Platform wrapper)",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mlit_data_platform_mlit_dpf_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-07T08:03:18.473021",
+  "package_url": "https://pypi.org/project/iflow-mcp_mlit-data-platform-mlit-dpf-mcp/"
+}

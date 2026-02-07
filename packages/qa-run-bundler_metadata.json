@@ -1,11 +1,11 @@
 {
   "name": "qa-run-bundler",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Bundle automation run artifacts into a ZIP + self-contained HTML viewer",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qa_run_bundler-0.2.3.tar.gz",
-  "download_time": "2026-02-07T07:10:47.712552",
+  "download_filename": "qa_run_bundler-0.2.4.tar.gz",
+  "download_time": "2026-02-07T08:03:20.086733",
   "package_url": "https://pypi.org/project/qa-run-bundler/"
 }

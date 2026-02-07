@@ -1,11 +1,11 @@
 {
   "name": "gnosisllm-knowledge",
-  "version": "0.4.4",
+  "version": "0.4.6",
   "summary": "Enterprise-grade knowledge loading, indexing, and search for Python",
   "author": "David Marsa",
   "license": "MIT",
   "home_page": "https://github.com/gnosisllm/gnosisllm-knowledge",
-  "download_filename": "gnosisllm_knowledge-0.4.4.tar.gz",
-  "download_time": "2026-02-04T06:05:53.170007",
+  "download_filename": "gnosisllm_knowledge-0.4.6.tar.gz",
+  "download_time": "2026-02-07T08:03:13.850408",
   "package_url": "https://pypi.org/project/gnosisllm-knowledge/"
 }

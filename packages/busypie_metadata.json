@@ -1,11 +1,11 @@
 {
   "name": "busypie",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Easy and expressive busy-waiting for Python",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "busypie-0.6.0.tar.gz",
-  "download_time": "2026-02-06T07:16:33.582419",
+  "download_filename": "busypie-0.6.1.tar.gz",
+  "download_time": "2026-02-07T08:03:07.319823",
   "package_url": "https://pypi.org/project/busypie/"
 }

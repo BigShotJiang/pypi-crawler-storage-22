@@ -1,11 +1,11 @@
 {
   "name": "anchor-audit",
-  "version": "2.1.1",
-  "summary": "The Federated Governance Engine for AI (FINOS/OSFF Compliant)",
+  "version": "2.3.0",
+  "summary": "The Federated Governance Engine for AI (Constitution + State Law)",
   "author": "Tanishq",
   "license": null,
   "home_page": "https://github.com/Tanishq1030/anchor",
-  "download_filename": "anchor_audit-2.1.1.tar.gz",
-  "download_time": "2026-01-30T17:58:57.483608",
+  "download_filename": "anchor_audit-2.3.0.tar.gz",
+  "download_time": "2026-02-07T08:03:19.560029",
   "package_url": "https://pypi.org/project/anchor-audit/"
 }

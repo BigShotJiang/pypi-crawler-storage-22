@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_mrcare-weather-server",
+  "version": "1.0.0",
+  "summary": "一个基于 FastMCP 的天气查询服务",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_mrcare_weather_server-1.0.0.tar.gz",
+  "download_time": "2026-02-07T08:03:10.575597",
+  "package_url": "https://pypi.org/project/iflow-mcp_mrcare-weather-server/"
+}

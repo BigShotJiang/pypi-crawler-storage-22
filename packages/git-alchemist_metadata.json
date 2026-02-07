@@ -1,11 +1,11 @@
 {
   "name": "git-alchemist",
-  "version": "1.2.4",
+  "version": "1.2.6",
   "summary": "A unified AI stack to optimize, describe, architect, and forge pull requests for your GitHub repositories.",
   "author": "abduznik",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "git_alchemist-1.2.4.tar.gz",
-  "download_time": "2026-02-07T07:48:18.664600",
+  "download_filename": "git_alchemist-1.2.6.tar.gz",
+  "download_time": "2026-02-07T08:03:09.490134",
   "package_url": "https://pypi.org/project/git-alchemist/"
 }
