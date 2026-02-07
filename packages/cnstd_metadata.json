@@ -1,0 +1,11 @@
+{
+  "name": "cnstd",
+  "version": "1.2.7",
+  "summary": "Python3 package for Chinese/English Scene Text Detection (STD), Mathematical Formula Detection (MFD), and Layout Analysis, with free pretrained models",
+  "author": "breezedeus",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/breezedeus/cnstd",
+  "download_filename": "cnstd-1.2.7.tar.gz",
+  "download_time": "2026-02-07T09:06:05.771579",
+  "package_url": "https://pypi.org/project/cnstd/"
+}

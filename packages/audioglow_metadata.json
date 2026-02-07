@@ -1,0 +1,11 @@
+{
+  "name": "audioglow",
+  "version": "0.1.2",
+  "summary": "GPU-accelerated audio-reactive music video generator",
+  "author": "Fatyzzz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "audioglow-0.1.2.tar.gz",
+  "download_time": "2026-02-07T09:05:50.960174",
+  "package_url": "https://pypi.org/project/audioglow/"
+}

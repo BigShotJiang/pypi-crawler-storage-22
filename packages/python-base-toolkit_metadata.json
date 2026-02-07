@@ -1,11 +1,11 @@
 {
   "name": "python-base-toolkit",
-  "version": "0.0.18",
+  "version": "1.0.0",
   "summary": "A Python package for managing pytest plugins.",
   "author": "Avi Zaguri",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_base_toolkit-0.0.18.tar.gz",
-  "download_time": "2026-02-06T23:23:57.888582",
+  "download_filename": "python_base_toolkit-1.0.0.tar.gz",
+  "download_time": "2026-02-07T09:06:13.367531",
   "package_url": "https://pypi.org/project/python-base-toolkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "flexmeasures-client",
+  "version": "0.8.1",
+  "summary": "Async client to connect to the FlexMeasures API",
+  "author": "Flexmeasures",
+  "license": "APACHE",
+  "home_page": "https://github.com/FlexMeasures/flexmeasures-client",
+  "download_filename": "flexmeasures_client-0.8.1.tar.gz",
+  "download_time": "2026-02-07T09:05:42.499629",
+  "package_url": "https://pypi.org/project/flexmeasures-client/"
+}

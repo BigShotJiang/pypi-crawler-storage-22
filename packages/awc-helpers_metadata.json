@@ -1,11 +1,11 @@
 {
   "name": "awc-helpers",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Australian Wildlife Conservancy's Wildlife detection and species classification inference tools",
   "author": "Quan Tran",
   "license": "CC-BY-NC-SA-4.0",
   "home_page": null,
-  "download_filename": "awc_helpers-0.1.4.tar.gz",
-  "download_time": "2026-02-06T08:00:54.105815",
+  "download_filename": "awc_helpers-0.1.5.tar.gz",
+  "download_time": "2026-02-07T09:06:01.407068",
   "package_url": "https://pypi.org/project/awc-helpers/"
 }

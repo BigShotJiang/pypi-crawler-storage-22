@@ -1,11 +1,11 @@
 {
   "name": "deeplatent-nlp",
-  "version": "0.3.4",
-  "summary": "DeepLatent - Morphology-aware tokenizer for Arabic/English bilingual text with native Rust core",
+  "version": "0.3.11",
+  "summary": "High-performance Arabic-first tokenizer with morphology awareness",
   "author": null,
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "deeplatent_nlp-0.3.4.tar.gz",
-  "download_time": "2026-01-31T11:54:43.752842",
+  "download_filename": "deeplatent_nlp-0.3.11.tar.gz",
+  "download_time": "2026-02-07T09:05:56.927528",
   "package_url": "https://pypi.org/project/deeplatent-nlp/"
 }

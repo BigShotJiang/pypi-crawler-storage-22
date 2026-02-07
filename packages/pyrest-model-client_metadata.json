@@ -1,0 +1,11 @@
+{
+  "name": "pyrest-model-client",
+  "version": "0.0.5",
+  "summary": "A simple, flexible Python HTTP client and API modeling toolkit built on httpx and pydantic.",
+  "author": "Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyrest_model_client-0.0.5.tar.gz",
+  "download_time": "2026-02-07T09:05:40.673254",
+  "package_url": "https://pypi.org/project/pyrest-model-client/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yit-player",
+  "version": "0.1.0",
+  "summary": "YouTube in Terminal - Fire-and-Forget Music CLI",
+  "author": "Yit Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yit_player-0.1.0.tar.gz",
+  "download_time": "2026-02-07T09:05:47.706237",
+  "package_url": "https://pypi.org/project/yit-player/"
+}

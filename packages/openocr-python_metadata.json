@@ -1,0 +1,11 @@
+{
+  "name": "openocr-python",
+  "version": "0.0.10",
+  "summary": "a python package for openocr, which is used to help developers quickly deploy OCR algorithms implemented in the openocr framework.",
+  "author": "OpenOCR",
+  "license": null,
+  "home_page": "https://github.com/Topdu/OpenOCR",
+  "download_filename": "openocr_python-0.0.10-py3-none-any.whl",
+  "download_time": "2026-02-07T09:06:15.537058",
+  "package_url": "https://pypi.org/project/openocr-python/"
+}

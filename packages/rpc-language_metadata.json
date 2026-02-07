@@ -1,11 +1,11 @@
 {
   "name": "rpc-language",
-  "version": "3.3",
+  "version": "3.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rpc_language-3.3.tar.gz",
-  "download_time": "2026-02-07T05:43:56.074454",
+  "download_filename": "rpc_language-3.5.tar.gz",
+  "download_time": "2026-02-07T09:06:11.203214",
   "package_url": "https://pypi.org/project/rpc-language/"
 }

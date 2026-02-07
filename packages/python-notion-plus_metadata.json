@@ -1,11 +1,11 @@
 {
   "name": "python-notion-plus",
-  "version": "0.0.9",
+  "version": "1.0.0",
   "summary": "Python wrapper for Notion API",
   "author": "Avi Zaguri",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_notion_plus-0.0.9.tar.gz",
-  "download_time": "2026-02-06T23:23:36.102607",
+  "download_filename": "python_notion_plus-1.0.0.tar.gz",
+  "download_time": "2026-02-07T09:05:59.101582",
   "package_url": "https://pypi.org/project/python-notion-plus/"
 }
