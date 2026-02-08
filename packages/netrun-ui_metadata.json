@@ -1,0 +1,11 @@
+{
+  "name": "netrun-ui",
+  "version": "0.2.0",
+  "summary": "Visual editor for netrun flow configurations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netrun_ui-0.2.0.tar.gz",
+  "download_time": "2026-02-08T20:23:59.417944",
+  "package_url": "https://pypi.org/project/netrun-ui/"
+}

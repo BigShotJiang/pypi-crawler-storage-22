@@ -1,11 +1,11 @@
 {
   "name": "pygents",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Async agent orchestration for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pygents-0.1.2.tar.gz",
-  "download_time": "2026-02-07T16:31:33.749376",
+  "download_filename": "pygents-0.1.4.tar.gz",
+  "download_time": "2026-02-08T20:23:48.207678",
   "package_url": "https://pypi.org/project/pygents/"
 }

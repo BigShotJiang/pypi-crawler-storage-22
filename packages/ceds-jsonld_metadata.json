@@ -1,0 +1,11 @@
+{
+  "name": "ceds-jsonld",
+  "version": "0.9.6",
+  "summary": "Python library for ingesting education data, mapping to CEDS/CEPI ontology SHACL shapes, and outputting conformant JSON-LD",
+  "author": "CEPI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ceds_jsonld-0.9.6.tar.gz",
+  "download_time": "2026-02-08T20:23:56.248731",
+  "package_url": "https://pypi.org/project/ceds-jsonld/"
+}

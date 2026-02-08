@@ -1,11 +1,11 @@
 {
   "name": "novyx",
-  "version": "0.1.2",
-  "summary": "Memory + security layer for AI agents. Persistent memory, semantic search, and Magic Rollback.",
+  "version": "2.0.0",
+  "summary": "Persistent memory + rollback + audit trail for AI agents. Unified API for memory, security, and time-travel debugging.",
   "author": "Novyx Labs",
   "license": null,
   "home_page": "https://novyxlabs.com",
-  "download_filename": "novyx-0.1.2.tar.gz",
-  "download_time": "2026-02-02T04:21:13.572946",
+  "download_filename": "novyx-2.0.0.tar.gz",
+  "download_time": "2026-02-08T20:24:08.827421",
   "package_url": "https://pypi.org/project/novyx/"
 }

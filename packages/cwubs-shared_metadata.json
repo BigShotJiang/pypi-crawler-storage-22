@@ -1,11 +1,11 @@
 {
   "name": "cwubs-shared",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Shared utilities for cwubs services",
   "author": "Duncan Scuffell",
   "license": null,
   "home_page": null,
-  "download_filename": "cwubs_shared-0.1.1.tar.gz",
-  "download_time": "2026-02-07T20:54:00.901780",
+  "download_filename": "cwubs_shared-0.1.2.tar.gz",
+  "download_time": "2026-02-08T20:24:14.126972",
   "package_url": "https://pypi.org/project/cwubs-shared/"
 }

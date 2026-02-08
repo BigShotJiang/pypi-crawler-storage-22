@@ -1,11 +1,11 @@
 {
   "name": "netrun",
-  "version": "0.3.3",
+  "version": "0.4.0",
   "summary": "A flow-based development (FBD) runtime system.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "netrun-0.3.3.tar.gz",
-  "download_time": "2026-02-07T09:06:07.405334",
+  "download_filename": "netrun-0.4.0.tar.gz",
+  "download_time": "2026-02-08T20:24:06.745768",
   "package_url": "https://pypi.org/project/netrun/"
 }

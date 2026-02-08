@@ -1,0 +1,11 @@
+{
+  "name": "tilemap-tools",
+  "version": "0.1.0",
+  "summary": "Outils CLI pour créer et manipuler des tilemaps",
+  "author": "Julosse",
+  "license": "MIT",
+  "home_page": "https://github.com/Julosse27/tilemap-tools",
+  "download_filename": "tilemap_tools-0.1.0.tar.gz",
+  "download_time": "2026-02-08T20:23:56.767713",
+  "package_url": "https://pypi.org/project/tilemap-tools/"
+}
