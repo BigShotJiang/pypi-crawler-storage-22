@@ -1,0 +1,11 @@
+{
+  "name": "chronostring",
+  "version": "0.1.5",
+  "summary": "Extracts and structures dates and times from natural French text.",
+  "author": "Jean-Marie Favreau",
+  "license": null,
+  "home_page": "https://forge.chapril.org/jmtrivial/chronostring",
+  "download_filename": "chronostring-0.1.5-py3-none-any.whl",
+  "download_time": "2026-02-08T21:52:45.947783",
+  "package_url": "https://pypi.org/project/chronostring/"
+}

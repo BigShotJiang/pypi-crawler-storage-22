@@ -1,0 +1,11 @@
+{
+  "name": "drprompt",
+  "version": "0.1.1",
+  "summary": "Python SDK for Dr-Prompt - A lightweight, version-controlled prompt management system",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drprompt-0.1.1.tar.gz",
+  "download_time": "2026-02-08T21:52:59.033777",
+  "package_url": "https://pypi.org/project/drprompt/"
+}

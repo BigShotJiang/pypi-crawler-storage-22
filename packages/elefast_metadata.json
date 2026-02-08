@@ -1,11 +1,11 @@
 {
   "name": "elefast",
-  "version": "0.1.0a3",
+  "version": "0.1.0a4",
   "summary": "Database testing toolkit integrating Postgres, SQLAlchemy, Pytest and Docker",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elefast-0.1.0a3.tar.gz",
-  "download_time": "2026-02-01T19:01:28.699954",
+  "download_filename": "elefast-0.1.0a4.tar.gz",
+  "download_time": "2026-02-08T21:52:37.975979",
   "package_url": "https://pypi.org/project/elefast/"
 }

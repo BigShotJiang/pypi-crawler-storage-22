@@ -1,0 +1,11 @@
+{
+  "name": "fpstreams",
+  "version": "1.0.1",
+  "summary": "A functional programming library for Python mimicking Java Streams and JS Arrays.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fpstreams-1.0.1.tar.gz",
+  "download_time": "2026-02-08T21:52:39.547949",
+  "package_url": "https://pypi.org/project/fpstreams/"
+}

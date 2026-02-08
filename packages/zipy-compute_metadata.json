@@ -1,0 +1,11 @@
+{
+  "name": "zipy-compute",
+  "version": "0.1.0",
+  "summary": "Edge kernel for vector databases orchestrating CPU and GPU resources on constrained hardware.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "zipy_compute-0.1.0.tar.gz",
+  "download_time": "2026-02-08T21:52:48.558631",
+  "package_url": "https://pypi.org/project/zipy-compute/"
+}

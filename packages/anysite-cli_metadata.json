@@ -1,11 +1,11 @@
 {
   "name": "anysite-cli",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "CLI for Anysite API - web data extraction for humans and AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anysite_cli-0.3.1.tar.gz",
-  "download_time": "2026-02-06T22:21:48.116524",
+  "download_filename": "anysite_cli-0.3.2.tar.gz",
+  "download_time": "2026-02-08T21:53:01.117249",
   "package_url": "https://pypi.org/project/anysite-cli/"
 }
