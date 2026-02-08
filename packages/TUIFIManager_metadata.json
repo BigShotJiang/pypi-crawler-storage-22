@@ -1,0 +1,11 @@
+{
+  "name": "TUIFIManager",
+  "version": "5.2.6",
+  "summary": "A cross-platform terminal-based termux-oriented file manager.",
+  "author": "George Chousos",
+  "license": "General Public License v3.0",
+  "home_page": "https://github.com/GiorgosXou/TUIFIManager",
+  "download_filename": "tuifimanager-5.2.6.tar.gz",
+  "download_time": "2026-02-08T09:02:46.494353",
+  "package_url": "https://pypi.org/project/TUIFIManager/"
+}

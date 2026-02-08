@@ -1,0 +1,11 @@
+{
+  "name": "grokwrapper",
+  "version": "0.2.0",
+  "summary": "Lightweight wrapper for Grok by xAI – access Grok models via web interface without API key",
+  "author": "GrokWrapper Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grokwrapper-0.2.0.tar.gz",
+  "download_time": "2026-02-08T09:02:11.595392",
+  "package_url": "https://pypi.org/project/grokwrapper/"
+}

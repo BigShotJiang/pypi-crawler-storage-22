@@ -1,0 +1,11 @@
+{
+  "name": "viewmd",
+  "version": "0.1.2",
+  "summary": "Simple HTTP server for viewing Markdown files in your browser",
+  "author": "German Greiner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "viewmd-0.1.2.tar.gz",
+  "download_time": "2026-02-08T09:02:35.543919",
+  "package_url": "https://pypi.org/project/viewmd/"
+}

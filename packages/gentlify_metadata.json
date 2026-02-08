@@ -1,0 +1,11 @@
+{
+  "name": "gentlify",
+  "version": "1.6.1",
+  "summary": "Adaptive async rate limiting for Python — closed-loop feedback control for API concurrency.",
+  "author": "Pointmatic",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gentlify-1.6.1.tar.gz",
+  "download_time": "2026-02-08T09:02:48.051188",
+  "package_url": "https://pypi.org/project/gentlify/"
+}

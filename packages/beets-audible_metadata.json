@@ -1,0 +1,11 @@
+{
+  "name": "beets-audible",
+  "version": "1.3.1",
+  "summary": "Beets plugin for audiobook management",
+  "author": "Dickson Tan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_audible-1.3.1.tar.gz",
+  "download_time": "2026-02-08T09:02:09.498538",
+  "package_url": "https://pypi.org/project/beets-audible/"
+}

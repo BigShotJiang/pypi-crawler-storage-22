@@ -1,11 +1,11 @@
 {
   "name": "modern-di-fastapi",
-  "version": "2.6.1",
+  "version": "2.6.4",
   "summary": "Modern-DI integration for FastAPI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modern_di_fastapi-2.6.1.tar.gz",
-  "download_time": "2026-02-07T07:10:09.261340",
+  "download_filename": "modern_di_fastapi-2.6.4.tar.gz",
+  "download_time": "2026-02-08T09:02:32.415647",
   "package_url": "https://pypi.org/project/modern-di-fastapi/"
 }

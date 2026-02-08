@@ -1,0 +1,11 @@
+{
+  "name": "sutras",
+  "version": "0.3.0",
+  "summary": "Devtool for creating, testing, and distributing Anthropic Agent Skills with lifecycle management, Skill ABI, and federated registries",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sutras-0.3.0.tar.gz",
+  "download_time": "2026-02-08T09:02:19.400962",
+  "package_url": "https://pypi.org/project/sutras/"
+}

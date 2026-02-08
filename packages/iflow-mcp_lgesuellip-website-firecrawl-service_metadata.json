@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_lgesuellip-website-firecrawl-service",
+  "version": "0.1.0",
+  "summary": "This tool leverages Firecrawl to generate concise summaries of web pages directly from their URLs. Firecrawl processes the content of the provided website, extracting key insights and metadata to deliver a brief, focused summary.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_lgesuellip_website_firecrawl_service-0.1.0.tar.gz",
+  "download_time": "2026-02-08T09:02:50.130912",
+  "package_url": "https://pypi.org/project/iflow-mcp_lgesuellip-website-firecrawl-service/"
+}

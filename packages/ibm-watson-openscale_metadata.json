@@ -1,0 +1,11 @@
+{
+  "name": "ibm-watson-openscale",
+  "version": "3.1.4",
+  "summary": "Client library for IBM Watson OpenScale",
+  "author": "IBM Watson OpenScale",
+  "license": "Apache 2.0",
+  "home_page": "https://github.ibm.com/watson-developer-cloud/openscale-python-sdk",
+  "download_filename": "ibm_watson_openscale-3.1.4-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-08T09:02:32.948196",
+  "package_url": "https://pypi.org/project/ibm-watson-openscale/"
+}

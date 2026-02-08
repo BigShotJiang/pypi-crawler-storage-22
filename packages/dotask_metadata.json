@@ -1,11 +1,11 @@
 {
   "name": "dotask",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "发布订阅注解方式",
   "author": "dyz",
   "license": null,
   "home_page": "https://gitee.com/d-yz/task-manager",
-  "download_filename": "dotask-0.2.1.tar.gz",
-  "download_time": "2026-02-07T23:28:07.115807",
+  "download_filename": "dotask-0.2.3.tar.gz",
+  "download_time": "2026-02-08T09:02:22.522995",
   "package_url": "https://pypi.org/project/dotask/"
 }

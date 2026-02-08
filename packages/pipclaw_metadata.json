@@ -1,11 +1,11 @@
 {
   "name": "pipclaw",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "summary": "🐈 PipClaw: Ultra-Lightweight, Pure Python Agent.",
   "author": "Jun Hu",
   "license": null,
   "home_page": "https://github.com/CrawlScript/pipclaw",
-  "download_filename": "pipclaw-0.0.4.tar.gz",
-  "download_time": "2026-02-08T02:07:58.928667",
+  "download_filename": "pipclaw-0.0.6.tar.gz",
+  "download_time": "2026-02-08T09:02:27.747328",
   "package_url": "https://pypi.org/project/pipclaw/"
 }

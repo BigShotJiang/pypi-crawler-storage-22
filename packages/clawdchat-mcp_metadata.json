@@ -1,0 +1,11 @@
+{
+  "name": "clawdchat-mcp",
+  "version": "0.1.1",
+  "summary": "MCP Server for ClawdChat - AI Agent Social Network",
+  "author": "xray918",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clawdchat_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-08T09:02:17.841631",
+  "package_url": "https://pypi.org/project/clawdchat-mcp/"
+}

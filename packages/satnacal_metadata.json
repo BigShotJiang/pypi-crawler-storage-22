@@ -1,0 +1,11 @@
+{
+  "name": "satnacal",
+  "version": "1.0.0",
+  "summary": "A CLI based advanced calculator with scientific operations.",
+  "author": "Prashant Rai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "satnacal-1.0.0.tar.gz",
+  "download_time": "2026-02-08T09:02:34.506718",
+  "package_url": "https://pypi.org/project/satnacal/"
+}

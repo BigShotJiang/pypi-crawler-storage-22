@@ -1,11 +1,11 @@
 {
   "name": "telos-tracker",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "AI-powered screen time tracker with intelligent activity analysis and MCP server for AI assistants. Install: pip install telos-tracker && telos setup",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "telos_tracker-0.2.5-py3-none-any.whl",
-  "download_time": "2026-02-06T21:29:14.723821",
+  "download_filename": "telos_tracker-0.2.7.tar.gz",
+  "download_time": "2026-02-08T09:02:16.802553",
   "package_url": "https://pypi.org/project/telos-tracker/"
 }

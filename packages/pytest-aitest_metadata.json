@@ -1,11 +1,11 @@
 {
   "name": "pytest-aitest",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "Pytest plugin for testing AI agents with MCP and CLI servers",
   "author": "Stefan Brunner",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pytest_aitest-0.2.3.tar.gz",
-  "download_time": "2026-02-07T14:47:09.999301",
+  "download_filename": "pytest_aitest-0.2.6.tar.gz",
+  "download_time": "2026-02-08T09:02:24.628270",
   "package_url": "https://pypi.org/project/pytest-aitest/"
 }
