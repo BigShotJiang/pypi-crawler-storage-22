@@ -1,0 +1,11 @@
+{
+  "name": "telebot-proxy",
+  "version": "1.1.1",
+  "summary": "Route any requests-based HTTP traffic through a forwarder service. Built for Telegram bots (pyTelegramBotAPI), works with any API.",
+  "author": "Hamidvalad.ir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "telebot_proxy-1.1.1.tar.gz",
+  "download_time": "2026-02-08T11:58:40.588861",
+  "package_url": "https://pypi.org/project/telebot-proxy/"
+}

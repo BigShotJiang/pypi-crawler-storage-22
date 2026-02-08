@@ -1,0 +1,11 @@
+{
+  "name": "exmailer",
+  "version": "1.0.2",
+  "summary": "Send emails via Microsoft Exchange Server with HTML template support",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "exmailer-1.0.2.tar.gz",
+  "download_time": "2026-02-08T11:58:39.940756",
+  "package_url": "https://pypi.org/project/exmailer/"
+}

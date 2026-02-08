@@ -1,0 +1,11 @@
+{
+  "name": "bandhic",
+  "version": "0.3.0",
+  "summary": "A memory-efficient Python package for managing and analyzing Hi-C data down to sub-kilobase resolution",
+  "author": "Weibing Wang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bandhic-0.3.0.tar.gz",
+  "download_time": "2026-02-08T11:57:46.376895",
+  "package_url": "https://pypi.org/project/bandhic/"
+}

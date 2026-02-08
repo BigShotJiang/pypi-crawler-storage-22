@@ -1,0 +1,11 @@
+{
+  "name": "kigo-gui-framework",
+  "version": "1.7",
+  "summary": "Added hierarchical UI components, CSS like styling, and media playback. ",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kigo_gui_framework-1.7.tar.gz",
+  "download_time": "2026-02-08T11:57:47.647616",
+  "package_url": "https://pypi.org/project/kigo-gui-framework/"
+}

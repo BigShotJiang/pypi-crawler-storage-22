@@ -1,0 +1,11 @@
+{
+  "name": "onekey-cli",
+  "version": "0.1.1",
+  "summary": "Secure & unified API key management for developers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "onekey_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-08T11:58:18.070965",
+  "package_url": "https://pypi.org/project/onekey-cli/"
+}

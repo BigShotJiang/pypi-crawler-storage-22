@@ -1,11 +1,11 @@
 {
   "name": "hosted-flasks",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "serve flask apps side by side",
   "author": "Christophe VG",
   "license": "MIT",
   "home_page": "https://github.com/christophevg/hosted-flasks",
-  "download_filename": "hosted_flasks-0.6.2.tar.gz",
-  "download_time": "2026-01-29T06:40:35.538327",
+  "download_filename": "hosted_flasks-0.6.3.tar.gz",
+  "download_time": "2026-02-08T11:58:11.001023",
   "package_url": "https://pypi.org/project/hosted-flasks/"
 }

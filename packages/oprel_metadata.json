@@ -1,11 +1,11 @@
 {
   "name": "oprel",
-  "version": "0.2.2",
-  "summary": "Run LLMs locally with one line of Python. Ollama alternative with server mode, conversation memory, and 50+ model aliases. The SQLite of AI.",
-  "author": "Ragul",
+  "version": "0.3.2",
+  "summary": "Oprel is a high-performance Python library for running large language models locally. It provides a production-ready runtime with advanced memory management, hybrid offloading, and full multimodal support.",
+  "author": "Oprel Team and Skyroot Solutions",
   "license": "MIT",
-  "home_page": "https://github.com/ragultv/oprel-SDK",
-  "download_filename": "oprel-0.2.2.tar.gz",
-  "download_time": "2026-01-31T13:30:28.534677",
+  "home_page": "https://github.com/Skyroot-Solutions/Oprel",
+  "download_filename": "oprel-0.3.2.tar.gz",
+  "download_time": "2026-02-08T11:58:18.712919",
   "package_url": "https://pypi.org/project/oprel/"
 }

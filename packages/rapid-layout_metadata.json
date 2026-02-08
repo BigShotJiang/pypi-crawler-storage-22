@@ -1,0 +1,11 @@
+{
+  "name": "rapid-layout",
+  "version": "1.0.2",
+  "summary": "Tools for document layout analysis based ONNXRuntime.",
+  "author": "SWHL",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RapidAI/RapidLayout",
+  "download_filename": "rapid_layout-1.0.2-py3-none-any.whl",
+  "download_time": "2026-02-08T11:58:00.441535",
+  "package_url": "https://pypi.org/project/rapid-layout/"
+}

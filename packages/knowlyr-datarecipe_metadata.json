@@ -1,0 +1,11 @@
+{
+  "name": "knowlyr-datarecipe",
+  "version": "0.3.2",
+  "summary": "AI dataset 'ingredients label' analyzer - reverse-engineer datasets, estimate costs, analyze quality, and generate production workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "knowlyr_datarecipe-0.3.2.tar.gz",
+  "download_time": "2026-02-08T11:58:26.994765",
+  "package_url": "https://pypi.org/project/knowlyr-datarecipe/"
+}

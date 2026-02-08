@@ -1,11 +1,11 @@
 {
   "name": "robotframework-aivision",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "AI Vision library for Robot Framework",
   "author": "Róbert Malovec",
   "license": "MIT License\n        ",
   "home_page": "https://github.com/robco/robotframework-aivision.git",
-  "download_filename": "robotframework_aivision-1.0.0.tar.gz",
-  "download_time": "2026-02-03T05:37:07.454787",
+  "download_filename": "robotframework_aivision-1.1.0.tar.gz",
+  "download_time": "2026-02-08T11:58:21.264492",
   "package_url": "https://pypi.org/project/robotframework-aivision/"
 }

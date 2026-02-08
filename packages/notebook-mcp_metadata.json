@@ -1,0 +1,11 @@
+{
+  "name": "notebook-mcp",
+  "version": "1.5.3",
+  "summary": "MCP server that provides notebook-aware context and analysis for .ipynb files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "notebook_mcp-1.5.3.tar.gz",
+  "download_time": "2026-02-08T11:58:10.241204",
+  "package_url": "https://pypi.org/project/notebook-mcp/"
+}

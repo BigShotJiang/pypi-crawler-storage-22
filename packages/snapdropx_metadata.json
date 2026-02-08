@@ -1,0 +1,11 @@
+{
+  "name": "snapdropx",
+  "version": "1.0.0",
+  "summary": "SnapDropX is a secure, zero-config local file drop server with upload support and optional authentication",
+  "author": "Rayan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snapdropx-1.0.0.tar.gz",
+  "download_time": "2026-02-08T11:58:06.392562",
+  "package_url": "https://pypi.org/project/snapdropx/"
+}
