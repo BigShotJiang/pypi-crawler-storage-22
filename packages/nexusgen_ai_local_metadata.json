@@ -1,0 +1,11 @@
+{
+  "name": "nexusgen_ai_local",
+  "version": "1.0.0",
+  "summary": "IA Generativa ultra-leve de 0.5B para Termux",
+  "author": "Seu Nome",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexusgen_ai_local-1.0.0.tar.gz",
+  "download_time": "2026-02-08T16:59:51.888456",
+  "package_url": "https://pypi.org/project/nexusgen_ai_local/"
+}

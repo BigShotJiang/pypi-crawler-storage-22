@@ -1,0 +1,11 @@
+{
+  "name": "webcrawlerapi",
+  "version": "2.0.11",
+  "summary": "Python SDK for WebCrawler API",
+  "author": "Andrew",
+  "license": null,
+  "home_page": "https://github.com/webcrawlerapi/webcrawlerapi-python-sdk",
+  "download_filename": "webcrawlerapi-2.0.11.tar.gz",
+  "download_time": "2026-02-08T16:59:44.598518",
+  "package_url": "https://pypi.org/project/webcrawlerapi/"
+}

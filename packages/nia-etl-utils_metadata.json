@@ -1,11 +1,11 @@
 {
   "name": "nia-etl-utils",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Utilitários compartilhados para pipelines ETL do NIA/MPRJ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nia_etl_utils-0.2.1.tar.gz",
-  "download_time": "2026-02-03T22:27:28.781448",
+  "download_filename": "nia_etl_utils-0.3.0.tar.gz",
+  "download_time": "2026-02-08T16:59:52.407702",
   "package_url": "https://pypi.org/project/nia-etl-utils/"
 }

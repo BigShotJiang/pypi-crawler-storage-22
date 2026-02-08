@@ -1,0 +1,11 @@
+{
+  "name": "battlemetrics",
+  "version": "2.0.5",
+  "summary": "Asyncronous Python wrapper for the BattleMetrics API.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "battlemetrics-2.0.5.tar.gz",
+  "download_time": "2026-02-08T16:59:54.503848",
+  "package_url": "https://pypi.org/project/battlemetrics/"
+}

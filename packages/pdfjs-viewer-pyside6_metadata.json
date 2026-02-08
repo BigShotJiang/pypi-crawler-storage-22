@@ -1,11 +1,11 @@
 {
   "name": "pdfjs-viewer-pyside6",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "PDF.js-based PDF viewer widget for PySide6 with annotation support",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "pdfjs_viewer_pyside6-1.1.0.tar.gz",
-  "download_time": "2026-02-03T22:27:42.826545",
+  "download_filename": "pdfjs_viewer_pyside6-1.1.1.tar.gz",
+  "download_time": "2026-02-08T16:59:28.313560",
   "package_url": "https://pypi.org/project/pdfjs-viewer-pyside6/"
 }

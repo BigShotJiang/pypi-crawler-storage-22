@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-transactional",
+  "version": "1.0.1",
+  "summary": "Spring-style transactional boundaries for SQLAlchemy async sessions.",
+  "author": "harryplusplus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_transactional-1.0.1.tar.gz",
+  "download_time": "2026-02-08T16:59:47.202132",
+  "package_url": "https://pypi.org/project/sqlalchemy-transactional/"
+}

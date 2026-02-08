@@ -1,0 +1,11 @@
+{
+  "name": "bookbot-cli",
+  "version": "0.3.0",
+  "summary": "A cross-platform TUI audiobook renamer and organizer",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bookbot_cli-0.3.0.tar.gz",
+  "download_time": "2026-02-08T16:59:33.566359",
+  "package_url": "https://pypi.org/project/bookbot-cli/"
+}
