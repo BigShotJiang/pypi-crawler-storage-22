@@ -1,11 +1,11 @@
 {
   "name": "mem0-open-mcp",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "summary": "Open-source MCP server for mem0 - local LLMs, self-hosted, Docker-free",
   "author": "Alex",
   "license": null,
   "home_page": null,
-  "download_filename": "mem0_open_mcp-0.2.2.tar.gz",
-  "download_time": "2026-02-07T08:03:22.196317",
+  "download_filename": "mem0_open_mcp-0.2.6.tar.gz",
+  "download_time": "2026-02-08T02:08:05.230067",
   "package_url": "https://pypi.org/project/mem0-open-mcp/"
 }

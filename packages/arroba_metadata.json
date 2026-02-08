@@ -1,0 +1,11 @@
+{
+  "name": "arroba",
+  "version": "2.0",
+  "summary": "Python implementation of Bluesky PDS and AT Protocol, including repo, MST, and sync methods",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arroba-2.0.tar.gz",
+  "download_time": "2026-02-08T02:07:36.667956",
+  "package_url": "https://pypi.org/project/arroba/"
+}

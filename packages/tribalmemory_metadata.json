@@ -1,11 +1,11 @@
 {
   "name": "tribalmemory",
-  "version": "0.7.0",
+  "version": "0.7.2",
   "summary": "Shared memory infrastructure for multi-instance AI agents",
   "author": null,
   "license": "BSL-1.1",
   "home_page": null,
-  "download_filename": "tribalmemory-0.7.0.tar.gz",
-  "download_time": "2026-02-07T20:54:09.311284",
+  "download_filename": "tribalmemory-0.7.2.tar.gz",
+  "download_time": "2026-02-08T02:08:04.707406",
   "package_url": "https://pypi.org/project/tribalmemory/"
 }

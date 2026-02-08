@@ -1,0 +1,11 @@
+{
+  "name": "py-attractor",
+  "version": "0.1.1",
+  "summary": "A DOT-based pipeline runner for AI workflows",
+  "author": "Attractor Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_attractor-0.1.1.tar.gz",
+  "download_time": "2026-02-08T02:07:24.935906",
+  "package_url": "https://pypi.org/project/py-attractor/"
+}

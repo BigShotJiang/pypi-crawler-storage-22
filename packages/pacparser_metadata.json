@@ -1,0 +1,11 @@
+{
+  "name": "pacparser",
+  "version": "1.4.6",
+  "summary": "Pacparser package",
+  "author": "Manu Garg",
+  "license": "LGPL",
+  "home_page": "https://github.com/manugarg/pacparser",
+  "download_filename": "pacparser-1.4.6.tar.gz",
+  "download_time": "2026-02-08T02:07:28.729394",
+  "package_url": "https://pypi.org/project/pacparser/"
+}
