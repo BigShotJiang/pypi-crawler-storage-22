@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-filebased-routing",
+  "version": "1.0.0",
+  "summary": "Next.js-style file-based routing for FastAPI",
+  "author": "irudi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_filebased_routing-1.0.0.tar.gz",
+  "download_time": "2026-02-08T22:58:10.658045",
+  "package_url": "https://pypi.org/project/fastapi-filebased-routing/"
+}

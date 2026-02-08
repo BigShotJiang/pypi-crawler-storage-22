@@ -1,11 +1,11 @@
 {
   "name": "aws-inventory-manager",
-  "version": "1.4.0",
+  "version": "2.0.1",
   "summary": "Know Everything About Your AWS Environment",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aws_inventory_manager-1.4.0.tar.gz",
-  "download_time": "2026-02-08T11:58:08.971208",
+  "download_filename": "aws_inventory_manager-2.0.1.tar.gz",
+  "download_time": "2026-02-08T22:58:48.162013",
   "package_url": "https://pypi.org/project/aws-inventory-manager/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "passagemath-libbraiding",
-  "version": "10.6.48",
+  "version": "10.8.1",
   "summary": "passagemath: Braid computations with libbraiding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_libbraiding-10.6.48.tar.gz",
-  "download_time": "2026-02-05T16:48:52.440129",
+  "download_filename": "passagemath_libbraiding-10.8.1.tar.gz",
+  "download_time": "2026-02-08T22:58:41.844183",
   "package_url": "https://pypi.org/project/passagemath-libbraiding/"
 }

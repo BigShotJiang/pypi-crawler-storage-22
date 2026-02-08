@@ -1,0 +1,11 @@
+{
+  "name": "s3exchange",
+  "version": "0.1.1",
+  "summary": "Library for managing data exchange with manifests and shards via S3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "s3exchange-0.1.1.tar.gz",
+  "download_time": "2026-02-08T22:58:20.069539",
+  "package_url": "https://pypi.org/project/s3exchange/"
+}

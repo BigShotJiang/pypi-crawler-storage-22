@@ -1,0 +1,11 @@
+{
+  "name": "myriad-jax",
+  "version": "0.1.0",
+  "summary": "Platform for large-scale high-throughput control & decision-making experiments",
+  "author": "Robin Henry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "myriad_jax-0.1.0.tar.gz",
+  "download_time": "2026-02-08T22:58:20.588123",
+  "package_url": "https://pypi.org/project/myriad-jax/"
+}

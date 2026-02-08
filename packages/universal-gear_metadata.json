@@ -1,0 +1,11 @@
+{
+  "name": "universal-gear",
+  "version": "0.2.0",
+  "summary": "Open-source decision framework for market intelligence under uncertainty",
+  "author": "Bruno Escalhao",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "universal_gear-0.2.0.tar.gz",
+  "download_time": "2026-02-08T22:58:28.035916",
+  "package_url": "https://pypi.org/project/universal-gear/"
+}

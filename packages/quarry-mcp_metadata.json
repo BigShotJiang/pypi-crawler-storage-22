@@ -1,0 +1,11 @@
+{
+  "name": "quarry-mcp",
+  "version": "0.1.0",
+  "summary": "Extract searchable knowledge from any document. Expose it to LLMs via MCP.",
+  "author": "JF",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quarry_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-08T22:58:24.847083",
+  "package_url": "https://pypi.org/project/quarry-mcp/"
+}

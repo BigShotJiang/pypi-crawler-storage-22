@@ -1,11 +1,11 @@
 {
   "name": "passagemath-polymake",
-  "version": "10.6.48",
+  "version": "10.8.1",
   "summary": "passagemath: Polyhedral geometry with polymake",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "passagemath_polymake-10.6.48.tar.gz",
-  "download_time": "2026-02-05T16:48:37.393795",
+  "download_filename": "passagemath_polymake-10.8.1.tar.gz",
+  "download_time": "2026-02-08T22:58:02.945209",
   "package_url": "https://pypi.org/project/passagemath-polymake/"
 }
