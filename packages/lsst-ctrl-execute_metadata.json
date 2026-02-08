@@ -1,11 +1,11 @@
 {
   "name": "lsst-ctrl-execute",
-  "version": "30.0.1",
+  "version": "30.0.2",
   "summary": "Utilities for executing and managing workloads.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lsst_ctrl_execute-30.0.1.tar.gz",
-  "download_time": "2026-02-04T20:41:01.766324",
+  "download_filename": "lsst_ctrl_execute-30.0.2.tar.gz",
+  "download_time": "2026-02-08T23:29:14.122290",
   "package_url": "https://pypi.org/project/lsst-ctrl-execute/"
 }

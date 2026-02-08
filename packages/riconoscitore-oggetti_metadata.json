@@ -1,0 +1,11 @@
+{
+  "name": "riconoscitore-oggetti",
+  "version": "2.0.2",
+  "summary": "Riconoscitore di oggetti in tempo reale con Teachable Machine, overlay grafico e sintesi vocale italiana",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "riconoscitore_oggetti-2.0.2.tar.gz",
+  "download_time": "2026-02-08T23:29:24.137217",
+  "package_url": "https://pypi.org/project/riconoscitore-oggetti/"
+}

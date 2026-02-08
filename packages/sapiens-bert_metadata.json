@@ -1,0 +1,11 @@
+{
+  "name": "sapiens-bert",
+  "version": "1.0.7",
+  "summary": null,
+  "author": "SAPIENS TECHNOLOGY",
+  "license": "Proprietary Software",
+  "home_page": "https://github.com/sapiens-technology/sapiens_bert",
+  "download_filename": "sapiens_bert-1.0.7.tar.gz",
+  "download_time": "2026-02-08T23:29:19.440747",
+  "package_url": "https://pypi.org/project/sapiens-bert/"
+}

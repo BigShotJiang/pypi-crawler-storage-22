@@ -1,0 +1,11 @@
+{
+  "name": "spark-sql-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for querying Spark SQL via Thrift/HiveServer2 protocol",
+  "author": "Aidan Correll",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spark_sql_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-08T23:29:26.213069",
+  "package_url": "https://pypi.org/project/spark-sql-mcp-server/"
+}

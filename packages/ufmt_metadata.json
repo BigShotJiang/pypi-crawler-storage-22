@@ -1,0 +1,11 @@
+{
+  "name": "ufmt",
+  "version": "2.9.1",
+  "summary": "Safe, atomic formatting with black and µsort",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ufmt-2.9.1.tar.gz",
+  "download_time": "2026-02-08T23:29:18.282259",
+  "package_url": "https://pypi.org/project/ufmt/"
+}

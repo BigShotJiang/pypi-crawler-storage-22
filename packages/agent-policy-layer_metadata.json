@@ -1,0 +1,11 @@
+{
+  "name": "agent-policy-layer",
+  "version": "0.1.0",
+  "summary": "Agent Policy Layer - Portable, composable policies for AI agents",
+  "author": "Anurag Ravi Nimonkar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_policy_layer-0.1.0.tar.gz",
+  "download_time": "2026-02-08T23:29:36.222880",
+  "package_url": "https://pypi.org/project/agent-policy-layer/"
+}

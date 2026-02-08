@@ -1,11 +1,11 @@
 {
   "name": "iamwho",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "IAM principal analysis: ingress, egress, mutation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iamwho-0.1.0.tar.gz",
-  "download_time": "2026-02-08T22:58:04.614916",
+  "download_filename": "iamwho-0.1.2.tar.gz",
+  "download_time": "2026-02-08T23:29:34.083389",
   "package_url": "https://pypi.org/project/iamwho/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "docxcompose3",
-  "version": "1.4.3",
-  "summary": "Compose .docx documents",
+  "version": "1.4.5",
+  "summary": "Compose .docx documents (fork to work with newer setuptools)",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "docxcompose3-1.4.3.tar.gz",
-  "download_time": "2026-02-08T22:58:23.261266",
+  "download_filename": "docxcompose3-1.4.5.tar.gz",
+  "download_time": "2026-02-08T23:29:28.312360",
   "package_url": "https://pypi.org/project/docxcompose3/"
 }

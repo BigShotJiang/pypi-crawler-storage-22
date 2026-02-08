@@ -1,11 +1,11 @@
 {
   "name": "boofun",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "summary": "A Python library for Boolean function analysis and spectral methods",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "boofun-1.1.1.tar.gz",
-  "download_time": "2026-02-01T11:19:01.053219",
+  "download_filename": "boofun-1.2.1.tar.gz",
+  "download_time": "2026-02-08T23:29:06.845490",
   "package_url": "https://pypi.org/project/boofun/"
 }

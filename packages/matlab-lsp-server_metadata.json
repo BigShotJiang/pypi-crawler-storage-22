@@ -1,0 +1,11 @@
+{
+  "name": "matlab-lsp-server",
+  "version": "0.2.1",
+  "summary": "Lightweight Language Server Protocol implementation for MATLAB",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "matlab_lsp_server-0.2.1.tar.gz",
+  "download_time": "2026-02-08T23:29:31.967718",
+  "package_url": "https://pypi.org/project/matlab-lsp-server/"
+}

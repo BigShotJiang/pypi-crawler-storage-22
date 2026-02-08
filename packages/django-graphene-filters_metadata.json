@@ -1,0 +1,11 @@
+{
+  "name": "django-graphene-filters",
+  "version": "0.1.2",
+  "summary": "Advanced auto related filters for Graphene Django",
+  "author": "Rio Weber",
+  "license": "LICENSE",
+  "home_page": "https://github.com/riodw/django-graphene-filters",
+  "download_filename": "django_graphene_filters-0.1.2.tar.gz",
+  "download_time": "2026-02-08T23:29:42.505752",
+  "package_url": "https://pypi.org/project/django-graphene-filters/"
+}

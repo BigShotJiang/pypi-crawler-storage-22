@@ -1,0 +1,11 @@
+{
+  "name": "pynib",
+  "version": "0.1.8",
+  "summary": "Python-SwiftUI Bridge for macOS Status Bar Apps",
+  "author": "Edoardo Balducci",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynib-0.1.8-py3-none-macosx_11_0_universal2.whl",
+  "download_time": "2026-02-08T23:29:47.754982",
+  "package_url": "https://pypi.org/project/pynib/"
+}

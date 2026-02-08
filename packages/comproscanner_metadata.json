@@ -1,0 +1,11 @@
+{
+  "name": "comproscanner",
+  "version": "0.1.5",
+  "summary": "Multi-agent system for extracting and processing structured composition-property data from scientific literature",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "comproscanner-0.1.5.tar.gz",
+  "download_time": "2026-02-08T23:29:05.758659",
+  "package_url": "https://pypi.org/project/comproscanner/"
+}
