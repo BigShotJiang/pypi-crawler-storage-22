@@ -1,0 +1,11 @@
+{
+  "name": "paperfigg",
+  "version": "0.2.6",
+  "summary": "Agentic CLI for generating academic figures from research papers",
+  "author": "paperfig contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paperfigg-0.2.6.tar.gz",
+  "download_time": "2026-02-09T04:27:08.418519",
+  "package_url": "https://pypi.org/project/paperfigg/"
+}

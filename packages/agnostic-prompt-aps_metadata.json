@@ -1,11 +1,11 @@
 {
   "name": "agnostic-prompt-aps",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "summary": "CLI to install and manage the Agnostic Prompt Standard (APS) skill and platform templates.",
   "author": "Agnostic Prompt Standard contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agnostic_prompt_aps-1.1.8.tar.gz",
-  "download_time": "2026-02-05T05:19:52.174279",
+  "download_filename": "agnostic_prompt_aps-1.1.9.tar.gz",
+  "download_time": "2026-02-09T04:26:39.596704",
   "package_url": "https://pypi.org/project/agnostic-prompt-aps/"
 }

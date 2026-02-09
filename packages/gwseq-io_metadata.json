@@ -1,0 +1,11 @@
+{
+  "name": "gwseq-io",
+  "version": "0.0.15",
+  "summary": "Process BBI (bigWig/bigBed) and HiC files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gwseq_io-0.0.15.tar.gz",
+  "download_time": "2026-02-09T04:26:37.516443",
+  "package_url": "https://pypi.org/project/gwseq-io/"
+}

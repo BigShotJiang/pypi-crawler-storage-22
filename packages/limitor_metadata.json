@@ -1,0 +1,11 @@
+{
+  "name": "limitor",
+  "version": "0.4.0",
+  "summary": "Rate limiting package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "limitor-0.4.0.tar.gz",
+  "download_time": "2026-02-09T04:27:12.571442",
+  "package_url": "https://pypi.org/project/limitor/"
+}

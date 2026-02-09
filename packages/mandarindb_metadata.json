@@ -1,0 +1,11 @@
+{
+  "name": "mandarindb",
+  "version": "1.3.0",
+  "summary": "Mandarin Databases",
+  "author": "kanderusss",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/mandarindb/",
+  "download_filename": "mandarindb-1.3.0.tar.gz",
+  "download_time": "2026-02-09T04:27:03.684942",
+  "package_url": "https://pypi.org/project/mandarindb/"
+}

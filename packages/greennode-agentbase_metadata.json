@@ -1,0 +1,11 @@
+{
+  "name": "greennode-agentbase",
+  "version": "1.0.1",
+  "summary": "An SDK for building and deploying AI agents with GreenNode AgentBase",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "greennode_agentbase-1.0.1.tar.gz",
+  "download_time": "2026-02-09T04:26:43.783079",
+  "package_url": "https://pypi.org/project/greennode-agentbase/"
+}

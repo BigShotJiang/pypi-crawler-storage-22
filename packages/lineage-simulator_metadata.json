@@ -1,0 +1,11 @@
+{
+  "name": "lineage-simulator",
+  "version": "0.1.0",
+  "summary": "A Single-Cell Lineage Simulator with Fate-Aware Gene Expression",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lineage_simulator-0.1.0.tar.gz",
+  "download_time": "2026-02-09T04:26:30.674632",
+  "package_url": "https://pypi.org/project/lineage-simulator/"
+}

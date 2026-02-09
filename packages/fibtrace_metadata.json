@@ -1,0 +1,11 @@
+{
+  "name": "fibtrace",
+  "version": "0.1.1",
+  "summary": "Hop-by-hop forwarding chain validation from the device perspective. Not a traceroute — a FIB trace.",
+  "author": "Scott Peterman",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fibtrace-0.1.1.tar.gz",
+  "download_time": "2026-02-09T04:26:44.303048",
+  "package_url": "https://pypi.org/project/fibtrace/"
+}

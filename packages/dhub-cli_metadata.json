@@ -1,0 +1,11 @@
+{
+  "name": "dhub-cli",
+  "version": "0.3.3",
+  "summary": "The AI Skill Manager for Data Science Agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dhub_cli-0.3.3.tar.gz",
+  "download_time": "2026-02-09T04:26:53.774549",
+  "package_url": "https://pypi.org/project/dhub-cli/"
+}

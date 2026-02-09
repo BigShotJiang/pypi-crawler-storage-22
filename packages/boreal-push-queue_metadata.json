@@ -1,0 +1,11 @@
+{
+  "name": "boreal-push-queue",
+  "version": "0.2.1",
+  "summary": "RabbitMQ-based Push Queue client for HTTP task dispatching",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boreal_push_queue-0.2.1.tar.gz",
+  "download_time": "2026-02-09T04:27:06.832082",
+  "package_url": "https://pypi.org/project/boreal-push-queue/"
+}

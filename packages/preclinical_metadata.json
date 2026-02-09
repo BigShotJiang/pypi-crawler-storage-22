@@ -1,0 +1,11 @@
+{
+  "name": "preclinical",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Preclinical healthcare AI safety testing platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "preclinical-0.1.0.tar.gz",
+  "download_time": "2026-02-09T04:27:00.567177",
+  "package_url": "https://pypi.org/project/preclinical/"
+}

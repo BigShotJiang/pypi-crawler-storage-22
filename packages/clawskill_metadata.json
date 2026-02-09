@@ -1,11 +1,11 @@
 {
   "name": "clawskill",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "ClawSkill — Let your AI agent mine RTC tokens on any modern hardware. 1x multiplier, built-in wallet, VM-penalized.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawskill-1.1.0.tar.gz",
-  "download_time": "2026-02-08T21:53:08.474583",
+  "download_filename": "clawskill-1.2.1.tar.gz",
+  "download_time": "2026-02-09T04:27:11.011865",
   "package_url": "https://pypi.org/project/clawskill/"
 }

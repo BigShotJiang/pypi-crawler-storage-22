@@ -1,0 +1,11 @@
+{
+  "name": "agent-factory-core",
+  "version": "0.3.6",
+  "summary": "Core library for building AI agents with pluggable models and channels",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_factory_core-0.3.6.tar.gz",
+  "download_time": "2026-02-09T04:27:09.976353",
+  "package_url": "https://pypi.org/project/agent-factory-core/"
+}

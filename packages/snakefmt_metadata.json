@@ -1,0 +1,11 @@
+{
+  "name": "snakefmt",
+  "version": "0.11.4",
+  "summary": "The uncompromising Snakemake code formatter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakefmt-0.11.4.tar.gz",
+  "download_time": "2026-02-09T04:26:33.800214",
+  "package_url": "https://pypi.org/project/snakefmt/"
+}
