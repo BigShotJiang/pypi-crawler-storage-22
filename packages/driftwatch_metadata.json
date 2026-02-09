@@ -1,11 +1,11 @@
 {
   "name": "driftwatch",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Lightweight ML drift monitoring, built for real-world pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "driftwatch-0.2.0.tar.gz",
-  "download_time": "2026-02-04T21:49:30.157080",
+  "download_filename": "driftwatch-0.3.0.tar.gz",
+  "download_time": "2026-02-09T23:45:08.566769",
   "package_url": "https://pypi.org/project/driftwatch/"
 }

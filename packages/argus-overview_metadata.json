@@ -1,11 +1,11 @@
 {
   "name": "argus-overview",
-  "version": "3.0.2",
+  "version": "3.0.4",
   "summary": "Professional multi-boxing tool for EVE Online (Linux & Windows)",
   "author": "AreteDriver",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "argus_overview-3.0.2.tar.gz",
-  "download_time": "2026-02-02T10:08:44.895203",
+  "download_filename": "argus_overview-3.0.4.tar.gz",
+  "download_time": "2026-02-09T23:45:13.685375",
   "package_url": "https://pypi.org/project/argus-overview/"
 }

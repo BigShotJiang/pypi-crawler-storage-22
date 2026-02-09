@@ -1,0 +1,11 @@
+{
+  "name": "my-xla-project-experiment",
+  "version": "0.1.5",
+  "summary": "XLA-powered project with shared Bazel protos",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "my_xla_project_experiment-0.1.5.tar.gz",
+  "download_time": "2026-02-09T23:45:00.231157",
+  "package_url": "https://pypi.org/project/my-xla-project-experiment/"
+}

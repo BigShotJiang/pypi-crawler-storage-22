@@ -1,0 +1,11 @@
+{
+  "name": "novalang",
+  "version": "2.2.6",
+  "summary": "A modern programming language with Spring Boot-style application framework and automatic database table creation",
+  "author": "martinmaboya",
+  "license": "MIT",
+  "home_page": "https://github.com/martinmaboya/novalang",
+  "download_filename": "novalang-2.2.6.tar.gz",
+  "download_time": "2026-02-09T23:44:58.955149",
+  "package_url": "https://pypi.org/project/novalang/"
+}

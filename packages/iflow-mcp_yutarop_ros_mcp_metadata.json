@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_yutarop_ros_mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for controlling ROS2 robots with natural language",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_yutarop_ros_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-09T23:45:27.031425",
+  "package_url": "https://pypi.org/project/iflow-mcp_yutarop_ros_mcp/"
+}

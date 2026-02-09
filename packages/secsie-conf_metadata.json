@@ -1,0 +1,11 @@
+{
+  "name": "secsie-conf",
+  "version": "3.1.5",
+  "summary": "A small library for parsing configuration files",
+  "author": "Noah Broyles",
+  "license": "MIT",
+  "home_page": "https://github.com/noahbroyles/secsie-conf",
+  "download_filename": "secsie_conf-3.1.5.tar.gz",
+  "download_time": "2026-02-09T23:45:18.783502",
+  "package_url": "https://pypi.org/project/secsie-conf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "documente_shared",
-  "version": "0.1.158",
+  "version": "0.1.160",
   "summary": "Shared utilities for Documente AI projects",
-  "author": "Tech",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "documente_shared-0.1.158.tar.gz",
-  "download_time": "2026-02-06T17:07:02.310253",
+  "download_filename": "documente_shared-0.1.160.tar.gz",
+  "download_time": "2026-02-09T23:44:59.594676",
   "package_url": "https://pypi.org/project/documente_shared/"
 }

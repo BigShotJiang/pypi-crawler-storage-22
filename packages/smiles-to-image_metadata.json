@@ -1,0 +1,11 @@
+{
+  "name": "smiles-to-image",
+  "version": "0.1.2",
+  "summary": "Convert SMILES chemical notation to molecular structure images",
+  "author": "tsiyukino",
+  "license": null,
+  "home_page": "https://github.com/tsiyukino/SMILES2Image",
+  "download_filename": "smiles_to_image-0.1.2.tar.gz",
+  "download_time": "2026-02-09T23:45:38.593246",
+  "package_url": "https://pypi.org/project/smiles-to-image/"
+}
