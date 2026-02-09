@@ -1,0 +1,11 @@
+{
+  "name": "agglovar",
+  "version": "0.0.1.dev10",
+  "summary": "Toolkit for fast genomic variant transformations and intersects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agglovar-0.0.1.dev10.tar.gz",
+  "download_time": "2026-02-09T21:26:40.616060",
+  "package_url": "https://pypi.org/project/agglovar/"
+}

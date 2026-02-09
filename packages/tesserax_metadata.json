@@ -1,11 +1,11 @@
 {
   "name": "tesserax",
-  "version": "0.5.2",
+  "version": "0.8.1",
   "summary": "A pure-Python library for rendering professional CS graphics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tesserax-0.5.2.tar.gz",
-  "download_time": "2026-02-02T17:26:22.119901",
+  "download_filename": "tesserax-0.8.1.tar.gz",
+  "download_time": "2026-02-09T21:26:43.733993",
   "package_url": "https://pypi.org/project/tesserax/"
 }

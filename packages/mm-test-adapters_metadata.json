@@ -1,11 +1,11 @@
 {
   "name": "mm-test-adapters",
-  "version": "74.20260206",
+  "version": "74.20260209",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mm_test_adapters-74.20260206.tar.gz",
-  "download_time": "2026-02-06T23:51:00.290127",
+  "download_filename": "mm_test_adapters-74.20260209.tar.gz",
+  "download_time": "2026-02-09T21:26:08.356165",
   "package_url": "https://pypi.org/project/mm-test-adapters/"
 }

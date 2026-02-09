@@ -1,0 +1,11 @@
+{
+  "name": "ciqual-mcp-fastmcp",
+  "version": "0.2.1",
+  "summary": "MCP server for ANSES Ciqual French food composition database with SQL interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ciqual_mcp_fastmcp-0.2.1.tar.gz",
+  "download_time": "2026-02-09T21:26:29.619994",
+  "package_url": "https://pypi.org/project/ciqual-mcp-fastmcp/"
+}

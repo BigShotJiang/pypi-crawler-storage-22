@@ -1,0 +1,11 @@
+{
+  "name": "riff-pbix-compiler",
+  "version": "0.1.1",
+  "summary": "Compile PBIX into a compact dashboard manifest.",
+  "author": "Ellen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "riff_pbix_compiler-0.1.1.tar.gz",
+  "download_time": "2026-02-09T21:26:41.644515",
+  "package_url": "https://pypi.org/project/riff-pbix-compiler/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyaerial",
+  "version": "1.0.26",
+  "summary": "An implementation of the Aerial neurosymbolic association rule mining algorithm from tabular datasets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyaerial-1.0.26-py3-none-any.whl",
+  "download_time": "2026-02-09T21:26:48.435893",
+  "package_url": "https://pypi.org/project/pyaerial/"
+}

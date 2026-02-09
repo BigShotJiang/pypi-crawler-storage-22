@@ -1,0 +1,11 @@
+{
+  "name": "langchain-runloop",
+  "version": "0.0.2",
+  "summary": "Runloop sandbox integration for Deep Agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_runloop-0.0.2.tar.gz",
+  "download_time": "2026-02-09T21:26:28.581635",
+  "package_url": "https://pypi.org/project/langchain-runloop/"
+}

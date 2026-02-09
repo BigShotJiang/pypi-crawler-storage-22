@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_smadi0x86-gdb-mcp",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server for GDB debugging functionality",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_smadi0x86_gdb_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-09T21:26:14.320554",
+  "package_url": "https://pypi.org/project/iflow-mcp_smadi0x86-gdb-mcp/"
+}

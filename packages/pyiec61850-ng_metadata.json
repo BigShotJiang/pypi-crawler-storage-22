@@ -1,0 +1,11 @@
+{
+  "name": "pyiec61850-ng",
+  "version": "1.6.1.0",
+  "summary": "Python bindings for libiec61850 - IEC 61850 protocol implementation",
+  "author": "f0rw4rd",
+  "license": "GPLv3",
+  "home_page": "https://github.com/f0rw4rd/pyiec61850-ng",
+  "download_filename": "pyiec61850_ng-1.6.1.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-02-09T21:26:32.263366",
+  "package_url": "https://pypi.org/project/pyiec61850-ng/"
+}

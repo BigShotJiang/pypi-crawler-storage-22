@@ -1,0 +1,11 @@
+{
+  "name": "guck-sdk",
+  "version": "0.3.1",
+  "summary": "MCP-first telemetry store for AI debugging (Python SDK)",
+  "author": "Guck",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "guck_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-09T21:26:40.093604",
+  "package_url": "https://pypi.org/project/guck-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "navcli",
+  "version": "0.3.1",
+  "summary": "可交互、可探索的浏览器命令行工具，专为 AI Agent 设计",
+  "author": "NavCLI Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "navcli-0.3.1-py3-none-any.whl",
+  "download_time": "2026-02-09T21:26:38.519223",
+  "package_url": "https://pypi.org/project/navcli/"
+}

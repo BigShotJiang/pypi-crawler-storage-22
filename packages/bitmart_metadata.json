@@ -1,11 +1,11 @@
 {
   "name": "bitmart",
-  "version": "0.0.122",
+  "version": "0.0.123",
   "summary": "bitmart crypto exchange api client",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bitmart-0.0.122.tar.gz",
-  "download_time": "2026-02-03T18:08:29.108328",
+  "download_filename": "bitmart-0.0.123.tar.gz",
+  "download_time": "2026-02-09T21:26:15.897522",
   "package_url": "https://pypi.org/project/bitmart/"
 }

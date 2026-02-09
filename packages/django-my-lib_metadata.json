@@ -1,0 +1,11 @@
+{
+  "name": "django-my-lib",
+  "version": "0.1.7",
+  "summary": "A handy collection of reusable Django UI components, allowing me to share and integrate elements efficiently across various projects.",
+  "author": "Gustavo Rizzo S M de Albuquerque",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_my_lib-0.1.7.tar.gz",
+  "download_time": "2026-02-09T21:26:13.204347",
+  "package_url": "https://pypi.org/project/django-my-lib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyrector",
+  "version": "0.1.2",
+  "summary": "A thin, opinionated Python library for building short-form videos.",
+  "author": "Leandro Barone",
+  "license": null,
+  "home_page": "https://github.com/LeandroBarone/pyrector",
+  "download_filename": "pyrector-0.1.2.tar.gz",
+  "download_time": "2026-02-09T21:26:36.949413",
+  "package_url": "https://pypi.org/project/pyrector/"
+}

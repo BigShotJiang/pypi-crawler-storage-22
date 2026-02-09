@@ -1,0 +1,11 @@
+{
+  "name": "spacekit",
+  "version": "1.1.4",
+  "summary": "Astronomical Data Science and Machine Learning Toolkit",
+  "author": "Ru Keïn",
+  "license": "MIT",
+  "home_page": "https://github.com/spacetelescope/spacekit",
+  "download_filename": "spacekit-1.1.4.tar.gz",
+  "download_time": "2026-02-09T21:26:08.927731",
+  "package_url": "https://pypi.org/project/spacekit/"
+}

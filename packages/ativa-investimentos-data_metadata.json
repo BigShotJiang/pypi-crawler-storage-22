@@ -1,0 +1,11 @@
+{
+  "name": "ativa-investimentos-data",
+  "version": "0.1.0",
+  "summary": "Extract and handy data from Ativa Investimentos website",
+  "author": "Gustavo Rizzo S M de Albuquerque",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ativa_investimentos_data-0.1.0.tar.gz",
+  "download_time": "2026-02-09T21:26:05.714076",
+  "package_url": "https://pypi.org/project/ativa-investimentos-data/"
+}
