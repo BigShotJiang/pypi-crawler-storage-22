@@ -1,0 +1,11 @@
+{
+  "name": "gradzero",
+  "version": "0.1.0",
+  "summary": "A lightweight deep learning framework from scratch",
+  "author": "SyJarvis",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gradzero-0.1.0.tar.gz",
+  "download_time": "2026-02-09T14:22:46.126228",
+  "package_url": "https://pypi.org/project/gradzero/"
+}

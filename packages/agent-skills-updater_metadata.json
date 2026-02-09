@@ -1,11 +1,11 @@
 {
   "name": "agent-skills-updater",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Automated skill management for AI coding assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_skills_updater-0.1.4.tar.gz",
-  "download_time": "2026-02-09T13:05:20.950767",
+  "download_filename": "agent_skills_updater-0.1.8.tar.gz",
+  "download_time": "2026-02-09T14:22:24.324589",
   "package_url": "https://pypi.org/project/agent-skills-updater/"
 }

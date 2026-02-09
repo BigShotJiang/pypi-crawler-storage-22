@@ -1,0 +1,11 @@
+{
+  "name": "geminiliveotel",
+  "version": "0.2.3",
+  "summary": "Production observability for Gemini Live API on Vertex AI — latency, tokens, tool calls, audio compliance, and more.",
+  "author": "Krishnan Kumar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "geminiliveotel-0.2.3.tar.gz",
+  "download_time": "2026-02-09T14:23:07.045649",
+  "package_url": "https://pypi.org/project/geminiliveotel/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pybondmachine",
-  "version": "1.1.77",
+  "version": "1.1.81",
   "summary": "pybondmachine is the Python library designed to streamline the development of FPGA accelerators through the use of the BondMachine framework.",
   "author": "Giulio Bianchini",
   "license": null,
   "home_page": null,
-  "download_filename": "pybondmachine-1.1.77.tar.gz",
-  "download_time": "2026-02-07T15:03:21.210904",
+  "download_filename": "pybondmachine-1.1.81.tar.gz",
+  "download_time": "2026-02-09T14:22:34.322594",
   "package_url": "https://pypi.org/project/pybondmachine/"
 }

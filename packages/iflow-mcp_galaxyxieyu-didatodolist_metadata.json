@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_galaxyxieyu-didatodolist",
+  "version": "0.1.1",
+  "summary": "滴答清单 MCP 服务 - 允许AI模型通过MCP协议操作滴答清单待办事项",
+  "author": "GalaxyXieyu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_galaxyxieyu_didatodolist-0.1.1.tar.gz",
+  "download_time": "2026-02-09T14:22:41.887576",
+  "package_url": "https://pypi.org/project/iflow-mcp_galaxyxieyu-didatodolist/"
+}

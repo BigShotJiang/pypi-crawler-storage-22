@@ -1,11 +1,11 @@
 {
   "name": "playhelpers",
-  "version": "6.0.1",
+  "version": "6.0.2",
   "summary": "A Python software package suite to provide various utility functions.",
   "author": "Pratik Jaiswal",
   "license": "GNU GENERAL PUBLIC LICENSE v3.0",
   "home_page": "https://github.com/AmenityPj/playhelpers",
-  "download_filename": "playhelpers-6.0.1.tar.gz",
-  "download_time": "2026-02-08T16:59:41.436562",
+  "download_filename": "playhelpers-6.0.2.tar.gz",
+  "download_time": "2026-02-09T14:22:59.678562",
   "package_url": "https://pypi.org/project/playhelpers/"
 }

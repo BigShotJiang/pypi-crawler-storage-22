@@ -1,11 +1,11 @@
 {
   "name": "DVM7",
-  "version": "0.1",
-  "summary": "SOCKS5 Proxy Tool",
-  "author": "DV M7",
-  "license": "MIT",
+  "version": "1.0.0",
+  "summary": null,
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "dvm7-0.1.tar.gz",
-  "download_time": "2026-02-06T19:00:50.457729",
+  "download_filename": "dvm7-1.0.0.tar.gz",
+  "download_time": "2026-02-09T14:22:43.449389",
   "package_url": "https://pypi.org/project/DVM7/"
 }

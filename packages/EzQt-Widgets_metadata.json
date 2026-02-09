@@ -1,0 +1,11 @@
+{
+  "name": "EzQt-Widgets",
+  "version": "2.3.3",
+  "summary": "Une collection de widgets Qt personnalisés et réutilisables pour PySide6. Fournit des composants graphiques avancés, réutilisables et stylés pour faciliter le développement d'interfaces modernes et ergonomiques.",
+  "author": "Neuraaak",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ezqt_widgets-2.3.3.tar.gz",
+  "download_time": "2026-02-09T14:22:56.031104",
+  "package_url": "https://pypi.org/project/EzQt-Widgets/"
+}
