@@ -1,0 +1,11 @@
+{
+  "name": "therix",
+  "version": "0.1.57",
+  "summary": "Therix is the SDK for langchain based applications.",
+  "author": "Ajinath",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "therix-0.1.57.tar.gz",
+  "download_time": "2026-02-09T11:59:40.347531",
+  "package_url": "https://pypi.org/project/therix/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "textblockrenderer",
-  "version": "1.2.1",
+  "version": "1.4.5",
   "summary": "A library for parsing HTML text, splitting text into blocks, and rendering blocks to PNG images",
   "author": "Text Driven Subtitle Team",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "textblockrenderer-1.2.1.tar.gz",
-  "download_time": "2026-02-08T02:07:29.258020",
+  "download_filename": "textblockrenderer-1.4.5-py3-none-any.whl",
+  "download_time": "2026-02-09T12:00:01.740692",
   "package_url": "https://pypi.org/project/textblockrenderer/"
 }

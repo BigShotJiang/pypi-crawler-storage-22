@@ -1,0 +1,11 @@
+{
+  "name": "tublub",
+  "version": "0.4.1",
+  "summary": "Convert tabular data files with Tablib.",
+  "author": "Fredrik Mellström",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tublub-0.4.1.tar.gz",
+  "download_time": "2026-02-09T12:00:12.168713",
+  "package_url": "https://pypi.org/project/tublub/"
+}

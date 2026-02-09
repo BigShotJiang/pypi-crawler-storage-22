@@ -1,11 +1,11 @@
 {
   "name": "fishertools",
-  "version": "0.4.6",
+  "version": "0.5.1",
   "summary": "Fishertools - инструменты, которые делают Python удобнее и безопаснее для новичков",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fishertools-0.4.6.tar.gz",
-  "download_time": "2026-02-02T15:59:26.150872",
+  "download_filename": "fishertools-0.5.1.tar.gz",
+  "download_time": "2026-02-09T12:00:02.782685",
   "package_url": "https://pypi.org/project/fishertools/"
 }

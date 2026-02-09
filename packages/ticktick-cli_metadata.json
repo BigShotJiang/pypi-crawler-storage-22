@@ -1,0 +1,11 @@
+{
+  "name": "ticktick-cli",
+  "version": "0.1.0",
+  "summary": "Standalone command-line interface for TickTick built on ticktick-sdk",
+  "author": "Egor Lynko",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ticktick_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-09T12:00:12.687520",
+  "package_url": "https://pypi.org/project/ticktick-cli/"
+}

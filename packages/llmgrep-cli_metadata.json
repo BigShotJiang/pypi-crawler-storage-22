@@ -1,0 +1,11 @@
+{
+  "name": "llmgrep-cli",
+  "version": "0.2.2",
+  "summary": "grep, but the search engine is an LLM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llmgrep_cli-0.2.2.tar.gz",
+  "download_time": "2026-02-09T11:59:26.942832",
+  "package_url": "https://pypi.org/project/llmgrep-cli/"
+}

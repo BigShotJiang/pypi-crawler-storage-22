@@ -1,0 +1,11 @@
+{
+  "name": "borghash",
+  "version": "0.1.1",
+  "summary": "Memory-efficient hash table (implemented in Cython)",
+  "author": "The Borg Collective (see AUTHORS file)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "borghash-0.1.1.tar.gz",
+  "download_time": "2026-02-09T12:00:04.869271",
+  "package_url": "https://pypi.org/project/borghash/"
+}

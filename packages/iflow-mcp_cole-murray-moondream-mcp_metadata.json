@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cole-murray-moondream-mcp",
+  "version": "1.0.2",
+  "summary": "FastMCP server for Moondream vision language model",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_cole_murray_moondream_mcp-1.0.2.tar.gz",
+  "download_time": "2026-02-09T12:00:00.702258",
+  "package_url": "https://pypi.org/project/iflow-mcp_cole-murray-moondream-mcp/"
+}

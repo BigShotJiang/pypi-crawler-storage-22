@@ -1,0 +1,11 @@
+{
+  "name": "lxcore",
+  "version": "0.1.2",
+  "summary": "High-performance append-only storage engine with indexing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lxcore-0.1.2.tar.gz",
+  "download_time": "2026-02-09T11:59:38.788671",
+  "package_url": "https://pypi.org/project/lxcore/"
+}

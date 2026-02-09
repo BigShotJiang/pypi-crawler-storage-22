@@ -1,0 +1,11 @@
+{
+  "name": "climate-ref-pmp",
+  "version": "0.9.1",
+  "summary": "PMP diagnostic provider for the Rapid Evaluation Framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "climate_ref_pmp-0.9.1.tar.gz",
+  "download_time": "2026-02-09T11:59:44.507642",
+  "package_url": "https://pypi.org/project/climate-ref-pmp/"
+}
