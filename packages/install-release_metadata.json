@@ -1,0 +1,11 @@
+{
+  "name": "install-release",
+  "version": "0.6.1",
+  "summary": "Simple package manager to easily install, update and manage any command-line(CLI) tool directly from github releases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "install_release-0.6.1.tar.gz",
+  "download_time": "2026-02-09T18:39:05.713649",
+  "package_url": "https://pypi.org/project/install-release/"
+}

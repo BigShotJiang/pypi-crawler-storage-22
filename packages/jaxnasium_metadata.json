@@ -1,11 +1,11 @@
 {
   "name": "jaxnasium",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "summary": "A lightweight utility library for reinforcement learning projects in JAX and Equinox.",
   "author": "Koen Ponse",
   "license": null,
   "home_page": null,
-  "download_filename": "jaxnasium-0.0.28.tar.gz",
-  "download_time": "2026-02-05T19:29:21.810746",
+  "download_filename": "jaxnasium-0.0.29.tar.gz",
+  "download_time": "2026-02-09T18:39:41.242010",
   "package_url": "https://pypi.org/project/jaxnasium/"
 }

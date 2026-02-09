@@ -1,0 +1,11 @@
+{
+  "name": "frontblok-deploy",
+  "version": "0.1.0",
+  "summary": "Deployment engine for React SPA frontends — Docker + GHCR + Kubernetes",
+  "author": "Victor Veloso",
+  "license": null,
+  "home_page": null,
+  "download_filename": "frontblok_deploy-0.1.0.tar.gz",
+  "download_time": "2026-02-09T18:39:40.199855",
+  "package_url": "https://pypi.org/project/frontblok-deploy/"
+}

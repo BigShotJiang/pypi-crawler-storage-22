@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_privetin-dataset-viewer",
+  "version": "0.1.0",
+  "summary": "MCP server for interacting with Hugging Face dataset viewer API, providing dataset browsing, filtering, and statistics capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_privetin_dataset_viewer-0.1.0.tar.gz",
+  "download_time": "2026-02-09T18:39:17.190392",
+  "package_url": "https://pypi.org/project/iflow-mcp_privetin-dataset-viewer/"
+}

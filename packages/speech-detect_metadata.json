@@ -1,0 +1,11 @@
+{
+  "name": "speech-detect",
+  "version": "0.3.1",
+  "summary": "A Python library for detecting speech segments and non-speech gaps in audio/video files using FSMN-VAD-ONNX with streaming processing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speech_detect-0.3.1.tar.gz",
+  "download_time": "2026-02-09T18:39:06.234398",
+  "package_url": "https://pypi.org/project/speech-detect/"
+}

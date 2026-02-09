@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_roboticforce-sugarai",
+  "version": "3.8.0",
+  "summary": "🍰 Sugar - The autonomous layer for AI coding agents. Manages task queues, runs 24/7, ships working code.",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "iflow_mcp_roboticforce_sugarai-3.8.0.tar.gz",
+  "download_time": "2026-02-09T18:39:47.575619",
+  "package_url": "https://pypi.org/project/iflow-mcp_roboticforce-sugarai/"
+}

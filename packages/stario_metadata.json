@@ -1,0 +1,11 @@
+{
+  "name": "stario",
+  "version": "2.2.0",
+  "summary": "Stario - High-performance Python web framework",
+  "author": "Adam Bobowski",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stario-2.2.0.tar.gz",
+  "download_time": "2026-02-09T18:39:19.808579",
+  "package_url": "https://pypi.org/project/stario/"
+}

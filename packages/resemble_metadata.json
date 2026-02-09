@@ -1,0 +1,11 @@
+{
+  "name": "resemble",
+  "version": "1.8.0",
+  "summary": "Resemble API Client Library",
+  "author": "ResembleAI",
+  "license": null,
+  "home_page": "https://github.com/resemble-ai/resemble-python",
+  "download_filename": "resemble-1.8.0.tar.gz",
+  "download_time": "2026-02-09T18:39:42.283768",
+  "package_url": "https://pypi.org/project/resemble/"
+}

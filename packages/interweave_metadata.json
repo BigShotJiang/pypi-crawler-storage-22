@@ -1,0 +1,11 @@
+{
+  "name": "interweave",
+  "version": "0.2.3",
+  "summary": "Voice I/O MCP server for Claude Code — speak and listen through your mic and speakers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "interweave-0.2.3.tar.gz",
+  "download_time": "2026-02-09T18:39:10.941865",
+  "package_url": "https://pypi.org/project/interweave/"
+}

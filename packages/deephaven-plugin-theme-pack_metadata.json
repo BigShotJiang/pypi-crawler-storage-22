@@ -1,0 +1,11 @@
+{
+  "name": "deephaven-plugin-theme-pack",
+  "version": "0.2.0",
+  "summary": "Deephaven Theme Pack Plugin",
+  "author": "Deephaven Data Labs",
+  "license": null,
+  "home_page": "https://github.com/deephaven/deephaven-plugins",
+  "download_filename": "deephaven_plugin_theme_pack-0.2.0.tar.gz",
+  "download_time": "2026-02-09T18:39:13.551506",
+  "package_url": "https://pypi.org/project/deephaven-plugin-theme-pack/"
+}

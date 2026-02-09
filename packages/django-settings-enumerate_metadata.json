@@ -1,0 +1,11 @@
+{
+  "name": "django-settings-enumerate",
+  "version": "0.1.0",
+  "summary": "django management command to dump an ordered list of settings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_settings_enumerate-0.1.0.tar.gz",
+  "download_time": "2026-02-09T18:39:39.681336",
+  "package_url": "https://pypi.org/project/django-settings-enumerate/"
+}

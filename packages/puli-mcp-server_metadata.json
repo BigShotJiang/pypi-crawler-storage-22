@@ -1,0 +1,11 @@
+{
+  "name": "puli-mcp-server",
+  "version": "0.1.37",
+  "summary": "a proactive security and stability guardrail for your AI coding agents (Claude Code, Cursor, Antigravity, etc.). It prevents production breakages by confronting proposed code changes with a massive, real-time database of global incidents, edge cases, and security breaches.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "puli_mcp_server-0.1.37-py3-none-any.whl",
+  "download_time": "2026-02-09T18:38:59.888386",
+  "package_url": "https://pypi.org/project/puli-mcp-server/"
+}

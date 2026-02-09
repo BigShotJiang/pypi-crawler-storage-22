@@ -1,0 +1,11 @@
+{
+  "name": "kokoro-desktop",
+  "version": "2.4.2",
+  "summary": "A CLI text-to-speech tool using the Kokoro model, supporting multiple languages, voices (with advanced multi-voice blending), and various input formats including EPUB books and PDF documents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kokoro_desktop-2.4.2.tar.gz",
+  "download_time": "2026-02-09T18:39:25.552129",
+  "package_url": "https://pypi.org/project/kokoro-desktop/"
+}
