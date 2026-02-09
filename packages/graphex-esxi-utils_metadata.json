@@ -1,0 +1,11 @@
+{
+  "name": "graphex-esxi-utils",
+  "version": "1.10.0",
+  "summary": "A plugin for adding python esxi utils nodes to graphex.",
+  "author": "The MITRE Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mitre/GraphEx-ESXi-Utilities",
+  "download_filename": "graphex_esxi_utils-1.10.0-py3-none-any.whl",
+  "download_time": "2026-02-09T22:05:56.549798",
+  "package_url": "https://pypi.org/project/graphex-esxi-utils/"
+}

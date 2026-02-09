@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Parallel provisioning and orchestration for cross-cloud optimized compute",
   "author": "Terradev Team",
   "license": null,
   "home_page": "https://github.com/terradev/terradev-cli",
-  "download_filename": "terradev_cli-1.0.0.tar.gz",
-  "download_time": "2026-02-09T21:26:32.781997",
+  "download_filename": "terradev_cli-1.0.3.tar.gz",
+  "download_time": "2026-02-09T22:06:29.147727",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

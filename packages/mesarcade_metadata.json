@@ -1,0 +1,11 @@
+{
+  "name": "mesarcade",
+  "version": "0.1.2",
+  "summary": "Visualize mesa models using python arcade.",
+  "author": "Marius Kaffai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mesarcade-0.1.2.tar.gz",
+  "download_time": "2026-02-09T22:06:32.898065",
+  "package_url": "https://pypi.org/project/mesarcade/"
+}

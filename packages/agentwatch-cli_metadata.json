@@ -1,11 +1,11 @@
 {
   "name": "agentwatch-cli",
-  "version": "0.1.16",
+  "version": "0.2.0",
   "summary": "Connect your local Moltbot gateway to AgentWatch cloud",
   "author": "AgentWatch",
   "license": null,
   "home_page": "https://github.com/helivan-research/agentwatch-cli",
-  "download_filename": "agentwatch_cli-0.1.16.tar.gz",
-  "download_time": "2026-02-09T21:26:09.978101",
+  "download_filename": "agentwatch_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-09T22:06:30.214820",
   "package_url": "https://pypi.org/project/agentwatch-cli/"
 }

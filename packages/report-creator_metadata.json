@@ -1,0 +1,11 @@
+{
+  "name": "report-creator",
+  "version": "1.1.4",
+  "summary": "Create self-contained HTML reports from Python.",
+  "author": "Daren Race",
+  "license": "MIT",
+  "home_page": "https://github.com/darenr/report_creator",
+  "download_filename": "report_creator-1.1.4.tar.gz",
+  "download_time": "2026-02-09T22:05:59.159075",
+  "package_url": "https://pypi.org/project/report-creator/"
+}

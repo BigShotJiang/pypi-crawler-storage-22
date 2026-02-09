@@ -1,11 +1,11 @@
 {
   "name": "types-boto3-lite",
-  "version": "1.42.44",
-  "summary": "Lite type annotations for boto3 1.42.44 generated with mypy-boto3-builder 8.12.0",
+  "version": "1.42.45",
+  "summary": "Lite type annotations for boto3 1.42.45 generated with mypy-boto3-builder 8.12.0",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "types_boto3_lite-1.42.44.tar.gz",
-  "download_time": "2026-02-06T20:53:56.153571",
+  "download_filename": "types_boto3_lite-1.42.45.tar.gz",
+  "download_time": "2026-02-09T22:06:04.401047",
   "package_url": "https://pypi.org/project/types-boto3-lite/"
 }

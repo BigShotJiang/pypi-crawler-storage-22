@@ -1,0 +1,11 @@
+{
+  "name": "video-sweep",
+  "version": "0.3.0",
+  "summary": "Minimal CLI tool to find, classify, rename, and move video files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "video_sweep-0.3.0.tar.gz",
+  "download_time": "2026-02-09T22:05:47.561707",
+  "package_url": "https://pypi.org/project/video-sweep/"
+}

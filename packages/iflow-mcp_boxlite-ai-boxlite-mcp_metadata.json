@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_boxlite-ai-boxlite-mcp",
+  "version": "0.2.5",
+  "summary": "MCP server providing computer use capabilities through an isolated sandbox environment",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_boxlite_ai_boxlite_mcp-0.2.5.tar.gz",
+  "download_time": "2026-02-09T22:05:50.177759",
+  "package_url": "https://pypi.org/project/iflow-mcp_boxlite-ai-boxlite-mcp/"
+}

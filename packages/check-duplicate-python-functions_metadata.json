@@ -1,0 +1,11 @@
+{
+  "name": "check-duplicate-python-functions",
+  "version": "1.0.0",
+  "summary": "A Python tool to detect duplicate function names in Python source files using AST parsing",
+  "author": "Pandiyaraj Karuppasamy",
+  "license": null,
+  "home_page": "https://github.com/pandiyarajk/check-duplicate-python-functions",
+  "download_filename": "check_duplicate_python_functions-1.0.0.tar.gz",
+  "download_time": "2026-02-09T22:06:27.067902",
+  "package_url": "https://pypi.org/project/check-duplicate-python-functions/"
+}

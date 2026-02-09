@@ -1,0 +1,11 @@
+{
+  "name": "esxi-utils",
+  "version": "3.23.0",
+  "summary": "A package that provides functions for interacting with an ESXi server and manipulating VMs/OVFs.",
+  "author": "The MITRE Corporation",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/mitre/Python-ESXi-Utilities",
+  "download_filename": "esxi_utils-3.23.0.tar.gz",
+  "download_time": "2026-02-09T22:06:02.304673",
+  "package_url": "https://pypi.org/project/esxi-utils/"
+}
