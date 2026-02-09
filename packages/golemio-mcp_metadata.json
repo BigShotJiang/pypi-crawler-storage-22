@@ -1,0 +1,11 @@
+{
+  "name": "golemio-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server exposing Prague's Golemio API for AI assistants",
+  "author": "Vladyslav Burzakovskyy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "golemio_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-09T13:05:34.198279",
+  "package_url": "https://pypi.org/project/golemio-mcp/"
+}

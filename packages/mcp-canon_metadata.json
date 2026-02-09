@@ -1,0 +1,11 @@
+{
+  "name": "mcp-canon",
+  "version": "0.1.0",
+  "summary": "MCP server providing architectural patterns and best practices to LLM agents via RAG",
+  "author": "tripcher",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_canon-0.1.0.tar.gz",
+  "download_time": "2026-02-09T13:05:53.535018",
+  "package_url": "https://pypi.org/project/mcp-canon/"
+}

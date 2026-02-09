@@ -1,11 +1,11 @@
 {
   "name": "lamindb_setup",
-  "version": "1.19.0",
+  "version": "1.19.2",
   "summary": "Setup & configure LaminDB.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lamindb_setup-1.19.0.tar.gz",
-  "download_time": "2026-02-01T14:36:19.513200",
+  "download_filename": "lamindb_setup-1.19.2.tar.gz",
+  "download_time": "2026-02-09T13:05:50.929543",
   "package_url": "https://pypi.org/project/lamindb_setup/"
 }

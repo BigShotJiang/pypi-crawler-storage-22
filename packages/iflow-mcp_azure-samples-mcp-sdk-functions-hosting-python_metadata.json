@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_azure-samples-mcp-sdk-functions-hosting-python",
+  "version": "0.1.0",
+  "summary": "Sample FastMCP server hosted on Azure Functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_azure_samples_mcp_sdk_functions_hosting_python-0.1.0.tar.gz",
+  "download_time": "2026-02-09T13:05:33.157708",
+  "package_url": "https://pypi.org/project/iflow-mcp_azure-samples-mcp-sdk-functions-hosting-python/"
+}

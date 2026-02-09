@@ -1,0 +1,11 @@
+{
+  "name": "donkit-vectorstore-loader",
+  "version": "0.1.9",
+  "summary": "Vectorstore upload helpers for Donkit RagOps",
+  "author": "Donkit AI",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "donkit_vectorstore_loader-0.1.9.tar.gz",
+  "download_time": "2026-02-09T13:05:59.273656",
+  "package_url": "https://pypi.org/project/donkit-vectorstore-loader/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "voc4cat",
+  "version": "1.0.2",
+  "summary": "SKOS vocabulary management tool by NFDI4Cat.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voc4cat-1.0.2.tar.gz",
+  "download_time": "2026-02-09T13:06:03.939566",
+  "package_url": "https://pypi.org/project/voc4cat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "unicefdata",
+  "version": "2.1.1",
+  "summary": "Python library for downloading UNICEF indicators via SDMX API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "unicefdata-2.1.1.tar.gz",
+  "download_time": "2026-02-09T13:05:58.235085",
+  "package_url": "https://pypi.org/project/unicefdata/"
+}

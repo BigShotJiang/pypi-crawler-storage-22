@@ -1,11 +1,11 @@
 {
   "name": "knowlyr-datasynth",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Data synthesis toolkit - batch generate high-quality training data from seed examples using LLMs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "knowlyr_datasynth-0.2.0.tar.gz",
-  "download_time": "2026-02-09T11:59:32.354988",
+  "download_filename": "knowlyr_datasynth-0.4.0.tar.gz",
+  "download_time": "2026-02-09T13:05:49.887885",
   "package_url": "https://pypi.org/project/knowlyr-datasynth/"
 }

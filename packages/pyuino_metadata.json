@@ -1,11 +1,11 @@
 {
   "name": "pyuino",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "LLM Japanese Kana-Kanji convetor",
   "author": "Masahiko Hashimoto",
   "license": null,
   "home_page": null,
-  "download_filename": "pyuino-0.0.5.tar.gz",
-  "download_time": "2026-02-07T09:06:11.743136",
+  "download_filename": "pyuino-0.0.6.tar.gz",
+  "download_time": "2026-02-09T13:05:54.575841",
   "package_url": "https://pypi.org/project/pyuino/"
 }

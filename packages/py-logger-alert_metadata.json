@@ -1,11 +1,11 @@
 {
   "name": "py-logger-alert",
-  "version": "0.1.5",
+  "version": "0.2.1",
   "summary": "Um monitor de logs automático via Telegram para robôs Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_logger_alert-0.1.5.tar.gz",
-  "download_time": "2026-02-09T11:59:27.980245",
+  "download_filename": "py_logger_alert-0.2.1.tar.gz",
+  "download_time": "2026-02-09T13:05:48.833102",
   "package_url": "https://pypi.org/project/py-logger-alert/"
 }

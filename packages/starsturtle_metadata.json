@@ -1,11 +1,11 @@
 {
   "name": "starsturtle",
-  "version": "1.0.3",
-  "summary": "A turtle graphics library based on PyQt5 with various drawing functions",
+  "version": "1.0.4",
+  "summary": "A Python turtle graphics library with multi-turtle support and OpenGL rendering",
   "author": "ChengCheng",
   "license": null,
   "home_page": null,
-  "download_filename": "starsturtle-1.0.3.tar.gz",
-  "download_time": "2026-02-07T13:35:08.164536",
+  "download_filename": "starsturtle-1.0.4.tar.gz",
+  "download_time": "2026-02-09T13:06:01.861280",
   "package_url": "https://pypi.org/project/starsturtle/"
 }

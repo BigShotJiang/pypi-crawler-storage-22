@@ -1,0 +1,11 @@
+{
+  "name": "openframe-criteria-set-protocol",
+  "version": "2.7.1",
+  "summary": "A protocol and tools for defining and working with criteria sets",
+  "author": "Andrés Angulo <aa@openframe.org>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openframe_criteria_set_protocol-2.7.1.tar.gz",
+  "download_time": "2026-02-09T13:05:43.643590",
+  "package_url": "https://pypi.org/project/openframe-criteria-set-protocol/"
+}
