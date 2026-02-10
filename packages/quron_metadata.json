@@ -1,0 +1,11 @@
+{
+  "name": "quron",
+  "version": "0.1.0",
+  "summary": "Binary Autoencoder-based QUBO optimization library",
+  "author": "Tetsuro Abe",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quron-0.1.0.tar.gz",
+  "download_time": "2026-02-10T03:32:30.800979",
+  "package_url": "https://pypi.org/project/quron/"
+}

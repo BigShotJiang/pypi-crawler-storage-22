@@ -1,11 +1,11 @@
 {
   "name": "calibrate-agent",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "An open-source evaluation framework for voice agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "calibrate_agent-0.0.7-py3-none-any.whl",
-  "download_time": "2026-02-07T15:03:49.094959",
+  "download_filename": "calibrate_agent-0.0.9-py3-none-any.whl",
+  "download_time": "2026-02-10T03:32:13.080294",
   "package_url": "https://pypi.org/project/calibrate-agent/"
 }

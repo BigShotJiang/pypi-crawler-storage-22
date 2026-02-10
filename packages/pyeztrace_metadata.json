@@ -1,0 +1,11 @@
+{
+  "name": "pyeztrace",
+  "version": "0.1.0",
+  "summary": "A dependency-free, lightweight Python tracing and logging library",
+  "author": "Jefferson Nelsson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyeztrace-0.1.0.tar.gz",
+  "download_time": "2026-02-10T03:32:03.382565",
+  "package_url": "https://pypi.org/project/pyeztrace/"
+}

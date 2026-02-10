@@ -1,0 +1,11 @@
+{
+  "name": "cloudmersive-documentai-api-client",
+  "version": "3.1.0",
+  "summary": "Document AI API",
+  "author": null,
+  "license": null,
+  "home_page": "https://cloudmersive.com/document-ai-api",
+  "download_filename": "cloudmersive_documentai_api_client-3.1.0.tar.gz",
+  "download_time": "2026-02-10T03:32:08.835307",
+  "package_url": "https://pypi.org/project/cloudmersive-documentai-api-client/"
+}

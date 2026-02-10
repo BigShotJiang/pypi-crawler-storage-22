@@ -1,0 +1,11 @@
+{
+  "name": "apab",
+  "version": "0.2.1",
+  "summary": "Agentic Phased Array Builder — LLM-driven phased-array antenna design via MCP tools",
+  "author": "APAB Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "apab-0.2.1.tar.gz",
+  "download_time": "2026-02-10T03:32:02.340299",
+  "package_url": "https://pypi.org/project/apab/"
+}

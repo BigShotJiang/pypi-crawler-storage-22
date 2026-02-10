@@ -1,0 +1,11 @@
+{
+  "name": "nhm-spider",
+  "version": "3.1.0",
+  "summary": "base on asyncio, spider module like scrapy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nhm_spider-3.1.0.tar.gz",
+  "download_time": "2026-02-10T03:32:18.310893",
+  "package_url": "https://pypi.org/project/nhm-spider/"
+}

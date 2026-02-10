@@ -1,11 +1,11 @@
 {
   "name": "barcode-pao-wasm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Cross-platform barcode generation library for Python (WASM version)",
   "author": "Pao",
   "license": "MIT",
   "home_page": "https://github.com/pao-ac/barcode-pao-wasm",
-  "download_filename": "barcode_pao_wasm-1.0.0.tar.gz",
-  "download_time": "2026-02-05T01:31:45.631766",
+  "download_filename": "barcode_pao_wasm-1.0.2.tar.gz",
+  "download_time": "2026-02-10T03:32:12.014589",
   "package_url": "https://pypi.org/project/barcode-pao-wasm/"
 }

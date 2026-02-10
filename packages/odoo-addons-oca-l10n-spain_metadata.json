@@ -1,11 +1,11 @@
 {
   "name": "odoo-addons-oca-l10n-spain",
-  "version": "19.0.20251105.0",
+  "version": "19.0.20260209.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odoo_addons_oca_l10n_spain-19.0.20251105.0-py3-none-any.whl",
-  "download_time": "2026-01-29T03:43:19.755610",
+  "download_filename": "odoo_addons_oca_l10n_spain-19.0.20260209.0-py3-none-any.whl",
+  "download_time": "2026-02-10T03:31:59.718187",
   "package_url": "https://pypi.org/project/odoo-addons-oca-l10n-spain/"
 }

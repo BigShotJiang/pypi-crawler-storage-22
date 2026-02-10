@@ -1,0 +1,11 @@
+{
+  "name": "bilibili-super",
+  "version": "0.0.3",
+  "summary": "提供bilbili视频平台信息爬取的接口",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "bilibili_super-0.0.3.tar.gz",
+  "download_time": "2026-02-10T03:32:32.883063",
+  "package_url": "https://pypi.org/project/bilibili-super/"
+}

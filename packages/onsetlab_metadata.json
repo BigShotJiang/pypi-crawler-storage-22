@@ -1,0 +1,11 @@
+{
+  "name": "onsetlab",
+  "version": "0.2.1",
+  "summary": "Reliable tool-calling agents on local SLMs. Hybrid REWOO/ReAct architecture, MCP support, one-command export. No API keys, no cloud.",
+  "author": "OnsetLab Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "onsetlab-0.2.1.tar.gz",
+  "download_time": "2026-02-10T03:31:48.718726",
+  "package_url": "https://pypi.org/project/onsetlab/"
+}

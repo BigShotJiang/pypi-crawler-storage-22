@@ -1,0 +1,11 @@
+{
+  "name": "sv-ref",
+  "version": "0.1.2",
+  "summary": "SystemVerilog packed struct/enum type definitions to JSON/HTML refbook generator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sv_ref-0.1.2.tar.gz",
+  "download_time": "2026-02-10T03:32:24.488370",
+  "package_url": "https://pypi.org/project/sv-ref/"
+}

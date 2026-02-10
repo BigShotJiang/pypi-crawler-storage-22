@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-alias-plugin",
+  "version": "0.10.2",
+  "summary": "An MkDocs plugin allowing links to your pages using a custom alias",
+  "author": "Eddy Luten",
+  "license": "MIT",
+  "home_page": "https://github.com/eddyluten/mkdocs-alias-plugin",
+  "download_filename": "mkdocs_alias_plugin-0.10.2.tar.gz",
+  "download_time": "2026-02-10T03:32:16.226878",
+  "package_url": "https://pypi.org/project/mkdocs-alias-plugin/"
+}

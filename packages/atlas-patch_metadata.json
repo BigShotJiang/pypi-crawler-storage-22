@@ -1,0 +1,11 @@
+{
+  "name": "atlas-patch",
+  "version": "1.0.0.post5",
+  "summary": "A Python package for processing and handling whole slide images",
+  "author": "Yousef Kotp, Omar Metwally, Ahmed Alagha",
+  "license": "CC-BY-NC-SA-4.0",
+  "home_page": null,
+  "download_filename": "atlas_patch-1.0.0.post5.tar.gz",
+  "download_time": "2026-02-10T03:32:09.354414",
+  "package_url": "https://pypi.org/project/atlas-patch/"
+}

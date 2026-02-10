@@ -1,0 +1,11 @@
+{
+  "name": "units-of-measurement",
+  "version": "1.0.0",
+  "summary": "Comprehensive units of measurement dataset — 2,959 units, 121 physical quantities, conversion factors, 11 measurement systems",
+  "author": "Duncan Scott",
+  "license": null,
+  "home_page": null,
+  "download_filename": "units_of_measurement-1.0.0.tar.gz",
+  "download_time": "2026-02-10T03:32:13.601239",
+  "package_url": "https://pypi.org/project/units-of-measurement/"
+}

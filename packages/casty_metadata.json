@@ -1,11 +1,11 @@
 {
   "name": "casty",
-  "version": "0.6.0",
-  "summary": "A minimalist, type-safe actor framework for Python 3.12+ inspired by Akka Typed",
+  "version": "0.7.2",
+  "summary": "Typed, clustered actor framework for Python. Pure asyncio, zero dependencies.",
   "author": "Gabriel Francisco",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "casty-0.6.0.tar.gz",
-  "download_time": "2026-02-08T23:29:36.748997",
+  "download_filename": "casty-0.7.2.tar.gz",
+  "download_time": "2026-02-10T03:32:17.271802",
   "package_url": "https://pypi.org/project/casty/"
 }

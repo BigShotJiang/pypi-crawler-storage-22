@@ -1,11 +1,11 @@
 {
   "name": "py10x-universe",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "10x Universe Core Packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py10x_universe-0.1.8.tar.gz",
-  "download_time": "2026-02-06T19:41:47.277573",
+  "download_filename": "py10x_universe-0.1.10.tar.gz",
+  "download_time": "2026-02-10T03:32:23.968931",
   "package_url": "https://pypi.org/project/py10x-universe/"
 }
