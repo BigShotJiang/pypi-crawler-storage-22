@@ -1,11 +1,11 @@
 {
   "name": "archiforge",
-  "version": "0.2.2",
-  "summary": "A smart project scaffolding tool for developers",
-  "author": "Abdal",
+  "version": "0.4.0",
+  "summary": "The Master Builder's CLI companion",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "archiforge-0.2.2.tar.gz",
-  "download_time": "2026-02-06T22:53:30.005835",
+  "download_filename": "archiforge-0.4.0.tar.gz",
+  "download_time": "2026-02-10T18:46:01.800334",
   "package_url": "https://pypi.org/project/archiforge/"
 }

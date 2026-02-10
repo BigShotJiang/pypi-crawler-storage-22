@@ -1,0 +1,11 @@
+{
+  "name": "yu-agent",
+  "version": "0.1.0",
+  "summary": "学习阶段的agent框架实现,主体是helloagents中的大致框架,后续会逐步完善",
+  "author": "Zhuoyang Wu",
+  "license": "MIT",
+  "home_page": "https://github.com/xiaoyu-ops/agent",
+  "download_filename": "yu_agent-0.1.0.tar.gz",
+  "download_time": "2026-02-10T18:45:55.380896",
+  "package_url": "https://pypi.org/project/yu-agent/"
+}

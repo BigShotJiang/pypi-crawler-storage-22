@@ -1,11 +1,11 @@
 {
   "name": "p2w",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.1.1",
+  "summary": "Python-to-WebAssembly compiler using WASM GC",
   "author": "Stefane Fermigier",
   "license": null,
   "home_page": null,
-  "download_filename": "p2w-0.1.0.tar.gz",
-  "download_time": "2026-02-07T14:47:39.787239",
+  "download_filename": "p2w-0.1.1.tar.gz",
+  "download_time": "2026-02-10T18:46:32.329163",
   "package_url": "https://pypi.org/project/p2w/"
 }

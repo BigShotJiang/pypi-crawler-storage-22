@@ -1,11 +1,11 @@
 {
   "name": "rusty-graph",
-  "version": "0.4.7",
+  "version": "0.4.18",
   "summary": "A high-performance graph database library with Python bindings written in Rust",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rusty_graph-0.4.7-cp310-cp310-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-09T14:23:05.486669",
+  "download_filename": "rusty_graph-0.4.18-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-10T18:46:28.683014",
   "package_url": "https://pypi.org/project/rusty-graph/"
 }

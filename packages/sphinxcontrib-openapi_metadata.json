@@ -1,0 +1,11 @@
+{
+  "name": "sphinxcontrib-openapi",
+  "version": "0.9.0",
+  "summary": "OpenAPI (fka Swagger) spec renderer for Sphinx",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sphinxcontrib_openapi-0.9.0.tar.gz",
+  "download_time": "2026-02-10T18:46:05.533957",
+  "package_url": "https://pypi.org/project/sphinxcontrib-openapi/"
+}

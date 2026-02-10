@@ -1,0 +1,11 @@
+{
+  "name": "fairsample",
+  "version": "1.0.0",
+  "summary": "Techniques for handling class overlapping with complexity measures",
+  "author": "Mohd Uwaish",
+  "license": null,
+  "home_page": "https://github.com/mohdUwaish59/fairsample",
+  "download_filename": "fairsample-1.0.0.tar.gz",
+  "download_time": "2026-02-10T18:46:29.204094",
+  "package_url": "https://pypi.org/project/fairsample/"
+}

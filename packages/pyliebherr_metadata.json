@@ -1,0 +1,11 @@
+{
+  "name": "pyliebherr",
+  "version": "2026.2.2",
+  "summary": "Helper models to connect to the Liebherr Smart Device Home API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyliebherr-2026.2.2.tar.gz",
+  "download_time": "2026-02-10T18:46:27.099851",
+  "package_url": "https://pypi.org/project/pyliebherr/"
+}

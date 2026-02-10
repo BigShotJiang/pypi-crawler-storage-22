@@ -1,0 +1,11 @@
+{
+  "name": "errordebugger",
+  "version": "0.1.0",
+  "summary": "A simplified Python SDK for ErrorDebugger via OpenTelemetry",
+  "author": "ErrorDebugger Team",
+  "license": null,
+  "home_page": "https://github.com/usama8199/errordebugger-sdks",
+  "download_filename": "errordebugger-0.1.0.tar.gz",
+  "download_time": "2026-02-10T18:46:17.050770",
+  "package_url": "https://pypi.org/project/errordebugger/"
+}

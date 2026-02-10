@@ -1,0 +1,11 @@
+{
+  "name": "chime-frb-api",
+  "version": "4.9.0",
+  "summary": "CHIME/FRB API",
+  "author": "Shiny Brar",
+  "license": "MIT",
+  "home_page": "https://github.com/CHIMEFRB/frb-api",
+  "download_filename": "chime_frb_api-4.9.0.tar.gz",
+  "download_time": "2026-02-10T18:46:01.278586",
+  "package_url": "https://pypi.org/project/chime-frb-api/"
+}
