@@ -1,11 +1,11 @@
 {
   "name": "nxswriter",
-  "version": "3.19.0",
+  "version": "3.21.0",
   "summary": "Nexus Data writer implemented as a Tango Server",
   "author": "Jan Kotanski, Eugen Wintersberger , Halil Pasic",
   "license": "GNU GENERAL PUBLIC LICENSE v3",
   "home_page": "https://github.com/nexdatas/nxsdatawriter",
-  "download_filename": "nxswriter-3.19.0.tar.gz",
-  "download_time": "2026-02-02T14:39:57.349804",
+  "download_filename": "nxswriter-3.21.0.tar.gz",
+  "download_time": "2026-02-11T13:53:18.391866",
   "package_url": "https://pypi.org/project/nxswriter/"
 }

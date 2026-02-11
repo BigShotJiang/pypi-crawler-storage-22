@@ -1,0 +1,11 @@
+{
+  "name": "manhattan-forms",
+  "version": "0.1.32",
+  "summary": "A set of classes, functions and utilties that extend WTForms for use with manhattan.",
+  "author": "Anthony Blackshaw",
+  "license": "MIT",
+  "home_page": "https://git.getme.co.uk/manhattan/manhattan_forms",
+  "download_filename": "manhattan_forms-0.1.32.tar.gz",
+  "download_time": "2026-02-11T13:53:19.949612",
+  "package_url": "https://pypi.org/project/manhattan-forms/"
+}

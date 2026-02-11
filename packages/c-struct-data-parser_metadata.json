@@ -1,11 +1,11 @@
 {
   "name": "c-struct-data-parser",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Declaratively define and parse C data structures",
   "author": "Gregory.Kuhn",
   "license": null,
   "home_page": null,
-  "download_filename": "c_struct_data_parser-0.1.0.tar.gz",
-  "download_time": "2026-02-08T23:29:40.428613",
+  "download_filename": "c_struct_data_parser-0.2.0.tar.gz",
+  "download_time": "2026-02-11T13:52:59.569990",
   "package_url": "https://pypi.org/project/c-struct-data-parser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-bareos",
+  "version": "25.0.2",
+  "summary": "Client library and tools for Bareos console access.",
+  "author": "Bareos Team",
+  "license": "AGPLv3",
+  "home_page": "https://github.com/bareos/bareos/",
+  "download_filename": "python_bareos-25.0.2.tar.gz",
+  "download_time": "2026-02-11T13:53:02.726032",
+  "package_url": "https://pypi.org/project/python-bareos/"
+}

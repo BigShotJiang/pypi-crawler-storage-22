@@ -1,0 +1,11 @@
+{
+  "name": "tokamap",
+  "version": "0.1.0",
+  "summary": "A JSON schema-based validator for TokaMap experimental data mapping configurations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tokamap-0.1.0.tar.gz",
+  "download_time": "2026-02-11T13:52:52.770885",
+  "package_url": "https://pypi.org/project/tokamap/"
+}

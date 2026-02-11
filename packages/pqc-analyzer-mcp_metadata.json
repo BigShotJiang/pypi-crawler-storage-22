@@ -1,0 +1,11 @@
+{
+  "name": "pqc-analyzer-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server for analyzing Git commits for Post-Quantum Cryptography (PQC) readiness",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pqc_analyzer_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-11T13:52:42.253697",
+  "package_url": "https://pypi.org/project/pqc-analyzer-mcp/"
+}
