@@ -1,11 +1,11 @@
 {
   "name": "chord-romanizer",
-  "version": "0.1.3",
+  "version": "0.1.7",
   "summary": "A library to analyze chord progressions and convert them to Roman numeral analysis.",
   "author": "anime-song",
   "license": null,
   "home_page": "https://github.com/anime-song/chord-romanizer",
-  "download_filename": "chord_romanizer-0.1.3.tar.gz",
-  "download_time": "2026-01-30T08:32:40.344146",
+  "download_filename": "chord_romanizer-0.1.7.tar.gz",
+  "download_time": "2026-02-11T05:48:32.412808",
   "package_url": "https://pypi.org/project/chord-romanizer/"
 }

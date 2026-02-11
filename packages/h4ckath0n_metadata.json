@@ -1,11 +1,11 @@
 {
   "name": "h4ckath0n",
-  "version": "0.1.1.dev20260210183846",
+  "version": "0.1.1",
   "summary": "Ship hackathon products fast with secure-by-default auth, RBAC, PostgreSQL readiness, and built-in LLM tooling.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "h4ckath0n-0.1.1.dev20260210183846.tar.gz",
-  "download_time": "2026-02-10T18:46:10.245233",
+  "download_filename": "h4ckath0n-0.1.1.tar.gz",
+  "download_time": "2026-02-11T05:48:47.563736",
   "package_url": "https://pypi.org/project/h4ckath0n/"
 }

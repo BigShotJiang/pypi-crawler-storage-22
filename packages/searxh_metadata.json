@@ -1,0 +1,11 @@
+{
+  "name": "searxh",
+  "version": "0.1.2",
+  "summary": "Dependency-free BM25 indexer and search CLI for local code/docs",
+  "author": "HACKE-RC",
+  "license": null,
+  "home_page": null,
+  "download_filename": "searxh-0.1.2.tar.gz",
+  "download_time": "2026-02-11T05:48:31.893012",
+  "package_url": "https://pypi.org/project/searxh/"
+}

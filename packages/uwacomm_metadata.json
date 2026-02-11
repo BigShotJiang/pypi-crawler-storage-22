@@ -1,0 +1,11 @@
+{
+  "name": "uwacomm",
+  "version": "0.2.0",
+  "summary": "Underwater communications codec with DCCL-inspired compact binary encoding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "uwacomm-0.2.0.tar.gz",
+  "download_time": "2026-02-11T05:48:23.769002",
+  "package_url": "https://pypi.org/project/uwacomm/"
+}

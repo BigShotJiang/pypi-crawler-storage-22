@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-download-releases",
+  "version": "0.1.0",
+  "summary": "Download release assets from GitLab projects and groups",
+  "author": "Cyber Assessment Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitlab_download_releases-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-11T05:48:25.850699",
+  "package_url": "https://pypi.org/project/gitlab-download-releases/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dictsqlite",
+  "version": "2.1.0",
+  "summary": "High-performance DictSQLite v2 with I/O optimizations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dictsqlite-2.1.0.tar.gz",
+  "download_time": "2026-02-11T05:48:37.116536",
+  "package_url": "https://pypi.org/project/dictsqlite/"
+}

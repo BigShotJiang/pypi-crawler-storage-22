@@ -1,0 +1,11 @@
+{
+  "name": "tamber-tower",
+  "version": "3.0.6",
+  "summary": "塔数系统（Ta Numbers）的 Python 实现",
+  "author": "Tamber Team",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/tamber",
+  "download_filename": "tamber_tower-3.0.6-py3-none-any.whl",
+  "download_time": "2026-02-11T05:48:38.680265",
+  "package_url": "https://pypi.org/project/tamber-tower/"
+}
