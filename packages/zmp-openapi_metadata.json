@@ -1,0 +1,11 @@
+{
+  "name": "zmp-openapi",
+  "version": "1.0.0",
+  "summary": "SDK for ZaloMiniApp OpenAPI with Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zmp_openapi-1.0.0.tar.gz",
+  "download_time": "2026-02-11T08:31:38.109959",
+  "package_url": "https://pypi.org/project/zmp-openapi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pysgtsnepi",
+  "version": "0.2.0",
+  "summary": "Pure Python implementation of SG-t-SNE-Π: Swift Neighbor Embedding of Sparse Stochastic Graphs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pysgtsnepi-0.2.0.tar.gz",
+  "download_time": "2026-02-11T08:32:20.088473",
+  "package_url": "https://pypi.org/project/pysgtsnepi/"
+}

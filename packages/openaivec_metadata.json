@@ -1,11 +1,11 @@
 {
   "name": "openaivec",
-  "version": "1.0.10",
+  "version": "1.1.4",
   "summary": "Generative mutation for tabular calculation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openaivec-1.0.10.tar.gz",
-  "download_time": "2026-02-01T13:32:13.139942",
+  "download_filename": "openaivec-1.1.4.tar.gz",
+  "download_time": "2026-02-11T08:31:40.722931",
   "package_url": "https://pypi.org/project/openaivec/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "exponax",
+  "version": "0.1.1",
+  "summary": "Efficient differentiable PDE solvers in JAX.",
+  "author": "Felix Koehler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "exponax-0.1.1.tar.gz",
+  "download_time": "2026-02-11T08:32:07.574591",
+  "package_url": "https://pypi.org/project/exponax/"
+}

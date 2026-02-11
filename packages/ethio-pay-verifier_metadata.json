@@ -1,0 +1,11 @@
+{
+  "name": "ethio-pay-verifier",
+  "version": "0.1.0",
+  "summary": "Verify Ethiopian payment receipts (CBE, Telebirr, Abyssinia, Dashen, CBE Birr) directly from official bank endpoints.",
+  "author": "mcjohn",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ethio_pay_verifier-0.1.0.tar.gz",
+  "download_time": "2026-02-11T08:31:38.628137",
+  "package_url": "https://pypi.org/project/ethio-pay-verifier/"
+}

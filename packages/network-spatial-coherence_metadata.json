@@ -1,0 +1,11 @@
+{
+  "name": "network-spatial-coherence",
+  "version": "0.3.0",
+  "summary": "Network Validation using the Spatial Coherence Framework.",
+  "author": "David Fernandez Bonet",
+  "license": null,
+  "home_page": "https://github.com/DavidFernandezBonet/Spatial Constant Analysis",
+  "download_filename": "network_spatial_coherence-0.3.0.tar.gz",
+  "download_time": "2026-02-11T08:32:16.974267",
+  "package_url": "https://pypi.org/project/network-spatial-coherence/"
+}

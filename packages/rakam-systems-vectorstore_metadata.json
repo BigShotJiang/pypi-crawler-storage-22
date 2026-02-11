@@ -1,0 +1,11 @@
+{
+  "name": "rakam-systems-vectorstore",
+  "version": "0.1.1rc8",
+  "summary": "Utility package for interacting with vectorstores",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rakam_systems_vectorstore-0.1.1rc8.tar.gz",
+  "download_time": "2026-02-11T08:32:11.253554",
+  "package_url": "https://pypi.org/project/rakam-systems-vectorstore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-mysql",
+  "version": "6.4.2",
+  "summary": "Provider package apache-airflow-providers-mysql for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_mysql-6.4.2.tar.gz",
+  "download_time": "2026-02-11T08:31:53.388664",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-mysql/"
+}

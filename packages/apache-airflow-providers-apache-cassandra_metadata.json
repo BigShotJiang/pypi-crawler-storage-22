@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-apache-cassandra",
+  "version": "3.9.1",
+  "summary": "Provider package apache-airflow-providers-apache-cassandra for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_apache_cassandra-3.9.1.tar.gz",
+  "download_time": "2026-02-11T08:32:02.814192",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-apache-cassandra/"
+}

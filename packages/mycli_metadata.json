@@ -1,11 +1,11 @@
 {
   "name": "mycli",
-  "version": "1.50.0",
+  "version": "1.52.0",
   "summary": "CLI for MySQL Database. With auto-completion and syntax highlighting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mycli-1.50.0.tar.gz",
-  "download_time": "2026-02-07T09:05:47.164968",
+  "download_filename": "mycli-1.52.0.tar.gz",
+  "download_time": "2026-02-11T08:32:06.521226",
   "package_url": "https://pypi.org/project/mycli/"
 }

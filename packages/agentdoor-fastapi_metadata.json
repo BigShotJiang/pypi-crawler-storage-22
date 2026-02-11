@@ -1,0 +1,11 @@
+{
+  "name": "agentdoor-fastapi",
+  "version": "0.1.0",
+  "summary": "FastAPI adapter for AgentDoor - agent authentication middleware",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentdoor_fastapi-0.1.0.tar.gz",
+  "download_time": "2026-02-11T08:31:36.034389",
+  "package_url": "https://pypi.org/project/agentdoor-fastapi/"
+}

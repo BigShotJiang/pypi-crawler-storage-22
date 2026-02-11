@@ -1,11 +1,11 @@
 {
   "name": "intellifold",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "IntelliFold: A Controllable Foundation Model for General and Specialized Biomolecular Structure Prediction.",
   "author": "IntelliGen AI",
   "license": "Apache 2.0 License",
   "home_page": "https://github.com/IntelliGen-AI/IntelliFold",
-  "download_filename": "intellifold-2.0.0-py3-none-any.whl",
-  "download_time": "2026-02-07T15:03:27.098742",
+  "download_filename": "intellifold-2.0.1-py3-none-any.whl",
+  "download_time": "2026-02-11T08:31:42.287341",
   "package_url": "https://pypi.org/project/intellifold/"
 }

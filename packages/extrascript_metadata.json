@@ -1,0 +1,11 @@
+{
+  "name": "extrascript",
+  "version": "0.1.0",
+  "summary": "Google Apps Script management for LLM agents - pull, edit, push, and lint",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "extrascript-0.1.0.tar.gz",
+  "download_time": "2026-02-11T08:31:47.148681",
+  "package_url": "https://pypi.org/project/extrascript/"
+}
