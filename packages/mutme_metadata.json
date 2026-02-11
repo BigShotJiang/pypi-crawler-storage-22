@@ -1,11 +1,11 @@
 {
   "name": "mutme",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "Generic mutation and mutation-of-interest calling from viral consensus genomes",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mutme-0.2.0.tar.gz",
-  "download_time": "2026-02-10T03:31:49.238813",
+  "download_filename": "mutme-0.4.0.tar.gz",
+  "download_time": "2026-02-11T01:06:34.122420",
   "package_url": "https://pypi.org/project/mutme/"
 }

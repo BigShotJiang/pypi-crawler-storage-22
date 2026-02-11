@@ -1,0 +1,11 @@
+{
+  "name": "vectry-agentlens",
+  "version": "0.2.7",
+  "summary": "Agent observability that traces decisions, not just API calls",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vectry_agentlens-0.2.7.tar.gz",
+  "download_time": "2026-02-11T01:06:31.514285",
+  "package_url": "https://pypi.org/project/vectry-agentlens/"
+}

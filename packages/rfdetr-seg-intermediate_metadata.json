@@ -1,0 +1,11 @@
+{
+  "name": "rfdetr-seg-intermediate",
+  "version": "0.2.3",
+  "summary": "Memory-efficient RF-DETR with RFDETRSegIntermediate and xformers attention support",
+  "author": "Nathan Honn",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "rfdetr_seg_intermediate-0.2.3.tar.gz",
+  "download_time": "2026-02-11T01:06:00.921156",
+  "package_url": "https://pypi.org/project/rfdetr-seg-intermediate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ldraney-notion-mcp",
-  "version": "0.1.4",
+  "version": "0.1.12",
   "summary": "MCP server wrapping the Notion Python SDK (v2025-09-03)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ldraney_notion_mcp-0.1.4.tar.gz",
-  "download_time": "2026-02-05T21:40:49.494753",
+  "download_filename": "ldraney_notion_mcp-0.1.12.tar.gz",
+  "download_time": "2026-02-11T01:06:32.035687",
   "package_url": "https://pypi.org/project/ldraney-notion-mcp/"
 }

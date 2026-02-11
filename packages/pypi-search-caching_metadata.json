@@ -1,0 +1,11 @@
+{
+  "name": "pypi-search-caching",
+  "version": "0.0.3b0",
+  "summary": "Search PyPI package names by regex pattern, with caching and optional details.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pypi_search_caching-0.0.3b0.tar.gz",
+  "download_time": "2026-02-11T01:05:56.144724",
+  "package_url": "https://pypi.org/project/pypi-search-caching/"
+}

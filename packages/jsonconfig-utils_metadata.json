@@ -1,0 +1,11 @@
+{
+  "name": "jsonconfig-utils",
+  "version": "1.0.4",
+  "summary": "Lightweight JSON configuration loader with environment variable interpolation",
+  "author": "Config Utils Contributors",
+  "license": null,
+  "home_page": "https://github.com/config-utils/jsonconfig-utils",
+  "download_filename": "jsonconfig_utils-1.0.4.tar.gz",
+  "download_time": "2026-02-11T01:06:35.170263",
+  "package_url": "https://pypi.org/project/jsonconfig-utils/"
+}

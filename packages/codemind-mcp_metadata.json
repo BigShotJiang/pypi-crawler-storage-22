@@ -1,0 +1,11 @@
+{
+  "name": "codemind-mcp",
+  "version": "2.0.0",
+  "summary": "MCP Security Guardian — SAST, Secrets, SCA, IaC scanning for AI-powered development",
+  "author": "CodeMind Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codemind_mcp-2.0.0.tar.gz",
+  "download_time": "2026-02-11T01:06:25.162013",
+  "package_url": "https://pypi.org/project/codemind-mcp/"
+}

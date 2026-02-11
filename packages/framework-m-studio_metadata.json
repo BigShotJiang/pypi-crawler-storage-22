@@ -1,11 +1,11 @@
 {
   "name": "framework-m-studio",
-  "version": "0.3.5",
+  "version": "0.4.3",
   "summary": "Framework M Studio - Visual DocType Builder & Developer Tools",
   "author": "Framework M Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "framework_m_studio-0.3.5.tar.gz",
-  "download_time": "2026-02-07T18:31:08.209210",
+  "download_filename": "framework_m_studio-0.4.3.tar.gz",
+  "download_time": "2026-02-11T01:06:24.122238",
   "package_url": "https://pypi.org/project/framework-m-studio/"
 }
