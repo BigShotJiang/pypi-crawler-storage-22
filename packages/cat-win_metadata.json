@@ -1,0 +1,11 @@
+{
+  "name": "cat-win",
+  "version": "1.10.5",
+  "summary": "Advanced Text-Processing and -Analytics Command Line Tool made in Python.",
+  "author": "Silas A. Kraume",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cat_win-1.10.5-py3-none-any.whl",
+  "download_time": "2026-02-11T21:33:45.465740",
+  "package_url": "https://pypi.org/project/cat-win/"
+}

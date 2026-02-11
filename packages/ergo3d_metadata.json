@@ -1,0 +1,11 @@
+{
+  "name": "ergo3d",
+  "version": "0.2.1",
+  "summary": "A Python package for 3D ergonomic calculations.",
+  "author": "Leyang Wen",
+  "license": "MIT",
+  "home_page": "https://github.com/LeyangWen/ergo3d",
+  "download_filename": "ergo3d-0.2.1.tar.gz",
+  "download_time": "2026-02-11T21:33:50.668382",
+  "package_url": "https://pypi.org/project/ergo3d/"
+}

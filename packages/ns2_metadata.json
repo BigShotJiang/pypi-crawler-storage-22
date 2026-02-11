@@ -1,0 +1,11 @@
+{
+  "name": "ns2",
+  "version": "0.2.15",
+  "summary": "Novus Power Products server configuration tool",
+  "author": "jowens25",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ns2-0.2.15.tar.gz",
+  "download_time": "2026-02-11T21:33:18.660710",
+  "package_url": "https://pypi.org/project/ns2/"
+}

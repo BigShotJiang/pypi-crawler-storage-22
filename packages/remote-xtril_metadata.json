@@ -1,0 +1,11 @@
+{
+  "name": "remote-xtril",
+  "version": "1.0.53",
+  "summary": "Remote client framework for Telegram automation using Pyrogram",
+  "author": "MrAhmadiRad",
+  "license": "MIT",
+  "home_page": "https://github.com/MohammadAhmadi-R/remote-xtril",
+  "download_filename": "remote_xtril-1.0.53.tar.gz",
+  "download_time": "2026-02-11T21:33:20.242517",
+  "package_url": "https://pypi.org/project/remote-xtril/"
+}

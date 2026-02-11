@@ -1,0 +1,11 @@
+{
+  "name": "kakitori",
+  "version": "1.0.2",
+  "summary": "Audio transcription with speaker diarization using Gemini",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kakitori-1.0.2.tar.gz",
+  "download_time": "2026-02-11T21:33:53.819104",
+  "package_url": "https://pypi.org/project/kakitori/"
+}

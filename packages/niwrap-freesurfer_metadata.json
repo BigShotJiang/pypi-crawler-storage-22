@@ -1,11 +1,11 @@
 {
   "name": "niwrap-freesurfer",
-  "version": "0.8.5",
+  "version": "0.8.7",
   "summary": "Neuroimaging wrappers.",
   "author": "CMI DAIR",
   "license": null,
   "home_page": null,
-  "download_filename": "niwrap_freesurfer-0.8.5.tar.gz",
-  "download_time": "2026-02-04T20:00:45.901201",
+  "download_filename": "niwrap_freesurfer-0.8.7.tar.gz",
+  "download_time": "2026-02-11T21:33:12.359879",
   "package_url": "https://pypi.org/project/niwrap-freesurfer/"
 }

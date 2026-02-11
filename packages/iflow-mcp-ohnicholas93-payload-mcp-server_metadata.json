@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-ohnicholas93-payload-mcp-server",
+  "version": "0.1.2",
+  "summary": "A Model Context Protocol (MCP) server for interacting with Payload CMS",
+  "author": "Nitrous Developments",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_ohnicholas93_payload_mcp_server-0.1.2.tar.gz",
+  "download_time": "2026-02-11T21:33:34.471460",
+  "package_url": "https://pypi.org/project/iflow-mcp-ohnicholas93-payload-mcp-server/"
+}

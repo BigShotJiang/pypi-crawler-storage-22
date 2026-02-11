@@ -1,0 +1,11 @@
+{
+  "name": "am-okay",
+  "version": "1.0.8",
+  "summary": "A portable command-line tool for copying and moving files and directories with progress indication.",
+  "author": "Amadou Baldé",
+  "license": "MIT",
+  "home_page": "https://github.com/baldeuniversel/am-okay",
+  "download_filename": "am_okay-1.0.8.tar.gz",
+  "download_time": "2026-02-11T21:33:52.780967",
+  "package_url": "https://pypi.org/project/am-okay/"
+}

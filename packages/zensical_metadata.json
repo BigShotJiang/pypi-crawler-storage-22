@@ -1,11 +1,11 @@
 {
   "name": "zensical",
-  "version": "0.0.21",
+  "version": "0.0.23",
   "summary": "A modern static site generator built by the creators of Material for MkDocs",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/zensical/zensical",
-  "download_filename": "zensical-0.0.21.tar.gz",
-  "download_time": "2026-02-04T17:54:15.482221",
+  "download_filename": "zensical-0.0.23.tar.gz",
+  "download_time": "2026-02-11T21:33:37.092853",
   "package_url": "https://pypi.org/project/zensical/"
 }

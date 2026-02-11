@@ -1,11 +1,11 @@
 {
   "name": "kyber-chat",
-  "version": "2026.2.11.11",
+  "version": "2026.2.11.19",
   "summary": "A lightweight personal AI assistant framework",
   "author": "kyber contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kyber_chat-2026.2.11.11.tar.gz",
-  "download_time": "2026-02-11T13:52:56.458731",
+  "download_filename": "kyber_chat-2026.2.11.19.tar.gz",
+  "download_time": "2026-02-11T21:33:22.869339",
   "package_url": "https://pypi.org/project/kyber-chat/"
 }

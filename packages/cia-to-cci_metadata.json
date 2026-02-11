@@ -1,0 +1,11 @@
+{
+  "name": "cia-to-cci",
+  "version": "0.1.3",
+  "summary": "Python library for converting Nintendo 3DS CIA files to decrypted CCI files",
+  "author": "Rey Rodrigues",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cia_to_cci-0.1.3.tar.gz",
+  "download_time": "2026-02-11T21:33:52.256819",
+  "package_url": "https://pypi.org/project/cia-to-cci/"
+}

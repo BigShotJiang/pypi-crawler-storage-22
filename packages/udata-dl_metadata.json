@@ -1,0 +1,11 @@
+{
+  "name": "udata-dl",
+  "version": "0.4.7",
+  "summary": "CLI tool to download and sync files from udata platforms (data.public.lu and others)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "udata_dl-0.4.7.tar.gz",
+  "download_time": "2026-02-11T21:33:33.416809",
+  "package_url": "https://pypi.org/project/udata-dl/"
+}

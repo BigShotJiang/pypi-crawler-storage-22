@@ -1,0 +1,11 @@
+{
+  "name": "msp-copilot",
+  "version": "0.1.1",
+  "summary": "Safe, auditable MSP workflow automation CLI for Microsoft 365 operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "msp_copilot-0.1.1.tar.gz",
+  "download_time": "2026-02-11T21:33:48.065229",
+  "package_url": "https://pypi.org/project/msp-copilot/"
+}

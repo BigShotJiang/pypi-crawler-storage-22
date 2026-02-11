@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_alexxx-db-databricks-genie-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for Databricks Genie API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_alexxx_db_databricks_genie_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-11T21:33:39.713517",
+  "package_url": "https://pypi.org/project/iflow-mcp_alexxx-db-databricks-genie-mcp/"
+}
