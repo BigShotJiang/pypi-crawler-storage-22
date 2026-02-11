@@ -1,0 +1,11 @@
+{
+  "name": "pdbstex",
+  "version": "0.1.0",
+  "summary": "PDBStEx: RCSB PDB search, download, and structure splitting utility",
+  "author": "Michele Massuoli",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pdbstex-0.1.0.tar.gz",
+  "download_time": "2026-02-11T18:13:48.912310",
+  "package_url": "https://pypi.org/project/pdbstex/"
+}

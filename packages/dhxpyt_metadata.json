@@ -1,11 +1,11 @@
 {
   "name": "dhxpyt",
-  "version": "0.9.14",
+  "version": "0.9.16",
   "summary": "Python wrapper for DHTMLX widgets",
   "author": null,
   "license": "GNU General Public License v2",
   "home_page": null,
-  "download_filename": "dhxpyt-0.9.14.tar.gz",
-  "download_time": "2026-02-09T21:26:26.465951",
+  "download_filename": "dhxpyt-0.9.16.tar.gz",
+  "download_time": "2026-02-11T18:13:04.747554",
   "package_url": "https://pypi.org/project/dhxpyt/"
 }

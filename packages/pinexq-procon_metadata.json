@@ -1,0 +1,11 @@
+{
+  "name": "pinexq-procon",
+  "version": "2.5.0",
+  "summary": "Framework to create containers for DataCybernetic's PineXQ computing platform",
+  "author": "Sebastian Höfer, Carsten Blank, Mathias Reichardt",
+  "license": "Copyright (C) data cybernetics ssc GmbH - All Rights Reserved\n         <contactus@data-cybernetics.com>, December 2023",
+  "home_page": null,
+  "download_filename": "pinexq_procon-2.5.0-py3-none-any.whl",
+  "download_time": "2026-02-11T18:13:52.043658",
+  "package_url": "https://pypi.org/project/pinexq-procon/"
+}

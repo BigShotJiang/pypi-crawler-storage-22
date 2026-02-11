@@ -1,0 +1,11 @@
+{
+  "name": "osqp",
+  "version": "1.1.1",
+  "summary": "OSQP: The Operator Splitting QP Solver",
+  "author": "Goran Banjac",
+  "license": null,
+  "home_page": null,
+  "download_filename": "osqp-1.1.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-11T18:13:13.141026",
+  "package_url": "https://pypi.org/project/osqp/"
+}

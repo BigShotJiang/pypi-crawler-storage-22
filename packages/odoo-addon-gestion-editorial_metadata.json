@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-gestion-editorial",
+  "version": "17.0.1.6.1",
+  "summary": "=?utf-8?q?M=C3=B3dulo_de_gesti=C3=B3n_para_entidades_del_mundo_del_libro?=",
+  "author": "Colectivo DEVCONTROL",
+  "license": "OPL-1",
+  "home_page": "https://framagit.org/devcontrol",
+  "download_filename": "odoo_addon_gestion_editorial-17.0.1.6.1.tar.gz",
+  "download_time": "2026-02-11T18:13:22.640283",
+  "package_url": "https://pypi.org/project/odoo-addon-gestion-editorial/"
+}

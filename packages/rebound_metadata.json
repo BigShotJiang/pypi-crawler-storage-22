@@ -1,11 +1,11 @@
 {
   "name": "rebound",
-  "version": "4.5.1",
+  "version": "4.6.0",
   "summary": "An open-source multi-purpose N-body code",
   "author": "Hanno Rein",
   "license": "GPL",
   "home_page": "https://github.com/hannorein/rebound/",
-  "download_filename": "rebound-4.5.1.tar.gz",
-  "download_time": "2026-02-01T19:55:30.760210",
+  "download_filename": "rebound-4.6.0.tar.gz",
+  "download_time": "2026-02-11T18:13:45.750732",
   "package_url": "https://pypi.org/project/rebound/"
 }

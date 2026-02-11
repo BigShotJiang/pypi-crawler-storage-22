@@ -1,0 +1,11 @@
+{
+  "name": "rustream",
+  "version": "0.1.0",
+  "summary": "Fast Postgres → Parquet sync tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rustream-0.1.0-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-11T18:13:36.115250",
+  "package_url": "https://pypi.org/project/rustream/"
+}

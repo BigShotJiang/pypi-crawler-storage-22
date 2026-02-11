@@ -1,0 +1,11 @@
+{
+  "name": "pyita",
+  "version": "1.1.0",
+  "summary": "Technical analysis library for stock quotes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyita-1.1.0.tar.gz",
+  "download_time": "2026-02-11T18:13:31.200781",
+  "package_url": "https://pypi.org/project/pyita/"
+}

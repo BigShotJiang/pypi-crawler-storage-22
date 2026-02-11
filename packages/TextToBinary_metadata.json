@@ -1,0 +1,11 @@
+{
+  "name": "TextToBinary",
+  "version": "0.1.0",
+  "summary": "A Text To Binary Code Converter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "texttobinary-0.1.0.tar.gz",
+  "download_time": "2026-02-11T18:13:09.993575",
+  "package_url": "https://pypi.org/project/TextToBinary/"
+}

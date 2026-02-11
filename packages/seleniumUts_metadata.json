@@ -1,0 +1,11 @@
+{
+  "name": "seleniumUts",
+  "version": "1.1.9",
+  "summary": "Zdek Util libraries for Pythom coding",
+  "author": "Zdek Development team",
+  "license": "MIT",
+  "home_page": "https://github.com/ZdekPyPi/SeleniumUts",
+  "download_filename": "seleniumuts-1.1.9.tar.gz",
+  "download_time": "2026-02-11T18:13:49.953331",
+  "package_url": "https://pypi.org/project/seleniumUts/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "roomkit",
-  "version": "0.3.1",
+  "version": "0.4.12",
   "summary": "Pure async Python library for multi-channel conversations",
   "author": "Sylvain Boily",
   "license": null,
   "home_page": null,
-  "download_filename": "roomkit-0.3.1.tar.gz",
-  "download_time": "2026-02-06T05:24:12.488377",
+  "download_filename": "roomkit-0.4.12.tar.gz",
+  "download_time": "2026-02-11T18:13:17.313464",
   "package_url": "https://pypi.org/project/roomkit/"
 }

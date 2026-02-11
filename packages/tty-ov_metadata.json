@@ -1,0 +1,11 @@
+{
+  "name": "tty-ov",
+  "version": "1.0.121",
+  "summary": "A module that emulates a few core functionalities of a tty (see the inner help for a list of functions).",
+  "author": "Henry Letellier",
+  "license": null,
+  "home_page": "https://github.com/Hanra-s-work/tty_ov",
+  "download_filename": "tty_ov-1.0.121.tar.gz",
+  "download_time": "2026-02-11T18:13:15.741528",
+  "package_url": "https://pypi.org/project/tty-ov/"
+}

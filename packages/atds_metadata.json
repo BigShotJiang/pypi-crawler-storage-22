@@ -1,0 +1,11 @@
+{
+  "name": "atds",
+  "version": "0.0.3",
+  "summary": "Python library to play with MS SQL Server",
+  "author": "Tamas Jos",
+  "license": null,
+  "home_page": "https://github.com/skelsec/atds",
+  "download_filename": "atds-0.0.3.tar.gz",
+  "download_time": "2026-02-11T18:13:03.022141",
+  "package_url": "https://pypi.org/project/atds/"
+}

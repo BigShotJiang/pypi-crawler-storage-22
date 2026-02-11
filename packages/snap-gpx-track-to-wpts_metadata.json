@@ -1,0 +1,11 @@
+{
+  "name": "snap-gpx-track-to-wpts",
+  "version": "0.1.0",
+  "summary": "Snap GPX tracks to waypoints for more precise distance calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snap_gpx_track_to_wpts-0.1.0.tar.gz",
+  "download_time": "2026-02-11T18:13:43.606519",
+  "package_url": "https://pypi.org/project/snap-gpx-track-to-wpts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "playwright-trace-analyzer",
+  "version": "0.2.0",
+  "summary": "CLI tool for analyzing Playwright trace files without the browser-based viewer",
+  "author": "Michael Bianco",
+  "license": null,
+  "home_page": null,
+  "download_filename": "playwright_trace_analyzer-0.2.0.tar.gz",
+  "download_time": "2026-02-11T18:13:41.522426",
+  "package_url": "https://pypi.org/project/playwright-trace-analyzer/"
+}
