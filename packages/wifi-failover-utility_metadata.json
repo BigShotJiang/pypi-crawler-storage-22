@@ -1,0 +1,11 @@
+{
+  "name": "wifi-failover-utility",
+  "version": "0.3.0",
+  "summary": "Automatic WiFi failover to Android hotspot with native app and lock/sleep detection",
+  "author": "Dhruv Anand",
+  "license": null,
+  "home_page": "https://github.com/dhruv-anand-aintech/wifi-failover-utility",
+  "download_filename": "wifi_failover_utility-0.3.0.tar.gz",
+  "download_time": "2026-02-11T12:06:46.151837",
+  "package_url": "https://pypi.org/project/wifi-failover-utility/"
+}

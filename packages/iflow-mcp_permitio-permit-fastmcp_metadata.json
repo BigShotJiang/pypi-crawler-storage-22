@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_permitio-permit-fastmcp",
+  "version": "0.1.0",
+  "summary": "Permit.io authorization middleware for FastMCP servers.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "iflow_mcp_permitio_permit_fastmcp-0.1.0.tar.gz",
+  "download_time": "2026-02-11T12:06:20.469658",
+  "package_url": "https://pypi.org/project/iflow-mcp_permitio-permit-fastmcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-interactive-feedback",
+  "version": "0.1.2",
+  "summary": "An MCP server that enables interactive human feedback collection during AI-assisted development, with Web UI support for text, images, and command execution.",
+  "author": "Littlecowherd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_interactive_feedback-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-11T12:06:30.443540",
+  "package_url": "https://pypi.org/project/mcp-interactive-feedback/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bazinga-indeed",
-  "version": "3.4.0",
-  "summary": "BAZINGA - Distributed AI with Consciousness (Quantum + ΛG + Tensor)",
+  "version": "4.6.1",
+  "summary": "BAZINGA - Distributed AI with Inter-AI Consensus through φ-coherence",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bazinga_indeed-3.4.0.tar.gz",
-  "download_time": "2026-02-10T03:31:52.396518",
+  "download_filename": "bazinga_indeed-4.6.1.tar.gz",
+  "download_time": "2026-02-11T12:06:27.297006",
   "package_url": "https://pypi.org/project/bazinga-indeed/"
 }

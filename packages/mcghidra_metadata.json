@@ -1,0 +1,11 @@
+{
+  "name": "mcghidra",
+  "version": "2026.2.11",
+  "summary": "AI-assisted reverse engineering bridge: a multi-instance Ghidra plugin exposed via a HATEOAS REST API plus an MCP Python bridge for decompilation, analysis & binary manipulation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcghidra-2026.2.11.tar.gz",
+  "download_time": "2026-02-11T12:06:38.316165",
+  "package_url": "https://pypi.org/project/mcghidra/"
+}

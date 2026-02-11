@@ -1,0 +1,11 @@
+{
+  "name": "gudb",
+  "version": "0.2.1",
+  "summary": "AI-native database seatbelt that blocks destructive SQL, tracks latency, and ships Gemini-powered remediation guidance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gudb-0.2.1.tar.gz",
+  "download_time": "2026-02-11T12:06:26.777329",
+  "package_url": "https://pypi.org/project/gudb/"
+}

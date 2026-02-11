@@ -1,0 +1,11 @@
+{
+  "name": "cs-workflows-helper-libs",
+  "version": "1.2.1",
+  "summary": "Shared libraries used in cs-workflows",
+  "author": "CanonicalLtd",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cs_workflows_helper_libs-1.2.1-py3-none-any.whl",
+  "download_time": "2026-02-11T12:06:57.621883",
+  "package_url": "https://pypi.org/project/cs-workflows-helper-libs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apcloudy-pipeline",
+  "version": "0.1.4",
+  "summary": "Scrapy pipeline & extensions for AP Cloudy (logs, stats, requests, items)",
+  "author": "Fawad",
+  "license": "MIT",
+  "home_page": "https://github.com/fawadss1/apcloudy-pipeline",
+  "download_filename": "apcloudy_pipeline-0.1.4.tar.gz",
+  "download_time": "2026-02-11T12:06:53.469338",
+  "package_url": "https://pypi.org/project/apcloudy-pipeline/"
+}

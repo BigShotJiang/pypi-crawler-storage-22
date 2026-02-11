@@ -1,0 +1,11 @@
+{
+  "name": "game-api-client",
+  "version": "0.0.3",
+  "summary": "Python client library for GAME trading API",
+  "author": "Groupe E",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "game_api_client-0.0.3.tar.gz",
+  "download_time": "2026-02-11T12:06:23.651645",
+  "package_url": "https://pypi.org/project/game-api-client/"
+}

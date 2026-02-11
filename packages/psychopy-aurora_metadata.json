@@ -1,0 +1,11 @@
+{
+  "name": "psychopy-aurora",
+  "version": "0.1.0",
+  "summary": "PsychoPy plugin providing Builder components for NIRx Aurora API integration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psychopy_aurora-0.1.0.tar.gz",
+  "download_time": "2026-02-11T12:06:55.027700",
+  "package_url": "https://pypi.org/project/psychopy-aurora/"
+}

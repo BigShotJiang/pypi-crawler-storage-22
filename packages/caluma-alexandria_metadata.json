@@ -1,11 +1,11 @@
 {
   "name": "caluma-alexandria",
-  "version": "8.5.0",
+  "version": "8.6.1",
   "summary": "Document management service",
   "author": "Caluma",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "caluma_alexandria-8.5.0.tar.gz",
-  "download_time": "2026-01-30T14:22:51.985049",
+  "download_filename": "caluma_alexandria-8.6.1.tar.gz",
+  "download_time": "2026-02-11T12:06:52.949907",
   "package_url": "https://pypi.org/project/caluma-alexandria/"
 }

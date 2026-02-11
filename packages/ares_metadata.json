@@ -1,0 +1,11 @@
+{
+  "name": "ares",
+  "version": "1.0.2",
+  "summary": "Python wrapper around the Vulnerability-Lookup API (vulnerability.circl.lu)",
+  "author": "Martin Simon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ares-1.0.2.tar.gz",
+  "download_time": "2026-02-11T12:06:46.671214",
+  "package_url": "https://pypi.org/project/ares/"
+}

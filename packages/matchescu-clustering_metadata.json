@@ -1,11 +1,11 @@
 {
   "name": "matchescu-clustering",
-  "version": "0.11.1",
+  "version": "0.13.1",
   "summary": "Clustering routines and data structures for entity resolution",
   "author": "Andrei Olar",
   "license": null,
   "home_page": null,
-  "download_filename": "matchescu_clustering-0.11.1.tar.gz",
-  "download_time": "2026-02-07T14:47:16.274376",
+  "download_filename": "matchescu_clustering-0.13.1.tar.gz",
+  "download_time": "2026-02-11T12:06:41.436553",
   "package_url": "https://pypi.org/project/matchescu-clustering/"
 }

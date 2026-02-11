@@ -1,0 +1,11 @@
+{
+  "name": "MiniSom",
+  "version": "2.3.6",
+  "summary": "Minimalistic implementation of the Self Organizing Maps (SOM)",
+  "author": "Giuseppe Vettigli",
+  "license": "MIT",
+  "home_page": "https://github.com/JustGlowing/minisom",
+  "download_filename": "minisom-2.3.6.tar.gz",
+  "download_time": "2026-02-11T12:06:16.742834",
+  "package_url": "https://pypi.org/project/MiniSom/"
+}
