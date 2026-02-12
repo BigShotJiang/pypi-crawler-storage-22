@@ -1,0 +1,11 @@
+{
+  "name": "uthana",
+  "version": "0.1.3",
+  "summary": "Python wrapper around Uthana's HTTP API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "uthana-0.1.3.tar.gz",
+  "download_time": "2026-02-12T23:33:03.366452",
+  "package_url": "https://pypi.org/project/uthana/"
+}

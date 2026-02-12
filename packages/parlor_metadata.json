@@ -1,0 +1,11 @@
+{
+  "name": "parlor",
+  "version": "0.2.2",
+  "summary": "Parlor - a private parlor for AI conversation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parlor-0.2.2.tar.gz",
+  "download_time": "2026-02-12T23:32:32.125292",
+  "package_url": "https://pypi.org/project/parlor/"
+}

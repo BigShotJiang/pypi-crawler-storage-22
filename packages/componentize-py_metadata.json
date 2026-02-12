@@ -1,11 +1,11 @@
 {
   "name": "componentize-py",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "summary": "Tool to package Python applications as WebAssembly components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "componentize_py-0.20.0.tar.gz",
-  "download_time": "2026-02-09T18:39:23.464709",
+  "download_filename": "componentize_py-0.21.0.tar.gz",
+  "download_time": "2026-02-12T23:33:03.891094",
   "package_url": "https://pypi.org/project/componentize-py/"
 }

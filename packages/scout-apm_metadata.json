@@ -1,0 +1,11 @@
+{
+  "name": "scout-apm",
+  "version": "3.5.3",
+  "summary": "Scout Application Performance Monitoring Agent",
+  "author": "Scout",
+  "license": "MIT",
+  "home_page": "https://github.com/scoutapp/scout_apm_python",
+  "download_filename": "scout_apm-3.5.3.tar.gz",
+  "download_time": "2026-02-12T23:33:16.560338",
+  "package_url": "https://pypi.org/project/scout-apm/"
+}

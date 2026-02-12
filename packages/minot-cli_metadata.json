@@ -1,0 +1,11 @@
+{
+  "name": "minot-cli",
+  "version": "0.5.0",
+  "summary": "Minot with embedded Coordinator and Ratpub. A versatile toolset for debugging and verifying stateful robot perception software.",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://uos.github.io/minot",
+  "download_filename": "minot_cli-0.5.0.tar.gz",
+  "download_time": "2026-02-12T23:33:01.806012",
+  "package_url": "https://pypi.org/project/minot-cli/"
+}

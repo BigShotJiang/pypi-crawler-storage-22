@@ -1,0 +1,11 @@
+{
+  "name": "client-for-vantage",
+  "version": "1.1.1",
+  "summary": "An SDK for interacting with the Vantage API, attempts to maintain parity with the API, provides type safety via codegen Pydantic classes and manages pagination",
+  "author": "Orest Tokovenko",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "client_for_vantage-1.1.1.tar.gz",
+  "download_time": "2026-02-12T23:32:40.251719",
+  "package_url": "https://pypi.org/project/client-for-vantage/"
+}

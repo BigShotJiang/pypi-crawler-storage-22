@@ -1,11 +1,11 @@
 {
   "name": "hadalized",
-  "version": "0.4.0",
+  "version": "0.5.1",
   "summary": "Hadalized color theme builder.",
   "author": "Shawn O'Hare",
   "license": null,
   "home_page": null,
-  "download_filename": "hadalized-0.4.0-py3-none-any.whl",
-  "download_time": "2026-02-04T21:49:57.300329",
+  "download_filename": "hadalized-0.5.1-py3-none-any.whl",
+  "download_time": "2026-02-12T23:33:07.573326",
   "package_url": "https://pypi.org/project/hadalized/"
 }
