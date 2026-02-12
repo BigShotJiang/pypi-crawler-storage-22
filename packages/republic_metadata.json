@@ -1,11 +1,11 @@
 {
   "name": "republic",
-  "version": "0.2.0",
-  "summary": "Explicit LLM client and router with append-only history and controllable context.",
+  "version": "0.4.0",
+  "summary": "Build LLM workflows like normal Python while keeping a full audit trail by default.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "republic-0.2.0.tar.gz",
-  "download_time": "2026-02-04T18:43:17.456201",
+  "download_filename": "republic-0.4.0.tar.gz",
+  "download_time": "2026-02-12T09:35:50.473530",
   "package_url": "https://pypi.org/project/republic/"
 }

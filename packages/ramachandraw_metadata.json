@@ -1,0 +1,11 @@
+{
+  "name": "ramachandraw",
+  "version": "1.1.0",
+  "summary": "Ramachandran plotting tool",
+  "author": "Alexandre Cirilo",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ramachandraw-1.1.0.tar.gz",
+  "download_time": "2026-02-12T09:36:14.653364",
+  "package_url": "https://pypi.org/project/ramachandraw/"
+}

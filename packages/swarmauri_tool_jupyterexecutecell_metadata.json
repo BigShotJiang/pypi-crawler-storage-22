@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tool_jupyterexecutecell",
+  "version": "0.9.0",
+  "summary": "A tool designed to execute a single code cell in a running Jupyter kernel using jupyter_client, capturing its output and errors.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tool_jupyterexecutecell-0.9.0.tar.gz",
+  "download_time": "2026-02-12T09:36:16.211833",
+  "package_url": "https://pypi.org/project/swarmauri_tool_jupyterexecutecell/"
+}

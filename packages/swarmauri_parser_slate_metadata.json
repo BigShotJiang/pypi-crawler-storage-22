@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_parser_slate",
+  "version": "0.2.0",
+  "summary": "A parser for extracting text from PDFs using Slate.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_parser_slate-0.2.0.tar.gz",
+  "download_time": "2026-02-12T09:36:09.459197",
+  "package_url": "https://pypi.org/project/swarmauri_parser_slate/"
+}

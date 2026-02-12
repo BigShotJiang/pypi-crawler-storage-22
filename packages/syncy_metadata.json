@@ -1,0 +1,11 @@
+{
+  "name": "syncy",
+  "version": "0.1.9",
+  "summary": "Database migration validation tool (SQL Server ↔ PostgreSQL)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syncy-0.1.9.tar.gz",
+  "download_time": "2026-02-12T09:35:29.571102",
+  "package_url": "https://pypi.org/project/syncy/"
+}

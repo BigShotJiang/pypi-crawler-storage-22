@@ -1,11 +1,11 @@
 {
   "name": "microsoft-agents-a365-observability-hosting",
-  "version": "0.2.1.dev19",
+  "version": "0.2.1.dev23",
   "summary": "Hosting components for Agent 365 observability",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "microsoft_agents_a365_observability_hosting-0.2.1.dev19.tar.gz",
-  "download_time": "2026-02-06T23:51:05.997259",
+  "download_filename": "microsoft_agents_a365_observability_hosting-0.2.1.dev23.tar.gz",
+  "download_time": "2026-02-12T09:35:37.647215",
   "package_url": "https://pypi.org/project/microsoft-agents-a365-observability-hosting/"
 }

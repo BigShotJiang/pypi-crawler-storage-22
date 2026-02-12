@@ -1,0 +1,11 @@
+{
+  "name": "tipeft",
+  "version": "0.0.4",
+  "summary": "Tabular-Infused Parameter Efficient Finetuning (tipeft)",
+  "author": "Charles Alba",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tipeft-0.0.4.tar.gz",
+  "download_time": "2026-02-12T09:35:31.677815",
+  "package_url": "https://pypi.org/project/tipeft/"
+}

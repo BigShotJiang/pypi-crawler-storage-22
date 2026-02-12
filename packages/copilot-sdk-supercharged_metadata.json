@@ -1,0 +1,11 @@
+{
+  "name": "copilot-sdk-supercharged",
+  "version": "1.0.15",
+  "summary": "GitHub Copilot SDK Supercharged - Python SDK for programmatic control of GitHub Copilot CLI. Supports 21 languages.",
+  "author": "jeremiahjordanisaacson",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "copilot_sdk_supercharged-1.0.15.tar.gz",
+  "download_time": "2026-02-12T09:35:30.620483",
+  "package_url": "https://pypi.org/project/copilot-sdk-supercharged/"
+}

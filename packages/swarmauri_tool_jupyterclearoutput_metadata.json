@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_tool_jupyterclearoutput",
+  "version": "0.9.0",
+  "summary": "A tool designed to clear all outputs from a Jupyter Notebook using nbconvert’s ClearOutputPreprocessor, preparing the notebook for sharing or version control.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_tool_jupyterclearoutput-0.9.0.tar.gz",
+  "download_time": "2026-02-12T09:36:13.614275",
+  "package_url": "https://pypi.org/project/swarmauri_tool_jupyterclearoutput/"
+}

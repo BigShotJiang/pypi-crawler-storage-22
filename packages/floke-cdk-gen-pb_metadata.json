@@ -1,0 +1,11 @@
+{
+  "name": "floke-cdk-gen-pb",
+  "version": "1.0.0",
+  "summary": "Floke CDK Protobuf Bindings",
+  "author": "Hoshii AI",
+  "license": null,
+  "home_page": "https://github.com/hoshii-ai/floke",
+  "download_filename": "floke_cdk_gen_pb-1.0.0.tar.gz",
+  "download_time": "2026-02-12T09:35:43.994940",
+  "package_url": "https://pypi.org/project/floke-cdk-gen-pb/"
+}
