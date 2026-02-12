@@ -1,0 +1,11 @@
+{
+  "name": "log-similarity",
+  "version": "1.0.0",
+  "summary": "Similarity-driven log clustering for error log analysis",
+  "author": "Log Similarity Team",
+  "license": "MIT",
+  "home_page": "https://github.com/suiwenfeng/log-similarity-sdk",
+  "download_filename": "log_similarity-1.0.0.tar.gz",
+  "download_time": "2026-02-12T11:17:11.726023",
+  "package_url": "https://pypi.org/project/log-similarity/"
+}

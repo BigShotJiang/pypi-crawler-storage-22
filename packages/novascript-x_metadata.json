@@ -1,0 +1,11 @@
+{
+  "name": "novascript-x",
+  "version": "1.0.0",
+  "summary": "NovaScript-X - A lightweight, modern programming language runtime",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/YourRepo/NovaScript-X",
+  "download_filename": "novascript_x-1.0.0-py3-none-any.whl",
+  "download_time": "2026-02-12T11:17:14.848325",
+  "package_url": "https://pypi.org/project/novascript-x/"
+}

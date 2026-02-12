@@ -1,11 +1,11 @@
 {
   "name": "udata",
-  "version": "14.13.0",
+  "version": "15.0.0",
   "summary": "Open data portal",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "udata-14.13.0-py3-none-any.whl",
-  "download_time": "2026-02-12T09:35:59.401650",
+  "download_filename": "udata-15.0.0-py3-none-any.whl",
+  "download_time": "2026-02-12T11:16:33.612341",
   "package_url": "https://pypi.org/project/udata/"
 }

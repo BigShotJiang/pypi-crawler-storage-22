@@ -1,0 +1,11 @@
+{
+  "name": "fustor-sender-echo",
+  "version": "0.8.17",
+  "summary": "Echo sender driver for Fustor",
+  "author": "Fustor Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fustor_sender_echo-0.8.17.tar.gz",
+  "download_time": "2026-02-12T11:17:00.418322",
+  "package_url": "https://pypi.org/project/fustor-sender-echo/"
+}

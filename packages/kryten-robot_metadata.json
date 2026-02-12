@@ -1,0 +1,11 @@
+{
+  "name": "kryten-robot",
+  "version": "1.1.3",
+  "summary": "CyTube to NATS bridge connector - publishes CyTube events to NATS message bus",
+  "author": "Kryten Robot Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kryten_robot-1.1.3.tar.gz",
+  "download_time": "2026-02-12T11:16:53.658497",
+  "package_url": "https://pypi.org/project/kryten-robot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fustor-core",
-  "version": "0.8.3.2",
+  "version": "0.8.17",
   "summary": "Core foundation for Fustor - event models, pipe/transport abstractions, and common utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fustor_core-0.8.3.2.tar.gz",
-  "download_time": "2026-02-10T18:46:07.625019",
+  "download_filename": "fustor_core-0.8.17.tar.gz",
+  "download_time": "2026-02-12T11:17:01.461957",
   "package_url": "https://pypi.org/project/fustor-core/"
 }

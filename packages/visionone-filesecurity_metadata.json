@@ -1,0 +1,11 @@
+{
+  "name": "visionone-filesecurity",
+  "version": "1.4.4",
+  "summary": "Trend Micro VisionOne File Security SDK for python",
+  "author": "Trend Micro VisionOne File Security Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "visionone_filesecurity-1.4.4.tar.gz",
+  "download_time": "2026-02-12T11:16:57.808129",
+  "package_url": "https://pypi.org/project/visionone-filesecurity/"
+}

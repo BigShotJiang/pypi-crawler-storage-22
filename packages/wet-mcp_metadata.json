@@ -1,11 +1,11 @@
 {
   "name": "wet-mcp",
-  "version": "3.0.0",
-  "summary": "Open-source MCP Server thay thế Tavily - Web search, extract, crawl với SearXNG",
+  "version": "2.4.1",
+  "summary": "Open-source MCP Server for web search, extract, and crawl with embedded SearXNG",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wet_mcp-3.0.0.tar.gz",
-  "download_time": "2026-02-06T05:24:10.938013",
+  "download_filename": "wet_mcp-2.4.1.tar.gz",
+  "download_time": "2026-02-12T11:17:14.330035",
   "package_url": "https://pypi.org/project/wet-mcp/"
 }

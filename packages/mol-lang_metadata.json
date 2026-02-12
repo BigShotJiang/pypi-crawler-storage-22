@@ -1,0 +1,11 @@
+{
+  "name": "mol-lang",
+  "version": "0.8.0",
+  "summary": "MOL — The Cognitive Programming Language with auto-tracing pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mol_lang-0.8.0.tar.gz",
+  "download_time": "2026-02-12T11:17:02.511776",
+  "package_url": "https://pypi.org/project/mol-lang/"
+}

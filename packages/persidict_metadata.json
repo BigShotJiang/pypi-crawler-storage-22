@@ -1,11 +1,11 @@
 {
   "name": "persidict",
-  "version": "0.210.1",
+  "version": "0.300.1",
   "summary": "Simple persistent key-value store for Python. Values are stored as files on a disk or as S3 objects on AWS cloud.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "persidict-0.210.1.tar.gz",
-  "download_time": "2026-02-11T01:05:54.570646",
+  "download_filename": "persidict-0.300.1.tar.gz",
+  "download_time": "2026-02-12T11:17:07.569252",
   "package_url": "https://pypi.org/project/persidict/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_homeassistant-ai-ha-mcp",
+  "version": "6.6.1",
+  "summary": "Home Assistant MCP Server - Complete control of Home Assistant through MCP",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_homeassistant_ai_ha_mcp-6.6.1.tar.gz",
+  "download_time": "2026-02-12T11:16:44.771497",
+  "package_url": "https://pypi.org/project/iflow-mcp_homeassistant-ai-ha-mcp/"
+}
