@@ -1,11 +1,11 @@
 {
   "name": "biblicus",
-  "version": "1.1.1",
+  "version": "1.5.0",
   "summary": "Command line interface and Python library for corpus ingestion, retrieval, and evaluation.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "biblicus-1.1.1.tar.gz",
-  "download_time": "2026-02-03T07:33:27.594016",
+  "download_filename": "biblicus-1.5.0.tar.gz",
+  "download_time": "2026-02-12T07:00:18.062642",
   "package_url": "https://pypi.org/project/biblicus/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "wifi-priority-tui",
+  "version": "0.3.1",
+  "summary": "Interactive TUI for reordering macOS WiFi network priorities",
+  "author": "Dhruv Anand",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wifi_priority_tui-0.3.1.tar.gz",
+  "download_time": "2026-02-12T06:59:42.972403",
+  "package_url": "https://pypi.org/project/wifi-priority-tui/"
+}

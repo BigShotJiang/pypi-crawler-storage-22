@@ -1,0 +1,11 @@
+{
+  "name": "clustertools-2",
+  "version": "1.0.0",
+  "summary": "Tools for cluster analysis (include Diana Clustering Algoritm and Searching for optimal count of clusters for a Data Set)",
+  "author": "Aleksey A. Bessonov",
+  "license": null,
+  "home_page": "https://github.com/bessonovaleksey/clusterTools.git",
+  "download_filename": "clustertools_2-1.0.0.tar.gz",
+  "download_time": "2026-02-12T06:59:34.416578",
+  "package_url": "https://pypi.org/project/clustertools-2/"
+}

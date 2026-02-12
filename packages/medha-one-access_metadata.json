@@ -1,0 +1,11 @@
+{
+  "name": "medha-one-access",
+  "version": "0.3.6",
+  "summary": "Enterprise access control system with BODMAS resolution and Redis caching",
+  "author": "MedhaOne Analytics",
+  "license": "MIT",
+  "home_page": "https://github.com/medhaone-analytics/medha-one-access",
+  "download_filename": "medha_one_access-0.3.6.tar.gz",
+  "download_time": "2026-02-12T06:59:41.277302",
+  "package_url": "https://pypi.org/project/medha-one-access/"
+}

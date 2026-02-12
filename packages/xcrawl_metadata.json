@@ -1,0 +1,11 @@
+{
+  "name": "xcrawl",
+  "version": "1.0.1",
+  "summary": "Official Python SDK for XCrawl - A powerful web scraping API service",
+  "author": "XCrawl Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xcrawl-1.0.1.tar.gz",
+  "download_time": "2026-02-12T06:59:45.633105",
+  "package_url": "https://pypi.org/project/xcrawl/"
+}

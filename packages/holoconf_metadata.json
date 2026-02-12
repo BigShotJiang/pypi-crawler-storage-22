@@ -1,0 +1,11 @@
+{
+  "name": "holoconf",
+  "version": "0.5.1",
+  "summary": "Cross-language configuration library with resolver support",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "holoconf-0.5.1.tar.gz",
+  "download_time": "2026-02-12T06:59:51.335321",
+  "package_url": "https://pypi.org/project/holoconf/"
+}
