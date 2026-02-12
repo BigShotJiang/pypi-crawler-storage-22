@@ -1,0 +1,11 @@
+{
+  "name": "queenbee",
+  "version": "1.28.4",
+  "summary": "Queenbee is a workflow language and a package manager for creating DAG workflows which empowers all workflow libraries in Ladybug Tools!",
+  "author": "Ladybug Tools",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "queenbee-1.28.4.tar.gz",
+  "download_time": "2026-02-12T20:37:24.704208",
+  "package_url": "https://pypi.org/project/queenbee/"
+}

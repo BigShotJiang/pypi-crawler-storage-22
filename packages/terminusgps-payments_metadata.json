@@ -1,11 +1,11 @@
 {
   "name": "terminusgps-payments",
-  "version": "5.0.0",
+  "version": "7.0.0",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terminusgps_payments-5.0.0.tar.gz",
-  "download_time": "2026-02-06T19:01:14.329256",
+  "download_filename": "terminusgps_payments-7.0.0.tar.gz",
+  "download_time": "2026-02-12T20:37:26.268301",
   "package_url": "https://pypi.org/project/terminusgps-payments/"
 }

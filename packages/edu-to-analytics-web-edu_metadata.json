@@ -1,0 +1,11 @@
+{
+  "name": "edu-to-analytics-web-edu",
+  "version": "1.2.0",
+  "summary": "Реализация провайдера данных для ЭШ, отправляемых через веб-сервис в",
+  "author": "БАРС Груп",
+  "license": null,
+  "home_page": "https://stash.bars-open.ru/projects/EDUBASE/repos/edu_to_analytics",
+  "download_filename": "edu_to_analytics_web_edu-1.2.0.tar.gz",
+  "download_time": "2026-02-12T20:37:31.494635",
+  "package_url": "https://pypi.org/project/edu-to-analytics-web-edu/"
+}

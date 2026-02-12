@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "1.2.6",
-  "summary": "Real multi-cloud GPU arbitrage — provision across 10 clouds in parallel with BYOAuth",
+  "version": "2.5.0",
+  "summary": "BYOAPI Parallel provisioning and orchestration for cross-cloud cost optimization with real-time analytics",
   "author": "Terradev Team",
   "license": "MIT",
-  "home_page": "https://github.com/terradev/terradev-cli",
-  "download_filename": "terradev_cli-1.2.6.tar.gz",
-  "download_time": "2026-02-10T18:46:17.590040",
+  "home_page": "https://terradev.cloud",
+  "download_filename": "terradev_cli-2.5.0.tar.gz",
+  "download_time": "2026-02-12T20:37:06.230644",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

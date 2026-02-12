@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_elyin-codex-bridge",
+  "version": "1.2.3",
+  "summary": "Lightweight MCP server bridging Claude Code to OpenAI Codex via official CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_elyin_codex_bridge-1.2.3.tar.gz",
+  "download_time": "2026-02-12T20:37:45.211255",
+  "package_url": "https://pypi.org/project/iflow-mcp_elyin-codex-bridge/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "muffin-peewee-aio",
+  "version": "2.0.0",
+  "summary": "Peewee-AIO integration for Muffin framework",
+  "author": "Kirill Klenov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "muffin_peewee_aio-2.0.0.tar.gz",
+  "download_time": "2026-02-12T20:37:38.360035",
+  "package_url": "https://pypi.org/project/muffin-peewee-aio/"
+}
