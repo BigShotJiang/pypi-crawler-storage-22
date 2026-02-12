@@ -1,0 +1,11 @@
+{
+  "name": "hx-requests-lsp",
+  "version": "1.1.1",
+  "summary": "Language Server Protocol implementation for hx-requests Django library",
+  "author": "Jordan Penn",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hx_requests_lsp-1.1.1.tar.gz",
+  "download_time": "2026-02-12T15:16:48.357413",
+  "package_url": "https://pypi.org/project/hx-requests-lsp/"
+}

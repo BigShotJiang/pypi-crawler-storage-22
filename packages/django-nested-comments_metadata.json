@@ -1,0 +1,11 @@
+{
+  "name": "django-nested-comments",
+  "version": "2.0.7",
+  "summary": "A Django application for handling comment uploads and associating them to arbitrary models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_nested_comments-2.0.7.tar.gz",
+  "download_time": "2026-02-12T15:16:47.308639",
+  "package_url": "https://pypi.org/project/django-nested-comments/"
+}

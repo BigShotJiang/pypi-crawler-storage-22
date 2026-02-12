@@ -1,11 +1,11 @@
 {
   "name": "wmill-pg",
-  "version": "1.629.0",
+  "version": "1.633.1",
   "summary": "An extension client for the wmill client library focused on pg",
   "author": "Ruben Fiszel",
   "license": "Apache-2.0",
   "home_page": "https://windmill.dev",
-  "download_filename": "wmill_pg-1.629.0.tar.gz",
-  "download_time": "2026-02-09T23:45:40.516231",
+  "download_filename": "wmill_pg-1.633.1.tar.gz",
+  "download_time": "2026-02-12T15:16:48.896720",
   "package_url": "https://pypi.org/project/wmill-pg/"
 }

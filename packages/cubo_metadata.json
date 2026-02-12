@@ -1,0 +1,11 @@
+{
+  "name": "cubo",
+  "version": "2026.2.0",
+  "summary": "On-Demand Earth System Data Cubes in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cubo-2026.2.0.tar.gz",
+  "download_time": "2026-02-12T15:17:19.193373",
+  "package_url": "https://pypi.org/project/cubo/"
+}

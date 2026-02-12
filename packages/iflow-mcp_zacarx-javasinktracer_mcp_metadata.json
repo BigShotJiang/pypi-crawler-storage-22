@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_zacarx-javasinktracer_mcp",
+  "version": "0.1.2",
+  "summary": "Java源代码漏洞审计工具 - 基于函数级污点分析",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_zacarx_javasinktracer_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-12T15:16:46.785159",
+  "package_url": "https://pypi.org/project/iflow-mcp_zacarx-javasinktracer_mcp/"
+}

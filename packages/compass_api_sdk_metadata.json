@@ -1,11 +1,11 @@
 {
   "name": "compass_api_sdk",
-  "version": "2.2.10",
+  "version": "2.2.13",
   "summary": "Compass API SDK.",
   "author": "royalnine",
   "license": null,
   "home_page": null,
-  "download_filename": "compass_api_sdk-2.2.10.tar.gz",
-  "download_time": "2026-02-06T11:51:16.063096",
+  "download_filename": "compass_api_sdk-2.2.13.tar.gz",
+  "download_time": "2026-02-12T15:16:57.603387",
   "package_url": "https://pypi.org/project/compass_api_sdk/"
 }

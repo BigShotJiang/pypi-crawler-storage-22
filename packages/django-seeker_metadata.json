@@ -1,0 +1,11 @@
+{
+  "name": "django-seeker",
+  "version": "8.0.1",
+  "summary": "A python package for mapping and querying Django models in OpenSearch.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_seeker-8.0.1.tar.gz",
+  "download_time": "2026-02-12T15:17:02.314762",
+  "package_url": "https://pypi.org/project/django-seeker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "simvue-fds",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "summary": "Connector to allow you to easily add Simvue tracking and monitoring to FDS (Fire Dynamics Simulator) simulations.",
   "author": "Matt Field",
   "license": null,
   "home_page": null,
-  "download_filename": "simvue_fds-2.0.5.tar.gz",
-  "download_time": "2026-02-06T12:49:08.362768",
+  "download_filename": "simvue_fds-2.0.6.tar.gz",
+  "download_time": "2026-02-12T15:16:42.612906",
   "package_url": "https://pypi.org/project/simvue-fds/"
 }
