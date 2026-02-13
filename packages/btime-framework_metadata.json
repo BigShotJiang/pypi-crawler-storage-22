@@ -1,0 +1,11 @@
+{
+  "name": "btime-framework",
+  "version": "0.1.7",
+  "summary": "Btime Framework",
+  "author": "Guilherme Neri",
+  "license": null,
+  "home_page": "https://github.com/Btime/Btime_Framework",
+  "download_filename": "btime_framework-0.1.7.tar.gz",
+  "download_time": "2026-02-13T21:00:30.365957",
+  "package_url": "https://pypi.org/project/btime-framework/"
+}

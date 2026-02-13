@@ -1,0 +1,11 @@
+{
+  "name": "corclient",
+  "version": "1.1.1",
+  "summary": "Internal CLI tool for microservices management, infrastructure administration and monitoring with AWS Cognito authentication",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corclient-1.1.1.tar.gz",
+  "download_time": "2026-02-13T20:59:53.865153",
+  "package_url": "https://pypi.org/project/corclient/"
+}

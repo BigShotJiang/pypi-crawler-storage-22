@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_wdm0006-writing-tools-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for advanced text analysis, optimized for Claude Desktop.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_wdm0006_writing_tools_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-13T20:59:55.070842",
+  "package_url": "https://pypi.org/project/iflow-mcp_wdm0006-writing-tools-mcp/"
+}

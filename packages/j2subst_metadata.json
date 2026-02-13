@@ -1,0 +1,11 @@
+{
+  "name": "j2subst",
+  "version": "0.0.6",
+  "summary": "Jinja2 template substitution tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "j2subst-0.0.6.tar.gz",
+  "download_time": "2026-02-13T21:00:03.578282",
+  "package_url": "https://pypi.org/project/j2subst/"
+}

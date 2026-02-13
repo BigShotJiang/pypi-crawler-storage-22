@@ -1,0 +1,11 @@
+{
+  "name": "md2bbcode",
+  "version": "1.1.0",
+  "summary": "Convert Markdown to BBCode using a custom Mistune renderer.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "md2bbcode-1.1.0.tar.gz",
+  "download_time": "2026-02-13T21:00:30.888254",
+  "package_url": "https://pypi.org/project/md2bbcode/"
+}

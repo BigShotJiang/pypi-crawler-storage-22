@@ -1,0 +1,11 @@
+{
+  "name": "rtseason",
+  "version": "1.1.4",
+  "summary": "Analyzing river seasonal thermal regimes in Python",
+  "author": "Daniel Philippus",
+  "license": null,
+  "home_page": "https://github.com/quantum-dan/seasonality",
+  "download_filename": "rtseason-1.1.4.tar.gz",
+  "download_time": "2026-02-13T21:00:14.079150",
+  "package_url": "https://pypi.org/project/rtseason/"
+}

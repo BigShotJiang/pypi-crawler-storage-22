@@ -1,0 +1,11 @@
+{
+  "name": "signalrcore",
+  "version": "1.0.0",
+  "summary": "Python SignalR Core full client (transports and encodings).Compatible with azure / serverless functions.Also with automatic reconnect and manually reconnect.",
+  "author": "mandrewcito",
+  "license": null,
+  "home_page": "https://github.com/mandrewcito/signalrcore",
+  "download_filename": "signalrcore-1.0.0.tar.gz",
+  "download_time": "2026-02-13T21:00:21.472408",
+  "package_url": "https://pypi.org/project/signalrcore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pypentair",
+  "version": "0.4.1",
+  "summary": "Python package for interacting with Pentair Home devices over the cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypentair-0.4.1.tar.gz",
+  "download_time": "2026-02-13T21:00:31.414245",
+  "package_url": "https://pypi.org/project/pypentair/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "TempEst2",
+  "version": "0.1.1",
+  "summary": "TempEst 2 estimates stream water temperature at a point, for streams of any size, using a data-driven model based on satellite remote sensing data. This is the Python implementation.",
+  "author": "Daniel Philippus",
+  "license": null,
+  "home_page": "https://www.rivertempest.org/pyte2/readme.html",
+  "download_filename": "tempest2-0.1.1.tar.gz",
+  "download_time": "2026-02-13T21:00:16.703481",
+  "package_url": "https://pypi.org/project/TempEst2/"
+}
