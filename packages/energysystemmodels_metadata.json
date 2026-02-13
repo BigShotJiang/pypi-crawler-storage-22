@@ -1,0 +1,11 @@
+{
+  "name": "energysystemmodels",
+  "version": "20260213001",
+  "summary": "Energy systems models are the mathematical models that are developed in order to represent as reliably as possible various energy-related problems.",
+  "author": "Zoheir HADID",
+  "license": null,
+  "home_page": null,
+  "download_filename": "energysystemmodels-20260213001-py3-none-any.whl",
+  "download_time": "2026-02-13T12:48:29.311040",
+  "package_url": "https://pypi.org/project/energysystemmodels/"
+}

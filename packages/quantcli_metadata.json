@@ -1,11 +1,11 @@
 {
   "name": "quantcli",
-  "version": "0.1.2",
+  "version": "0.1.15",
   "summary": "面向AI的多因子量化选股策略挖掘工具，AI Agent 友好 CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quantcli-0.1.2.tar.gz",
-  "download_time": "2026-02-01T14:01:41.639084",
+  "download_filename": "quantcli-0.1.15.tar.gz",
+  "download_time": "2026-02-13T12:48:51.974859",
   "package_url": "https://pypi.org/project/quantcli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "PyMINDLab",
+  "version": "1.0.3",
+  "summary": "Python implementation of Multiscale Nemirovski Dantzig Estimators",
+  "author": "{'Housen Li', 'Leo Claus Weber'}",
+  "license": null,
+  "home_page": "https://github.com/housenli/PyMIND",
+  "download_filename": "pymindlab-1.0.3.tar.gz",
+  "download_time": "2026-02-13T12:48:34.986166",
+  "package_url": "https://pypi.org/project/PyMINDLab/"
+}

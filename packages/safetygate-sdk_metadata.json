@@ -1,0 +1,11 @@
+{
+  "name": "safetygate-sdk",
+  "version": "0.0.1",
+  "summary": "SafetyGate SDK — Real-time correlated error detection for quantum error correction. Part of the QubitBoost platform.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "safetygate_sdk-0.0.1-py3-none-any.whl",
+  "download_time": "2026-02-13T12:48:49.412635",
+  "package_url": "https://pypi.org/project/safetygate-sdk/"
+}

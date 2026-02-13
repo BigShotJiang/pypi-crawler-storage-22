@@ -1,0 +1,11 @@
+{
+  "name": "dicom-info",
+  "version": "0.3.0",
+  "summary": "Prints information about DICOM files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dicom_info-0.3.0.tar.gz",
+  "download_time": "2026-02-13T12:48:33.963984",
+  "package_url": "https://pypi.org/project/dicom-info/"
+}

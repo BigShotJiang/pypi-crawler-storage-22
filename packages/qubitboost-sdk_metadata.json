@@ -1,0 +1,11 @@
+{
+  "name": "qubitboost-sdk",
+  "version": "0.0.1",
+  "summary": "QubitBoost SDK — Enterprise quantum error infrastructure. SafetyGate, ShotValidator, ExecutionMonitor, and more.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "qubitboost_sdk-0.0.1-py3-none-any.whl",
+  "download_time": "2026-02-13T12:48:48.901234",
+  "package_url": "https://pypi.org/project/qubitboost-sdk/"
+}

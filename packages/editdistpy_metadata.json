@@ -1,0 +1,11 @@
+{
+  "name": "editdistpy",
+  "version": "0.2.0",
+  "summary": "Fast Levenshtein and Damerau optimal string alignment algorithms.",
+  "author": "mmb L",
+  "license": null,
+  "home_page": null,
+  "download_filename": "editdistpy-0.2.0.tar.gz",
+  "download_time": "2026-02-13T12:49:05.929129",
+  "package_url": "https://pypi.org/project/editdistpy/"
+}

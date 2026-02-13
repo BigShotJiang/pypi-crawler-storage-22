@@ -1,11 +1,11 @@
 {
   "name": "arxiv-subscription-viewer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "E-Mail Subscription Viewer for ArXiv",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arxiv_subscription_viewer-0.1.0.tar.gz",
-  "download_time": "2026-02-12T11:17:13.292817",
+  "download_filename": "arxiv_subscription_viewer-0.1.1.tar.gz",
+  "download_time": "2026-02-13T12:49:05.411608",
   "package_url": "https://pypi.org/project/arxiv-subscription-viewer/"
 }

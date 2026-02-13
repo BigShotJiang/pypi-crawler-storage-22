@@ -1,0 +1,11 @@
+{
+  "name": "datamanagement",
+  "version": "0.1.1",
+  "summary": "A flexible data container with query capabilities",
+  "author": "Shihong Chen",
+  "license": null,
+  "home_page": "https://github.com/CoderPower-Schenek/DataManagement/",
+  "download_filename": "datamanagement-0.1.1.tar.gz",
+  "download_time": "2026-02-13T12:48:43.250415",
+  "package_url": "https://pypi.org/project/datamanagement/"
+}

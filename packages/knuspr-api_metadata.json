@@ -1,0 +1,11 @@
+{
+  "name": "knuspr-api",
+  "version": "0.3.0",
+  "summary": "Python wrapper for the Knuspr.de grocery delivery API",
+  "author": "Jens Kegelmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "knuspr_api-0.3.0.tar.gz",
+  "download_time": "2026-02-13T12:48:41.186341",
+  "package_url": "https://pypi.org/project/knuspr-api/"
+}

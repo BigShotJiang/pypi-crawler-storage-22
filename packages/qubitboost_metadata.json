@@ -1,0 +1,11 @@
+{
+  "name": "qubitboost",
+  "version": "0.0.1",
+  "summary": "QubitBoost — Quantum Error Infrastructure Platform. Real-time correlated error detection, shot validation, and budget optimization for quantum computing.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "qubitboost-0.0.1-py3-none-any.whl",
+  "download_time": "2026-02-13T12:48:49.923402",
+  "package_url": "https://pypi.org/project/qubitboost/"
+}

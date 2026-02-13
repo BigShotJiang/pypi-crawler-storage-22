@@ -1,0 +1,11 @@
+{
+  "name": "southerncross",
+  "version": "0.8.8",
+  "summary": "Provides common frameworks using flask, wtforms, gunicorn and sqlalchemy.",
+  "author": null,
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "southerncross-0.8.8.tar.gz",
+  "download_time": "2026-02-13T12:49:06.955991",
+  "package_url": "https://pypi.org/project/southerncross/"
+}

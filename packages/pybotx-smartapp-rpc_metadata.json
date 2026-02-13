@@ -1,0 +1,11 @@
+{
+  "name": "pybotx-smartapp-rpc",
+  "version": "0.13.0",
+  "summary": "eXpress SmartApp JSON-RPC library",
+  "author": "Arseniy Zhiltsov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybotx_smartapp_rpc-0.13.0.tar.gz",
+  "download_time": "2026-02-13T12:48:41.698292",
+  "package_url": "https://pypi.org/project/pybotx-smartapp-rpc/"
+}
