@@ -1,0 +1,11 @@
+{
+  "name": "strx-md2pdf",
+  "version": "1.0.0",
+  "summary": "Conversor de Markdown a PDF con estilos profesionales y soporte para checkboxes",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "strx_md2pdf-1.0.0.tar.gz",
+  "download_time": "2026-02-13T23:30:01.322290",
+  "package_url": "https://pypi.org/project/strx-md2pdf/"
+}

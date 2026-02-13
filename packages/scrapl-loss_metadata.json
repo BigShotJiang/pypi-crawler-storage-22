@@ -1,0 +1,11 @@
+{
+  "name": "scrapl-loss",
+  "version": "0.1.0",
+  "summary": "SCRAPL: Scattering Transform with Random Paths for Machine Learning",
+  "author": "Christopher Mitcheltree, Vincent Lostanlen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scrapl_loss-0.1.0.tar.gz",
+  "download_time": "2026-02-13T23:30:10.183953",
+  "package_url": "https://pypi.org/project/scrapl-loss/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tgedr-datasets",
-  "version": "0.1.7",
+  "version": "0.1.12",
   "summary": "datasets to be consumed elsewhere",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgedr_datasets-0.1.7.tar.gz",
-  "download_time": "2026-02-07T23:28:16.541217",
+  "download_filename": "tgedr_datasets-0.1.12.tar.gz",
+  "download_time": "2026-02-13T23:30:22.438029",
   "package_url": "https://pypi.org/project/tgedr-datasets/"
 }

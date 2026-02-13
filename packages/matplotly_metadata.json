@@ -1,11 +1,11 @@
 {
   "name": "matplotly",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Jupyter-native interactive matplotlib figure editor",
   "author": "Peter Koo",
   "license": null,
   "home_page": null,
-  "download_filename": "matplotly-0.1.3.tar.gz",
-  "download_time": "2026-02-13T05:47:53.784053",
+  "download_filename": "matplotly-0.1.4.tar.gz",
+  "download_time": "2026-02-13T23:30:13.021419",
   "package_url": "https://pypi.org/project/matplotly/"
 }

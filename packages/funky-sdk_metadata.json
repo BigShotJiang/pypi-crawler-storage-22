@@ -1,0 +1,11 @@
+{
+  "name": "funky-sdk",
+  "version": "0.1.1",
+  "summary": "SDK for connecting a Funky workspace to agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "funky_sdk-0.1.1.tar.gz",
+  "download_time": "2026-02-13T23:30:37.542732",
+  "package_url": "https://pypi.org/project/funky-sdk/"
+}

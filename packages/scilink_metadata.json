@@ -1,0 +1,11 @@
+{
+  "name": "scilink",
+  "version": "0.0.12",
+  "summary": "LLM-powered agents for scientific research automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scilink-0.0.12.tar.gz",
+  "download_time": "2026-02-13T23:29:58.753744",
+  "package_url": "https://pypi.org/project/scilink/"
+}

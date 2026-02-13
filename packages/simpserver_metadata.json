@@ -1,11 +1,11 @@
 {
   "name": "simpserver",
-  "version": "0.1.4",
+  "version": "0.1.4.post2",
   "summary": "A simple solution to create servers http(s).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simpserver-0.1.4.tar.gz",
-  "download_time": "2026-02-13T22:56:07.837762",
+  "download_filename": "simpserver-0.1.4.post2.tar.gz",
+  "download_time": "2026-02-13T23:30:03.373925",
   "package_url": "https://pypi.org/project/simpserver/"
 }

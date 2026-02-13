@@ -1,0 +1,11 @@
+{
+  "name": "latynkatar",
+  "version": "2.1.0",
+  "summary": "EN: Simple and small package to convert belarussian cyrillic text to a modern (the one with ž, č, š and v) and old (the one with ż, cz, sz and w) lathin or from lathin to cyrillic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "latynkatar-2.1.0.tar.gz",
+  "download_time": "2026-02-13T23:30:17.220587",
+  "package_url": "https://pypi.org/project/latynkatar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "victor-ai",
+  "version": "0.5.1",
+  "summary": "Open-source AI coding assistant with multi-provider support, workflow orchestration, and extensible tool system",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "victor_ai-0.5.1.tar.gz",
+  "download_time": "2026-02-13T23:30:04.508340",
+  "package_url": "https://pypi.org/project/victor-ai/"
+}

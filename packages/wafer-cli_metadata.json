@@ -1,11 +1,11 @@
 {
   "name": "wafer-cli",
-  "version": "0.2.59",
+  "version": "0.2.61",
   "summary": "CLI for running GPU workloads, managing remote workspaces, and evaluating/optimizing kernels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wafer_cli-0.2.59.tar.gz",
-  "download_time": "2026-02-13T21:35:10.545332",
+  "download_filename": "wafer_cli-0.2.61.tar.gz",
+  "download_time": "2026-02-13T23:30:06.559441",
   "package_url": "https://pypi.org/project/wafer-cli/"
 }

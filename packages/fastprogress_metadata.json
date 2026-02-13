@@ -1,0 +1,11 @@
+{
+  "name": "fastprogress",
+  "version": "1.1.5",
+  "summary": "A nested progress with plotting options for fastai",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastprogress-1.1.5.tar.gz",
+  "download_time": "2026-02-13T23:30:20.893102",
+  "package_url": "https://pypi.org/project/fastprogress/"
+}

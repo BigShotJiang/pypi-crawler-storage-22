@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "8.3.0",
-  "summary": "Advanced neural network optimizers: Axiom (73% memory savings) + Verity (bit-perfect cross-hardware reproducibility)",
-  "author": "Kyle Clouthier",
-  "license": "Proprietary - Free tier available, commercial use requires license",
-  "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-8.3.0-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-11T01:06:07.873442",
+  "version": "10.1.0",
+  "summary": "High-performance ML tools: Verity optimizer with 25% memory savings and cross-hardware reproducibility",
+  "author": "Clouthier Simulation Labs",
+  "license": "Commercial",
+  "home_page": "https://quartnet.dev",
+  "download_filename": "quarterbit-10.1.0-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-13T23:30:26.050542",
   "package_url": "https://pypi.org/project/quarterbit/"
 }
