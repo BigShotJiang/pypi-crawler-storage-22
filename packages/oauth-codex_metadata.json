@@ -1,0 +1,11 @@
+{
+  "name": "oauth-codex",
+  "version": "0.3.0",
+  "summary": "Codex OAuth-based Python LLM SDK with manual function calling workflow",
+  "author": "Codex",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oauth_codex-0.3.0.tar.gz",
+  "download_time": "2026-02-13T16:11:11.234703",
+  "package_url": "https://pypi.org/project/oauth-codex/"
+}

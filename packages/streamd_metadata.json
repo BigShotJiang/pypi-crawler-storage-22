@@ -1,0 +1,11 @@
+{
+  "name": "streamd",
+  "version": "0.5",
+  "summary": "Streamd Python module to facilitate molecular dynamics",
+  "author": "Aleksandra Ivanova, Olena Mokshyna, Pavel Polishchuk",
+  "license": null,
+  "home_page": "https://github.com/ci-lab-cz/streamd",
+  "download_filename": "streamd-0.5.tar.gz",
+  "download_time": "2026-02-13T16:11:17.619180",
+  "package_url": "https://pypi.org/project/streamd/"
+}

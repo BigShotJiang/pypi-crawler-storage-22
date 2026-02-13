@@ -1,0 +1,11 @@
+{
+  "name": "seo-check",
+  "version": "0.1.2",
+  "summary": "A CLI tool for SEO analysis with web reporting capabilities.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "seo_check-0.1.2.tar.gz",
+  "download_time": "2026-02-13T16:10:48.366706",
+  "package_url": "https://pypi.org/project/seo-check/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "urdf-usd-converter",
+  "version": "0.1.0b1",
+  "summary": "A URDF to OpenUSD Data Converter",
+  "author": "Newton Developers",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "urdf_usd_converter-0.1.0b1.tar.gz",
+  "download_time": "2026-02-13T16:11:10.081610",
+  "package_url": "https://pypi.org/project/urdf-usd-converter/"
+}

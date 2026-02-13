@@ -1,11 +1,11 @@
 {
   "name": "jupyternotifyplus",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Enhanced Jupyter Notebook notifications with inline and end-of-cell magic commands.",
   "author": "Daniel",
   "license": null,
   "home_page": null,
-  "download_filename": "jupyternotifyplus-0.3.0.tar.gz",
-  "download_time": "2026-02-13T11:05:58.650958",
+  "download_filename": "jupyternotifyplus-0.4.0.tar.gz",
+  "download_time": "2026-02-13T16:11:25.704989",
   "package_url": "https://pypi.org/project/jupyternotifyplus/"
 }

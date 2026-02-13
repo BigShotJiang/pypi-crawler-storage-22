@@ -1,11 +1,11 @@
 {
   "name": "chellow",
-  "version": "1770646544.0.0",
+  "version": "1770998134.0.0",
   "summary": "Web Application for checking UK energy bills.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chellow-1770646544.0.0.tar.gz",
-  "download_time": "2026-02-09T14:22:40.834156",
+  "download_filename": "chellow-1770998134.0.0.tar.gz",
+  "download_time": "2026-02-13T16:11:26.809596",
   "package_url": "https://pypi.org/project/chellow/"
 }

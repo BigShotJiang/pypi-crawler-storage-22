@@ -1,11 +1,11 @@
 {
   "name": "quadra",
-  "version": "2.7.2",
+  "version": "2.8.0",
   "summary": "Deep Learning experiment orchestration library",
   "author": "Federico Belotti",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "quadra-2.7.2.tar.gz",
-  "download_time": "2026-02-05T11:52:14.874805",
+  "download_filename": "quadra-2.8.0.tar.gz",
+  "download_time": "2026-02-13T16:11:01.408302",
   "package_url": "https://pypi.org/project/quadra/"
 }

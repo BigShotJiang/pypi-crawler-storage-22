@@ -1,0 +1,11 @@
+{
+  "name": "ShadowFinder",
+  "version": "0.7.0",
+  "summary": "Find possible locations of shadows.",
+  "author": "Bellingcat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "shadowfinder-0.7.0.tar.gz",
+  "download_time": "2026-02-13T16:10:42.059719",
+  "package_url": "https://pypi.org/project/ShadowFinder/"
+}

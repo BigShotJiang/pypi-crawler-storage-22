@@ -1,0 +1,11 @@
+{
+  "name": "vowel-optimization",
+  "version": "0.2.0",
+  "summary": "GEPA-powered prompt optimization for vowel eval spec generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vowel_optimization-0.2.0.tar.gz",
+  "download_time": "2026-02-13T16:10:50.095526",
+  "package_url": "https://pypi.org/project/vowel-optimization/"
+}

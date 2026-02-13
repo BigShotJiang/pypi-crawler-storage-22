@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-common",
-  "version": "1.0.0a35",
+  "version": "1.0.0a37",
   "summary": "Jentic OpenAPI Common",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_common-1.0.0a35.tar.gz",
-  "download_time": "2026-02-03T08:59:26.883973",
+  "download_filename": "jentic_openapi_common-1.0.0a37.tar.gz",
+  "download_time": "2026-02-13T16:11:09.504249",
   "package_url": "https://pypi.org/project/jentic-openapi-common/"
 }

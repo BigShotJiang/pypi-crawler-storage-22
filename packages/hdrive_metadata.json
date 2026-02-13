@@ -1,0 +1,11 @@
+{
+  "name": "hdrive",
+  "version": "0.1.0",
+  "summary": "Python SDK for Henschel Robotics HDrive17-ETH servo drives",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdrive-0.1.0.tar.gz",
+  "download_time": "2026-02-13T16:11:32.093359",
+  "package_url": "https://pypi.org/project/hdrive/"
+}
