@@ -1,11 +1,11 @@
 {
   "name": "unyprot",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "summary": "Easy Uniprot Python Object Collection Wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "unyprot-0.2.0.tar.gz",
-  "download_time": "2026-02-12T15:16:41.574555",
+  "download_filename": "unyprot-0.5.0.tar.gz",
+  "download_time": "2026-02-13T17:10:07.423862",
   "package_url": "https://pypi.org/project/unyprot/"
 }

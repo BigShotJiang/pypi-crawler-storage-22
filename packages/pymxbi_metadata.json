@@ -1,0 +1,11 @@
+{
+  "name": "pymxbi",
+  "version": "0.1.8",
+  "summary": "Python interfaces and drivers for MXBI",
+  "author": "HuYang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymxbi-0.1.8.tar.gz",
+  "download_time": "2026-02-13T17:09:55.501111",
+  "package_url": "https://pypi.org/project/pymxbi/"
+}

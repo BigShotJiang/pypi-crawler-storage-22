@@ -1,0 +1,11 @@
+{
+  "name": "most-client",
+  "version": "1.0.82",
+  "summary": "Most AI API for https://the-most.ai",
+  "author": "George Kasparyants",
+  "license": null,
+  "home_page": "https://github.com/the-most-ai/most-client",
+  "download_filename": "most_client-1.0.82.tar.gz",
+  "download_time": "2026-02-13T17:09:39.452818",
+  "package_url": "https://pypi.org/project/most-client/"
+}

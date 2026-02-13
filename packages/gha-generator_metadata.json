@@ -1,0 +1,11 @@
+{
+  "name": "gha-generator",
+  "version": "0.3.0",
+  "summary": "A CLI tool to generate customized GitHub Actions workflow files",
+  "author": "GitHub Actions Generator Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Juan-Lucas/github-actions-generator",
+  "download_filename": "gha_generator-0.3.0.tar.gz",
+  "download_time": "2026-02-13T17:09:43.083300",
+  "package_url": "https://pypi.org/project/gha-generator/"
+}

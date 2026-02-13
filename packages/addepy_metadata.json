@@ -1,11 +1,11 @@
 {
   "name": "addepy",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "Unofficial Python SDK for the Addepar API",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "addepy-0.4.0.tar.gz",
-  "download_time": "2026-02-03T21:52:07.631722",
+  "download_filename": "addepy-0.5.0.tar.gz",
+  "download_time": "2026-02-13T17:09:30.642653",
   "package_url": "https://pypi.org/project/addepy/"
 }

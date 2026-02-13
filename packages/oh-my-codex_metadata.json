@@ -1,11 +1,11 @@
 {
   "name": "oh-my-codex",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "summary": "Multi-agent orchestration for OpenAI Codex CLI - Turn Codex into a team of AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oh_my_codex-0.1.6.tar.gz",
-  "download_time": "2026-02-13T16:11:29.703592",
+  "download_filename": "oh_my_codex-0.2.0.tar.gz",
+  "download_time": "2026-02-13T17:09:54.988690",
   "package_url": "https://pypi.org/project/oh-my-codex/"
 }

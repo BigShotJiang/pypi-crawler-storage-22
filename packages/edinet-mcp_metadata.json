@@ -1,11 +1,11 @@
 {
   "name": "edinet-mcp",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "EDINET XBRL parsing library and MCP server for Japanese financial data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "edinet_mcp-0.4.1.tar.gz",
-  "download_time": "2026-02-13T12:48:36.524257",
+  "download_filename": "edinet_mcp-0.4.2.tar.gz",
+  "download_time": "2026-02-13T17:09:59.118830",
   "package_url": "https://pypi.org/project/edinet-mcp/"
 }

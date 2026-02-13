@@ -1,0 +1,11 @@
+{
+  "name": "swarm-safety",
+  "version": "1.4.0",
+  "summary": "SWARM: System-Wide Assessment of Risk in Multi-agent systems - A Distributional AGI Safety framework",
+  "author": "Raeli Savitt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "swarm_safety-1.4.0.tar.gz",
+  "download_time": "2026-02-13T17:09:40.485221",
+  "package_url": "https://pypi.org/project/swarm-safety/"
+}

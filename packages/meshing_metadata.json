@@ -1,0 +1,11 @@
+{
+  "name": "meshing",
+  "version": "2.0.8",
+  "summary": "Simple Python client library for https://devnull.cn/meshing",
+  "author": "Xizhen Du",
+  "license": null,
+  "home_page": "https://devnull.cn",
+  "download_filename": "meshing-2.0.8.tar.gz",
+  "download_time": "2026-02-13T17:09:57.559843",
+  "package_url": "https://pypi.org/project/meshing/"
+}

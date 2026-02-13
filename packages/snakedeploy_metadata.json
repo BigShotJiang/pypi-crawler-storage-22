@@ -1,0 +1,11 @@
+{
+  "name": "snakedeploy",
+  "version": "0.16.0",
+  "summary": "Deployment and maintenance related toolbox for Snakemake",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "snakedeploy-0.16.0.tar.gz",
+  "download_time": "2026-02-13T17:10:05.849457",
+  "package_url": "https://pypi.org/project/snakedeploy/"
+}
