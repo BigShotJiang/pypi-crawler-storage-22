@@ -1,0 +1,11 @@
+{
+  "name": "aiogram-webhook",
+  "version": "1.0.0",
+  "summary": "A python library for integrating webhook support with multiple web frameworks in aiogram. Organizes bot operation via webhooks for both single and multi-bot setups.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiogram_webhook-1.0.0.tar.gz",
+  "download_time": "2026-02-13T18:45:22.260619",
+  "package_url": "https://pypi.org/project/aiogram-webhook/"
+}

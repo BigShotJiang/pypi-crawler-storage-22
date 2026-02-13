@@ -1,0 +1,11 @@
+{
+  "name": "opencloning",
+  "version": "1.1.2",
+  "summary": "Backend of OpenCloning, a web application to generate molecular cloning strategies in json format, and share them with others.",
+  "author": "Manuel Lera-Ramirez",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opencloning-1.1.2.tar.gz",
+  "download_time": "2026-02-13T18:45:25.414738",
+  "package_url": "https://pypi.org/project/opencloning/"
+}

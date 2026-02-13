@@ -1,0 +1,11 @@
+{
+  "name": "pyseter",
+  "version": "0.3.0",
+  "summary": "Sort images by an automatically generated ID before photo-ID",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyseter-0.3.0.tar.gz",
+  "download_time": "2026-02-13T18:45:18.024295",
+  "package_url": "https://pypi.org/project/pyseter/"
+}

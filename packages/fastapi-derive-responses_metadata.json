@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-derive-responses",
+  "version": "0.1.6",
+  "summary": "FastAPI plugin to derive route responses based on source code.",
+  "author": "Ruslan Bel'kov",
+  "license": "MIT",
+  "home_page": "https://github.com/dantetemplar/fastapi-derive-responses",
+  "download_filename": "fastapi_derive_responses-0.1.6.tar.gz",
+  "download_time": "2026-02-13T18:45:07.384505",
+  "package_url": "https://pypi.org/project/fastapi-derive-responses/"
+}

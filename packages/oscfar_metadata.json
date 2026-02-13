@@ -1,0 +1,11 @@
+{
+  "name": "oscfar",
+  "version": "1.1.21",
+  "summary": "Order Statistic Constant False Alarm Rate detector package",
+  "author": "Chloé Legué",
+  "license": null,
+  "home_page": null,
+  "download_filename": "oscfar-1.1.21.tar.gz",
+  "download_time": "2026-02-13T18:44:56.831637",
+  "package_url": "https://pypi.org/project/oscfar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "infiniter",
+  "version": "0.1.1",
+  "summary": "Improved python iterators",
+  "author": "Michael Savage",
+  "license": null,
+  "home_page": null,
+  "download_filename": "infiniter-0.1.1.tar.gz",
+  "download_time": "2026-02-13T18:44:55.766135",
+  "package_url": "https://pypi.org/project/infiniter/"
+}

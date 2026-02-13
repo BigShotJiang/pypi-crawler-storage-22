@@ -1,0 +1,11 @@
+{
+  "name": "secure-shs",
+  "version": "1.0.3",
+  "summary": "Security Hygiene Scanner (SHS) – Windows and Linux security auditing tool",
+  "author": "Mahima Kumawat",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "secure_shs-1.0.3-py3-none-any.whl",
+  "download_time": "2026-02-13T18:45:04.766362",
+  "package_url": "https://pypi.org/project/secure-shs/"
+}

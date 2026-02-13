@@ -1,0 +1,11 @@
+{
+  "name": "hub01-client",
+  "version": "0.1.2",
+  "summary": "A Python client library for interacting with the Hub01 Shop API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hub01_client-0.1.2.tar.gz",
+  "download_time": "2026-02-13T18:45:19.064912",
+  "package_url": "https://pypi.org/project/hub01-client/"
+}

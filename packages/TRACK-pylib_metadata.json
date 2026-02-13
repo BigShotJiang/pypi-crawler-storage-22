@@ -1,11 +1,11 @@
 {
   "name": "TRACK-pylib",
-  "version": "0.1.0",
-  "summary": "Python wrapper for the TRACK tracking system",
+  "version": "0.3.0",
+  "summary": "Python-wrapped implementation of the TRACK software",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "track_pylib-0.1.0.tar.gz",
-  "download_time": "2026-02-06T11:50:59.564432",
+  "download_filename": "track_pylib-0.3.0.tar.gz",
+  "download_time": "2026-02-13T18:45:20.653878",
   "package_url": "https://pypi.org/project/TRACK-pylib/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyvariantdb",
+  "version": "1.1",
+  "summary": "A python package to download, process and access dbSNP data.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvariantdb-1.1.tar.gz",
+  "download_time": "2026-02-13T18:44:51.900752",
+  "package_url": "https://pypi.org/project/pyvariantdb/"
+}
