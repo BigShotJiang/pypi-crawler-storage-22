@@ -1,0 +1,11 @@
+{
+  "name": "runit-database",
+  "version": "0.1.1",
+  "summary": "Database client for runit serverless applications",
+  "author": "Amos Amissah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "runit_database-0.1.1.tar.gz",
+  "download_time": "2026-02-13T22:56:43.929677",
+  "package_url": "https://pypi.org/project/runit-database/"
+}

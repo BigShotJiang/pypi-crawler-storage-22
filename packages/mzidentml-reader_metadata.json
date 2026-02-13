@@ -1,11 +1,11 @@
 {
   "name": "mzidentml-reader",
-  "version": "0.4.8",
+  "version": "0.4.14",
   "summary": "mzidentml-reader uses pyteomics (https://pyteomics.readthedocs.io/en/latest/index.html) to parse mzIdentML files (v1.2.0) and extract crosslink information. Results are written to a relational database (PostgreSQL or SQLite) using sqlalchemy.",
   "author": "Colin Combe, Lars Kolbowski, Suresh Hewapathirana",
   "license": "'Apache 2.0",
   "home_page": "https://github.com/PRIDE-Archive/mzidentml-reader",
-  "download_filename": "mzidentml_reader-0.4.8.tar.gz",
-  "download_time": "2026-02-09T11:59:41.385339",
+  "download_filename": "mzidentml_reader-0.4.14.tar.gz",
+  "download_time": "2026-02-13T22:56:35.047078",
   "package_url": "https://pypi.org/project/mzidentml-reader/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "userbot-auth",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "summary": "Ryzenth UBT | Enterprise Security Framework.",
   "author": "TeamKillerX",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "userbot_auth-1.0.14.tar.gz",
-  "download_time": "2026-02-13T18:45:31.644526",
+  "download_filename": "userbot_auth-1.0.15.tar.gz",
+  "download_time": "2026-02-13T22:56:18.528368",
   "package_url": "https://pypi.org/project/userbot-auth/"
 }

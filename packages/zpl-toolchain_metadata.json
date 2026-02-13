@@ -1,0 +1,11 @@
+{
+  "name": "zpl-toolchain",
+  "version": "0.1.11",
+  "summary": "ZPL II toolchain — parse, validate, format, and print Zebra Programming Language files",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "zpl_toolchain-0.1.11-cp312-cp312-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-02-13T22:56:15.967001",
+  "package_url": "https://pypi.org/project/zpl-toolchain/"
+}

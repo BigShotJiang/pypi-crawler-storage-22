@@ -1,0 +1,11 @@
+{
+  "name": "uvk",
+  "version": "0.0.1",
+  "summary": "Fully isolated IPython kernels based on uv",
+  "author": "Benoit Hamelin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uvk-0.0.1.tar.gz",
+  "download_time": "2026-02-13T22:56:23.216003",
+  "package_url": "https://pypi.org/project/uvk/"
+}

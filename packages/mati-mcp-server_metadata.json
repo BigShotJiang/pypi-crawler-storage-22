@@ -1,0 +1,11 @@
+{
+  "name": "mati-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP server for Mati content operations - connects Cursor/Claude to Mati API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mati_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-13T22:56:28.878653",
+  "package_url": "https://pypi.org/project/mati-mcp-server/"
+}

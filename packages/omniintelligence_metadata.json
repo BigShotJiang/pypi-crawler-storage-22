@@ -1,0 +1,11 @@
+{
+  "name": "omniintelligence",
+  "version": "0.1.1",
+  "summary": "Intelligence, indexing, and pattern services as first-class Omninode nodes",
+  "author": "OmniNode Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "omniintelligence-0.1.1.tar.gz",
+  "download_time": "2026-02-13T22:56:09.549257",
+  "package_url": "https://pypi.org/project/omniintelligence/"
+}

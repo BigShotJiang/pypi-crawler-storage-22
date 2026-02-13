@@ -1,0 +1,11 @@
+{
+  "name": "naturtag",
+  "version": "0.8.2",
+  "summary": "Tag your nature photos with iNat taxonomy and observation metadata",
+  "author": "Jordan Cook",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "naturtag-0.8.2-py3-none-any.whl",
+  "download_time": "2026-02-13T22:56:10.070180",
+  "package_url": "https://pypi.org/project/naturtag/"
+}

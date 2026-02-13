@@ -1,11 +1,11 @@
 {
   "name": "tator",
-  "version": "1.6.7",
+  "version": "1.6.9",
   "summary": "Python client for Tator",
   "author": "CVision AI, Inc.",
   "license": null,
   "home_page": "https://github.com/cvisionai/tator-py",
-  "download_filename": "tator-1.6.7.tar.gz",
-  "download_time": "2026-02-06T01:57:40.278157",
+  "download_filename": "tator-1.6.9.tar.gz",
+  "download_time": "2026-02-13T22:56:33.502006",
   "package_url": "https://pypi.org/project/tator/"
 }

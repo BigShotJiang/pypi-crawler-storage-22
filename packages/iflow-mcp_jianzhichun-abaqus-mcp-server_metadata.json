@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jianzhichun-abaqus-mcp-server",
+  "version": "0.1.0",
+  "summary": "An MCP server to execute Python scripts within an existing Abaqus/CAE GUI session and retrieve message log information",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_jianzhichun_abaqus_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-13T22:56:32.988031",
+  "package_url": "https://pypi.org/project/iflow-mcp_jianzhichun-abaqus-mcp-server/"
+}

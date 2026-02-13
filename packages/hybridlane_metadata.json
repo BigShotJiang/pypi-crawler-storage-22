@@ -1,0 +1,11 @@
+{
+  "name": "hybridlane",
+  "version": "0.6.0a1",
+  "summary": "A frontend library for hybrid CV-DV computation based on Pennylane.",
+  "author": "Jim Furches",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hybridlane-0.6.0a1.tar.gz",
+  "download_time": "2026-02-13T22:56:41.850667",
+  "package_url": "https://pypi.org/project/hybridlane/"
+}

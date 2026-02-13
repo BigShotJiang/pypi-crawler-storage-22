@@ -1,0 +1,11 @@
+{
+  "name": "figrecipe",
+  "version": "0.24.0",
+  "summary": "Reproducible matplotlib wrapper with mm-precision layouts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "figrecipe-0.24.0.tar.gz",
+  "download_time": "2026-02-13T22:56:25.282250",
+  "package_url": "https://pypi.org/project/figrecipe/"
+}

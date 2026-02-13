@@ -1,0 +1,11 @@
+{
+  "name": "grplot",
+  "version": "0.14.3",
+  "summary": "grplot: lazy statistical data visualization",
+  "author": "Ghiffary Rifqialdi",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/ghiffaryr/grplot",
+  "download_filename": "grplot-0.14.3.tar.gz",
+  "download_time": "2026-02-13T22:56:43.414732",
+  "package_url": "https://pypi.org/project/grplot/"
+}

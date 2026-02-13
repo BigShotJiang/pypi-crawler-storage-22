@@ -1,0 +1,11 @@
+{
+  "name": "precision-desktop",
+  "version": "0.1.0",
+  "summary": "MCP server that fixes DPI coordinate scaling for Windows desktop automation",
+  "author": "Ian Koskela",
+  "license": null,
+  "home_page": null,
+  "download_filename": "precision_desktop-0.1.0.tar.gz",
+  "download_time": "2026-02-13T22:56:09.010907",
+  "package_url": "https://pypi.org/project/precision-desktop/"
+}
