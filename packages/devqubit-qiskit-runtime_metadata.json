@@ -1,11 +1,11 @@
 {
   "name": "devqubit-qiskit-runtime",
-  "version": "0.1.11",
-  "summary": "devqubit adapter for Qiskit Runtime",
-  "author": null,
+  "version": "0.1.12",
+  "summary": "devqubit adapter for IBM Qiskit Runtime",
+  "author": "devqubit",
   "license": null,
   "home_page": null,
-  "download_filename": "devqubit_qiskit_runtime-0.1.11.tar.gz",
-  "download_time": "2026-02-04T19:30:17.194766",
+  "download_filename": "devqubit_qiskit_runtime-0.1.12.tar.gz",
+  "download_time": "2026-02-13T21:34:59.405356",
   "package_url": "https://pypi.org/project/devqubit-qiskit-runtime/"
 }

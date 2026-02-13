@@ -1,11 +1,11 @@
 {
   "name": "devqubit-pennylane",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "devqubit adapter for Pennylane",
   "author": "devqubit",
   "license": null,
   "home_page": null,
-  "download_filename": "devqubit_pennylane-0.1.11.tar.gz",
-  "download_time": "2026-02-04T19:30:18.238156",
+  "download_filename": "devqubit_pennylane-0.1.12.tar.gz",
+  "download_time": "2026-02-13T21:35:00.449656",
   "package_url": "https://pypi.org/project/devqubit-pennylane/"
 }

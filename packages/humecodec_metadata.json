@@ -1,11 +1,11 @@
 {
   "name": "humecodec",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "FFmpeg integration for PyTorch with bundled libraries",
   "author": "humecodec contributors",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "humecodec-0.5.0.tar.gz",
-  "download_time": "2026-02-13T21:00:16.184921",
+  "download_filename": "humecodec-0.5.1.tar.gz",
+  "download_time": "2026-02-13T21:35:41.542984",
   "package_url": "https://pypi.org/project/humecodec/"
 }

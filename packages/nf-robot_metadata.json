@@ -1,11 +1,11 @@
 {
   "name": "nf-robot",
-  "version": "2.0.1",
+  "version": "3.3.3",
   "summary": "Robot control system for Stringman",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "nf_robot-2.0.1.tar.gz",
-  "download_time": "2026-02-10T03:31:47.674771",
+  "download_filename": "nf_robot-3.3.3.tar.gz",
+  "download_time": "2026-02-13T21:35:36.813555",
   "package_url": "https://pypi.org/project/nf-robot/"
 }

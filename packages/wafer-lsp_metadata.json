@@ -1,11 +1,11 @@
 {
   "name": "wafer-lsp",
-  "version": "0.1.47",
+  "version": "0.1.48",
   "summary": "Language Server Protocol server for GPU programming languages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wafer_lsp-0.1.47.tar.gz",
-  "download_time": "2026-02-13T20:05:27.301829",
+  "download_filename": "wafer_lsp-0.1.48.tar.gz",
+  "download_time": "2026-02-13T21:35:10.021479",
   "package_url": "https://pypi.org/project/wafer-lsp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "devqubit-engine",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Internal core runtime for devqubit",
   "author": "devqubit",
   "license": null,
   "home_page": null,
-  "download_filename": "devqubit_engine-0.1.11.tar.gz",
-  "download_time": "2026-02-04T19:30:19.371514",
+  "download_filename": "devqubit_engine-0.1.12.tar.gz",
+  "download_time": "2026-02-13T21:35:00.981201",
   "package_url": "https://pypi.org/project/devqubit-engine/"
 }

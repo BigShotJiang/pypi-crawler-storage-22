@@ -1,0 +1,11 @@
+{
+  "name": "djsuite",
+  "version": "0.0.4",
+  "summary": "Production-ready Django project scaffolding in one command",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djsuite-0.0.4.tar.gz",
+  "download_time": "2026-02-13T21:35:11.620982",
+  "package_url": "https://pypi.org/project/djsuite/"
+}

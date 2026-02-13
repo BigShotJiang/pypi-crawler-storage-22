@@ -1,0 +1,11 @@
+{
+  "name": "swish",
+  "version": "1.6",
+  "summary": "Swish Python Client Library",
+  "author": "Fredrik Sundqvist",
+  "license": "MIT",
+  "home_page": "https://github.com/MadSpindel/swish-python",
+  "download_filename": "swish-1.6.tar.gz",
+  "download_time": "2026-02-13T21:35:12.139144",
+  "package_url": "https://pypi.org/project/swish/"
+}

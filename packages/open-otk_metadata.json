@@ -1,0 +1,11 @@
+{
+  "name": "open-otk",
+  "version": "1.0.0",
+  "summary": "Open Ollama Toolkit - Professional Python library for building AI applications with Ollama",
+  "author": "Md. Abid Hasan Rafi",
+  "license": null,
+  "home_page": "https://github.com/aiextension/open-otk",
+  "download_filename": "open_otk-1.0.0.tar.gz",
+  "download_time": "2026-02-13T21:34:57.270899",
+  "package_url": "https://pypi.org/project/open-otk/"
+}

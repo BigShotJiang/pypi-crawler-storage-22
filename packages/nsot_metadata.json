@@ -1,11 +1,11 @@
 {
   "name": "nsot",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "summary": "Network Source of Truth (IP Address Management).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nsot-2.9.0.tar.gz",
-  "download_time": "2026-02-13T01:54:03.564368",
+  "download_filename": "nsot-2.10.0.tar.gz",
+  "download_time": "2026-02-13T21:34:56.750465",
   "package_url": "https://pypi.org/project/nsot/"
 }

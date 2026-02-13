@@ -1,0 +1,11 @@
+{
+  "name": "LLMFunctionObjects",
+  "version": "0.2.0",
+  "summary": "Large Language Models (LLMs) functions package.",
+  "author": "Anton Antonov",
+  "license": null,
+  "home_page": "https://github.com/antononcube/Python-packages/tree/main/LLMFunctionObjects",
+  "download_filename": "llmfunctionobjects-0.2.0.tar.gz",
+  "download_time": "2026-02-13T21:35:04.662962",
+  "package_url": "https://pypi.org/project/LLMFunctionObjects/"
+}

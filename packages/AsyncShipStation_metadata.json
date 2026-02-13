@@ -1,11 +1,11 @@
 {
   "name": "AsyncShipStation",
-  "version": "0.1.1.1",
+  "version": "0.1.1.2",
   "summary": "Async Python wrapper for the ShipStation API",
   "author": "sudoDeVinci",
   "license": null,
   "home_page": null,
-  "download_filename": "asyncshipstation-0.1.1.1.tar.gz",
-  "download_time": "2026-02-06T23:24:00.988764",
+  "download_filename": "asyncshipstation-0.1.1.2.tar.gz",
+  "download_time": "2026-02-13T21:35:18.463374",
   "package_url": "https://pypi.org/project/AsyncShipStation/"
 }

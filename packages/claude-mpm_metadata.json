@@ -1,11 +1,11 @@
 {
   "name": "claude-mpm",
-  "version": "5.8.2",
+  "version": "5.8.3",
   "summary": "Claude Code workflow and agent management framework - Multi-agent orchestration, skills system, MCP integration, session management, and semantic code search for AI-powered development",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "claude_mpm-5.8.2.tar.gz",
-  "download_time": "2026-02-13T21:00:31.966188",
+  "download_filename": "claude_mpm-5.8.3.tar.gz",
+  "download_time": "2026-02-13T21:35:05.803818",
   "package_url": "https://pypi.org/project/claude-mpm/"
 }

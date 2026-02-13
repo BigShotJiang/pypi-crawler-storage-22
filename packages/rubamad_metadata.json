@@ -1,0 +1,11 @@
+{
+  "name": "rubamad",
+  "version": "0.2.0",
+  "summary": "A modern async Python library for Rubika Bot API",
+  "author": "Mohammad Latifi",
+  "license": null,
+  "home_page": "https://github.com/yourusername/rubamad",
+  "download_filename": "rubamad-0.2.0.tar.gz",
+  "download_time": "2026-02-13T21:35:03.621548",
+  "package_url": "https://pypi.org/project/rubamad/"
+}
