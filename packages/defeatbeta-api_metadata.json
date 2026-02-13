@@ -1,11 +1,11 @@
 {
   "name": "defeatbeta-api",
-  "version": "0.0.34",
+  "version": "0.0.39",
   "summary": "An open-source alternative to Yahoo Finance's market data APIs with higher reliability.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "defeatbeta_api-0.0.34.tar.gz",
-  "download_time": "2026-01-29T08:58:34.383100",
+  "download_filename": "defeatbeta_api-0.0.39.tar.gz",
+  "download_time": "2026-02-13T15:30:44.190404",
   "package_url": "https://pypi.org/project/defeatbeta-api/"
 }

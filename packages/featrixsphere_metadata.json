@@ -1,11 +1,11 @@
 {
   "name": "featrixsphere",
-  "version": "0.2.6765",
+  "version": "0.2.6947",
   "summary": "Transform any CSV into a production-ready ML model in minutes, not months.",
   "author": "Featrix",
   "license": null,
   "home_page": "https://github.com/Featrix/sphere",
-  "download_filename": "featrixsphere-0.2.6765.tar.gz",
-  "download_time": "2026-02-05T20:31:35.325849",
+  "download_filename": "featrixsphere-0.2.6947.tar.gz",
+  "download_time": "2026-02-13T15:30:37.826659",
   "package_url": "https://pypi.org/project/featrixsphere/"
 }

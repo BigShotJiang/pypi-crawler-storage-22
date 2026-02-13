@@ -1,0 +1,11 @@
+{
+  "name": "sigauth",
+  "version": "5.4.1",
+  "summary": "Signature authentication library for Export Directory.",
+  "author": "Department of Business and Trade",
+  "license": "MIT",
+  "home_page": "https://github.com/uktrade/directory-signature-auth",
+  "download_filename": "sigauth-5.4.1-py3-none-any.whl",
+  "download_time": "2026-02-13T15:30:35.117664",
+  "package_url": "https://pypi.org/project/sigauth/"
+}

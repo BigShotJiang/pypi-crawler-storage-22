@@ -1,0 +1,11 @@
+{
+  "name": "directory-client-core",
+  "version": "7.3.3",
+  "summary": "Python common code for Directory API clients.",
+  "author": "Department for Business and Trade",
+  "license": "MIT",
+  "home_page": "https://github.com/uktrade/directory-client-core",
+  "download_filename": "directory_client_core-7.3.3-py3-none-any.whl",
+  "download_time": "2026-02-13T15:30:34.073314",
+  "package_url": "https://pypi.org/project/directory-client-core/"
+}

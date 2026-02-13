@@ -1,0 +1,11 @@
+{
+  "name": "streval",
+  "version": "0.1.0",
+  "summary": "Tool for evaluating structured outputs",
+  "author": "ruankie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "streval-0.1.0.tar.gz",
+  "download_time": "2026-02-13T15:30:55.856663",
+  "package_url": "https://pypi.org/project/streval/"
+}

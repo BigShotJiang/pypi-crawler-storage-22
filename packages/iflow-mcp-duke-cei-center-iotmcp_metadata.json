@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-duke-cei-center-iotmcp",
+  "version": "0.1.2",
+  "summary": "IoT MCP Server for sensor data reading and device task management",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_duke_cei_center_iotmcp-0.1.2.tar.gz",
+  "download_time": "2026-02-13T15:30:36.686511",
+  "package_url": "https://pypi.org/project/iflow-mcp-duke-cei-center-iotmcp/"
+}

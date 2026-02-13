@@ -1,0 +1,11 @@
+{
+  "name": "firewallfabrik",
+  "version": "0.5.0b1",
+  "summary": "FirewallFabrik is a Qt-based GUI tool for managing firewall configurations across multiple platforms (iptables, nftables, etc.)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firewallfabrik-0.5.0b1.tar.gz",
+  "download_time": "2026-02-13T15:31:11.024749",
+  "package_url": "https://pypi.org/project/firewallfabrik/"
+}

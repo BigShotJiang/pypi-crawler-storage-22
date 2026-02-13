@@ -1,11 +1,11 @@
 {
   "name": "dsp3-toolkit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "DSP shared toolkit for Python apps: CLI, logging, config, linting, plugins, and more.",
   "author": "Mark Small",
   "license": null,
   "home_page": null,
-  "download_filename": "dsp3_toolkit-1.0.3.tar.gz",
-  "download_time": "2026-02-13T13:53:30.163258",
+  "download_filename": "dsp3_toolkit-1.0.4.tar.gz",
+  "download_time": "2026-02-13T15:31:07.887295",
   "package_url": "https://pypi.org/project/dsp3-toolkit/"
 }

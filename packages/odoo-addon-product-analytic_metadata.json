@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-product-analytic",
+  "version": "18.0.1.0.0.3",
+  "summary": "Add analytic distribution models on products and product categories",
+  "author": "Akretion, Tecnativa, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-analytic",
+  "download_filename": "odoo_addon_product_analytic-18.0.1.0.0.3-py3-none-any.whl",
+  "download_time": "2026-02-13T15:30:47.325837",
+  "package_url": "https://pypi.org/project/odoo-addon-product-analytic/"
+}

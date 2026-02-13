@@ -1,0 +1,11 @@
+{
+  "name": "osint-search-engine-pkg",
+  "version": "0.1.1",
+  "summary": "A unified wrapper for search engines like Serper, DuckDuckGo, etc.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osint_search_engine_pkg-0.1.1.tar.gz",
+  "download_time": "2026-02-13T15:31:01.064224",
+  "package_url": "https://pypi.org/project/osint-search-engine-pkg/"
+}

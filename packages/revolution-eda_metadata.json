@@ -1,0 +1,11 @@
+{
+  "name": "revolution-eda",
+  "version": "0.8.8",
+  "summary": "Custom IC Design Environment for Professionals",
+  "author": "Revolution Semiconductor",
+  "license": "Mozilla Public License v2 modified by Commons Clause",
+  "home_page": "https://github.com/eskiyerli/revolution-eda",
+  "download_filename": "revolution_eda-0.8.8.tar.gz",
+  "download_time": "2026-02-13T15:30:31.927966",
+  "package_url": "https://pypi.org/project/revolution-eda/"
+}
