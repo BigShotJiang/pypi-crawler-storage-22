@@ -1,0 +1,11 @@
+{
+  "name": "edx-repo-tools",
+  "version": "3.1.0",
+  "summary": "This repo contains a number of tools Open edX uses for working with GitHub repositories.",
+  "author": "edX",
+  "license": "Apache",
+  "home_page": "https://github.com/openedx/repo-tools",
+  "download_filename": "edx_repo_tools-3.1.0.tar.gz",
+  "download_time": "2026-02-13T13:53:25.402653",
+  "package_url": "https://pypi.org/project/edx-repo-tools/"
+}

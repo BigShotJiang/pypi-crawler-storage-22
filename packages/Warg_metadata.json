@@ -1,0 +1,11 @@
+{
+  "name": "Warg",
+  "version": "1.5.1",
+  "summary": "A package for easing return of multiple values",
+  "author": "Christian Heider Lindbjerg",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://github.com/pything/warg",
+  "download_filename": "warg-1.5.1.tar.gz",
+  "download_time": "2026-02-13T13:53:45.782607",
+  "package_url": "https://pypi.org/project/Warg/"
+}

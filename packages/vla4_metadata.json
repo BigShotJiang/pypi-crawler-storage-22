@@ -1,11 +1,11 @@
 {
   "name": "vla4",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "High-performance optimizer with 62% memory savings (4-bit quantization)",
   "author": "Clouthier Simulation Labs",
   "license": "Commercial",
   "home_page": "https://quartnet.dev",
-  "download_filename": "vla4-1.0.13-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-13T12:48:37.048400",
+  "download_filename": "vla4-1.0.14-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-13T13:53:46.326171",
   "package_url": "https://pypi.org/project/vla4/"
 }

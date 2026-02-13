@@ -1,0 +1,11 @@
+{
+  "name": "pybotx-fsm",
+  "version": "0.7.1",
+  "summary": "FSM middleware for using with pybotx",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pybotx_fsm-0.7.1.tar.gz",
+  "download_time": "2026-02-13T13:53:24.826607",
+  "package_url": "https://pypi.org/project/pybotx-fsm/"
+}

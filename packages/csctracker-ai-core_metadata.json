@@ -1,0 +1,11 @@
+{
+  "name": "csctracker-ai-core",
+  "version": "26.7.12",
+  "summary": "A robust library to integrate Google Gemini AI with API key rotation and ClickHouse telemetry.",
+  "author": "Carlos Eduardo",
+  "license": "MIT",
+  "home_page": "https://github.com/krlsedu/CscTrackerAiCore",
+  "download_filename": "csctracker_ai_core-26.7.12.tar.gz",
+  "download_time": "2026-02-13T13:53:21.791856",
+  "package_url": "https://pypi.org/project/csctracker-ai-core/"
+}

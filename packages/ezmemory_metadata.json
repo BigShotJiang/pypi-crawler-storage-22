@@ -1,0 +1,11 @@
+{
+  "name": "ezmemory",
+  "version": "0.1.4",
+  "summary": "AI Agent Memory System with embeddings and vector storage",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmemory-0.1.4.tar.gz",
+  "download_time": "2026-02-13T13:53:27.660949",
+  "package_url": "https://pypi.org/project/ezmemory/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bokk-ai",
+  "version": "0.0.1",
+  "summary": "AI-powered CLI accounting for developers. Swedish bokföring made simple.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bokk_ai-0.0.1.tar.gz",
+  "download_time": "2026-02-13T13:53:36.417081",
+  "package_url": "https://pypi.org/project/bokk-ai/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "generate-env-sample",
+  "version": "0.1.2",
+  "summary": "A simple CLI tool to generate .env.sample files from existing .env files, preserving comments and empty lines.",
+  "author": "Heshinth P",
+  "license": null,
+  "home_page": null,
+  "download_filename": "generate_env_sample-0.1.2.tar.gz",
+  "download_time": "2026-02-13T13:53:22.367921",
+  "package_url": "https://pypi.org/project/generate-env-sample/"
+}

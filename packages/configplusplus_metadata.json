@@ -1,0 +1,11 @@
+{
+  "name": "configplusplus",
+  "version": "0.1.1",
+  "summary": "A powerful configuration management library with beautiful display, environment variables and YAML support",
+  "author": "Florian BARRE",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "configplusplus-0.1.1.tar.gz",
+  "download_time": "2026-02-13T13:53:55.089225",
+  "package_url": "https://pypi.org/project/configplusplus/"
+}
