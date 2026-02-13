@@ -1,11 +1,11 @@
 {
   "name": "deepdrift",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Zero-Training Hidden-State Monitoring for Robustness in Vision, Language, and Generative Models",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepdrift-1.1.3.tar.gz",
-  "download_time": "2026-02-12T15:16:43.653832",
+  "download_filename": "deepdrift-1.1.4.tar.gz",
+  "download_time": "2026-02-13T07:42:35.831882",
   "package_url": "https://pypi.org/project/deepdrift/"
 }

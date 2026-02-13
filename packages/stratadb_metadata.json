@@ -1,11 +1,11 @@
 {
   "name": "stratadb",
-  "version": "0.12.8",
+  "version": "0.13.1",
   "summary": "Python SDK for StrataDB - an embedded database for AI agents",
   "author": "StrataDB Labs",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "stratadb-0.12.8.tar.gz",
-  "download_time": "2026-02-12T15:17:05.107756",
+  "download_filename": "stratadb-0.13.1.tar.gz",
+  "download_time": "2026-02-13T07:42:21.681273",
   "package_url": "https://pypi.org/project/stratadb/"
 }

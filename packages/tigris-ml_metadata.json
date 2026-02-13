@@ -1,0 +1,11 @@
+{
+  "name": "tigris-ml",
+  "version": "0.1.0",
+  "summary": "TiGrIS — Tiled Graph Inference Scheduler for edge ML deployment",
+  "author": "The TiGrIS Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tigris_ml-0.1.0.tar.gz",
+  "download_time": "2026-02-13T07:42:54.477630",
+  "package_url": "https://pypi.org/project/tigris-ml/"
+}

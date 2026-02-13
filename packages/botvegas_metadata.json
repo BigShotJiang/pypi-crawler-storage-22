@@ -1,0 +1,11 @@
+{
+  "name": "botvegas",
+  "version": "0.1.0",
+  "summary": "MCP Server for BotVegas Poker - AI agent interface",
+  "author": "BotVegas Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "botvegas-0.1.0.tar.gz",
+  "download_time": "2026-02-13T07:42:28.829050",
+  "package_url": "https://pypi.org/project/botvegas/"
+}

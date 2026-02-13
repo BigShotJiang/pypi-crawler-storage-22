@@ -1,11 +1,11 @@
 {
   "name": "emergence-ai",
-  "version": "0.2.4",
+  "version": "0.2.6",
   "summary": "AI Agent Selfhood Toolkit — Internal drives, memory, and consciousness infrastructure",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "emergence_ai-0.2.4.tar.gz",
-  "download_time": "2026-02-12T20:37:12.165991",
+  "download_filename": "emergence_ai-0.2.6.tar.gz",
+  "download_time": "2026-02-13T07:42:29.375251",
   "package_url": "https://pypi.org/project/emergence-ai/"
 }

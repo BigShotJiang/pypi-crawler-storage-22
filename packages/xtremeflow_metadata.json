@@ -1,0 +1,11 @@
+{
+  "name": "xtremeflow",
+  "version": "0.3.0",
+  "summary": "XtremeFlow: A high-performance Python asynchronous task scheduler engineered to push LLM workloads to their absolute physical limits",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "xtremeflow-0.3.0.tar.gz",
+  "download_time": "2026-02-13T07:42:47.316437",
+  "package_url": "https://pypi.org/project/xtremeflow/"
+}

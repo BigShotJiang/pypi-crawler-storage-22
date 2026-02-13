@@ -1,0 +1,11 @@
+{
+  "name": "lexsi-sdk",
+  "version": "0.1.34",
+  "summary": "Full stack ML Observability with Lexsi.ai",
+  "author": null,
+  "license": "Lexsi Labs Source Available License (LSAL) v1.0",
+  "home_page": null,
+  "download_filename": "lexsi_sdk-0.1.34.tar.gz",
+  "download_time": "2026-02-13T07:42:50.613694",
+  "package_url": "https://pypi.org/project/lexsi-sdk/"
+}
