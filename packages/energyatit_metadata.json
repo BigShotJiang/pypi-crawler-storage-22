@@ -1,0 +1,11 @@
+{
+  "name": "energyatit",
+  "version": "1.0.0",
+  "summary": "EnergyAtIt API",
+  "author": "EnergyAtIt",
+  "license": null,
+  "home_page": "https://github.com/kasathur/energyatit-python-sdk",
+  "download_filename": "energyatit-1.0.0.tar.gz",
+  "download_time": "2026-02-13T22:08:17.610179",
+  "package_url": "https://pypi.org/project/energyatit/"
+}

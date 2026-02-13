@@ -1,11 +1,11 @@
 {
   "name": "WuttaFarm",
-  "version": "0.1.3",
+  "version": "0.3.0",
   "summary": "Web app to integrate with and extend farmOS",
   "author": null,
   "license": "GNU General Public License v3",
   "home_page": null,
-  "download_filename": "wuttafarm-0.1.3.tar.gz",
-  "download_time": "2026-02-06T23:51:15.246985",
+  "download_filename": "wuttafarm-0.3.0.tar.gz",
+  "download_time": "2026-02-13T22:08:16.583996",
   "package_url": "https://pypi.org/project/WuttaFarm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "autoheal-locator",
+  "version": "1.0.6",
+  "summary": "AI-powered test automation framework that automatically heals broken element locators in Selenium and Playwright tests",
+  "author": "SanjayPG",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "autoheal_locator-1.0.6.tar.gz",
+  "download_time": "2026-02-13T22:08:18.633330",
+  "package_url": "https://pypi.org/project/autoheal-locator/"
+}

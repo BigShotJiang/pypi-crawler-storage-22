@@ -1,11 +1,11 @@
 {
   "name": "post-for-me",
-  "version": "1.11.0",
+  "version": "1.12.0",
   "summary": "The official Python library for the post-for-me API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "post_for_me-1.11.0.tar.gz",
-  "download_time": "2026-02-02T01:47:01.291517",
+  "download_filename": "post_for_me-1.12.0.tar.gz",
+  "download_time": "2026-02-13T22:08:20.216985",
   "package_url": "https://pypi.org/project/post-for-me/"
 }

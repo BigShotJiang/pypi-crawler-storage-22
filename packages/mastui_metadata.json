@@ -1,0 +1,11 @@
+{
+  "name": "mastui",
+  "version": "1.7.1",
+  "summary": "A Mastodon TUI client.",
+  "author": "Kim Schulz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mastui-1.7.1.tar.gz",
+  "download_time": "2026-02-13T22:07:58.999285",
+  "package_url": "https://pypi.org/project/mastui/"
+}

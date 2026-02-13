@@ -1,11 +1,11 @@
 {
   "name": "mindglow",
-  "version": "0.1.2",
+  "version": "0.1.6",
   "summary": "2D/3D Medical Image Segmentation with PyTorch",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mindglow-0.1.2.tar.gz",
-  "download_time": "2026-02-13T18:45:19.583792",
+  "download_filename": "mindglow-0.1.6.tar.gz",
+  "download_time": "2026-02-13T22:08:08.859227",
   "package_url": "https://pypi.org/project/mindglow/"
 }

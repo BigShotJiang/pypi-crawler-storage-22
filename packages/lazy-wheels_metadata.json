@@ -1,11 +1,11 @@
 {
   "name": "lazy-wheels",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Lazy monorepo wheel builder — only rebuilds what changed.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lazy_wheels-0.1.8.tar.gz",
-  "download_time": "2026-02-13T21:35:35.770349",
+  "download_filename": "lazy_wheels-0.1.9.tar.gz",
+  "download_time": "2026-02-13T22:07:59.515180",
   "package_url": "https://pypi.org/project/lazy-wheels/"
 }

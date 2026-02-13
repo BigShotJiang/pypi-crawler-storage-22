@@ -1,0 +1,11 @@
+{
+  "name": "econcharts",
+  "version": "0.1.1",
+  "summary": "Sharp, professional charts for economic data with dark theme",
+  "author": "Economic Charts Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "econcharts-0.1.1.tar.gz",
+  "download_time": "2026-02-13T22:08:13.489666",
+  "package_url": "https://pypi.org/project/econcharts/"
+}

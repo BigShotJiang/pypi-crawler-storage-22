@@ -1,11 +1,11 @@
 {
   "name": "nano-wait",
-  "version": "5.0.1",
+  "version": "5.0.2",
   "summary": "Adaptive waiting and execution engine — replaces time.sleep() with system-aware, deterministic waiting.",
   "author": "Luiz Filipe Seabra de Marco",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nano_wait-5.0.1.tar.gz",
-  "download_time": "2026-02-04T21:49:35.384835",
+  "download_filename": "nano_wait-5.0.2.tar.gz",
+  "download_time": "2026-02-13T22:07:58.485776",
   "package_url": "https://pypi.org/project/nano-wait/"
 }

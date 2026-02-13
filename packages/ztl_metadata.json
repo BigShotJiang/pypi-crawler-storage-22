@@ -1,0 +1,11 @@
+{
+  "name": "ztl",
+  "version": "0.0.8",
+  "summary": "A thin library relying on zmq to dispatch tasks",
+  "author": "Patrick Holthaus",
+  "license": null,
+  "home_page": "https://gitlab.com/robothouse/rh-user/ztl/",
+  "download_filename": "ztl-0.0.8.tar.gz",
+  "download_time": "2026-02-13T22:07:44.953844",
+  "package_url": "https://pypi.org/project/ztl/"
+}

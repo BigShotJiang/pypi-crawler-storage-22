@@ -1,0 +1,11 @@
+{
+  "name": "phys-sims-utils",
+  "version": "0.2.0",
+  "summary": "Shared research infrastructure for deterministic experimentation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phys_sims_utils-0.2.0.tar.gz",
+  "download_time": "2026-02-13T22:08:20.730439",
+  "package_url": "https://pypi.org/project/phys-sims-utils/"
+}

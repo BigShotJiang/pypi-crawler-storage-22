@@ -1,11 +1,11 @@
 {
   "name": "phenoml",
-  "version": "5.0.0",
+  "version": "5.2.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phenoml-5.0.0.tar.gz",
-  "download_time": "2026-02-13T16:11:30.278464",
+  "download_filename": "phenoml-5.2.0.tar.gz",
+  "download_time": "2026-02-13T22:07:54.078774",
   "package_url": "https://pypi.org/project/phenoml/"
 }
