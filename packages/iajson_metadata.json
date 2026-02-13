@@ -1,0 +1,11 @@
+{
+  "name": "iajson",
+  "version": "1.0.0",
+  "summary": "Python reference library for consuming ia.json files — the universal standard for AI interaction with websites",
+  "author": "ia.json Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iajson-1.0.0.tar.gz",
+  "download_time": "2026-02-13T05:47:14.136154",
+  "package_url": "https://pypi.org/project/iajson/"
+}

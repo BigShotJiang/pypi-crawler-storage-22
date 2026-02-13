@@ -1,0 +1,11 @@
+{
+  "name": "quantlib-st",
+  "version": "1.13.0",
+  "summary": "A quantitative finance library and cli for systematic trading",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantlib_st-1.13.0.tar.gz",
+  "download_time": "2026-02-13T05:47:50.200835",
+  "package_url": "https://pypi.org/project/quantlib-st/"
+}

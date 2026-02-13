@@ -1,0 +1,11 @@
+{
+  "name": "ZIPAR",
+  "version": "0.1.1",
+  "summary": "Zip IPA Reconstructor. It generate an IPA package from an installed app on an iOS jailbroken device using Frida.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zipar-0.1.1.tar.gz",
+  "download_time": "2026-02-13T05:47:42.795103",
+  "package_url": "https://pypi.org/project/ZIPAR/"
+}

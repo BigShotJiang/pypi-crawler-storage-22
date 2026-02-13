@@ -1,0 +1,11 @@
+{
+  "name": "btcaaron",
+  "version": "0.2.1",
+  "summary": "A Bitcoin Testnet transaction toolkit supporting Legacy, SegWit, and Taproot",
+  "author": "Aaron Zhang",
+  "license": null,
+  "home_page": "https://x.com/aaron_recompile",
+  "download_filename": "btcaaron-0.2.1.tar.gz",
+  "download_time": "2026-02-13T05:47:30.699110",
+  "package_url": "https://pypi.org/project/btcaaron/"
+}

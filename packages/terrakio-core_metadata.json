@@ -1,0 +1,11 @@
+{
+  "name": "terrakio-core",
+  "version": "0.5.24",
+  "summary": "Core package for the terrakio-python-api",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terrakio_core-0.5.24.tar.gz",
+  "download_time": "2026-02-13T05:47:28.833057",
+  "package_url": "https://pypi.org/project/terrakio-core/"
+}

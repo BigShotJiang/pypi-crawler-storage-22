@@ -1,0 +1,11 @@
+{
+  "name": "ora",
+  "version": "0.10.3",
+  "summary": "Alternative time and date library",
+  "author": "Alex Samuel",
+  "license": "BSD-3",
+  "home_page": "https://github.com/alexhsamuel/ora",
+  "download_filename": "ora-0.10.3.tar.gz",
+  "download_time": "2026-02-13T05:48:02.084370",
+  "package_url": "https://pypi.org/project/ora/"
+}

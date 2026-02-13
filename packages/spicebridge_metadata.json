@@ -1,0 +1,11 @@
+{
+  "name": "spicebridge",
+  "version": "1.1.10",
+  "summary": "AI-powered circuit design bridge connecting language models to ngspice simulation via MCP",
+  "author": "Brandon",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "spicebridge-1.1.10.tar.gz",
+  "download_time": "2026-02-13T05:47:18.586698",
+  "package_url": "https://pypi.org/project/spicebridge/"
+}
