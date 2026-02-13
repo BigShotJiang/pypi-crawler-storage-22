@@ -1,0 +1,11 @@
+{
+  "name": "onnx-shape-inference",
+  "version": "0.1.5",
+  "summary": "Symbolic shape inference for ONNX models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "onnx_shape_inference-0.1.5.tar.gz",
+  "download_time": "2026-02-13T20:05:09.452019",
+  "package_url": "https://pypi.org/project/onnx-shape-inference/"
+}

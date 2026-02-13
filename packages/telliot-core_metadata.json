@@ -1,0 +1,11 @@
+{
+  "name": "telliot-core",
+  "version": "0.4.1",
+  "summary": "Telliot is a Python framework for interacting with the decentralized TellorX network.",
+  "author": "Tellor Development Community",
+  "license": "MIT",
+  "home_page": "https://github.com/tellor-io/telliot-core",
+  "download_filename": "telliot_core-0.4.1.tar.gz",
+  "download_time": "2026-02-13T20:05:37.735387",
+  "package_url": "https://pypi.org/project/telliot-core/"
+}

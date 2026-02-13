@@ -1,0 +1,11 @@
+{
+  "name": "comfygit-deploy",
+  "version": "0.3.18",
+  "summary": "ComfyGit Deploy - Remote deployment and worker management CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "comfygit_deploy-0.3.18.tar.gz",
+  "download_time": "2026-02-13T20:05:06.846364",
+  "package_url": "https://pypi.org/project/comfygit-deploy/"
+}

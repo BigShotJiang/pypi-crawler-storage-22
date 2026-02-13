@@ -1,0 +1,11 @@
+{
+  "name": "mlte",
+  "version": "2.5.0",
+  "summary": "An infrastructure for machine learning test and evaluation.",
+  "author": "MLTE Engineers",
+  "license": null,
+  "home_page": "https://github.com/mlte-team/mlte",
+  "download_filename": "mlte-2.5.0.tar.gz",
+  "download_time": "2026-02-13T20:05:30.960797",
+  "package_url": "https://pypi.org/project/mlte/"
+}

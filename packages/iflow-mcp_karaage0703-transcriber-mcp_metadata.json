@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_karaage0703-transcriber-mcp",
+  "version": "0.1.0",
+  "summary": "A MCP server for transcribing audio and video files to text",
+  "author": "Transcriber MCP Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_karaage0703_transcriber_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-13T20:05:22.075941",
+  "package_url": "https://pypi.org/project/iflow-mcp_karaage0703-transcriber-mcp/"
+}

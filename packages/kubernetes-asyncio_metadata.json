@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-asyncio",
+  "version": "35.0.0",
+  "summary": "Kubernetes Asynchronous Python Client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubernetes_asyncio-35.0.0.tar.gz",
+  "download_time": "2026-02-13T20:05:40.942762",
+  "package_url": "https://pypi.org/project/kubernetes-asyncio/"
+}

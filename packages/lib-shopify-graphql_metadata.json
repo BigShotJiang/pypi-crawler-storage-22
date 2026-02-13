@@ -1,11 +1,11 @@
 {
   "name": "lib-shopify-graphql",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "summary": "Python library for Shopify GraphQL API interactions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lib_shopify_graphql-2.0.1.tar.gz",
-  "download_time": "2026-02-01T15:00:12.471647",
+  "download_filename": "lib_shopify_graphql-2.0.2.tar.gz",
+  "download_time": "2026-02-13T20:05:29.916396",
   "package_url": "https://pypi.org/project/lib-shopify-graphql/"
 }

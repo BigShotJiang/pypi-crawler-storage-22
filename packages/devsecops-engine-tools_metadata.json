@@ -1,11 +1,11 @@
 {
   "name": "devsecops-engine-tools",
-  "version": "1.134.0",
+  "version": "1.136.0",
   "summary": "Tool for DevSecOps strategy",
   "author": "Bancolombia DevSecOps Team",
   "license": null,
   "home_page": "https://github.com/bancolombia/devsecops-engine-tools",
-  "download_filename": "devsecops_engine_tools-1.134.0.tar.gz",
-  "download_time": "2026-02-05T20:31:52.758273",
+  "download_filename": "devsecops_engine_tools-1.136.0.tar.gz",
+  "download_time": "2026-02-13T20:05:29.395474",
   "package_url": "https://pypi.org/project/devsecops-engine-tools/"
 }

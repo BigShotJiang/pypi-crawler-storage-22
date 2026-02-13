@@ -1,0 +1,11 @@
+{
+  "name": "wg-gen",
+  "version": "0.2.2",
+  "summary": "CLI tool for managing WireGuard VPN interfaces and clients",
+  "author": "Dmitry Orlov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wg_gen-0.2.2.tar.gz",
+  "download_time": "2026-02-13T20:05:11.547420",
+  "package_url": "https://pypi.org/project/wg-gen/"
+}

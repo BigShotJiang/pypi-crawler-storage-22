@@ -1,0 +1,11 @@
+{
+  "name": "PhyloPhlAn",
+  "version": "3.2.1",
+  "summary": "Precise phylogenetic analysis of microbial isolates and genomes from metagenomes",
+  "author": "Francesco Asnicar",
+  "license": "license.txt",
+  "home_page": "http://github.com/biobakery/phylophlan",
+  "download_filename": "phylophlan-3.2.1.tar.gz",
+  "download_time": "2026-02-13T20:05:34.609067",
+  "package_url": "https://pypi.org/project/PhyloPhlAn/"
+}

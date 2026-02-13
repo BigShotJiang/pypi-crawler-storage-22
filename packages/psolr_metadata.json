@@ -1,0 +1,11 @@
+{
+  "name": "psolr",
+  "version": "0.1.0",
+  "summary": "Metaheuristic-Optimized Logistic Regression (PSO-LR / MOLR)",
+  "author": "Koustav Dutta",
+  "license": "MIT",
+  "home_page": "https://github.com/JEET-123/pso-logistic-regression",
+  "download_filename": "psolr-0.1.0.tar.gz",
+  "download_time": "2026-02-13T20:05:32.522700",
+  "package_url": "https://pypi.org/project/psolr/"
+}

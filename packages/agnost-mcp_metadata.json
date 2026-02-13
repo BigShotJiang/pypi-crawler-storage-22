@@ -1,0 +1,11 @@
+{
+  "name": "agnost-mcp",
+  "version": "0.1.10",
+  "summary": "Analytics SDK for Model Context Protocol Servers",
+  "author": "Agnost AI",
+  "license": "MIT",
+  "home_page": "https://github.com/agnostai/agnostai",
+  "download_filename": "agnost_mcp-0.1.10.tar.gz",
+  "download_time": "2026-02-13T20:05:34.089595",
+  "package_url": "https://pypi.org/project/agnost-mcp/"
+}
