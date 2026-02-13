@@ -1,0 +1,11 @@
+{
+  "name": "proofpudding",
+  "version": "0.1.6",
+  "summary": "Python SDK for the ProofPudding API - Document processing and Q&A",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "proofpudding-0.1.6.tar.gz",
+  "download_time": "2026-02-13T01:53:36.592729",
+  "package_url": "https://pypi.org/project/proofpudding/"
+}

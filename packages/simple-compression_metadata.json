@@ -1,0 +1,11 @@
+{
+  "name": "simple-compression",
+  "version": "0.2.0",
+  "summary": "A byte-level compression library implementing RLE and LZ77 with explicit encoding formats, manual pipelines, and automatic algorithm selection.",
+  "author": "Malek Yehya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simple_compression-0.2.0.tar.gz",
+  "download_time": "2026-02-13T01:53:31.808430",
+  "package_url": "https://pypi.org/project/simple-compression/"
+}

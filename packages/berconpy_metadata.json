@@ -1,0 +1,11 @@
+{
+  "name": "berconpy",
+  "version": "3.1.2",
+  "summary": "An async wrapper for the BattlEye RCON protocol",
+  "author": "thegamecracks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "berconpy-3.1.2.tar.gz",
+  "download_time": "2026-02-13T01:53:23.268018",
+  "package_url": "https://pypi.org/project/berconpy/"
+}

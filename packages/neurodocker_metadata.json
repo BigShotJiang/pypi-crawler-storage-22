@@ -1,0 +1,11 @@
+{
+  "name": "neurodocker",
+  "version": "2.1.0",
+  "summary": "A generic generator of Dockerfiles and Singularity recipes.",
+  "author": "Neurodocker Developers",
+  "license": "Apache License, 2.0",
+  "home_page": null,
+  "download_filename": "neurodocker-2.1.0.tar.gz",
+  "download_time": "2026-02-13T01:53:20.055028",
+  "package_url": "https://pypi.org/project/neurodocker/"
+}

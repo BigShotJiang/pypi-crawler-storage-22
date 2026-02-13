@@ -1,11 +1,11 @@
 {
   "name": "mcpforunityserver",
-  "version": "9.4.0",
+  "version": "9.4.4",
   "summary": "MCP for Unity Server: A Unity package for Unity Editor integration via the Model Context Protocol (MCP).",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpforunityserver-9.4.0.tar.gz",
-  "download_time": "2026-02-03T19:14:23.651404",
+  "download_filename": "mcpforunityserver-9.4.4.tar.gz",
+  "download_time": "2026-02-13T01:53:38.209136",
   "package_url": "https://pypi.org/project/mcpforunityserver/"
 }

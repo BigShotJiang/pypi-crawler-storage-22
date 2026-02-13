@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp-azurecosmosdb",
+  "version": "0.1.0",
+  "summary": "MCP Server for Azure Cosmos DB - enables LLM agents to interact with Azure Cosmos DB for NoSQL",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_azurecosmosdb-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-13T01:53:38.729709",
+  "package_url": "https://pypi.org/project/iflow-mcp-azurecosmosdb/"
+}

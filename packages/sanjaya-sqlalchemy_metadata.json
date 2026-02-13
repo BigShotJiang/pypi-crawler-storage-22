@@ -1,0 +1,11 @@
+{
+  "name": "sanjaya-sqlalchemy",
+  "version": "0.1.0",
+  "summary": "SQLAlchemy Core data-provider implementation for the Sanjaya reporting platform",
+  "author": "Tom Brennan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sanjaya_sqlalchemy-0.1.0.tar.gz",
+  "download_time": "2026-02-13T01:54:04.606436",
+  "package_url": "https://pypi.org/project/sanjaya-sqlalchemy/"
+}
