@@ -1,11 +1,11 @@
 {
   "name": "llama-parse",
-  "version": "0.6.93",
+  "version": "0.6.94",
   "summary": "Parse files into RAG-Optimized formats.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llama_parse-0.6.93.tar.gz",
-  "download_time": "2026-02-11T21:33:44.945342",
+  "download_filename": "llama_parse-0.6.94.tar.gz",
+  "download_time": "2026-02-13T23:57:37.701618",
   "package_url": "https://pypi.org/project/llama-parse/"
 }

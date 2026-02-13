@@ -1,0 +1,11 @@
+{
+  "name": "funlib.persistence",
+  "version": "0.7.0",
+  "summary": "Interfaces for data (arrays and graphs) and storage formats (databases and file formats)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "funlib_persistence-0.7.0.tar.gz",
+  "download_time": "2026-02-13T23:57:31.033299",
+  "package_url": "https://pypi.org/project/funlib.persistence/"
+}

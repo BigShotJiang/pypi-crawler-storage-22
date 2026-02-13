@@ -1,0 +1,11 @@
+{
+  "name": "rclib",
+  "version": "0.0.5",
+  "summary": "High-performance, scalable Reservoir Computing framework in C++ with Python bindings.",
+  "author": "Hiroshi Atsuta",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rclib-0.0.5.tar.gz",
+  "download_time": "2026-02-13T23:57:20.271103",
+  "package_url": "https://pypi.org/project/rclib/"
+}

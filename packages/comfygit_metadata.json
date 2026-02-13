@@ -1,11 +1,11 @@
 {
   "name": "comfygit",
-  "version": "0.3.18",
+  "version": "0.3.19",
   "summary": "ComfyGit - Git-based environment management for ComfyUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "comfygit-0.3.18.tar.gz",
-  "download_time": "2026-02-13T20:05:08.933204",
+  "download_filename": "comfygit-0.3.19.tar.gz",
+  "download_time": "2026-02-13T23:57:03.161609",
   "package_url": "https://pypi.org/project/comfygit/"
 }

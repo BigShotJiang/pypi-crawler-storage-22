@@ -1,0 +1,11 @@
+{
+  "name": "strx-bnm",
+  "version": "0.2.1",
+  "summary": "Herramienta para crear nuevos módulos Odoo 20 siguiendo estándares de Initium",
+  "author": "Initium Services",
+  "license": null,
+  "home_page": "https://github.com/straconxsa/strx_tools",
+  "download_filename": "strx_bnm-0.2.1.tar.gz",
+  "download_time": "2026-02-13T23:56:48.257211",
+  "package_url": "https://pypi.org/project/strx-bnm/"
+}

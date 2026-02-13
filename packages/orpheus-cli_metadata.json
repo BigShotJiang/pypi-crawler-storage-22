@@ -1,0 +1,11 @@
+{
+  "name": "orpheus-cli",
+  "version": "0.1.1",
+  "summary": "A command-line interface for orchestrating AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orpheus_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-13T23:57:20.780927",
+  "package_url": "https://pypi.org/project/orpheus-cli/"
+}

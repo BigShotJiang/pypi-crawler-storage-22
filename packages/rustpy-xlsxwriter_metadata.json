@@ -1,0 +1,11 @@
+{
+  "name": "rustpy-xlsxwriter",
+  "version": "0.0.12",
+  "summary": "High-performance Excel file generation powered by Rust",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/rahmadafandi/rustpy-xlsxwriter",
+  "download_filename": "rustpy_xlsxwriter-0.0.12.tar.gz",
+  "download_time": "2026-02-13T23:57:01.998175",
+  "package_url": "https://pypi.org/project/rustpy-xlsxwriter/"
+}

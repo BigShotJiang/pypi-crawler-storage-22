@@ -1,0 +1,11 @@
+{
+  "name": "fatoora-rs",
+  "version": "0.1.3",
+  "summary": "Python bindings for the fatoora-rs library, providing ZATCA-compliant e-invoicing functionality.",
+  "author": "mqqz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fatoora_rs-0.1.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-13T23:57:23.366355",
+  "package_url": "https://pypi.org/project/fatoora-rs/"
+}

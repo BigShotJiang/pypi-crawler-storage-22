@@ -1,11 +1,11 @@
 {
   "name": "jentic-openapi-validator-spectral",
-  "version": "1.0.0a37",
+  "version": "1.0.0a40",
   "summary": "Jentic OpenAPI Spectral Validator Backend",
   "author": "Jentic",
   "license": null,
   "home_page": null,
-  "download_filename": "jentic_openapi_validator_spectral-1.0.0a37.tar.gz",
-  "download_time": "2026-02-13T16:11:03.136198",
+  "download_filename": "jentic_openapi_validator_spectral-1.0.0a40.tar.gz",
+  "download_time": "2026-02-13T23:57:23.877513",
   "package_url": "https://pypi.org/project/jentic-openapi-validator-spectral/"
 }
