@@ -1,0 +1,11 @@
+{
+  "name": "ndonnx",
+  "version": "0.17.2",
+  "summary": "ONNX backed array library compliant with Array API standard.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ndonnx-0.17.2.tar.gz",
+  "download_time": "2026-02-13T11:06:12.625979",
+  "package_url": "https://pypi.org/project/ndonnx/"
+}

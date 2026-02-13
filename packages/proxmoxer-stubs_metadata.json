@@ -1,0 +1,11 @@
+{
+  "name": "proxmoxer-stubs",
+  "version": "0.3.2",
+  "summary": "stub files and type containers for proxmoxer",
+  "author": "credativ GmbH",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "proxmoxer_stubs-0.3.2.tar.gz",
+  "download_time": "2026-02-13T11:05:58.009702",
+  "package_url": "https://pypi.org/project/proxmoxer-stubs/"
+}

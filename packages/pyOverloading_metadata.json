@@ -1,0 +1,11 @@
+{
+  "name": "pyOverloading",
+  "version": "0.0.1",
+  "summary": "A Simple pure python library to emulate type overloading",
+  "author": "Anton Appel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyoverloading-0.0.1.tar.gz",
+  "download_time": "2026-02-13T11:06:05.818778",
+  "package_url": "https://pypi.org/project/pyOverloading/"
+}

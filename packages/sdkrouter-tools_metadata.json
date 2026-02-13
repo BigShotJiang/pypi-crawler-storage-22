@@ -1,11 +1,11 @@
 {
   "name": "sdkrouter-tools",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "SDK Router Tools — collection of utility tools for automation pipelines (telegram, logging, html cleaner, etc.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdkrouter_tools-0.1.1.tar.gz",
-  "download_time": "2026-01-29T05:48:43.307104",
+  "download_filename": "sdkrouter_tools-0.1.3.tar.gz",
+  "download_time": "2026-02-13T11:06:29.155790",
   "package_url": "https://pypi.org/project/sdkrouter-tools/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vision-unlearning",
+  "version": "0.1.8",
+  "summary": "Vision Unlearning: a tool for Machine Unlearning in Computer Vision",
+  "author": "Leonardo Santiago Benitez Pereira",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "vision_unlearning-0.1.8.tar.gz",
+  "download_time": "2026-02-13T11:06:21.035825",
+  "package_url": "https://pypi.org/project/vision-unlearning/"
+}

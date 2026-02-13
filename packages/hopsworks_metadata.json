@@ -1,0 +1,11 @@
+{
+  "name": "hopsworks",
+  "version": "4.6.4",
+  "summary": "Hopsworks Python SDK to interact with Hopsworks Platform, Feature Store, Model Registry and Model Serving",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hopsworks-4.6.4.tar.gz",
+  "download_time": "2026-02-13T11:05:50.973030",
+  "package_url": "https://pypi.org/project/hopsworks/"
+}

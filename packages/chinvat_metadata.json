@@ -1,0 +1,11 @@
+{
+  "name": "chinvat",
+  "version": "0.1.0",
+  "summary": "PDF to AI Agent Knowledge Bridge - Convert PDFs to enhanced Markdown/JSON",
+  "author": "Chinvat Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chinvat-0.1.0.tar.gz",
+  "download_time": "2026-02-13T11:05:53.486061",
+  "package_url": "https://pypi.org/project/chinvat/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "guido-common",
+  "version": "0.1.0",
+  "summary": "Contract package for the Guido model ecosystem — config, tokenizer, tensor manifest, cartridge format.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "guido_common-0.1.0.tar.gz",
+  "download_time": "2026-02-13T11:06:17.745254",
+  "package_url": "https://pypi.org/project/guido-common/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "meanderpy",
+  "version": "0.2.0",
+  "summary": "meanderpy: a simple model of meandering",
+  "author": "Zoltan Sylvester",
+  "license": null,
+  "home_page": "https://github.com/zsylvester/meanderpy",
+  "download_filename": "meanderpy-0.2.0.tar.gz",
+  "download_time": "2026-02-13T11:06:35.309299",
+  "package_url": "https://pypi.org/project/meanderpy/"
+}

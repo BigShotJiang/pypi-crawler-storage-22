@@ -1,0 +1,11 @@
+{
+  "name": "anki-miner",
+  "version": "2.0.2",
+  "summary": "Automated Japanese vocabulary mining from anime subtitles with Anki integration",
+  "author": "Anki Miner Contributors",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "anki_miner-2.0.2.tar.gz",
+  "download_time": "2026-02-13T11:06:02.061181",
+  "package_url": "https://pypi.org/project/anki-miner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "PowerBIMentor",
+  "version": "0.2.0",
+  "summary": "Extract metadata from Power BI .pbit templates and evaluate them using AI models.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "powerbimentor-0.2.0.tar.gz",
+  "download_time": "2026-02-13T11:05:46.401748",
+  "package_url": "https://pypi.org/project/PowerBIMentor/"
+}

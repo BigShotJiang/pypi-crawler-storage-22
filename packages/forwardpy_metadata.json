@@ -1,0 +1,11 @@
+{
+  "name": "forwardpy",
+  "version": "0.3.0",
+  "summary": "Python Interface And Implementation Separation Library",
+  "author": "forwardpy contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "forwardpy-0.3.0.tar.gz",
+  "download_time": "2026-02-13T11:06:10.708338",
+  "package_url": "https://pypi.org/project/forwardpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "UnleashClient",
+  "version": "6.5.2",
+  "summary": "Python client for the Unleash feature toggle system!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unleashclient-6.5.2.tar.gz",
+  "download_time": "2026-02-13T11:06:03.289070",
+  "package_url": "https://pypi.org/project/UnleashClient/"
+}
