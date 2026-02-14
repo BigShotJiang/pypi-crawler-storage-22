@@ -1,0 +1,11 @@
+{
+  "name": "grazer-skill",
+  "version": "1.4.0",
+  "summary": "Claude Code skill for grazing worthy content across social platforms",
+  "author": "Elyan Labs",
+  "license": null,
+  "home_page": "https://github.com/Scottcjn/grazer-skill",
+  "download_filename": "grazer_skill-1.4.0.tar.gz",
+  "download_time": "2026-02-14T18:01:18.379336",
+  "package_url": "https://pypi.org/project/grazer-skill/"
+}

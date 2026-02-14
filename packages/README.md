@@ -1,25 +1,61 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T17:46:16.749258
-- **Total Packages**: 87
-- **Total Size**: 49.62 MB
+- **Download Time**: 2026-02-14T18:01:58.609086
+- **Total Packages**: 89
+- **Total Size**: 16.74 MB
 
 ## Packages List
+- ErisPulse-YunhuUserAdapter
+- pyrig
+- easyfea
+- django-manager
+- aws-mcp
+- Vho
+- latdraw
+- paircars
+- gdscript-code-graph
+- emdash-ai
+- emdash-cli
+- emdash-core
+- visualisation-with-llm
+- fairscape-cli
+- caustics
+- dflockd
+- grazer-skill
+- alcnet
+- ignition-lint-toolkit
+- nxsrecselector
+- vibego
+- xy-utilities-oss
+- nibble-cli
+- openscvx
+- undore-rbac
+- interactive-visualisation-with-llm
+- dbset
+- litellm-proxy-extras
+- resumakeai
+- dtutils-dimitristerzz
+- pypatree
+- sentinel-ai-cli
+- robloxmemoryapi
+- sploitx-api
+- sploitx-security
+- inalign-mcp
+- sploitx-ai
+- qwenvert
+- humecodec
 - quiz-gen
 - gworkspace-mcp
 - aider-ce
 - kazuba-converter
 - cecli-dev
 - cloudflare-analytics
-- Vho
 - camunda-orchestration-sdk
 - mnemograph
-- dtutils-dimitristerzz
 - akquant
 - voice-out-translator
 - clm-core
-- visualisation-with-llm
 - ignition-lsp
 - dataknobs-bots
 - dataknobs-data
@@ -56,40 +92,6 @@
 - streamdoc-dl
 - stdlibx-option
 - stdlibx-streams
-- django-manager
 - stdlibx-config
 - stdlibx-compose
 - stdlibx-result
-- gemmology-crystal-geometry
-- athena-intelligence
-- autonomous-lab
-- stdlibx-matchtools
-- DeepThinking
-- stdlibx-itertools
-- kl-div-attention
-- quatint
-- fixturify
-- nonebot-plugin-rikka-extra
-- pixi-browse
-- todol
-- yap-torrent-simple-controls
-- yap-torrent-web
-- bolivar
-- prlx
-- dataspark-ai
-- mindglow
-- unisi
-- ai-agent-rules
-- sploitx-assets
-- dbx-py
-- sploitx-dev
-- sgptools
-- mccoygroup-mcutils
-- py-smart-test
-- max-div
-- gemmology-cdl-lsp
-- inference-tools
-- gemmology-cdl-parser
-- sploitx-agents
-- pullobj
-- aviationstack-mcp

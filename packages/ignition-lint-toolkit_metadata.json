@@ -1,11 +1,11 @@
 {
   "name": "ignition-lint-toolkit",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "summary": "Comprehensive Ignition linting tool with naming conventions and empirical validation. Extends ia-eknorr/ignition-lint with enhanced features.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ignition_lint_toolkit-0.1.0.tar.gz",
-  "download_time": "2026-02-06T05:23:46.320210",
+  "download_filename": "ignition_lint_toolkit-0.4.0.tar.gz",
+  "download_time": "2026-02-14T18:01:19.468111",
   "package_url": "https://pypi.org/project/ignition-lint-toolkit/"
 }

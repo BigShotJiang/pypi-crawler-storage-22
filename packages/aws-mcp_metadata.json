@@ -1,0 +1,11 @@
+{
+  "name": "aws-mcp",
+  "version": "1.6.0",
+  "summary": "AWS Model Context Protocol Server",
+  "author": "Alexei Ledenev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_mcp-1.6.0.tar.gz",
+  "download_time": "2026-02-14T18:01:11.433777",
+  "package_url": "https://pypi.org/project/aws-mcp/"
+}
