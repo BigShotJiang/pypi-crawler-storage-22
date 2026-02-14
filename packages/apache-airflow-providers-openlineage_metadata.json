@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-openlineage",
-  "version": "2.10.1",
+  "version": "2.10.2",
   "summary": "Provider package apache-airflow-providers-openlineage for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_openlineage-2.10.1.tar.gz",
-  "download_time": "2026-02-11T08:31:52.867176",
+  "download_filename": "apache_airflow_providers_openlineage-2.10.2.tar.gz",
+  "download_time": "2026-02-14T13:35:56.916440",
   "package_url": "https://pypi.org/project/apache-airflow-providers-openlineage/"
 }

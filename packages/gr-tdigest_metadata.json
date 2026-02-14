@@ -1,0 +1,11 @@
+{
+  "name": "gr-tdigest",
+  "version": "0.2.3",
+  "summary": "Rust TDigest with Python, Polars and JNI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ingolfured/gr-tdigest",
+  "download_filename": "gr_tdigest-0.2.3.tar.gz",
+  "download_time": "2026-02-14T13:35:40.787788",
+  "package_url": "https://pypi.org/project/gr-tdigest/"
+}

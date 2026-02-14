@@ -1,0 +1,11 @@
+{
+  "name": "nitros",
+  "version": "0.1.2",
+  "summary": "Communication made insanely easy - A simple, fast, and reliable communication library for robotics",
+  "author": "NitROS Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nitros-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-14T13:35:47.119257",
+  "package_url": "https://pypi.org/project/nitros/"
+}

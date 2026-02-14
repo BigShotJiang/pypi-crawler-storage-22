@@ -1,0 +1,11 @@
+{
+  "name": "XStatic-Angular-Schema-Form",
+  "version": "0.8.13.1",
+  "summary": "Angular-Schema-Form 0.8.13 (XStatic packaging standard)",
+  "author": null,
+  "license": "MIT",
+  "home_page": "http://schemaform.io/",
+  "download_filename": "xstatic_angular_schema_form-0.8.13.1.tar.gz",
+  "download_time": "2026-02-14T13:36:08.250852",
+  "package_url": "https://pypi.org/project/XStatic-Angular-Schema-Form/"
+}

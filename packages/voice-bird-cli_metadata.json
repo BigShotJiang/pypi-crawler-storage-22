@@ -1,0 +1,11 @@
+{
+  "name": "voice-bird-cli",
+  "version": "0.1.1",
+  "summary": "Voice Bird CLI - Terminal audio streaming for voice transcription",
+  "author": "Dzmitry Rekun",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "voice_bird_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-14T13:36:21.336579",
+  "package_url": "https://pypi.org/project/voice-bird-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "XStatic-tv4",
+  "version": "1.2.7.1",
+  "summary": "tv4 1.2.7 (XStatic packaging standard)",
+  "author": null,
+  "license": "https://github.com/geraintluff/tv4/blob/master/LICENSE.txt",
+  "home_page": "http://geraintluff.github.com/tv4/",
+  "download_filename": "xstatic_tv4-1.2.7.1.tar.gz",
+  "download_time": "2026-02-14T13:36:13.957784",
+  "package_url": "https://pypi.org/project/XStatic-tv4/"
+}

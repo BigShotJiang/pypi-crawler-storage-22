@@ -1,0 +1,11 @@
+{
+  "name": "pytest_httpserver",
+  "version": "1.1.5",
+  "summary": "pytest-httpserver is a httpserver for pytest",
+  "author": "Zsolt Cserna",
+  "license": null,
+  "home_page": "https://github.com/csernazs/pytest-httpserver",
+  "download_filename": "pytest_httpserver-1.1.5.tar.gz",
+  "download_time": "2026-02-14T13:35:46.093081",
+  "package_url": "https://pypi.org/project/pytest_httpserver/"
+}

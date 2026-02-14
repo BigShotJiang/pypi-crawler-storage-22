@@ -1,11 +1,11 @@
 {
   "name": "babilonia",
-  "version": "0.0.0.post1.dev21",
+  "version": "1.0.3",
   "summary": "Handle accounting and finances in Brazil using Python",
   "author": "Iporã Possantti",
   "license": null,
   "home_page": null,
-  "download_filename": "babilonia-0.0.0.post1.dev21.tar.gz",
-  "download_time": "2026-02-14T12:43:45.657592",
+  "download_filename": "babilonia-1.0.3.tar.gz",
+  "download_time": "2026-02-14T13:35:55.378394",
   "package_url": "https://pypi.org/project/babilonia/"
 }

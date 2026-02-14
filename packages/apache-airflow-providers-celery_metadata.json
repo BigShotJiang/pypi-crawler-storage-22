@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-celery",
-  "version": "3.15.2",
+  "version": "3.16.0",
   "summary": "Provider package apache-airflow-providers-celery for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_celery-3.15.2.tar.gz",
-  "download_time": "2026-02-11T08:32:01.253756",
+  "download_filename": "apache_airflow_providers_celery-3.16.0.tar.gz",
+  "download_time": "2026-02-14T13:36:04.139778",
   "package_url": "https://pypi.org/project/apache-airflow-providers-celery/"
 }
