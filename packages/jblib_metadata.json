@@ -1,0 +1,11 @@
+{
+  "name": "jblib",
+  "version": "1.11.0",
+  "summary": "JustBard's Python Utilities",
+  "author": "Justin Bard",
+  "license": null,
+  "home_page": "http://justbard.com",
+  "download_filename": "jblib-1.11.0.tar.gz",
+  "download_time": "2026-02-14T14:49:34.316917",
+  "package_url": "https://pypi.org/project/jblib/"
+}

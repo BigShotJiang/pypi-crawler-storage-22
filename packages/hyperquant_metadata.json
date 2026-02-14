@@ -1,0 +1,11 @@
+{
+  "name": "hyperquant",
+  "version": "1.53",
+  "summary": "A minimal yet hyper-efficient backtesting framework for quantitative trading",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperquant-1.53.tar.gz",
+  "download_time": "2026-02-14T14:49:13.927142",
+  "package_url": "https://pypi.org/project/hyperquant/"
+}

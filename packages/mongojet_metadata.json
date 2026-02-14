@@ -1,0 +1,11 @@
+{
+  "name": "mongojet",
+  "version": "0.4.4",
+  "summary": "Async MongoDB client for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mongojet-0.4.4.tar.gz",
+  "download_time": "2026-02-14T14:49:02.904762",
+  "package_url": "https://pypi.org/project/mongojet/"
+}

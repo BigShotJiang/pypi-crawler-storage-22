@@ -1,0 +1,11 @@
+{
+  "name": "plume-nostr",
+  "version": "0.1.0",
+  "summary": "A tool to sign and verify files using Nostr. Think GPG, but user-friendly",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "plume_nostr-0.1.0.tar.gz",
+  "download_time": "2026-02-14T14:49:12.004813",
+  "package_url": "https://pypi.org/project/plume-nostr/"
+}

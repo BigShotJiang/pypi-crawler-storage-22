@@ -1,11 +1,11 @@
 {
   "name": "bazinga-indeed",
-  "version": "4.8.18",
+  "version": "4.8.20",
   "summary": "BAZINGA - Distributed AI with Inter-AI Consensus through φ-coherence",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bazinga_indeed-4.8.18.tar.gz",
-  "download_time": "2026-02-14T14:08:18.484582",
+  "download_filename": "bazinga_indeed-4.8.20.tar.gz",
+  "download_time": "2026-02-14T14:49:17.360011",
   "package_url": "https://pypi.org/project/bazinga-indeed/"
 }

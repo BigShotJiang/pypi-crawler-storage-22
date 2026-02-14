@@ -1,0 +1,11 @@
+{
+  "name": "ultrabench",
+  "version": "1.0.1",
+  "summary": "A standardized benchmark of ultrasound image analysis tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ultrabench-1.0.1-py3-none-any.whl",
+  "download_time": "2026-02-14T14:49:45.824794",
+  "package_url": "https://pypi.org/project/ultrabench/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aurora",
+  "version": "0.6.1",
+  "summary": "Processing Codes for Magnetotelluric Data",
+  "author": null,
+  "license": "MIT license",
+  "home_page": null,
+  "download_filename": "aurora-0.6.1.tar.gz",
+  "download_time": "2026-02-14T14:49:44.135772",
+  "package_url": "https://pypi.org/project/aurora/"
+}

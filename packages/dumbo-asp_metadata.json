@@ -1,0 +1,11 @@
+{
+  "name": "dumbo-asp",
+  "version": "0.4.0",
+  "summary": "Utilities for Answer Set Programming",
+  "author": "Mario Alviano",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dumbo_asp-0.4.0.tar.gz",
+  "download_time": "2026-02-14T14:49:04.850262",
+  "package_url": "https://pypi.org/project/dumbo-asp/"
+}

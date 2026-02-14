@@ -1,11 +1,11 @@
 {
   "name": "xmindparser",
-  "version": "1.1.2",
+  "version": "1.2.1",
   "summary": "Convert xmind to programmable data types, support xmind pro and xmind zen file types.",
   "author": "Toby Qin",
   "license": null,
   "home_page": "https://github.com/tobyqin/xmindparser",
-  "download_filename": "xmindparser-1.1.2.tar.gz",
-  "download_time": "2026-02-14T14:08:51.464776",
+  "download_filename": "xmindparser-1.2.1.tar.gz",
+  "download_time": "2026-02-14T14:49:00.328673",
   "package_url": "https://pypi.org/project/xmindparser/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "botty-framework",
+  "version": "0.0.2",
+  "summary": "Botty brings the elegance of FastAPI's dependency injection and type hints to Telegram bot development. Write clean, testable bot code with automatic dependency resolution, built-in message registry, and a developer-friendly API.",
+  "author": "melaveetha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "botty_framework-0.0.2.tar.gz",
+  "download_time": "2026-02-14T14:49:36.229587",
+  "package_url": "https://pypi.org/project/botty-framework/"
+}
