@@ -1,11 +1,11 @@
 {
   "name": "repository-manager",
-  "version": "1.2.17",
+  "version": "1.3.8",
   "summary": "Manage your git projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "repository_manager-1.2.17.tar.gz",
-  "download_time": "2026-01-31T04:52:32.139758",
+  "download_filename": "repository_manager-1.3.8.tar.gz",
+  "download_time": "2026-02-14T06:57:45.148624",
   "package_url": "https://pypi.org/project/repository-manager/"
 }

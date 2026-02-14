@@ -1,0 +1,11 @@
+{
+  "name": "django-extended-history",
+  "version": "1.9.6",
+  "summary": "Drop-in replacement for default Django history",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_extended_history-1.9.6.tar.gz",
+  "download_time": "2026-02-14T06:57:40.301820",
+  "package_url": "https://pypi.org/project/django-extended-history/"
+}

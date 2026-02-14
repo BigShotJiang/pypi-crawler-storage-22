@@ -1,11 +1,11 @@
 {
   "name": "mathformer",
-  "version": "1.0.3",
+  "version": "1.2.1",
   "summary": "A transformer-based math library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mathformer-1.0.3.tar.gz",
-  "download_time": "2026-02-04T09:32:07.560837",
+  "download_filename": "mathformer-1.2.1.tar.gz",
+  "download_time": "2026-02-14T06:57:29.118557",
   "package_url": "https://pypi.org/project/mathformer/"
 }

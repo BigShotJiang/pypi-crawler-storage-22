@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_agent-network-protocol-mcp2anp",
+  "version": "0.1.0",
+  "summary": "MCP server that converts MCP protocol to ANP protocol",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_agent_network_protocol_mcp2anp-0.1.0.tar.gz",
+  "download_time": "2026-02-14T06:57:40.834116",
+  "package_url": "https://pypi.org/project/iflow-mcp_agent-network-protocol-mcp2anp/"
+}
