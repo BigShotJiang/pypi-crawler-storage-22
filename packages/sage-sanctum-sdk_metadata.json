@@ -1,11 +1,11 @@
 {
   "name": "sage-sanctum-sdk",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "SDK for building agents that run within Sage Sanctum infrastructure",
   "author": "Sage Security",
   "license": null,
   "home_page": null,
-  "download_filename": "sage_sanctum_sdk-0.2.7.tar.gz",
-  "download_time": "2026-02-14T03:57:25.133530",
+  "download_filename": "sage_sanctum_sdk-0.2.8.tar.gz",
+  "download_time": "2026-02-14T07:34:52.657672",
   "package_url": "https://pypi.org/project/sage-sanctum-sdk/"
 }

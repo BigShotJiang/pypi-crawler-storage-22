@@ -1,0 +1,11 @@
+{
+  "name": "hnnp-sdk",
+  "version": "0.1.1",
+  "summary": "HNNP Python SDK",
+  "author": "NearID",
+  "license": "UNLICENSED",
+  "home_page": null,
+  "download_filename": "hnnp_sdk-0.1.1.tar.gz",
+  "download_time": "2026-02-14T07:34:36.569938",
+  "package_url": "https://pypi.org/project/hnnp-sdk/"
+}

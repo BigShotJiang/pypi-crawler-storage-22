@@ -1,0 +1,11 @@
+{
+  "name": "codevaultAI",
+  "version": "1.1.2",
+  "summary": "GitHub-like version control system with AI-powered auto-updates and merge conflict resolution",
+  "author": "kevil rana ",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codevaultai-1.1.2.tar.gz",
+  "download_time": "2026-02-14T07:34:28.861180",
+  "package_url": "https://pypi.org/project/codevaultAI/"
+}

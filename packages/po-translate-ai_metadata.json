@@ -1,0 +1,11 @@
+{
+  "name": "po-translate-ai",
+  "version": "1.5.0",
+  "summary": "Batch translate .po and .ts files using AI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "po_translate_ai-1.5.0.tar.gz",
+  "download_time": "2026-02-14T07:34:25.794983",
+  "package_url": "https://pypi.org/project/po-translate-ai/"
+}

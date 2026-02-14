@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-taskjuggler",
+  "version": "0.1.2",
+  "summary": "Treesitter grammar for Taskjuggler Tasks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_taskjuggler-0.1.2-cp310-abi3-manylinux_2_5_i686.manylinux1_i686.manylinux_2_17_i686.manylinux2014_i686.whl",
+  "download_time": "2026-02-14T07:34:27.331497",
+  "package_url": "https://pypi.org/project/tree-sitter-taskjuggler/"
+}

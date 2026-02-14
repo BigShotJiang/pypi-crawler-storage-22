@@ -1,11 +1,11 @@
 {
   "name": "scrape-forvo",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scrape_forvo-1.0.0.tar.gz",
-  "download_time": "2026-02-14T06:57:31.402970",
+  "download_filename": "scrape_forvo-1.1.1.tar.gz",
+  "download_time": "2026-02-14T07:34:15.507576",
   "package_url": "https://pypi.org/project/scrape-forvo/"
 }

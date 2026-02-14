@@ -1,11 +1,11 @@
 {
   "name": "gemmology-mineral-database",
-  "version": "1.3.0",
+  "version": "1.8.0",
   "summary": "Crystal presets database for gemmological and mineralogical visualization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gemmology_mineral_database-1.3.0.tar.gz",
-  "download_time": "2026-01-29T08:02:22.847761",
+  "download_filename": "gemmology_mineral_database-1.8.0.tar.gz",
+  "download_time": "2026-02-14T07:34:48.015500",
   "package_url": "https://pypi.org/project/gemmology-mineral-database/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ghostfold",
+  "version": "0.1.1",
+  "summary": "Accurate, database-free protein folding from single sequences using structure-aware synthetic MSAs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghostfold-0.1.1.tar.gz",
+  "download_time": "2026-02-14T07:34:29.372293",
+  "package_url": "https://pypi.org/project/ghostfold/"
+}

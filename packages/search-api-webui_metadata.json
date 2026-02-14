@@ -1,11 +1,11 @@
 {
   "name": "search-api-webui",
-  "version": "0.2.2",
+  "version": "0.2.8",
   "summary": "A Search API WebUI for testing and comparing Querit, You, and other search providers.",
   "author": "querit.ai",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "search_api_webui-0.2.2-py3-none-any.whl",
-  "download_time": "2026-02-03T10:26:55.410116",
+  "download_filename": "search_api_webui-0.2.8-py3-none-any.whl",
+  "download_time": "2026-02-14T07:34:45.448612",
   "package_url": "https://pypi.org/project/search-api-webui/"
 }

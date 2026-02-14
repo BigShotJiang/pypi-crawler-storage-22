@@ -1,11 +1,11 @@
 {
   "name": "knowledgevault",
-  "version": "0.3.0",
-  "summary": "Config-driven knowledge graph framework for extracting structured knowledge from unstructured data",
+  "version": "0.6.0",
+  "summary": "Personal knowledge base that runs inside any MCP-compatible AI tool — structured, navigable, zero extra cost",
   "author": "Eddie Landesberg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "knowledgevault-0.3.0.tar.gz",
-  "download_time": "2026-02-06T22:53:50.903169",
+  "download_filename": "knowledgevault-0.6.0.tar.gz",
+  "download_time": "2026-02-14T07:34:24.773967",
   "package_url": "https://pypi.org/project/knowledgevault/"
 }
