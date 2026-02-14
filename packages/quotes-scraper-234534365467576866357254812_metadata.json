@@ -1,0 +1,11 @@
+{
+  "name": "quotes-scraper-234534365467576866357254812",
+  "version": "0.0.1",
+  "summary": "A simple web scraper for quotes.toscrape.com with Pandas integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quotes_scraper_234534365467576866357254812-0.0.1.tar.gz",
+  "download_time": "2026-02-14T11:47:53.524222",
+  "package_url": "https://pypi.org/project/quotes-scraper-234534365467576866357254812/"
+}

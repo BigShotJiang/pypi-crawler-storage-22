@@ -1,0 +1,11 @@
+{
+  "name": "claiv-memory",
+  "version": "0.2.0",
+  "summary": "Official Python SDK for the Claiv Memory API",
+  "author": "Claiv",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claiv_memory-0.2.0.tar.gz",
+  "download_time": "2026-02-14T11:48:14.060477",
+  "package_url": "https://pypi.org/project/claiv-memory/"
+}

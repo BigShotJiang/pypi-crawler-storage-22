@@ -1,11 +1,11 @@
 {
   "name": "kuberoku",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Heroku-like DX on vanilla Kubernetes — CLI + SDK, zero server-side components.",
   "author": "Aman Kumar Jain",
   "license": null,
   "home_page": null,
-  "download_filename": "kuberoku-0.2.1.tar.gz",
-  "download_time": "2026-02-14T08:43:51.435386",
+  "download_filename": "kuberoku-0.2.2.tar.gz",
+  "download_time": "2026-02-14T11:48:20.467799",
   "package_url": "https://pypi.org/project/kuberoku/"
 }

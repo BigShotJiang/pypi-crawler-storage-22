@@ -1,0 +1,11 @@
+{
+  "name": "idml2docbook",
+  "version": "1.1.5",
+  "summary": "Convert IDML files to DocBook.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idml2docbook-1.1.5.tar.gz",
+  "download_time": "2026-02-14T11:48:26.024237",
+  "package_url": "https://pypi.org/project/idml2docbook/"
+}

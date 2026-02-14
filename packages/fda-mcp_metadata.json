@@ -1,0 +1,11 @@
+{
+  "name": "fda-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server providing access to FDA data via the OpenFDA API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fda_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-14T11:48:03.800729",
+  "package_url": "https://pypi.org/project/fda-mcp/"
+}

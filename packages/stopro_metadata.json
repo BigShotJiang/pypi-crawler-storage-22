@@ -1,0 +1,11 @@
+{
+  "name": "stopro",
+  "version": "0.8.0",
+  "summary": "Stochastic processes in Python",
+  "author": "Dirk Brockmann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stopro-0.8.0.tar.gz",
+  "download_time": "2026-02-14T11:48:12.534108",
+  "package_url": "https://pypi.org/project/stopro/"
+}
