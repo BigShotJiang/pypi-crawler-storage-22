@@ -1,11 +1,11 @@
 {
   "name": "lite-mamba",
-  "version": "0.1.1",
+  "version": "0.2.4",
   "summary": "Pure-PyTorch lightweight Mamba with multi-dilated causal conv front-end",
-  "author": "Your Name",
+  "author": "Md Robiuddin",
   "license": "Apache-2.0",
-  "home_page": "https://github.com/yourname/lite-mamba",
-  "download_filename": "lite_mamba-0.1.1.tar.gz",
-  "download_time": "2026-01-28T18:00:34.800191",
+  "home_page": "https://github.com/Mrrobi/lite_mamba",
+  "download_filename": "lite_mamba-0.2.4.tar.gz",
+  "download_time": "2026-02-14T19:09:00.260654",
   "package_url": "https://pypi.org/project/lite-mamba/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "py-smart-test",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Development, testing, and dependency analysis tools for Python projects.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_smart_test-1.1.1.tar.gz",
-  "download_time": "2026-02-14T17:46:12.035216",
+  "download_filename": "py_smart_test-1.2.0.tar.gz",
+  "download_time": "2026-02-14T19:08:55.954150",
   "package_url": "https://pypi.org/project/py-smart-test/"
 }

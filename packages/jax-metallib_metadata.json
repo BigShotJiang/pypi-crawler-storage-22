@@ -1,11 +1,11 @@
 {
   "name": "jax-metallib",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "JAX backend for Apple M series of chips",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "jax_metallib-0.9.0.tar.gz",
-  "download_time": "2026-02-14T18:37:17.798335",
+  "download_filename": "jax_metallib-0.9.1.tar.gz",
+  "download_time": "2026-02-14T19:08:43.049722",
   "package_url": "https://pypi.org/project/jax-metallib/"
 }

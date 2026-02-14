@@ -1,0 +1,11 @@
+{
+  "name": "PyMSQ",
+  "version": "0.1.2",
+  "summary": "A Python package for fast Mendelian sampling (co)variance and haplotype-based similarity in genomic selection",
+  "author": "Abdulraheem Musa, Norbert Reinsch",
+  "license": "MIT",
+  "home_page": "https://github.com/aromemusa/PyMSQ",
+  "download_filename": "pymsq-0.1.2.tar.gz",
+  "download_time": "2026-02-14T19:08:46.858027",
+  "package_url": "https://pypi.org/project/PyMSQ/"
+}

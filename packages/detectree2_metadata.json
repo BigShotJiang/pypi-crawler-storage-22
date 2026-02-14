@@ -1,0 +1,11 @@
+{
+  "name": "detectree2",
+  "version": "2.1.2",
+  "summary": "Automatic tree crown delineation in aerial RGB imagery based on Mask R-CNN.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "detectree2-2.1.2.tar.gz",
+  "download_time": "2026-02-14T19:09:16.705981",
+  "package_url": "https://pypi.org/project/detectree2/"
+}

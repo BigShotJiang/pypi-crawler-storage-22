@@ -1,0 +1,11 @@
+{
+  "name": "trio",
+  "version": "0.33.0",
+  "summary": "A friendly Python library for async concurrency and I/O",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trio-0.33.0.tar.gz",
+  "download_time": "2026-02-14T19:09:18.315666",
+  "package_url": "https://pypi.org/project/trio/"
+}

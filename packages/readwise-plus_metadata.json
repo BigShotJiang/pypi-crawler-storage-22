@@ -1,0 +1,11 @@
+{
+  "name": "readwise-plus",
+  "version": "0.2.0",
+  "summary": "Comprehensive Python SDK for Readwise with high-level workflow abstractions. Supports V2 (highlights/books) and V3 (Reader) APIs with managers, workflows, and CLI.",
+  "author": "Evan Oman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "readwise_plus-0.2.0.tar.gz",
+  "download_time": "2026-02-14T19:08:52.731038",
+  "package_url": "https://pypi.org/project/readwise-plus/"
+}

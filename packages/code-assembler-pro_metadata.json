@@ -1,0 +1,11 @@
+{
+  "name": "code-assembler-pro",
+  "version": "4.3.1",
+  "summary": "Consolidate your codebase into structured Markdown context for LLMs (Claude, GPT, Gemini).",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "code_assembler_pro-4.3.1.tar.gz",
+  "download_time": "2026-02-14T19:08:46.329632",
+  "package_url": "https://pypi.org/project/code-assembler-pro/"
+}

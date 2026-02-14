@@ -1,11 +1,11 @@
 {
   "name": "hiveloop",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Lightweight observability SDK for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hiveloop-0.1.0.tar.gz",
-  "download_time": "2026-02-13T18:45:03.718635",
+  "download_filename": "hiveloop-0.1.1.tar.gz",
+  "download_time": "2026-02-14T19:09:13.912149",
   "package_url": "https://pypi.org/project/hiveloop/"
 }

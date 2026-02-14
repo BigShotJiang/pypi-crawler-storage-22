@@ -1,11 +1,11 @@
 {
   "name": "hashcli",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Hash - Intelligent CLI system with dual-mode functionality (LLM chat and command proxy)",
   "author": "Wensheng Wang",
   "license": "MIT",
   "home_page": "https://github.com/wensheng/hash",
-  "download_filename": "hashcli-0.3.1.tar.gz",
-  "download_time": "2026-02-01T23:21:51.016323",
+  "download_filename": "hashcli-0.4.0.tar.gz",
+  "download_time": "2026-02-14T19:08:55.411493",
   "package_url": "https://pypi.org/project/hashcli/"
 }

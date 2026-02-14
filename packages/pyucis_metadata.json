@@ -1,11 +1,11 @@
 {
   "name": "pyucis",
-  "version": "0.1.5.22003216962",
+  "version": "0.1.5.22022496331",
   "summary": "PyUCIS provides a Python API for manipulating UCIS coverage data.",
   "author": "Matthew Ballance",
   "license": "Apache 2.0",
   "home_page": "https://github.com/fvutils/pyucis",
-  "download_filename": "pyucis-0.1.5.22003216962-py2.py3-none-any.whl",
-  "download_time": "2026-02-13T21:35:24.768200",
+  "download_filename": "pyucis-0.1.5.22022496331-py2.py3-none-any.whl",
+  "download_time": "2026-02-14T19:08:59.734115",
   "package_url": "https://pypi.org/project/pyucis/"
 }

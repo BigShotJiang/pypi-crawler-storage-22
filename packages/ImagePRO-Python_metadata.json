@@ -1,0 +1,11 @@
+{
+  "name": "ImagePRO-Python",
+  "version": "1.2.1",
+  "summary": "Professional & modular image processing library with OpenCV, MediaPipe, and YOLO integration.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imagepro_python-1.2.1.tar.gz",
+  "download_time": "2026-02-14T19:08:50.598847",
+  "package_url": "https://pypi.org/project/ImagePRO-Python/"
+}
