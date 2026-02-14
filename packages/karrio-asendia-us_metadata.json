@@ -1,11 +1,11 @@
 {
   "name": "karrio-asendia-us",
-  "version": "2026.1.4",
+  "version": "2026.1.9",
   "summary": "Karrio - Asendia US Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_asendia_us-2026.1.4-py3-none-any.whl",
-  "download_time": "2026-01-31T06:59:44.229668",
+  "download_filename": "karrio_asendia_us-2026.1.9-py3-none-any.whl",
+  "download_time": "2026-02-14T22:23:15.218804",
   "package_url": "https://pypi.org/project/karrio-asendia-us/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "skysniff",
+  "version": "1.0.0",
+  "summary": "Get weather information for a specified address",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "skysniff-1.0.0.tar.gz",
+  "download_time": "2026-02-14T22:22:55.076257",
+  "package_url": "https://pypi.org/project/skysniff/"
+}

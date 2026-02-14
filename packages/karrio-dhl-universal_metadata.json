@@ -1,11 +1,11 @@
 {
   "name": "karrio-dhl-universal",
-  "version": "2026.1.5",
+  "version": "2026.1.9",
   "summary": "DHL Universal Tracking karrio extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_dhl_universal-2026.1.5-py3-none-any.whl",
-  "download_time": "2026-02-05T07:20:53.741013",
+  "download_filename": "karrio_dhl_universal-2026.1.9-py3-none-any.whl",
+  "download_time": "2026-02-14T22:23:07.989460",
   "package_url": "https://pypi.org/project/karrio-dhl-universal/"
 }

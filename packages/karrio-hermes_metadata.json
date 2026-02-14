@@ -1,11 +1,11 @@
 {
   "name": "karrio-hermes",
-  "version": "2026.1.5",
+  "version": "2026.1.9",
   "summary": "Karrio - Hermes Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_hermes-2026.1.5-py3-none-any.whl",
-  "download_time": "2026-02-05T07:20:46.517225",
+  "download_filename": "karrio_hermes-2026.1.9-py3-none-any.whl",
+  "download_time": "2026-02-14T22:23:01.312513",
   "package_url": "https://pypi.org/project/karrio-hermes/"
 }

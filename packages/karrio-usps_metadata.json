@@ -1,11 +1,11 @@
 {
   "name": "karrio-usps",
-  "version": "2026.1.5",
+  "version": "2026.1.9",
   "summary": "Karrio - USPS Shipping Extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_usps-2026.1.5-py3-none-any.whl",
-  "download_time": "2026-02-05T07:20:31.109274",
+  "download_filename": "karrio_usps-2026.1.9-py3-none-any.whl",
+  "download_time": "2026-02-14T22:22:45.300992",
   "package_url": "https://pypi.org/project/karrio-usps/"
 }

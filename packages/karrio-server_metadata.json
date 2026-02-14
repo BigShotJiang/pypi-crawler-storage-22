@@ -1,11 +1,11 @@
 {
   "name": "karrio-server",
-  "version": "2026.1.5",
+  "version": "2026.1.9",
   "summary": "Multi-carrier shipping API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "karrio_server-2026.1.5-py3-none-any.whl",
-  "download_time": "2026-02-05T07:20:39.295711",
+  "download_filename": "karrio_server-2026.1.9-py3-none-any.whl",
+  "download_time": "2026-02-14T22:22:53.537923",
   "package_url": "https://pypi.org/project/karrio-server/"
 }

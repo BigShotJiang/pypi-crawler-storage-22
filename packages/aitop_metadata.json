@@ -1,11 +1,11 @@
 {
   "name": "aitop",
-  "version": "0.15.2",
+  "version": "0.16.0",
   "summary": "AI/ML system monitor with mixed-vendor GPU/NPU telemetry, AI-process intelligence, and Linux + experimental macOS support",
   "author": "Alexander Warth",
   "license": "MIT",
   "home_page": "https://gitlab.com/CochainComplex/aitop",
-  "download_filename": "aitop-0.15.2.tar.gz",
-  "download_time": "2026-02-14T17:05:45.183968",
+  "download_filename": "aitop-0.16.0.tar.gz",
+  "download_time": "2026-02-14T22:22:29.549827",
   "package_url": "https://pypi.org/project/aitop/"
 }
