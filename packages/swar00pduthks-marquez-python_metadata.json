@@ -1,11 +1,11 @@
 {
   "name": "swar00pduthks-marquez-python",
-  "version": "0.52.36",
+  "version": "0.52.40",
   "summary": "Marquez Python Client",
   "author": "swar00pduthks",
   "license": null,
   "home_page": null,
-  "download_filename": "swar00pduthks_marquez_python-0.52.36.tar.gz",
-  "download_time": "2026-02-06T19:41:55.047881",
+  "download_filename": "swar00pduthks_marquez_python-0.52.40.tar.gz",
+  "download_time": "2026-02-14T19:39:21.315124",
   "package_url": "https://pypi.org/project/swar00pduthks-marquez-python/"
 }

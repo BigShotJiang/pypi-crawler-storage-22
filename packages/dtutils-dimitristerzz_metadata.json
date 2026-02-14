@@ -1,11 +1,11 @@
 {
   "name": "dtutils-dimitristerzz",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "DTUtils is a collection of utility functions purely made for convinience.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dtutils_dimitristerzz-0.0.3.tar.gz",
-  "download_time": "2026-02-14T18:01:25.995827",
+  "download_filename": "dtutils_dimitristerzz-0.0.4.tar.gz",
+  "download_time": "2026-02-14T19:39:32.492937",
   "package_url": "https://pypi.org/project/dtutils-dimitristerzz/"
 }

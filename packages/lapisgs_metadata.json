@@ -1,0 +1,11 @@
+{
+  "name": "lapisgs",
+  "version": "1.2.2",
+  "summary": "Refactored python training and inference code for 3D Gaussian Splatting",
+  "author": "yindaheng98",
+  "license": null,
+  "home_page": "https://github.com/yindaheng98/lapis-gs",
+  "download_filename": "lapisgs-1.2.2.tar.gz",
+  "download_time": "2026-02-14T19:39:09.905107",
+  "package_url": "https://pypi.org/project/lapisgs/"
+}

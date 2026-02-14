@@ -1,0 +1,11 @@
+{
+  "name": "rv-converter",
+  "version": "2026.2.14",
+  "summary": "JSON/JSONL to XLSX converter",
+  "author": "Rustam Vanchugov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rv_converter-2026.2.14.tar.gz",
+  "download_time": "2026-02-14T19:39:20.786562",
+  "package_url": "https://pypi.org/project/rv-converter/"
+}

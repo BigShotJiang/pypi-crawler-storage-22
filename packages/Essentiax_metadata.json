@@ -1,0 +1,11 @@
+{
+  "name": "Essentiax",
+  "version": "1.0.0",
+  "summary": "Complete ML automation platform with AutoML, Feature Engineering, AI Insights, and Interactive Dashboards.",
+  "author": "Shubham Wagh",
+  "license": null,
+  "home_page": "https://github.com/ShubhamWagh108/EssentiaX",
+  "download_filename": "essentiax-1.0.0.tar.gz",
+  "download_time": "2026-02-14T19:39:47.724641",
+  "package_url": "https://pypi.org/project/Essentiax/"
+}
