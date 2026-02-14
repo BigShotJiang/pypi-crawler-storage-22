@@ -1,0 +1,11 @@
+{
+  "name": "voice-out-translator",
+  "version": "0.1.0",
+  "summary": "Translate and transcribe the audio output voice.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voice_out_translator-0.1.0.tar.gz",
+  "download_time": "2026-02-14T17:45:35.338667",
+  "package_url": "https://pypi.org/project/voice-out-translator/"
+}

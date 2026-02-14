@@ -1,0 +1,11 @@
+{
+  "name": "sploitx-dev",
+  "version": "0.0.0",
+  "summary": "Reserved for the SploitX project (Development / Experimental).",
+  "author": "SploitX",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sploitx_dev-0.0.0.tar.gz",
+  "download_time": "2026-02-14T17:46:10.457150",
+  "package_url": "https://pypi.org/project/sploitx-dev/"
+}

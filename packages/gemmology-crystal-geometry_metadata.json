@@ -1,0 +1,11 @@
+{
+  "name": "gemmology-crystal-geometry",
+  "version": "1.0.4",
+  "summary": "3D crystal geometry engine for crystallographic visualization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemmology_crystal_geometry-1.0.4.tar.gz",
+  "download_time": "2026-02-14T17:45:58.847494",
+  "package_url": "https://pypi.org/project/gemmology-crystal-geometry/"
+}

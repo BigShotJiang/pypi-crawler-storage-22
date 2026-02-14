@@ -1,11 +1,11 @@
 {
   "name": "nonebot-plugin-rikka-extra",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "nonebot-plugin-rikka-extra",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nonebot_plugin_rikka_extra-0.3.1-cp310-cp310-macosx_10_9_x86_64.whl",
-  "download_time": "2026-02-07T09:48:50.478097",
+  "download_filename": "nonebot_plugin_rikka_extra-0.3.2-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-02-14T17:46:03.545970",
   "package_url": "https://pypi.org/project/nonebot-plugin-rikka-extra/"
 }

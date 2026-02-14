@@ -1,0 +1,11 @@
+{
+  "name": "DeepThinking",
+  "version": "0.2.4",
+  "summary": "Advanced sequential thinking MCP server with session management, templates, and visualization",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deepthinking-0.2.4.tar.gz",
+  "download_time": "2026-02-14T17:46:00.939918",
+  "package_url": "https://pypi.org/project/DeepThinking/"
+}

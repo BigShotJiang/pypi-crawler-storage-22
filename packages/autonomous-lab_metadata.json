@@ -1,11 +1,11 @@
 {
   "name": "autonomous-lab",
-  "version": "0.5.7",
+  "version": "0.5.9",
   "summary": "MCP server that turns any Senior-Junior workflow into an autonomous loop with a human decision maker. Seamless integration with Cursor, Claude Code, Codex, and any MCP client.",
   "author": "Albert Ying",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "autonomous_lab-0.5.7.tar.gz",
-  "download_time": "2026-02-14T15:44:56.334775",
+  "download_filename": "autonomous_lab-0.5.9.tar.gz",
+  "download_time": "2026-02-14T17:45:59.899615",
   "package_url": "https://pypi.org/project/autonomous-lab/"
 }

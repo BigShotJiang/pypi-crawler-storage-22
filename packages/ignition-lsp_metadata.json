@@ -1,0 +1,11 @@
+{
+  "name": "ignition-lsp",
+  "version": "0.3.0",
+  "summary": "Language Server Protocol implementation for Ignition by Inductive Automation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ignition_lsp-0.3.0.tar.gz",
+  "download_time": "2026-02-14T17:45:36.915043",
+  "package_url": "https://pypi.org/project/ignition-lsp/"
+}

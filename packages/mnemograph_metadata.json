@@ -1,0 +1,11 @@
+{
+  "name": "mnemograph",
+  "version": "0.5.1",
+  "summary": "Event-sourced knowledge graph memory for AI coding agents (MCP server)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mnemograph-0.5.1.tar.gz",
+  "download_time": "2026-02-14T17:45:33.773798",
+  "package_url": "https://pypi.org/project/mnemograph/"
+}

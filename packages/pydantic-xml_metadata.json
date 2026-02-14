@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-xml",
+  "version": "2.19.0",
+  "summary": "pydantic xml extension",
+  "author": "Dmitry Pershin",
+  "license": "Unlicense",
+  "home_page": null,
+  "download_filename": "pydantic_xml-2.19.0.tar.gz",
+  "download_time": "2026-02-14T17:45:53.114663",
+  "package_url": "https://pypi.org/project/pydantic-xml/"
+}
