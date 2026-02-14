@@ -1,11 +1,11 @@
 {
   "name": "razin",
-  "version": "0.2.0",
-  "summary": "Raisin skill risk scanner",
+  "version": "1.0.1",
+  "summary": "Static Analysis for LLM Agent Skills",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "razin-0.2.0.tar.gz",
-  "download_time": "2026-02-13T16:11:10.658783",
+  "download_filename": "razin-1.0.1.tar.gz",
+  "download_time": "2026-02-14T08:43:55.024871",
   "package_url": "https://pypi.org/project/razin/"
 }

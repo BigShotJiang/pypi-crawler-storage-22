@@ -1,11 +1,11 @@
 {
   "name": "opencode-collaboration",
-  "version": "2.2.10",
+  "version": "2.2.11",
   "summary": "双Agent协作框架 - 产品经理与开发的分离式协作工具",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opencode_collaboration-2.2.10.tar.gz",
-  "download_time": "2026-02-14T06:58:07.916079",
+  "download_filename": "opencode_collaboration-2.2.11.tar.gz",
+  "download_time": "2026-02-14T08:43:49.902232",
   "package_url": "https://pypi.org/project/opencode-collaboration/"
 }

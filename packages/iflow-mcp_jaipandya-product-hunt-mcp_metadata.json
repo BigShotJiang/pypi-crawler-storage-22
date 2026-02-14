@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jaipandya-product-hunt-mcp",
+  "version": "0.1.0",
+  "summary": "Product Hunt MCP Server - A FastMCP implementation for the Product Hunt API",
+  "author": "Jai Pandya",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_jaipandya_product_hunt_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-14T08:44:13.315310",
+  "package_url": "https://pypi.org/project/iflow-mcp_jaipandya-product-hunt-mcp/"
+}

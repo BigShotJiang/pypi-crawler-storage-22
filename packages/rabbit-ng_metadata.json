@@ -1,0 +1,11 @@
+{
+  "name": "rabbit-ng",
+  "version": "3.0.0",
+  "summary": "GitHub bot identification tool based on activity sequences",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "rabbit_ng-3.0.0.tar.gz",
+  "download_time": "2026-02-14T08:43:59.115882",
+  "package_url": "https://pypi.org/project/rabbit-ng/"
+}

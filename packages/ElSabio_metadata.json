@@ -1,0 +1,11 @@
+{
+  "name": "ElSabio",
+  "version": "0.5.0",
+  "summary": "The simple electricity meter data analysis platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "elsabio-0.5.0.tar.gz",
+  "download_time": "2026-02-14T08:44:08.576565",
+  "package_url": "https://pypi.org/project/ElSabio/"
+}

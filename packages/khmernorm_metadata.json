@@ -1,0 +1,11 @@
+{
+  "name": "khmernorm",
+  "version": "0.1.0",
+  "summary": "Deterministic Khmer text normalization for TTS",
+  "author": "Rin Pichphyrom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "khmernorm-0.1.0.tar.gz",
+  "download_time": "2026-02-14T08:43:52.473552",
+  "package_url": "https://pypi.org/project/khmernorm/"
+}

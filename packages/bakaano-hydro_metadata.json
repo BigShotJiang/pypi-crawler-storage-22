@@ -1,0 +1,11 @@
+{
+  "name": "bakaano-hydro",
+  "version": "1.3.7",
+  "summary": "Distributed hydrology-guided neural network for streamflow prediction",
+  "author": "Confidence Duku",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/confidence-duku/bakaano-hydro",
+  "download_filename": "bakaano_hydro-1.3.7.tar.gz",
+  "download_time": "2026-02-14T08:44:20.525471",
+  "package_url": "https://pypi.org/project/bakaano-hydro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "slidown-md",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "Transform Markdown into Beautiful HTML Presentations",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slidown_md-1.0.2.tar.gz",
-  "download_time": "2026-02-14T06:03:27.601812",
+  "download_filename": "slidown_md-1.0.3.tar.gz",
+  "download_time": "2026-02-14T08:44:17.969980",
   "package_url": "https://pypi.org/project/slidown-md/"
 }

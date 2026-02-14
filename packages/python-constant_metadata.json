@@ -1,0 +1,11 @@
+{
+  "name": "python-constant",
+  "version": "1.0.5",
+  "summary": "Constant type for python for immutable types",
+  "author": "kronuslx (Joel Manning)",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_constant-1.0.5.tar.gz",
+  "download_time": "2026-02-14T08:43:56.562183",
+  "package_url": "https://pypi.org/project/python-constant/"
+}
