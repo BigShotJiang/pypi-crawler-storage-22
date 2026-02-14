@@ -1,0 +1,11 @@
+{
+  "name": "cyqstats",
+  "version": "0.1.0",
+  "summary": "Streaming statistics and grouped aggregations for large event streams",
+  "author": "Cyquant Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cyqstats-0.1.0.tar.gz",
+  "download_time": "2026-02-14T20:26:00.971625",
+  "package_url": "https://pypi.org/project/cyqstats/"
+}

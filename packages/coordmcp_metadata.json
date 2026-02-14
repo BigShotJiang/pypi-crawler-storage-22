@@ -1,0 +1,11 @@
+{
+  "name": "coordmcp",
+  "version": "0.1.0",
+  "summary": "A FastMCP-based Model Context Protocol server for intelligent multi-agent code coordination",
+  "author": "CoordMCP Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "coordmcp-0.1.0.tar.gz",
+  "download_time": "2026-02-14T20:25:38.621391",
+  "package_url": "https://pypi.org/project/coordmcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "herd-store-duckdb",
+  "version": "0.0.1",
+  "summary": "Herd storage adapter — local DuckDB + MotherDuck.",
+  "author": "Faust Eriksen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "herd_store_duckdb-0.0.1.tar.gz",
+  "download_time": "2026-02-14T20:25:33.925766",
+  "package_url": "https://pypi.org/project/herd-store-duckdb/"
+}

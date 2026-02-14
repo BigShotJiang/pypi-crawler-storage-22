@@ -1,0 +1,11 @@
+{
+  "name": "mon-package-python",
+  "version": "0.1.0",
+  "summary": "Un package Python professionnel créé avec Poetry",
+  "author": "Votre Nom",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mon_package_python-0.1.0.tar.gz",
+  "download_time": "2026-02-14T20:25:37.084752",
+  "package_url": "https://pypi.org/project/mon-package-python/"
+}

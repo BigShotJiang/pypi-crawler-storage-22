@@ -1,11 +1,11 @@
 {
   "name": "mcp-memory-service",
-  "version": "10.12.1",
+  "version": "10.13.0",
   "summary": "Universal MCP memory service with semantic search, multi-client support, and autonomous consolidation for Claude Desktop, VS Code, and 13+ AI applications",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mcp_memory_service-10.12.1.tar.gz",
-  "download_time": "2026-02-14T19:08:33.738650",
+  "download_filename": "mcp_memory_service-10.13.0.tar.gz",
+  "download_time": "2026-02-14T20:25:36.000901",
   "package_url": "https://pypi.org/project/mcp-memory-service/"
 }

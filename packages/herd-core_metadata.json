@@ -1,0 +1,11 @@
+{
+  "name": "herd-core",
+  "version": "0.0.1",
+  "summary": "Agent team governance framework — execution-agnostic roles, authority models, decision capture, and craft standards for AI agent teams.",
+  "author": "Faust Eriksen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "herd_core-0.0.1.tar.gz",
+  "download_time": "2026-02-14T20:25:57.900511",
+  "package_url": "https://pypi.org/project/herd-core/"
+}

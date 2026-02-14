@@ -1,0 +1,11 @@
+{
+  "name": "pyairtouch",
+  "version": "3.2.0",
+  "summary": "A fully typed asyncio API for the Polyaire AirTouch AC controllers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyairtouch-3.2.0.tar.gz",
+  "download_time": "2026-02-14T20:26:01.543774",
+  "package_url": "https://pypi.org/project/pyairtouch/"
+}

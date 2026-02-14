@@ -1,0 +1,11 @@
+{
+  "name": "tiptop-ipy",
+  "version": "0.2.0",
+  "summary": "A Python wrapper for the ESO TIPTOP adaptive optics PSF simulation microservice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tiptop_ipy-0.2.0.tar.gz",
+  "download_time": "2026-02-14T20:25:54.317100",
+  "package_url": "https://pypi.org/project/tiptop-ipy/"
+}

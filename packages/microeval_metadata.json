@@ -1,0 +1,11 @@
+{
+  "name": "microeval",
+  "version": "0.4.2",
+  "summary": "Minimal evaluation framework for LLM testing with local and cloud providers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microeval-0.4.2.tar.gz",
+  "download_time": "2026-02-14T20:25:43.966894",
+  "package_url": "https://pypi.org/project/microeval/"
+}

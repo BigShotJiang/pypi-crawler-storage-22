@@ -1,0 +1,11 @@
+{
+  "name": "herd-ticket-linear",
+  "version": "0.0.1",
+  "summary": "Herd ticket lifecycle adapter for Linear.",
+  "author": "Faust Eriksen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "herd_ticket_linear-0.0.1.tar.gz",
+  "download_time": "2026-02-14T20:25:32.837730",
+  "package_url": "https://pypi.org/project/herd-ticket-linear/"
+}
