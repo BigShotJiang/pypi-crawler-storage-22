@@ -1,0 +1,11 @@
+{
+  "name": "algogene-mcp-server",
+  "version": "0.1.0",
+  "summary": "A set of tools that you can use to interact with ALGOGENE platform, a quant trading platform for strategy backtest, real-time data analytics and trading with 30+ brokers.",
+  "author": "ALGOGENE FINANCIAL TECHNOLOGY COMPANY LIMITED",
+  "license": null,
+  "home_page": "https://github.com/algogene-fintech/algogene_mcp_server",
+  "download_filename": "algogene_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-14T11:22:56.034199",
+  "package_url": "https://pypi.org/project/algogene-mcp-server/"
+}

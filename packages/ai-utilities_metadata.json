@@ -1,0 +1,11 @@
+{
+  "name": "ai-utilities",
+  "version": "1.0.0",
+  "summary": "Unified interface for AI providers with caching, rate limiting, and type safety",
+  "author": "Steffen Rasmussen",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_utilities-1.0.0.tar.gz",
+  "download_time": "2026-02-14T11:22:51.358739",
+  "package_url": "https://pypi.org/project/ai-utilities/"
+}

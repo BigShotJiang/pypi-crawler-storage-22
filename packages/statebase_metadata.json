@@ -1,0 +1,11 @@
+{
+  "name": "statebase",
+  "version": "0.4.0",
+  "summary": "The Reliability Layer for Production AI Agents",
+  "author": "StateBase Team",
+  "license": null,
+  "home_page": "https://github.com/StateBase/statebase-python",
+  "download_filename": "statebase-0.4.0.tar.gz",
+  "download_time": "2026-02-14T11:22:45.092708",
+  "package_url": "https://pypi.org/project/statebase/"
+}

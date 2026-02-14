@@ -1,11 +1,11 @@
 {
   "name": "zodb-pgjsonb",
-  "version": "0.1.dev19",
+  "version": "1.1.0",
   "summary": "ZODB storage adapter using PostgreSQL JSONB with zodb-json-codec transcoding",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zodb_pgjsonb-0.1.dev19.tar.gz",
-  "download_time": "2026-02-08T21:53:05.861579",
+  "download_filename": "zodb_pgjsonb-1.1.0.tar.gz",
+  "download_time": "2026-02-14T11:22:51.879641",
   "package_url": "https://pypi.org/project/zodb-pgjsonb/"
 }

@@ -1,11 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T10:57:09.100674
-- **Total Packages**: 82
-- **Total Size**: 45.4 MB
+- **Download Time**: 2026-02-14T11:23:25.402977
+- **Total Packages**: 84
+- **Total Size**: 8.52 MB
 
 ## Packages List
+- germanlegaltexts
+- http_client_request
+- agentprobe-framework
+- bluer-ugv
+- bluer-objects
+- overlay.library
+- overlay.language
+- matomo-bootstrap
+- team-memory-hub
+- statebase
+- ihp-gdsfactory
+- pmxt
+- yit-player
+- aivectormemory
+- lpydata-rishik
+- tgedr-datasets
+- bazinga-indeed
+- vector-bridge
+- fixturify
+- electrogram
+- mywork-ai
+- ai-utilities
+- zodb-pgjsonb
+- eq-insar
+- ashby
+- requests-forwarder
+- mcp-ph-sms
+- actionswf
+- agentica
+- tactus
+- algogene-mcp-server
+- requests_request
+- KNF
+- notebooklm-mcp-2026
+- esiosapy
+- ha-mcp-dev
+- ctxprotocol
+- hvpdb
+- functioneer
+- speech-evaluation-toolkit
+- japan-news-mcp
+- loggez
+- humanbound-cli
+- etoro-mcp-server
+- cmdop
+- konduktor-nightly
+- nuwa-build
 - deeplabcut-live
 - pluto-ml-nightly
 - MeUtils
@@ -18,7 +65,6 @@
 - aciper
 - gha-utils
 - m-hass-api
-- notebooklm-mcp-2026
 - lobster-genomics
 - lobster-proteomics
 - lobster-transcriptomics
@@ -30,61 +76,17 @@
 - philo-chat
 - bluer-algo
 - chandanops
-- bazinga-indeed
 - skilldock
 - yadnp3
-- tactus
 - letta-nightly
 - utilitai
 - kernelforge
 - dinao
 - commodity-registry
 - symbolicai
-- esiosapy
 - onesecondtrader
 - ic-lattice
-- mcp-ph-sms
 - py-ftmarkets
 - py-yfinance
 - pydantic-market-data
 - pyhandel-stubs
-- document-iq-platform-shared
-- nanosynth
-- prefixer
-- gdalgviz
-- minideploy
-- pyhandel
-- microbiorust
-- omium
-- bluer-ugv
-- parlor
-- ezga-lib
-- bluer-sandbox
-- bluer-agent
-- dycw-postgres
-- OneBotConnecter
-- sanatan-sdk
-- ipanema
-- hvpdb
-- overlay.library
-- overlay.language
-- OpenFisca-Japan
-- httpx_request
-- parishad
-- dlt645
-- z4usx
-- toons
-- dc-path-folder
-- juntagrico
-- engineeringagent
-- ziran
-- data-flow-diagram
-- fixturify
-- wenxian
-- zxc-compress
-- roam-code
-- s3dgraphy
-- httpcore_request
-- openshift-python-wrapper
-- pymupdf4llm
-- markdown-query
