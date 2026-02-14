@@ -1,11 +1,11 @@
 {
   "name": "dopamine-framework",
-  "version": "1.4.11",
+  "version": "1.4.13",
   "summary": "Initialize a production-ready Discord.py bot in just 4 lines of code. Smart and automated command syncing, easy-to-use in-Discord dashboard, logging backend, and more. Made by likerofturtles",
   "author": "likerofturtles",
   "license": null,
   "home_page": null,
-  "download_filename": "dopamine_framework-1.4.11.tar.gz",
-  "download_time": "2026-02-14T08:43:47.347053",
+  "download_filename": "dopamine_framework-1.4.13.tar.gz",
+  "download_time": "2026-02-14T09:07:43.249452",
   "package_url": "https://pypi.org/project/dopamine-framework/"
 }

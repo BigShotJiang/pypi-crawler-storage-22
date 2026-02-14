@@ -1,0 +1,11 @@
+{
+  "name": "phlo-pgweb",
+  "version": "0.1.0",
+  "summary": "pgweb service plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_pgweb-0.1.0.tar.gz",
+  "download_time": "2026-02-14T09:08:00.335116",
+  "package_url": "https://pypi.org/project/phlo-pgweb/"
+}

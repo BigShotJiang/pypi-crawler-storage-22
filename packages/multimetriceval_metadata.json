@@ -1,11 +1,11 @@
 {
   "name": "multimetriceval",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "多指标评测工具: 支持翻译 (sacreBLEU/COMET/BLEURT/chrF++)，延迟（ATD,StartOffset）与 语音 (UTMOS/WER)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "multimetriceval-0.4.0.tar.gz",
-  "download_time": "2026-02-14T06:58:06.847562",
+  "download_filename": "multimetriceval-0.4.1.tar.gz",
+  "download_time": "2026-02-14T09:08:09.011900",
   "package_url": "https://pypi.org/project/multimetriceval/"
 }

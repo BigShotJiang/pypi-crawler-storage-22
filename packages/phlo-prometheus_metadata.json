@@ -1,0 +1,11 @@
+{
+  "name": "phlo-prometheus",
+  "version": "0.1.0",
+  "summary": "prometheus service plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_prometheus-0.1.0.tar.gz",
+  "download_time": "2026-02-14T09:07:58.743880",
+  "package_url": "https://pypi.org/project/phlo-prometheus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "zotero-cli-tool",
+  "version": "1.7.5",
+  "summary": "Tinyscript tool for sorting and exporting Zotero references based on pyzotero",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zotero_cli_tool-1.7.5.tar.gz",
+  "download_time": "2026-02-14T09:08:06.330817",
+  "package_url": "https://pypi.org/project/zotero-cli-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bayesian-testing",
+  "version": "0.9.3",
+  "summary": "Bayesian A/B testing with simple probabilities.",
+  "author": "Matus Baniar",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bayesian_testing-0.9.3.tar.gz",
+  "download_time": "2026-02-14T09:07:48.561883",
+  "package_url": "https://pypi.org/project/bayesian-testing/"
+}

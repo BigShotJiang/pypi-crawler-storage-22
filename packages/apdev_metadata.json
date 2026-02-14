@@ -1,11 +1,11 @@
 {
   "name": "apdev",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Shared development tools for Python projects - character validation, circular import detection, and more",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "apdev-0.1.1.tar.gz",
-  "download_time": "2026-02-14T06:03:32.725423",
+  "download_filename": "apdev-0.1.2.tar.gz",
+  "download_time": "2026-02-14T09:08:02.467189",
   "package_url": "https://pypi.org/project/apdev/"
 }

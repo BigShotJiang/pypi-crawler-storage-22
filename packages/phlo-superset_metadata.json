@@ -1,0 +1,11 @@
+{
+  "name": "phlo-superset",
+  "version": "0.1.0",
+  "summary": "superset service plugin for Phlo",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "phlo_superset-0.1.0.tar.gz",
+  "download_time": "2026-02-14T09:07:57.682478",
+  "package_url": "https://pypi.org/project/phlo-superset/"
+}
