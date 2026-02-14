@@ -1,0 +1,11 @@
+{
+  "name": "beadloom",
+  "version": "1.4.0",
+  "summary": "Context Oracle + Doc Sync Engine for AI-assisted development",
+  "author": "Beadloom Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "beadloom-1.4.0.tar.gz",
+  "download_time": "2026-02-14T19:57:47.323427",
+  "package_url": "https://pypi.org/project/beadloom/"
+}

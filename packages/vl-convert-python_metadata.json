@@ -1,0 +1,11 @@
+{
+  "name": "vl-convert-python",
+  "version": "1.9.0.post1",
+  "summary": "Convert Vega-Lite chart specifications to SVG, PNG, or Vega",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/jonmmease/vl-convert",
+  "download_filename": "vl_convert_python-1.9.0.post1.tar.gz",
+  "download_time": "2026-02-14T19:58:03.344727",
+  "package_url": "https://pypi.org/project/vl-convert-python/"
+}

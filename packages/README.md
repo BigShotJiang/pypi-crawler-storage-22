@@ -1,11 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T19:39:53.574190
-- **Total Packages**: 84
-- **Total Size**: 42.36 MB
+- **Download Time**: 2026-02-14T19:58:26.328307
+- **Total Packages**: 88
+- **Total Size**: 42.25 MB
 
 ## Packages List
+- django-missive
+- miblab-ssa
+- c2cgeoportal-admin
+- salesengine
+- c2cgeoportal-geoportal
+- py-alive
+- c2cgeoportal-commons
+- python-missive
+- athena-intelligence
+- parlor
+- fastpyrepl
+- openakita
+- brilliance-admin
+- django-cachex
+- beadloom
+- cafe-engine
+- django-boosted
+- bigTpuProfile
+- ignition-lsp
+- oko-cli
+- live-stocks
+- stickers-downloader
+- graphon-client
+- PathBridge
+- ha-mcp-dev
+- qjalalicalendarwidget
+- showboat
+- dyngle
+- iqtoolkit-analyzer
+- policyshield
+- pybyd
+- langgraph-sdk
+- agentevalkit
+- JupyterChatbook
+- odgs
+- exoprotocol
+- barndoor
+- rank-torrent-name
+- conforme-digitale-toolkit-germanocosti
+- vex-sdk
+- gaussian-splatting-mcmc
+- pyspedas
+- convoviz
+- rhiza-tools
+- spellbot
+- vl-convert-python
+- pypepp
+- rv-converter
+- fastapi-toolsets
+- django-cms
+- aictrl
 - chuk-mcp-maritime-archives
 - open-agent-orchestrator
 - manhattan-mcp
@@ -26,10 +77,8 @@
 - styly-netsync-server
 - ksef2
 - mindroom
-- athena-intelligence
 - trusys
 - djust
-- rv-converter
 - swar00pduthks-marquez-python
 - pytest-aitest
 - dominus-sdk-python
@@ -45,48 +94,3 @@
 - accelforge
 - es-query-gen
 - freecad-visual-tests
-- onnx-doctor
-- codedocent
-- gersemi
-- clm-core
-- fastapi-getpaid
-- parlor
-- dtutils-dimitristerzz
-- aictrl
-- contractshield
-- oncecheck
-- exoprotocol
-- openakita
-- lucid-dl
-- sslides
-- salesengine
-- ignition-lsp
-- pyodbc-mi
-- documente_shared
-- skillchef
-- toolslm
-- pybyd
-- pyTelegramBotAPI
-- kreuzberg
-- py-smart-test
-- openintent
-- litestar-getpaid
-- conforme-digitale-toolkit-germanocosti
-- instarec
-- mcpskills-cli
-- plans
-- pocketpaw
-- lifegraph
-- biblemate
-- multiviewstacking
-- Essentiax
-- one-click-drf
-- autoneuronet
-- TRACK-pylib
-- reduced-3dgs
-- pptx-mcp
-- autonomous-lab
-- casty
-- mcp-memory-service
-- opensr-srgan
-- stackoverbot-mcp

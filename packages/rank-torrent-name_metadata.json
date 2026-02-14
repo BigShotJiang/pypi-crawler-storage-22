@@ -1,0 +1,11 @@
+{
+  "name": "rank-torrent-name",
+  "version": "1.11.0",
+  "summary": "Rank filenames based on user-defined rules!",
+  "author": "Spoked",
+  "license": "MIT",
+  "home_page": "https://github.com/dreulavelle/rank-torrent-name",
+  "download_filename": "rank_torrent_name-1.11.0.tar.gz",
+  "download_time": "2026-02-14T19:57:59.160175",
+  "package_url": "https://pypi.org/project/rank-torrent-name/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gaussian-splatting-mcmc",
+  "version": "1.2.1",
+  "summary": "Refactored python training code for 3D Gaussian Splatting as Markov Chain Monte Carlo",
+  "author": "yindaheng98",
+  "license": null,
+  "home_page": "https://github.com/yindaheng98/3dgs-mcmc",
+  "download_filename": "gaussian_splatting_mcmc-1.2.1.tar.gz",
+  "download_time": "2026-02-14T19:58:00.696385",
+  "package_url": "https://pypi.org/project/gaussian-splatting-mcmc/"
+}
