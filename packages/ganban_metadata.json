@@ -1,11 +1,11 @@
 {
   "name": "ganban",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Git-based kanban board TUI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ganban-0.5.1.tar.gz",
-  "download_time": "2026-02-14T11:48:27.043861",
+  "download_filename": "ganban-0.5.2.tar.gz",
+  "download_time": "2026-02-14T17:05:47.262374",
   "package_url": "https://pypi.org/project/ganban/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "geniushub-client",
+  "version": "0.7.3",
+  "summary": "An aiohttp-based client for Genius Hub systems",
+  "author": "Paul Manzotti",
+  "license": "MIT",
+  "home_page": "https://github.com/manzanotti/geniushub-client",
+  "download_filename": "geniushub_client-0.7.3.tar.gz",
+  "download_time": "2026-02-14T17:05:58.192019",
+  "package_url": "https://pypi.org/project/geniushub-client/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "nesterjester",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "A simple recursive function for nested lists",
   "author": "juliapython",
   "license": null,
   "home_page": "https://juliabush.dev",
-  "download_filename": "nesterjester-1.0.0.tar.gz",
-  "download_time": "2026-02-14T15:05:54.462146",
+  "download_filename": "nesterjester-1.2.0.tar.gz",
+  "download_time": "2026-02-14T17:06:12.817641",
   "package_url": "https://pypi.org/project/nesterjester/"
 }

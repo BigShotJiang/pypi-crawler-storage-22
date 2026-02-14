@@ -1,11 +1,11 @@
 {
   "name": "sqliter-py",
-  "version": "0.17.0",
+  "version": "0.19.0",
   "summary": "Interact with SQLite databases using Python and Pydantic",
   "author": "Grant Ramsay",
   "license": null,
   "home_page": null,
-  "download_filename": "sqliter_py-0.17.0.tar.gz",
-  "download_time": "2026-01-31T19:21:30.267670",
+  "download_filename": "sqliter_py-0.19.0.tar.gz",
+  "download_time": "2026-02-14T17:06:03.440836",
   "package_url": "https://pypi.org/project/sqliter-py/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "isage-tools",
+  "version": "0.2.4.13",
+  "summary": "sage-development Tools - CLI, Web UI, and Development Utilities",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_tools-0.2.4.13-cp311-none-any.whl",
+  "download_time": "2026-02-14T17:06:15.924691",
+  "package_url": "https://pypi.org/project/isage-tools/"
+}

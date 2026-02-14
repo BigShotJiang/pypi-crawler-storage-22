@@ -1,11 +1,11 @@
 {
   "name": "phishsage",
-  "version": "1.1.0",
+  "version": "1.2.1",
   "summary": "Lightweight email triage and phishing-analysis toolkit. Extracts headers, attachments, and links, applies heuristic checks, and produces structured insights.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "phishsage-1.1.0.tar.gz",
-  "download_time": "2026-02-14T10:24:58.272403",
+  "download_filename": "phishsage-1.2.1.tar.gz",
+  "download_time": "2026-02-14T17:06:16.951650",
   "package_url": "https://pypi.org/project/phishsage/"
 }

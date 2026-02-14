@@ -1,11 +1,11 @@
 {
   "name": "raqeb-cli",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Raqeb CLI - Command-line tool for Database PAM and Developer Secrets Management",
   "author": "Tzamun Arabia IT Co",
   "license": "MIT",
   "home_page": "https://github.com/Tzamun-Arabia-IT-Co/raqeb-cli",
-  "download_filename": "raqeb_cli-1.0.0.tar.gz",
-  "download_time": "2026-02-14T15:05:51.808165",
+  "download_filename": "raqeb_cli-1.2.0.tar.gz",
+  "download_time": "2026-02-14T17:05:57.677220",
   "package_url": "https://pypi.org/project/raqeb-cli/"
 }

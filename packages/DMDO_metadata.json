@@ -1,0 +1,11 @@
+{
+  "name": "DMDO",
+  "version": "2601.0",
+  "summary": "Distributed Multidisciplinary Design Optimization (DMDO)",
+  "author": "Ahmed H. Bayoumy",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/Ahmed-Bayoumy/DMDO",
+  "download_filename": "dmdo-2601.0-py3-none-any.whl",
+  "download_time": "2026-02-14T17:06:08.678354",
+  "package_url": "https://pypi.org/project/DMDO/"
+}

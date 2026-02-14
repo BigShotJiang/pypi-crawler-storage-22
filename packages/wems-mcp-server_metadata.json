@@ -1,11 +1,11 @@
 {
   "name": "wems-mcp-server",
-  "version": "1.5.3",
+  "version": "1.7.3",
   "summary": "World Event Monitoring System - MCP server for natural hazard monitoring",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wems_mcp_server-1.5.3.tar.gz",
-  "download_time": "2026-02-14T15:45:20.500565",
+  "download_filename": "wems_mcp_server-1.7.3.tar.gz",
+  "download_time": "2026-02-14T17:06:09.707256",
   "package_url": "https://pypi.org/project/wems-mcp-server/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pylegendmeta",
-  "version": "1.3.6",
+  "version": "1.4.0",
   "summary": "Python LEGEND-metadata implementation",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pylegendmeta-1.3.6.tar.gz",
-  "download_time": "2026-02-12T09:35:45.172584",
+  "download_filename": "pylegendmeta-1.4.0.tar.gz",
+  "download_time": "2026-02-14T17:06:25.883148",
   "package_url": "https://pypi.org/project/pylegendmeta/"
 }

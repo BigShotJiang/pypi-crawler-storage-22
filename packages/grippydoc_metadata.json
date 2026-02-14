@@ -1,0 +1,11 @@
+{
+  "name": "grippydoc",
+  "version": "0.3.0",
+  "summary": "Prevent documentation drift by linking Markdown to code blocks",
+  "author": "GrippyDoc Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "grippydoc-0.3.0.tar.gz",
+  "download_time": "2026-02-14T17:05:59.232476",
+  "package_url": "https://pypi.org/project/grippydoc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hamtaa-texttools",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "summary": "A high-level NLP toolkit built on top of modern LLMs.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hamtaa_texttools-2.4.0.tar.gz",
-  "download_time": "2026-02-14T16:03:25.438353",
+  "download_filename": "hamtaa_texttools-2.5.0.tar.gz",
+  "download_time": "2026-02-14T17:06:06.549985",
   "package_url": "https://pypi.org/project/hamtaa-texttools/"
 }

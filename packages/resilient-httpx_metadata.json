@@ -1,11 +1,11 @@
 {
   "name": "resilient-httpx",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Async HTTP client with retry, backoff, and proxy rotation",
   "author": "galthran-wq",
   "license": null,
   "home_page": null,
-  "download_filename": "resilient_httpx-0.2.0.tar.gz",
-  "download_time": "2026-02-14T14:49:46.984893",
+  "download_filename": "resilient_httpx-0.3.0.tar.gz",
+  "download_time": "2026-02-14T17:06:20.577775",
   "package_url": "https://pypi.org/project/resilient-httpx/"
 }

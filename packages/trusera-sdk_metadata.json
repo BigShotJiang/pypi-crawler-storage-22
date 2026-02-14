@@ -1,11 +1,11 @@
 {
   "name": "trusera-sdk",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for monitoring AI agents with Trusera",
   "author": null,
-  "license": "Apache-2.0",
+  "license": null,
   "home_page": null,
-  "download_filename": "trusera_sdk-0.1.0.tar.gz",
-  "download_time": "2026-02-12T23:32:38.672571",
+  "download_filename": "trusera_sdk-0.2.0.tar.gz",
+  "download_time": "2026-02-14T17:06:11.255840",
   "package_url": "https://pypi.org/project/trusera-sdk/"
 }

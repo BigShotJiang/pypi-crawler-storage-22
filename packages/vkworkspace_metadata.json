@@ -1,0 +1,11 @@
+{
+  "name": "vkworkspace",
+  "version": "1.0.1",
+  "summary": "Fully async framework for building VK Teams (VK Workspace) bots, inspired by aiogram 3",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vkworkspace-1.0.1.tar.gz",
+  "download_time": "2026-02-14T17:05:55.086100",
+  "package_url": "https://pypi.org/project/vkworkspace/"
+}
