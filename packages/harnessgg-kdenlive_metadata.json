@@ -1,0 +1,11 @@
+{
+  "name": "harnessgg-kdenlive",
+  "version": "0.3.0",
+  "summary": "Agent-first harness for editing Kdenlive projects",
+  "author": "lasdw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "harnessgg_kdenlive-0.3.0.tar.gz",
+  "download_time": "2026-02-14T20:55:23.006253",
+  "package_url": "https://pypi.org/project/harnessgg-kdenlive/"
+}

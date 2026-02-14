@@ -1,11 +1,11 @@
 {
   "name": "steamsync",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Tool to automatically add games from the Epic Games Launcher to Steam",
   "author": "Jayden Milne",
   "license": "AGPL-3.0-or-later",
   "home_page": "https://github.com/jaydenmilne/steamsync",
-  "download_filename": "steamsync-1.0.0.tar.gz",
-  "download_time": "2026-02-14T20:25:30.147761",
+  "download_filename": "steamsync-1.0.3.tar.gz",
+  "download_time": "2026-02-14T20:55:03.272740",
   "package_url": "https://pypi.org/project/steamsync/"
 }

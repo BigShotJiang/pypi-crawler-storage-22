@@ -1,0 +1,11 @@
+{
+  "name": "pybls21",
+  "version": "4.2.0",
+  "summary": "An api allowing control of AC state (temperature, on/off, speed) of an Blauberg S21 device locally over TCP",
+  "author": "Julius Vitkauskas",
+  "license": null,
+  "home_page": "https://github.com/jvitkauskas/pybls21",
+  "download_filename": "pybls21-4.2.0.tar.gz",
+  "download_time": "2026-02-14T20:55:18.404426",
+  "package_url": "https://pypi.org/project/pybls21/"
+}

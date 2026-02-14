@@ -1,11 +1,11 @@
 {
   "name": "mosaic-multigrid",
-  "version": "4.2.0",
+  "version": "4.4.0",
   "summary": "MMG: Mosaic Multi-Grid A research-grade multi-agent gridworld environments for reproducible RL experiments",
   "author": "Abdulhamid Mousa",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Abdulhamid97Mousa/mosaic_multigrid",
-  "download_filename": "mosaic_multigrid-4.2.0.tar.gz",
-  "download_time": "2026-02-13T23:56:51.952974",
+  "download_filename": "mosaic_multigrid-4.4.0.tar.gz",
+  "download_time": "2026-02-14T20:55:10.726714",
   "package_url": "https://pypi.org/project/mosaic-multigrid/"
 }

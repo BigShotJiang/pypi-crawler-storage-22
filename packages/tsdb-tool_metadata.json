@@ -1,0 +1,11 @@
+{
+  "name": "tsdb-tool",
+  "version": "0.1.0",
+  "summary": "PostgreSQL query and administration CLI tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tsdb_tool-0.1.0.tar.gz",
+  "download_time": "2026-02-14T20:54:58.513092",
+  "package_url": "https://pypi.org/project/tsdb-tool/"
+}

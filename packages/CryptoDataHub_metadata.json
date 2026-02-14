@@ -1,0 +1,11 @@
+{
+  "name": "CryptoDataHub",
+  "version": "1.1.0",
+  "summary": "Repository of cryptography-related data",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "cryptodatahub-1.1.0.tar.gz",
+  "download_time": "2026-02-14T20:55:17.381208",
+  "package_url": "https://pypi.org/project/CryptoDataHub/"
+}

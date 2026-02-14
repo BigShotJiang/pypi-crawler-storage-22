@@ -1,11 +1,11 @@
 {
   "name": "j-perm",
-  "version": "0.2.3",
+  "version": "1.2.0",
   "summary": "json permutation library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "j_perm-0.2.3.tar.gz",
-  "download_time": "2026-02-04T15:12:29.136663",
+  "download_filename": "j_perm-1.2.0.tar.gz",
+  "download_time": "2026-02-14T20:55:01.725880",
   "package_url": "https://pypi.org/project/j-perm/"
 }

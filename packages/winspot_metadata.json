@@ -1,0 +1,11 @@
+{
+  "name": "winspot",
+  "version": "0.3.2",
+  "summary": "A CLI utility to extract, download, and reset Windows Spotlight and Bing daily images.",
+  "author": "Volodymyr Horshenin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winspot-0.3.2.tar.gz",
+  "download_time": "2026-02-14T20:54:59.533425",
+  "package_url": "https://pypi.org/project/winspot/"
+}
