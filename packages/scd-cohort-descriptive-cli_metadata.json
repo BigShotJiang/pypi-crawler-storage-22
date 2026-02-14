@@ -1,0 +1,11 @@
+{
+  "name": "scd-cohort-descriptive-cli",
+  "version": "0.1.0",
+  "summary": "CLI for descriptive SCD cohort analyses.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scd_cohort_descriptive_cli-0.1.0-py3-none-win_amd64.whl",
+  "download_time": "2026-02-14T12:00:16.220586",
+  "package_url": "https://pypi.org/project/scd-cohort-descriptive-cli/"
+}

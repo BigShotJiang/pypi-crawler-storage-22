@@ -1,0 +1,11 @@
+{
+  "name": "ai-skills-manager",
+  "version": "4.1.0",
+  "summary": "GUI application for discovering, downloading, and managing AI Agent Skills",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_skills_manager-4.1.0.tar.gz",
+  "download_time": "2026-02-14T12:00:10.929091",
+  "package_url": "https://pypi.org/project/ai-skills-manager/"
+}

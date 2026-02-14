@@ -1,14 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T11:48:37.656221
-- **Total Packages**: 84
-- **Total Size**: 25.51 MB
+- **Download Time**: 2026-02-14T12:00:52.278430
+- **Total Packages**: 79
+- **Total Size**: 10.54 MB
 
 ## Packages List
+- paircars
+- ai-skills-manager
+- vibesrails
 - sdev
-- ya-agent-sdk
+- codegraph-cli
+- fleet-management-system
+- rpc-language
+- python-urlopen
+- videoconverter-worker
+- bazinga-indeed
+- pyhandel
+- scd-cohort-descriptive-cli
+- nlpta
+- archscript
+- agentprobe-framework
+- mywork-ai
+- plone.pgcatalog
+- doors-123456790987654321
+- skymarshal-cli
+- pydantic-json-patch
+- foundry-mcp
+- modern-di-faststream
+- sat-save-tools
+- idml2docbook
 - aerosim-drone
+- ksef2
+- simple-openai
+- openvr-virtual-driver-client
+- acs-data-collection
+- minideploy
+- answering-machine
+- miruvor
+- fmtr.tools
+- ya-agent-sdk
 - quotes-scraper-234534365467576866357254812
 - dinao
 - quotes-scraper-23453436541233
@@ -16,10 +47,7 @@
 - markdocx
 - jsonld-ex
 - pyhandel-stubs
-- fmtr.tools
-- pyhandel
 - quotes-scraper-128697778129
-- answering-machine
 - openlist-ani
 - boj-mcp
 - sysnet-pyutils
@@ -31,7 +59,6 @@
 - sia-script
 - cecil-sdk
 - audio2sub
-- bazinga-indeed
 - quotes-scraper-s13edf
 - y_agent_environment
 - and-so-on-scraper-234534365467576869
@@ -58,35 +85,3 @@
 - earl-sdk
 - spiketools
 - torchft-nightly
-- kuberoku
-- ipanema
-- deckops
-- blurt
-- gp-floweditor
-- og-test-x402
-- mindglow
-- x-api-rs
-- dashclaw
-- idml2docbook
-- chatvat
-- ganban
-- germanlegaltexts
-- http_client_request
-- agentprobe-framework
-- bluer-ugv
-- bluer-objects
-- overlay.library
-- overlay.language
-- matomo-bootstrap
-- team-memory-hub
-- statebase
-- ihp-gdsfactory
-- pmxt
-- yit-player
-- lpydata-rishik
-- tgedr-datasets
-- fixturify
-- electrogram
-- mywork-ai
-- ai-utilities
-- zodb-pgjsonb
