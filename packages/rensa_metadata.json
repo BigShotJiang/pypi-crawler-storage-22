@@ -1,0 +1,11 @@
+{
+  "name": "rensa",
+  "version": "0.3.1",
+  "summary": "High-performance MinHash implementation in Rust with Python bindings - 40x faster than datasketch",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rensa-0.3.1.tar.gz",
+  "download_time": "2026-02-14T15:06:12.139651",
+  "package_url": "https://pypi.org/project/rensa/"
+}

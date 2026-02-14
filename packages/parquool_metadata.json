@@ -1,0 +1,11 @@
+{
+  "name": "parquool",
+  "version": "0.0.14",
+  "summary": "Parquool - A Python Library for SQL like parquet query",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "parquool-0.0.14.tar.gz",
+  "download_time": "2026-02-14T15:05:59.629647",
+  "package_url": "https://pypi.org/project/parquool/"
+}

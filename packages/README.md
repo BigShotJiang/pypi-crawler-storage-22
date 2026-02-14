@@ -1,16 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T14:49:47.485874
-- **Total Packages**: 79
-- **Total Size**: 27.75 MB
+- **Download Time**: 2026-02-14T15:06:30.220666
+- **Total Packages**: 76
+- **Total Size**: 9.01 MB
 
 ## Packages List
+- nonebot_plugin_mc_server_status
+- parlor
+- agenticx
+- aip-protocol
+- philh_myftp_biz
+- rpc-language
+- hpl-runtime
+- dmg-diagnostic-agent
+- structcast
+- videoconverter-worker
+- db-mcp-server
+- raqeb-cli
+- sherpa-onnx
+- festivo-python
+- cachibot
+- nesterjester
+- uniface
+- voice-bird-cli
+- repo-lens
+- plume-nostr
+- easy-bbox
+- bakefile
+- parquool
+- yta-video-opengl
+- inalign-mcp
+- gemini-batch-api
+- masster-light
+- yagra
+- ksapi
+- gworkspace-mcp
+- JupyterChatbook
+- rapidkit-core
+- numcodecs-wasm-tthresh
+- autonomous-lab
+- numcodecs-wasm-sz3
+- numcodecs-wasm-sperr
+- numcodecs-wasm-qpet-sperr
+- zbWidgetLib
+- kernle
+- scpn-fusion
+- let3
+- bazinga-indeed
+- rensa
+- testigo-recall-mcp
 - asp-chef-cli
 - PyVLCB
-- parlor
 - fbtk
-- yagra
 - ys_lib
 - nordpy
 - xmindparser
@@ -31,7 +73,6 @@
 - cognix
 - PlexTraktSync
 - lsstdesc-crow
-- plume-nostr
 - ncview
 - mlpyqtgraph
 - hyperquant
@@ -39,49 +80,5 @@
 - cybrid-api-bank-python
 - PathBridge
 - dm2xcod
-- bazinga-indeed
 - cybrid-api-organization-python
 - cybrid-api-id-python
-- smartmemory
-- erasus
-- fraiseql-confiture
-- tandoor-client
-- zonolayer
-- paircars
-- PraisonAI
-- henchman-ai
-- numcodecs-wasm
-- gworkspace-mcp
-- ai-pipeline-core
-- fixturify
-- ctt-navier-stokes
-- justmytype
-- ankiops
-- qtara
-- praisonaiagents
-- dumbo-utils
-- bilibili-captions
-- answering-machine
-- renumerate
-- pipelex
-- dungeondice-matrix
-- jblib
-- aiinbx
-- mockfactory-cli
-- botty-framework
-- pftp
-- botapi-py
-- SharesightAPI
-- devsync
-- claude-mpm
-- pbir-utils
-- ihp-gdsfactory
-- chatnificent
-- py-opendisplay
-- annotate
-- sequencekit
-- aurora
-- lucid-dl
-- ultrabench
-- easyos
-- resilient-httpx

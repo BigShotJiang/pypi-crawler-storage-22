@@ -1,0 +1,11 @@
+{
+  "name": "repo-lens",
+  "version": "0.1.1",
+  "summary": "A powerful Git-aware repository assistant powered by LiteLLM and smolagents.",
+  "author": "Satish Jasthi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "repo_lens-0.1.1.tar.gz",
+  "download_time": "2026-02-14T15:05:56.019847",
+  "package_url": "https://pypi.org/project/repo-lens/"
+}

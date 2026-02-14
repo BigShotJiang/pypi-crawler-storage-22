@@ -1,0 +1,11 @@
+{
+  "name": "JupyterChatbook",
+  "version": "0.0.17",
+  "summary": "Custom Jupyter magics for interacting with LLMs.",
+  "author": "Anton Antonov",
+  "license": null,
+  "home_page": "https://github.com/antononcube/Python-JupyterChatbook",
+  "download_filename": "jupyterchatbook-0.0.17.tar.gz",
+  "download_time": "2026-02-14T15:06:05.302688",
+  "package_url": "https://pypi.org/project/JupyterChatbook/"
+}

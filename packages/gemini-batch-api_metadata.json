@@ -1,0 +1,11 @@
+{
+  "name": "gemini-batch-api",
+  "version": "0.1.0",
+  "summary": "Gemini Batch API utility",
+  "author": "Saito Tsutomu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gemini_batch_api-0.1.0-py3-none-any.whl",
+  "download_time": "2026-02-14T15:06:02.213342",
+  "package_url": "https://pypi.org/project/gemini-batch-api/"
+}

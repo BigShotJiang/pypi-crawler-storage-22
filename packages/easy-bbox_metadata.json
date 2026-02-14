@@ -1,0 +1,11 @@
+{
+  "name": "easy-bbox",
+  "version": "1.0.5",
+  "summary": "A lightweight and easy bounding box manipulation library with Pascal VOC, COCO, and YOLO format conversions.",
+  "author": "Alex-experiments",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "easy_bbox-1.0.5.tar.gz",
+  "download_time": "2026-02-14T15:05:57.056904",
+  "package_url": "https://pypi.org/project/easy-bbox/"
+}

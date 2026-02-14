@@ -1,0 +1,11 @@
+{
+  "name": "dmg-diagnostic-agent",
+  "version": "1.0.0",
+  "summary": "An agent to diagnose and report issues in web servers and projects.",
+  "author": "Tech Lab",
+  "license": null,
+  "home_page": "https://github.com/seu-usuario/dmg-diagnostic-agent",
+  "download_filename": "dmg_diagnostic_agent-1.0.0.tar.gz",
+  "download_time": "2026-02-14T15:05:49.727945",
+  "package_url": "https://pypi.org/project/dmg-diagnostic-agent/"
+}

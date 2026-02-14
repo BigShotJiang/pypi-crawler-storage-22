@@ -1,11 +1,11 @@
 {
   "name": "parlor",
-  "version": "0.6.2",
+  "version": "0.6.5",
   "summary": "Parlor - a private parlor for AI conversation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parlor-0.6.2.tar.gz",
-  "download_time": "2026-02-14T14:48:56.160183",
+  "download_filename": "parlor-0.6.5.tar.gz",
+  "download_time": "2026-02-14T15:05:46.558226",
   "package_url": "https://pypi.org/project/parlor/"
 }
