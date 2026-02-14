@@ -1,11 +1,11 @@
 {
   "name": "terradev-cli",
-  "version": "2.5.0",
-  "summary": "BYOAPI Parallel provisioning and orchestration for cross-cloud cost optimization with real-time analytics",
+  "version": "2.8.0",
+  "summary": "BYOAPI: Cross-cloud GPU provisioning with HuggingFace Spaces smart deployment",
   "author": "Terradev Team",
   "license": "MIT",
   "home_page": "https://terradev.cloud",
-  "download_filename": "terradev_cli-2.5.0.tar.gz",
-  "download_time": "2026-02-12T20:37:06.230644",
+  "download_filename": "terradev_cli-2.8.0.tar.gz",
+  "download_time": "2026-02-14T22:53:26.913202",
   "package_url": "https://pypi.org/project/terradev-cli/"
 }

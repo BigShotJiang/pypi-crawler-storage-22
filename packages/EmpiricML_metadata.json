@@ -1,0 +1,11 @@
+{
+  "name": "EmpiricML",
+  "version": "0.2.1",
+  "summary": "Python framework for building robust tabular machine learning models faster and easier",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "empiricml-0.2.1.tar.gz",
+  "download_time": "2026-02-14T22:53:48.028200",
+  "package_url": "https://pypi.org/project/EmpiricML/"
+}

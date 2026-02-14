@@ -1,0 +1,11 @@
+{
+  "name": "aquacal",
+  "version": "1.0.2",
+  "summary": "Refractive multi-camera calibration for underwater arrays with Snell's law modeling",
+  "author": "Tucker Lancaster",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aquacal-1.0.2.tar.gz",
+  "download_time": "2026-02-14T22:53:24.339619",
+  "package_url": "https://pypi.org/project/aquacal/"
+}

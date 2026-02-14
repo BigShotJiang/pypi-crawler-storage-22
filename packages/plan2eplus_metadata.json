@@ -1,0 +1,11 @@
+{
+  "name": "plan2eplus",
+  "version": "0.1.4",
+  "summary": "Translate floor plan geometry into building energy models",
+  "author": "Juliet Nwagwu Ume-Ezeoke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plan2eplus-0.1.4.tar.gz",
+  "download_time": "2026-02-14T22:53:33.078812",
+  "package_url": "https://pypi.org/project/plan2eplus/"
+}

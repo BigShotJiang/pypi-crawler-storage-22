@@ -1,11 +1,11 @@
 {
   "name": "alsogc",
-  "version": "0.3.3",
+  "version": "0.5.1",
   "summary": "Real-time multi-agent collaboration relay for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "alsogc-0.3.3.tar.gz",
-  "download_time": "2026-02-14T21:50:25.589878",
+  "download_filename": "alsogc-0.5.1.tar.gz",
+  "download_time": "2026-02-14T22:53:23.828764",
   "package_url": "https://pypi.org/project/alsogc/"
 }

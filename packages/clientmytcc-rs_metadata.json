@@ -1,0 +1,11 @@
+{
+  "name": "clientmytcc-rs",
+  "version": "0.1.12",
+  "summary": "MyTotalConnectComfort CLI for Evohome heating control (Rust implementation)",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/divyavanmahajan/clientmytcc/blob/main/rust/README.md",
+  "download_filename": "clientmytcc_rs-0.1.12.tar.gz",
+  "download_time": "2026-02-14T22:53:23.316026",
+  "package_url": "https://pypi.org/project/clientmytcc-rs/"
+}

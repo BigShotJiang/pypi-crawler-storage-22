@@ -1,0 +1,11 @@
+{
+  "name": "lppls",
+  "version": "0.6.21",
+  "summary": "A Python module for fitting the LPPLS model to data.",
+  "author": "Josh Nielsen",
+  "license": null,
+  "home_page": "https://github.com/Boulder-Investment-Technologies/lppls",
+  "download_filename": "lppls-0.6.21.tar.gz",
+  "download_time": "2026-02-14T22:53:44.445202",
+  "package_url": "https://pypi.org/project/lppls/"
+}

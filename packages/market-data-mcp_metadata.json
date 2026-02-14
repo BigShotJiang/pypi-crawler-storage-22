@@ -1,0 +1,11 @@
+{
+  "name": "market-data-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server providing real-time financial market data — stock quotes, crypto prices, technicals, sentiment, and more. No API keys required.",
+  "author": "Nathan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "market_data_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-14T22:53:36.146038",
+  "package_url": "https://pypi.org/project/market-data-mcp/"
+}

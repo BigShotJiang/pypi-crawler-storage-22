@@ -1,11 +1,11 @@
 {
   "name": "diorit.orm",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Data-modeling core for application development",
   "author": "bogdanAntonjuk",
   "license": null,
   "home_page": null,
-  "download_filename": "diorit_orm-0.2.2.tar.gz",
-  "download_time": "2026-02-14T19:39:26.122467",
+  "download_filename": "diorit_orm-0.2.3.tar.gz",
+  "download_time": "2026-02-14T22:53:38.763404",
   "package_url": "https://pypi.org/project/diorit.orm/"
 }

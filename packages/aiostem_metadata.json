@@ -1,0 +1,11 @@
+{
+  "name": "aiostem",
+  "version": "0.4.7",
+  "summary": "Asynchronous Tor controller library for asyncio and Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiostem-0.4.7.tar.gz",
+  "download_time": "2026-02-14T22:53:22.804613",
+  "package_url": "https://pypi.org/project/aiostem/"
+}

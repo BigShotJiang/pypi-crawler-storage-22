@@ -1,11 +1,11 @@
 {
   "name": "stackoverbot-mcp",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "MCP server for StackOverBot — search and share error solutions",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stackoverbot_mcp-0.2.0.tar.gz",
-  "download_time": "2026-02-14T19:08:34.823907",
+  "download_filename": "stackoverbot_mcp-0.3.0.tar.gz",
+  "download_time": "2026-02-14T22:53:52.160786",
   "package_url": "https://pypi.org/project/stackoverbot-mcp/"
 }

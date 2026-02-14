@@ -1,0 +1,11 @@
+{
+  "name": "touchgrass-mcp-server",
+  "version": "0.1.0",
+  "summary": "AI Chief of Staff — emotional memory, Bayesian belief tracking, dual-engine gap analysis, voice-adaptive briefings, and governed memory. MCP server for Claude Code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "touchgrass_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-14T22:53:24.849928",
+  "package_url": "https://pypi.org/project/touchgrass-mcp-server/"
+}
