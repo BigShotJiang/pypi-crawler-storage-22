@@ -1,0 +1,11 @@
+{
+  "name": "pollux-ai",
+  "version": "1.0.0rc1",
+  "summary": "Multimodal orchestration for LLM analysis",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pollux_ai-1.0.0rc1.tar.gz",
+  "download_time": "2026-02-14T14:08:31.723408",
+  "package_url": "https://pypi.org/project/pollux-ai/"
+}

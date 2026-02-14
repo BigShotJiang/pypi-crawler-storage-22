@@ -1,0 +1,11 @@
+{
+  "name": "ctt-riemann-hypothesis",
+  "version": "1.0.0",
+  "summary": "Riemann Hypothesis verification via CTT refraction",
+  "author": "Américo Simões",
+  "license": null,
+  "home_page": "https://github.com/SimoesCTT/ctt-riemann",
+  "download_filename": "ctt_riemann_hypothesis-1.0.0.tar.gz",
+  "download_time": "2026-02-14T14:08:24.012502",
+  "package_url": "https://pypi.org/project/ctt-riemann-hypothesis/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "arcade-slack",
-  "version": "2.1.0",
+  "version": "2.3.0",
   "summary": "Arcade.dev LLM tools for Slack",
   "author": null,
   "license": "Proprietary - Arcade Software License Agreement v1.0",
   "home_page": null,
-  "download_filename": "arcade_slack-2.1.0-py3-none-any.whl",
-  "download_time": "2026-02-03T21:09:57.819498",
+  "download_filename": "arcade_slack-2.3.0-py3-none-any.whl",
+  "download_time": "2026-02-14T14:08:15.988815",
   "package_url": "https://pypi.org/project/arcade-slack/"
 }

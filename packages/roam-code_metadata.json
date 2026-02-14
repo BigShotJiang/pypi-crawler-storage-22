@@ -1,11 +1,11 @@
 {
   "name": "roam-code",
-  "version": "8.0.1",
+  "version": "8.1.0",
   "summary": "Instant codebase comprehension for AI coding agents",
   "author": "CosmoHac",
   "license": null,
   "home_page": null,
-  "download_filename": "roam_code-8.0.1.tar.gz",
-  "download_time": "2026-02-14T10:57:05.439049",
+  "download_filename": "roam_code-8.1.0.tar.gz",
+  "download_time": "2026-02-14T14:08:46.989412",
   "package_url": "https://pypi.org/project/roam-code/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "altcodepro-polydb-python",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "summary": "Production-ready multi-cloud database abstraction layer with connection pooling, retry logic, and thread safety",
   "author": "AltCodePro",
   "license": null,
   "home_page": null,
-  "download_filename": "altcodepro_polydb_python-2.2.0.tar.gz",
-  "download_time": "2026-02-14T13:35:44.038649",
+  "download_filename": "altcodepro_polydb_python-2.2.1.tar.gz",
+  "download_time": "2026-02-14T14:09:01.790613",
   "package_url": "https://pypi.org/project/altcodepro-polydb-python/"
 }

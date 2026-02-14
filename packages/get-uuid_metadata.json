@@ -1,0 +1,11 @@
+{
+  "name": "get-uuid",
+  "version": "0.1.1",
+  "summary": "Windows library for getting your motherboard UUID",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "get_uuid-0.1.1.tar.gz",
+  "download_time": "2026-02-14T14:08:29.247263",
+  "package_url": "https://pypi.org/project/get-uuid/"
+}

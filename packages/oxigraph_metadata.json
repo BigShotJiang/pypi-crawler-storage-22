@@ -1,0 +1,11 @@
+{
+  "name": "oxigraph",
+  "version": "0.5.5",
+  "summary": "Oxigraph CLI tool and SPARQL HTTP server",
+  "author": "Tpt <thomas@pellissier-tanon.fr>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://oxigraph.org/cli/",
+  "download_filename": "oxigraph-0.5.5.tar.gz",
+  "download_time": "2026-02-14T14:08:40.062584",
+  "package_url": "https://pypi.org/project/oxigraph/"
+}

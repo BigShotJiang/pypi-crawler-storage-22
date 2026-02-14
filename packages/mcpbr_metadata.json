@@ -1,11 +1,11 @@
 {
   "name": "mcpbr",
-  "version": "0.13.3",
+  "version": "0.14.0",
   "summary": "Model Context Protocol Benchmark Runner - evaluate MCP servers against software engineering benchmarks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcpbr-0.13.3.tar.gz",
-  "download_time": "2026-02-13T21:35:16.894553",
+  "download_filename": "mcpbr-0.14.0.tar.gz",
+  "download_time": "2026-02-14T14:08:44.376636",
   "package_url": "https://pypi.org/project/mcpbr/"
 }

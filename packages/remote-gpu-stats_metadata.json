@@ -1,11 +1,11 @@
 {
   "name": "remote-gpu-stats",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remote_gpu_stats-0.1.1.tar.gz",
-  "download_time": "2026-02-14T13:35:43.014557",
+  "download_filename": "remote_gpu_stats-0.1.2.tar.gz",
+  "download_time": "2026-02-14T14:08:30.519794",
   "package_url": "https://pypi.org/project/remote-gpu-stats/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "http_client_request",
-  "version": "0.1.2",
+  "version": "0.1.2.1",
   "summary": "http.client request extension.",
   "author": "ChenyangGao",
   "license": "MIT",
   "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/http_client_request",
-  "download_filename": "http_client_request-0.1.2.tar.gz",
-  "download_time": "2026-02-14T11:22:40.926734",
+  "download_filename": "http_client_request-0.1.2.1.tar.gz",
+  "download_time": "2026-02-14T14:08:17.265187",
   "package_url": "https://pypi.org/project/http_client_request/"
 }

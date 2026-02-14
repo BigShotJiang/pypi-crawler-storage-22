@@ -1,0 +1,11 @@
+{
+  "name": "agent-ros-bridge",
+  "version": "0.1.0",
+  "summary": "Agent ROS Bridge - Universal ROS1/ROS2 bridge for AI agents to control robots and embodied intelligence systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_ros_bridge-0.1.0.tar.gz",
+  "download_time": "2026-02-14T14:08:55.471639",
+  "package_url": "https://pypi.org/project/agent-ros-bridge/"
+}
