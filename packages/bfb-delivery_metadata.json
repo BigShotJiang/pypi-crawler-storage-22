@@ -1,11 +1,11 @@
 {
   "name": "bfb-delivery",
-  "version": "2.0.2",
+  "version": "2.0.10",
   "summary": "Tools to help plan deliveries for Bellingham Food Bank.",
   "author": "Kaleb Coberly",
   "license": null,
   "home_page": null,
-  "download_filename": "bfb_delivery-2.0.2.tar.gz",
-  "download_time": "2026-01-29T23:22:17.167125",
+  "download_filename": "bfb_delivery-2.0.10.tar.gz",
+  "download_time": "2026-02-14T05:10:46.952950",
   "package_url": "https://pypi.org/project/bfb-delivery/"
 }

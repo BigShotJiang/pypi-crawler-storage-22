@@ -1,11 +1,11 @@
 {
   "name": "debtstack-ai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Corporate credit data API for AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "debtstack_ai-0.1.1.tar.gz",
-  "download_time": "2026-02-14T03:57:40.237070",
+  "download_filename": "debtstack_ai-0.1.2.tar.gz",
+  "download_time": "2026-02-14T05:10:56.822846",
   "package_url": "https://pypi.org/project/debtstack-ai/"
 }

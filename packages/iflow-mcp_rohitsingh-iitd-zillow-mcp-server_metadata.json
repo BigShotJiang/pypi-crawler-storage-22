@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_rohitsingh-iitd-zillow-mcp-server",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server that provides real-time access to Zillow real estate data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_rohitsingh_iitd_zillow_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-14T05:10:43.679359",
+  "package_url": "https://pypi.org/project/iflow-mcp_rohitsingh-iitd-zillow-mcp-server/"
+}

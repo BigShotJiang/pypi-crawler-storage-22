@@ -1,0 +1,11 @@
+{
+  "name": "vpmdk",
+  "version": "0.2.0",
+  "summary": "Run machine-learning potentials using VASP style inputs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vpmdk-0.2.0.tar.gz",
+  "download_time": "2026-02-14T05:11:02.295982",
+  "package_url": "https://pypi.org/project/vpmdk/"
+}

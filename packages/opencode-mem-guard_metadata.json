@@ -1,11 +1,11 @@
 {
   "name": "opencode-mem-guard",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "summary": "OpenCode memory leak monitor & zombie process reclaimer with system tray UI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "opencode_mem_guard-0.3.3.tar.gz",
-  "download_time": "2026-02-13T23:57:18.188350",
+  "download_filename": "opencode_mem_guard-0.3.4.tar.gz",
+  "download_time": "2026-02-14T05:11:00.662416",
   "package_url": "https://pypi.org/project/opencode-mem-guard/"
 }

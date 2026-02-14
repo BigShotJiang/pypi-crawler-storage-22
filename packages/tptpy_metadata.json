@@ -1,11 +1,11 @@
 {
   "name": "tptpy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A Textual TUI for interactively testing TextFSM and TTP templates with live parsing, JSON/table results, and exportable Python snippets.",
   "author": "Scott Peterman",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tptpy-1.0.0.tar.gz",
-  "download_time": "2026-02-14T01:33:45.747137",
+  "download_filename": "tptpy-1.0.1.tar.gz",
+  "download_time": "2026-02-14T05:10:43.132532",
   "package_url": "https://pypi.org/project/tptpy/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "autonomous-app",
-  "version": "0.3.69",
+  "version": "0.3.76",
   "summary": "Containerized application framework built on Flask with additional libraries and tools for rapid development of web applications.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autonomous_app-0.3.69.tar.gz",
-  "download_time": "2026-02-09T21:26:21.164511",
+  "download_filename": "autonomous_app-0.3.76.tar.gz",
+  "download_time": "2026-02-14T05:11:04.480830",
   "package_url": "https://pypi.org/project/autonomous-app/"
 }

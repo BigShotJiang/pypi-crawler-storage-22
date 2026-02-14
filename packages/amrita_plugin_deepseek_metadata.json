@@ -1,0 +1,11 @@
+{
+  "name": "amrita_plugin_deepseek",
+  "version": "0.1.2",
+  "summary": "Model security enhancement package for deepseek models in Amrita",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amrita_plugin_deepseek-0.1.2.tar.gz",
+  "download_time": "2026-02-14T05:10:48.619689",
+  "package_url": "https://pypi.org/project/amrita_plugin_deepseek/"
+}

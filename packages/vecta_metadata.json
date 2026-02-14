@@ -1,0 +1,11 @@
+{
+  "name": "vecta",
+  "version": "0.1.7",
+  "summary": "A lightweight SDK for benchmarking RAG agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vecta-0.1.7.tar.gz",
+  "download_time": "2026-02-14T05:11:06.186304",
+  "package_url": "https://pypi.org/project/vecta/"
+}

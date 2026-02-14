@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_effytech-freshdesk_mcp",
+  "version": "1.2.0",
+  "summary": "An MCP server for Freshdesk",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_effytech_freshdesk_mcp-1.2.0.tar.gz",
+  "download_time": "2026-02-14T05:11:06.730468",
+  "package_url": "https://pypi.org/project/iflow-mcp_effytech-freshdesk_mcp/"
+}

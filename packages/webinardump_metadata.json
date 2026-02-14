@@ -1,0 +1,11 @@
+{
+  "name": "webinardump",
+  "version": "0.2.0",
+  "summary": "Make local backup copies of webinars",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "webinardump-0.2.0.tar.gz",
+  "download_time": "2026-02-14T05:10:34.276528",
+  "package_url": "https://pypi.org/project/webinardump/"
+}
