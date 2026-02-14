@@ -1,0 +1,11 @@
+{
+  "name": "pylits",
+  "version": "0.1.1",
+  "summary": "Serialize and store Python literals with ease!",
+  "author": "romashka",
+  "license": "MIT",
+  "home_page": "https://github.com/Romashkaa/Pylits",
+  "download_filename": "pylits-0.1.1.tar.gz",
+  "download_time": "2026-02-14T21:23:43.095612",
+  "package_url": "https://pypi.org/project/pylits/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rollotree",
+  "version": "1.1.0",
+  "summary": "Rolling Lookahead Optimal Classification Trees",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rollotree-1.1.0.tar.gz",
+  "download_time": "2026-02-14T21:23:48.324695",
+  "package_url": "https://pypi.org/project/rollotree/"
+}

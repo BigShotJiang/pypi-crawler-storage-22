@@ -1,0 +1,11 @@
+{
+  "name": "commitpulse",
+  "version": "0.1.0",
+  "summary": "Premium Git repository analytics and dashboard generator",
+  "author": "Antigravity AI",
+  "license": null,
+  "home_page": null,
+  "download_filename": "commitpulse-0.1.0.tar.gz",
+  "download_time": "2026-02-14T21:23:37.375187",
+  "package_url": "https://pypi.org/project/commitpulse/"
+}

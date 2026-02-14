@@ -1,0 +1,11 @@
+{
+  "name": "CryptoParser",
+  "version": "1.1.0",
+  "summary": "An analysis oriented security protocol parser and generator",
+  "author": null,
+  "license": "MPL-2.0",
+  "home_page": null,
+  "download_filename": "cryptoparser-1.1.0.tar.gz",
+  "download_time": "2026-02-14T21:24:08.094529",
+  "package_url": "https://pypi.org/project/CryptoParser/"
+}

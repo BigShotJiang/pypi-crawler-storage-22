@@ -1,0 +1,11 @@
+{
+  "name": "md-tangle",
+  "version": "2.0.0",
+  "summary": "Generates ('tangles') source code from Markdown documents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "md_tangle-2.0.0.tar.gz",
+  "download_time": "2026-02-14T21:23:44.130808",
+  "package_url": "https://pypi.org/project/md-tangle/"
+}

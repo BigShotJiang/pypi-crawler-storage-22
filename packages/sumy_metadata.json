@@ -1,0 +1,11 @@
+{
+  "name": "sumy",
+  "version": "0.12.0",
+  "summary": "Module for automatic summarization of text documents and HTML pages.",
+  "author": null,
+  "license": "Apache License, Version 2.0",
+  "home_page": null,
+  "download_filename": "sumy-0.12.0.tar.gz",
+  "download_time": "2026-02-14T21:24:00.780255",
+  "package_url": "https://pypi.org/project/sumy/"
+}

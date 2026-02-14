@@ -1,11 +1,11 @@
 {
   "name": "multigen",
-  "version": "0.1.113",
+  "version": "0.1.114",
   "summary": "Python-to-Many code translation",
   "author": "Shakeeb Alireza",
   "license": null,
   "home_page": null,
-  "download_filename": "multigen-0.1.113.tar.gz",
-  "download_time": "2026-02-01T14:36:33.101697",
+  "download_filename": "multigen-0.1.114.tar.gz",
+  "download_time": "2026-02-14T21:24:05.494340",
   "package_url": "https://pypi.org/project/multigen/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hyperstack-langgraph",
+  "version": "1.1.0",
+  "summary": "Knowledge graph memory for LangGraph agents. Portable memory across tools, multi-agent coordination, zero LLM cost, time-travel debugging.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hyperstack_langgraph-1.1.0.tar.gz",
+  "download_time": "2026-02-14T21:24:08.624354",
+  "package_url": "https://pypi.org/project/hyperstack-langgraph/"
+}

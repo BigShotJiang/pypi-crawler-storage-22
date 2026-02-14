@@ -1,0 +1,11 @@
+{
+  "name": "pdfalive",
+  "version": "0.10.0",
+  "summary": "A Python library and CLI tool that uses LLMs to enhance PDF files",
+  "author": "Adam Ever-Hadani",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfalive-0.10.0.tar.gz",
+  "download_time": "2026-02-14T21:23:42.062890",
+  "package_url": "https://pypi.org/project/pdfalive/"
+}

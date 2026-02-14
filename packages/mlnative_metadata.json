@@ -1,11 +1,11 @@
 {
   "name": "mlnative",
-  "version": "0.3.5",
+  "version": "0.3.9",
   "summary": "Simple Python wrapper for MapLibre GL Native using native Rust renderer",
   "author": "Adon Metcalfe",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mlnative-0.3.5.tar.gz",
-  "download_time": "2026-02-02T08:09:08.294552",
+  "download_filename": "mlnative-0.3.9.tar.gz",
+  "download_time": "2026-02-14T21:23:32.672918",
   "package_url": "https://pypi.org/project/mlnative/"
 }

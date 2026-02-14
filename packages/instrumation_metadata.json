@@ -1,11 +1,11 @@
 {
   "name": "instrumation",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "A high-level Hardware Abstraction Layer (HAL) for RF test stations with Digital Twin support.",
   "author": "abduznik",
   "license": "MIT",
   "home_page": "https://github.com/abduznik/instrumation",
-  "download_filename": "instrumation-0.1.4.tar.gz",
-  "download_time": "2026-02-07T09:48:47.854845",
+  "download_filename": "instrumation-0.1.5.tar.gz",
+  "download_time": "2026-02-14T21:24:09.728548",
   "package_url": "https://pypi.org/project/instrumation/"
 }

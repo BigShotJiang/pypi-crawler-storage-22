@@ -1,0 +1,11 @@
+{
+  "name": "debugger-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server exposing debugger tools for AI clients (Node.js and Python)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "debugger_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-14T21:23:34.783729",
+  "package_url": "https://pypi.org/project/debugger-mcp/"
+}

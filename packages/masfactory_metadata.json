@@ -1,11 +1,11 @@
 {
   "name": "masfactory",
-  "version": "1.0.0.post4",
+  "version": "1.0.0.post6",
   "summary": "MASFactory is a framework for building agentic systems.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "masfactory-1.0.0.post4.tar.gz",
-  "download_time": "2026-02-14T20:25:47.125247",
+  "download_filename": "masfactory-1.0.0.post6.tar.gz",
+  "download_time": "2026-02-14T21:23:59.747352",
   "package_url": "https://pypi.org/project/masfactory/"
 }

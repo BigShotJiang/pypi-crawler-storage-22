@@ -1,11 +1,11 @@
 {
   "name": "newsfeed",
-  "version": "0.1.7",
+  "version": "0.1.7.1",
   "summary": null,
   "author": "Cyclododecene",
   "license": "MIT",
   "home_page": "https://github.com/Cyclododecene/newsfeed",
-  "download_filename": "newsfeed-0.1.7.tar.gz",
-  "download_time": "2026-02-14T17:45:48.953373",
+  "download_filename": "newsfeed-0.1.7.1.tar.gz",
+  "download_time": "2026-02-14T21:24:06.524122",
   "package_url": "https://pypi.org/project/newsfeed/"
 }

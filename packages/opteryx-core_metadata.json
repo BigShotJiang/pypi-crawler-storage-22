@@ -1,11 +1,11 @@
 {
   "name": "opteryx-core",
-  "version": "0.6.9",
+  "version": "0.6.20",
   "summary": "Opteryx Query Engine",
   "author": null,
   "license": null,
   "home_page": "https://github.com/mabel-dev/opteryx/",
-  "download_filename": "opteryx_core-0.6.9.tar.gz",
-  "download_time": "2026-02-02T23:38:19.389853",
+  "download_filename": "opteryx_core-0.6.20.tar.gz",
+  "download_time": "2026-02-14T21:24:09.215022",
   "package_url": "https://pypi.org/project/opteryx-core/"
 }
