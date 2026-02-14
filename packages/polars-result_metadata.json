@@ -1,0 +1,11 @@
+{
+  "name": "polars-result",
+  "version": "0.1.0",
+  "summary": "Railway-oriented Result type for Polars data pipelines",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polars_result-0.1.0.tar.gz",
+  "download_time": "2026-02-14T18:37:06.979157",
+  "package_url": "https://pypi.org/project/polars-result/"
+}

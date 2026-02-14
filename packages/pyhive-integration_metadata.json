@@ -1,0 +1,11 @@
+{
+  "name": "pyhive-integration",
+  "version": "1.0.7",
+  "summary": "A Python library to interface with the Hive API",
+  "author": "KJonline24",
+  "license": "MIT",
+  "home_page": "https://github.com/Pyhive/pyhiveapi",
+  "download_filename": "pyhive_integration-1.0.7.tar.gz",
+  "download_time": "2026-02-14T18:37:23.949246",
+  "package_url": "https://pypi.org/project/pyhive-integration/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "scitrera-app-framework",
-  "version": "0.0.68",
+  "version": "0.0.69",
   "summary": "Common Application Framework Code and Utilities",
   "author": "Scitrera LLC",
   "license": null,
   "home_page": "https://github.com/scitrera/python-app-framework",
-  "download_filename": "scitrera_app_framework-0.0.68.tar.gz",
-  "download_time": "2026-02-01T16:24:24.386331",
+  "download_filename": "scitrera_app_framework-0.0.69.tar.gz",
+  "download_time": "2026-02-14T18:37:24.975101",
   "package_url": "https://pypi.org/project/scitrera-app-framework/"
 }

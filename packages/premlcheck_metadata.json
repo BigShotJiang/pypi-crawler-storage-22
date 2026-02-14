@@ -1,0 +1,11 @@
+{
+  "name": "premlcheck",
+  "version": "0.1.0",
+  "summary": "An intelligent Python library that analyzes datasets before training machine learning models",
+  "author": "Mudassar Hussain",
+  "license": "MIT",
+  "home_page": "https://github.com/MudassarGill/PreMLCheck-Library",
+  "download_filename": "premlcheck-0.1.0.tar.gz",
+  "download_time": "2026-02-14T18:37:26.007976",
+  "package_url": "https://pypi.org/project/premlcheck/"
+}

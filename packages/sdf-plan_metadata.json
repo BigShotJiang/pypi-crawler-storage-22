@@ -1,0 +1,11 @@
+{
+  "name": "sdf-plan",
+  "version": "0.1.1",
+  "summary": "PlanSpec + lint + safety gates for agent plans.",
+  "author": "DirectiveProto",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sdf_plan-0.1.1-py3-none-any.whl",
+  "download_time": "2026-02-14T18:36:47.769477",
+  "package_url": "https://pypi.org/project/sdf-plan/"
+}

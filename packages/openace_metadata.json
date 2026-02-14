@@ -1,11 +1,11 @@
 {
   "name": "openace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AI-native Contextual Code Engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "openace-0.1.0-cp312-cp312-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-14T15:45:19.989456",
+  "download_filename": "openace-0.1.1-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-14T18:36:50.476107",
   "package_url": "https://pypi.org/project/openace/"
 }

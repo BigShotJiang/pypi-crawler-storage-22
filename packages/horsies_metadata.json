@@ -1,11 +1,11 @@
 {
   "name": "horsies",
-  "version": "0.1.0a2",
+  "version": "0.1.0a13",
   "summary": "A Python library for distributed task execution",
   "author": "Suleyman Ozkeskin",
   "license": null,
   "home_page": null,
-  "download_filename": "horsies-0.1.0a2.tar.gz",
-  "download_time": "2026-02-02T09:05:18.126877",
+  "download_filename": "horsies-0.1.0a13.tar.gz",
+  "download_time": "2026-02-14T18:37:01.315763",
   "package_url": "https://pypi.org/project/horsies/"
 }

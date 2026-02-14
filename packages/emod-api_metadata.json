@@ -1,0 +1,11 @@
+{
+  "name": "emod-api",
+  "version": "3.0.2",
+  "summary": "Core tools for modeling using EMOD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "emod_api-3.0.2.tar.gz",
+  "download_time": "2026-02-14T18:36:57.713930",
+  "package_url": "https://pypi.org/project/emod-api/"
+}

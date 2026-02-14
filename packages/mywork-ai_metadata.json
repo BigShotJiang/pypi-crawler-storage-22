@@ -1,11 +1,11 @@
 {
   "name": "mywork-ai",
-  "version": "2.2.0",
-  "summary": "AI-powered development framework with tools, workflows, and brain (knowledge vault)",
+  "version": "2.3.1",
+  "summary": "Complete AI-powered development framework with 53+ CLI commands for code generation, project analysis, security scanning, and deployment automation",
   "author": "Dan Sidanutz",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/dansidanutz/MyWork-AI",
-  "download_filename": "mywork_ai-2.2.0.tar.gz",
-  "download_time": "2026-02-14T12:00:18.374375",
+  "download_filename": "mywork_ai-2.3.1.tar.gz",
+  "download_time": "2026-02-14T18:36:48.355464",
   "package_url": "https://pypi.org/project/mywork-ai/"
 }

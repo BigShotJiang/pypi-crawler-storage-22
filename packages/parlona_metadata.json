@@ -1,11 +1,11 @@
 {
   "name": "parlona",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "summary": "Call analytics pipeline for speech-to-text, summarization, and insights extraction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "parlona-1.0.0.tar.gz",
-  "download_time": "2026-02-06T17:07:25.817319",
+  "download_filename": "parlona-1.0.5.tar.gz",
+  "download_time": "2026-02-14T18:37:11.103251",
   "package_url": "https://pypi.org/project/parlona/"
 }

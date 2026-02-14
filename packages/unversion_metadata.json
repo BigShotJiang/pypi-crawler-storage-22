@@ -1,0 +1,11 @@
+{
+  "name": "unversion",
+  "version": "0.1.0",
+  "summary": "Simple prompt versioning for AI applications. Store prompts in JSON, track usage, no hardcoding.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "unversion-0.1.0.tar.gz",
+  "download_time": "2026-02-14T18:36:52.532030",
+  "package_url": "https://pypi.org/project/unversion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "episodiq",
+  "version": "0.0.1",
+  "summary": "Ambient episodic memory for AI agents. Zero dependencies.",
+  "author": "Demba N'Doye",
+  "license": null,
+  "home_page": null,
+  "download_filename": "episodiq-0.0.1.tar.gz",
+  "download_time": "2026-02-14T18:36:47.258516",
+  "package_url": "https://pypi.org/project/episodiq/"
+}

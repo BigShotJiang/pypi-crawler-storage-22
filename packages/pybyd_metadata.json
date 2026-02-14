@@ -1,11 +1,11 @@
 {
   "name": "pybyd",
-  "version": "0.0.26",
+  "version": "0.0.31",
   "summary": "Async Python client for BYD vehicle telemetry API",
   "author": "pybyd contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "pybyd-0.0.26.tar.gz",
-  "download_time": "2026-02-13T12:48:40.673799",
+  "download_filename": "pybyd-0.0.31.tar.gz",
+  "download_time": "2026-02-14T18:36:52.019769",
   "package_url": "https://pypi.org/project/pybyd/"
 }

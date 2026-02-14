@@ -1,11 +1,11 @@
 {
   "name": "sentinel-ai-cli",
-  "version": "1.0.0",
-  "summary": "Professional Linux Cybersecurity CLI Tool: network scanner, risk analyzer, system info, and more.",
+  "version": "1.0.4",
+  "summary": "Professional Python Cybersecurity CLI Tool (Sentinel AI CLI)",
   "author": "Muhammad Dhiyaul Atha",
   "license": "MIT",
   "home_page": "https://github.com/Bangkah/sentinel",
-  "download_filename": "sentinel_ai_cli-1.0.0.tar.gz",
-  "download_time": "2026-02-14T18:01:27.082506",
+  "download_filename": "sentinel_ai_cli-1.0.4.tar.gz",
+  "download_time": "2026-02-14T18:36:49.377887",
   "package_url": "https://pypi.org/project/sentinel-ai-cli/"
 }

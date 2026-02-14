@@ -1,0 +1,11 @@
+{
+  "name": "mfrc522-python",
+  "version": "0.0.8",
+  "summary": "The mfrc522-python library is used to interact with RFID readers that use the MFRC522 chip interfaced with a Raspberry Pi.",
+  "author": "Aditya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mfrc522_python-0.0.8.tar.gz",
+  "download_time": "2026-02-14T18:36:56.674759",
+  "package_url": "https://pypi.org/project/mfrc522-python/"
+}
