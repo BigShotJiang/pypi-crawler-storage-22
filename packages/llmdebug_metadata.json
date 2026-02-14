@@ -1,11 +1,11 @@
 {
   "name": "llmdebug",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "summary": "Structured debug snapshots for LLM-assisted debugging",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llmdebug-2.8.1.tar.gz",
-  "download_time": "2026-02-14T08:44:00.161607",
+  "download_filename": "llmdebug-2.8.2.tar.gz",
+  "download_time": "2026-02-14T09:50:31.636750",
   "package_url": "https://pypi.org/project/llmdebug/"
 }

@@ -1,76 +1,18 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T09:08:25.301336
-- **Total Packages**: 89
-- **Total Size**: 28.27 MB
+- **Download Time**: 2026-02-14T09:50:55.320111
+- **Total Packages**: 81
+- **Total Size**: 4.44 MB
 
 ## Packages List
-- pylibjxl
-- audiorag
-- videopython
-- namel3ss
-- stocksstrategy
-- py-smart-test
-- arclet-letoderea
-- python-getpaid-paynow
-- nepse-cli
-- iflow-mcp_xlisp-visualization-mcp-server
-- dopamine-framework
-- hermes-client-python
-- boj-mcp
-- deeprecall
-- iflow-mcp_alexsmirnov-mcps
-- kernel-experience-tools
-- markdocx
-- tradier-api-client
-- estat-mcp
-- phlo
-- bayesian-testing
-- python-zatobox
-- Z4usX
-- SPARQLMojo
-- weevolve
-- logsentry-agent
-- Sejal-Raykhere
-- jaseci
-- bazinga-indeed
-- HydrogenLib-NEXT
-- jsonld-ex
-- jac-scale
-- jac-super
-- byllm
-- jac-client
-- phlo-trino
-- phlo-testing
-- phlo-superset
-- phlo-quality
-- phlo-prometheus
-- phlo-postgrest
-- phlo-postgres
-- phlo-pgweb
-- lecture-forge
-- pictologics
-- fcontext
-- apdev
-- MeUtils
-- jaclang
-- openlist-ani
-- maturin
-- mssql2mysql
-- hyperborea3
-- zotero-cli-tool
-- pyopenxlsx
-- sdev
-- vault-tar
-- codec-cub
-- multimetriceval
 - speedtest-z
 - hgraph
 - bakefile
 - Hydrogenlib-ReImporter
 - python-veracrypt
 - ihp-gdsfactory
+- mssql2mysql
 - robhan-cdk-lib.aws-aps
 - odoo14-addon-ssi-purchase
 - lean-dojo-v2
@@ -79,6 +21,7 @@
 - robhan-cdk-lib.aws-grafana
 - dycw-postgres
 - breesy
+- dopamine-framework
 - strands-sglang
 - sanna
 - Topsis-Manasvi-102317206
@@ -95,3 +38,52 @@
 - syke
 - razin
 - senselab-cli
+- agstack
+- python-constant
+- videoconverter-worker
+- purifyllm
+- ai-pipeline-core
+- agentworld-gateway
+- rabbit-ng
+- iflow-mcp_code-yeongyu-perplexity-advanced-mcp
+- llmdebug
+- isage-pypi-publisher
+- ansible-inspec
+- bazinga-indeed
+- Topsis-Savree-102317097
+- sqlobjects
+- uipath-runtime
+- ynab-unlinked
+- qianli
+- querycraft
+- skilldock
+- StreamingCommunity
+- toollib
+- dapple
+- aip-agents-binary
+- task-scheduling
+- ElSabio
+- modelparameters
+- kenya-address-parser
+- iflow-mcp_adam-paterson-mcp-crew-ai
+- tpu-inference
+- onnxscript
+- oelint-data
+- aiinbx
+- pptx-mcp
+- iflow-mcp_jaipandya-product-hunt-mcp
+- dycw-actions
+- diffct
+- wqb-mcp
+- pygrnwang
+- pyglove
+- mindroom
+- pylibjxl
+- slidown-md
+- finops-ai
+- gitupdt
+- syke-ai
+- cdsswarm
+- bakaano-hydro
+- mixtrain
+- tracetorch
