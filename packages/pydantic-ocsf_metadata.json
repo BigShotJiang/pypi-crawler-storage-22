@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ocsf",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "Pydantic models for the Open Cybersecurity Schema Framework (OCSF)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ocsf-2.0.1.tar.gz",
-  "download_time": "2026-02-07T05:43:57.647488",
+  "download_filename": "pydantic_ocsf-2.0.3.tar.gz",
+  "download_time": "2026-02-14T16:03:20.149291",
   "package_url": "https://pypi.org/project/pydantic-ocsf/"
 }

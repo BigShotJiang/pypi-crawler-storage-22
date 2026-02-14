@@ -1,0 +1,11 @@
+{
+  "name": "saneconfig",
+  "version": "0.1.0",
+  "summary": "Dead-simple typed config loader for dataclasses (defaults + TOML + env) with great errors.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "saneconfig-0.1.0.tar.gz",
+  "download_time": "2026-02-14T16:03:04.440929",
+  "package_url": "https://pypi.org/project/saneconfig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bollard",
+  "version": "0.1.1",
+  "summary": "A Pythonic client for the Docker/Podman Engine API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bollard-0.1.1.tar.gz",
+  "download_time": "2026-02-14T16:03:14.992892",
+  "package_url": "https://pypi.org/project/bollard/"
+}

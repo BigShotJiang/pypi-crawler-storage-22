@@ -1,11 +1,11 @@
 {
   "name": "pico_acme",
-  "version": "0.0.6",
+  "version": "0.0.9",
   "summary": "Pico ACME: tiny ACMEv2 client",
   "author": "Aapeli Vuorinen",
   "license": null,
   "home_page": null,
-  "download_filename": "pico_acme-0.0.6.tar.gz",
-  "download_time": "2026-02-14T15:45:10.702827",
+  "download_filename": "pico_acme-0.0.9.tar.gz",
+  "download_time": "2026-02-14T16:03:22.192904",
   "package_url": "https://pypi.org/project/pico_acme/"
 }

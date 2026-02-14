@@ -1,11 +1,11 @@
 {
   "name": "py-utlx",
-  "version": "2.1.2",
+  "version": "2.2.0",
   "summary": "Python utilities.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "py_utlx-2.1.2.tar.gz",
-  "download_time": "2026-01-31T11:17:34.795681",
+  "download_filename": "py_utlx-2.2.0.tar.gz",
+  "download_time": "2026-02-14T16:03:19.640051",
   "package_url": "https://pypi.org/project/py-utlx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gurrt",
+  "version": "0.1.0",
+  "summary": "An Intelligent Open-Source Video Understanding System A different path from traditional Large Video Language Models (LVLMs). Built for modularity, openness, and real-world usability.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gurrt-0.1.0.tar.gz",
+  "download_time": "2026-02-14T16:03:26.472035",
+  "package_url": "https://pypi.org/project/gurrt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rxai-sdg",
+  "version": "0.1.36",
+  "summary": "Reactive AI - Synthetic Datasets Generator",
+  "author": "Adam Filipek",
+  "license": "Apache-2.0",
+  "home_page": "https://rxai.dev/rxai-sdg",
+  "download_filename": "rxai_sdg-0.1.36.tar.gz",
+  "download_time": "2026-02-14T16:03:01.170300",
+  "package_url": "https://pypi.org/project/rxai-sdg/"
+}
