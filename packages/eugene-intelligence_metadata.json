@@ -1,0 +1,11 @@
+{
+  "name": "eugene-intelligence",
+  "version": "0.3.0",
+  "summary": "Financial context for AI. The data layer for agents that need to get finance right.",
+  "author": "Matthew Anyiam",
+  "license": null,
+  "home_page": "https://github.com/Matthew-Anyiam/eugene-data-labs",
+  "download_filename": "eugene_intelligence-0.3.0-py3-none-any.whl",
+  "download_time": "2026-02-14T21:50:20.449539",
+  "package_url": "https://pypi.org/project/eugene-intelligence/"
+}

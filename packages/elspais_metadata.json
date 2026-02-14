@@ -1,11 +1,11 @@
 {
   "name": "elspais",
-  "version": "0.56.1",
+  "version": "0.72.0",
   "summary": "Requirements validation and traceability tools - L-Space connects all libraries",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "elspais-0.56.1.tar.gz",
-  "download_time": "2026-02-11T05:48:40.231047",
+  "download_filename": "elspais-0.72.0.tar.gz",
+  "download_time": "2026-02-14T21:50:13.151159",
   "package_url": "https://pypi.org/project/elspais/"
 }

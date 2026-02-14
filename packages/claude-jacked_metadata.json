@@ -1,11 +1,11 @@
 {
   "name": "claude-jacked",
-  "version": "0.3.6",
+  "version": "0.7.0",
   "summary": "Smart reviewers, commands, and session search for Claude Code",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "claude_jacked-0.3.6.tar.gz",
-  "download_time": "2026-02-06T22:21:56.575596",
+  "download_filename": "claude_jacked-0.7.0.tar.gz",
+  "download_time": "2026-02-14T21:50:09.503608",
   "package_url": "https://pypi.org/project/claude-jacked/"
 }

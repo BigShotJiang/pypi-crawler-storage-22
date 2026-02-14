@@ -1,0 +1,11 @@
+{
+  "name": "iosacal",
+  "version": "0.7.0",
+  "summary": "IOSACal is a radiocarbon (14C) calibration program",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iosacal-0.7.0.tar.gz",
+  "download_time": "2026-02-14T21:50:02.585352",
+  "package_url": "https://pypi.org/project/iosacal/"
+}
