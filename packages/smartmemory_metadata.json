@@ -1,11 +1,11 @@
 {
   "name": "smartmemory",
-  "version": "0.3.48",
+  "version": "0.3.49",
   "summary": "Multi-layered AI memory system with graph databases, vector stores, and intelligent processing pipelines",
   "author": "SmartMemory Team",
   "license": null,
   "home_page": null,
-  "download_filename": "smartmemory-0.3.48.tar.gz",
-  "download_time": "2026-02-14T16:03:17.567481",
+  "download_filename": "smartmemory-0.3.49.tar.gz",
+  "download_time": "2026-02-14T16:36:58.342587",
   "package_url": "https://pypi.org/project/smartmemory/"
 }
