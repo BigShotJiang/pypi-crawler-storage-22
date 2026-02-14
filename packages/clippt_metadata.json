@@ -1,0 +1,11 @@
+{
+  "name": "clippt",
+  "version": "0.1.0",
+  "summary": "CLI slideshows in Python and Textual.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "clippt-0.1.0.tar.gz",
+  "download_time": "2026-02-14T23:24:46.615649",
+  "package_url": "https://pypi.org/project/clippt/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyg-hyper-nn",
+  "version": "0.1.0",
+  "summary": "PyTorch Geometric-based hypergraph neural networks library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyg_hyper_nn-0.1.0.tar.gz",
+  "download_time": "2026-02-14T23:24:26.441430",
+  "package_url": "https://pypi.org/project/pyg-hyper-nn/"
+}

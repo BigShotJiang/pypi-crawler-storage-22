@@ -1,11 +1,11 @@
 {
   "name": "dno",
-  "version": "0.5.1",
+  "version": "0.5.3",
   "summary": "Dynamic Neural Organism (DNO): A self-evolving, growing, and pruning neural network framework.",
   "author": "Uğurhan Çolak",
   "license": null,
   "home_page": "https://github.com/yourusername/dno",
-  "download_filename": "dno-0.5.1.tar.gz",
-  "download_time": "2026-02-14T22:53:25.360862",
+  "download_filename": "dno-0.5.3.tar.gz",
+  "download_time": "2026-02-14T23:24:24.312020",
   "package_url": "https://pypi.org/project/dno/"
 }

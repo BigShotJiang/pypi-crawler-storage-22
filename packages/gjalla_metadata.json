@@ -1,11 +1,11 @@
 {
   "name": "gjalla",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Gjalla CLI — architecture guardrails for AI coding agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gjalla-0.4.0.tar.gz",
-  "download_time": "2026-02-14T18:36:53.045087",
+  "download_filename": "gjalla-0.4.2.tar.gz",
+  "download_time": "2026-02-14T23:24:42.505917",
   "package_url": "https://pypi.org/project/gjalla/"
 }

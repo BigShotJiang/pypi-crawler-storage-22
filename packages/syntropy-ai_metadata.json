@@ -1,0 +1,11 @@
+{
+  "name": "syntropy-ai",
+  "version": "0.1.0",
+  "summary": "Syntropy AI Observability SDK for Python — trace, guard, and govern your AI agents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "syntropy_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-14T23:24:29.585533",
+  "package_url": "https://pypi.org/project/syntropy-ai/"
+}

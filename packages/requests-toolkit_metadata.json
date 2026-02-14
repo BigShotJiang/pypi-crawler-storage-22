@@ -1,0 +1,11 @@
+{
+  "name": "requests-toolkit",
+  "version": "0.1.2",
+  "summary": "Extensions for Requests",
+  "author": "Python Software Foundation",
+  "license": null,
+  "home_page": "https://github.com/requests/toolkit",
+  "download_filename": "requests_toolkit-0.1.2.tar.gz",
+  "download_time": "2026-02-14T23:24:37.321022",
+  "package_url": "https://pypi.org/project/requests-toolkit/"
+}

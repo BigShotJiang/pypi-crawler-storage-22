@@ -1,0 +1,11 @@
+{
+  "name": "pyscenario",
+  "version": "0.2.0",
+  "summary": "Python Scenario Automation contains a library to interface with Scenario IFSEI Classic for home automation.",
+  "author": "Carlos Mazzei",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pyscenario-0.2.0.tar.gz",
+  "download_time": "2026-02-14T23:24:35.266285",
+  "package_url": "https://pypi.org/project/pyscenario/"
+}
