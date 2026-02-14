@@ -1,0 +1,11 @@
+{
+  "name": "dzuseragents",
+  "version": "0.0.2",
+  "summary": "Random User Agent Generator",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dzuseragents-0.0.2.tar.gz",
+  "download_time": "2026-02-14T08:03:15.378795",
+  "package_url": "https://pypi.org/project/dzuseragents/"
+}

@@ -1,11 +1,55 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-14T07:34:56.714887
-- **Total Packages**: 82
-- **Total Size**: 71.15 MB
+- **Download Time**: 2026-02-14T08:03:43.752088
+- **Total Packages**: 78
+- **Total Size**: 23.3 MB
 
 ## Packages List
+- mcp-skill-server
+- qwen3-embed
+- bakefile
+- qianli
+- openjiuwen
+- primitive
+- linguaedit
+- dopamine-framework
+- audiorag
+- mindroom
+- tandoor-client
+- respan-tracing
+- respan-sdk
+- respan-instrumentation-langfuse
+- respan-exporter-openai-agents
+- respan-exporter-litellm
+- respan-exporter-haystack
+- respan-exporter-agno
+- respan-ai
+- mainsequence
+- iflow-mcp_elitewa-ai-dirscan
+- isage-vdb
+- timetrace-debugger
+- pywingui
+- blurt
+- dzuseragents
+- attune-ai
+- smev-agent-client
+- circuit-agent-sdk
+- panoptes-utils
+- neuromemory
+- mssql2mysql
+- speedy-utils
+- cross-compile-tool
+- engineeringagent
+- elvis-lvs
+- iflow-mcp_kwhinnery-openai-sample-deep-research-mcp
+- lobster-ai
+- l10n-conv
+- huff
+- simkl-mps
+- algoflex
+- benchmax
+- safe-agent-cli
 - lumora
 - createfile-Runny1005
 - cangjie-mcp
@@ -19,7 +63,6 @@
 - aicage
 - stobo
 - riyadhai
-- mindroom
 - fujin-secrets-bitwarden
 - fujin-cli
 - fujin-secrets-1password
@@ -27,7 +70,6 @@
 - tirikchilik
 - monocr-onnx
 - neural-memory
-- simkl-mps
 - knowledgevault
 - VertexEngine
 - po-translate-ai
@@ -42,49 +84,3 @@
 - sdev
 - ThonAI
 - fh-matui
-- lobster-ai
-- ncbi-datasets-pyclient
-- iflow-mcp_saha-rajdeep-remote-mcp-server
-- dtSpark
-- soul-symphony-2
-- geo-seo-optimizer
-- omega-memory
-- ArWikiCats
-- hnnp-sdk
-- ragrank
-- pulumi-aws-native
-- dycw-postgres
-- llm-to-toon
-- llm-to-json
-- prompture
-- nkunyim-iam
-- pdd-cli
-- careful
-- uipath-dev
-- streamlit-nightly
-- kuberoku
-- isage-examples
-- riichi-mahjong-cli
-- nestedutils
-- sari
-- search-api-webui
-- tepilora-mcp
-- gemmology-plugin
-- opencode-mem-guard
-- gemmology-mineral-database
-- nepse-cli
-- cachibot
-- MeUtils
-- cross-compile-tool
-- agentpass
-- deeprecall
-- yit-player
-- impact-preview
-- sage-sanctum-sdk
-- THCustomLogger
-- chainsaws
-- pullunder
-- fastcore
-- mathformer
-- OneBotConnecter
-- pulso-platform

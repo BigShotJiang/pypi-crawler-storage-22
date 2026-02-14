@@ -1,0 +1,11 @@
+{
+  "name": "safe-agent-cli",
+  "version": "0.4.0",
+  "summary": "An AI coding agent you can actually trust - with built-in impact preview",
+  "author": "Agent Polis Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "safe_agent_cli-0.4.0.tar.gz",
+  "download_time": "2026-02-14T08:03:24.885675",
+  "package_url": "https://pypi.org/project/safe-agent-cli/"
+}

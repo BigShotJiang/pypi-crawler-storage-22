@@ -1,0 +1,11 @@
+{
+  "name": "mssql2mysql",
+  "version": "0.1.1",
+  "summary": "MSSQL to MySQL migration tool with data, primary key and foreign key support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mssql2mysql-0.1.1.tar.gz",
+  "download_time": "2026-02-14T08:03:18.587089",
+  "package_url": "https://pypi.org/project/mssql2mysql/"
+}

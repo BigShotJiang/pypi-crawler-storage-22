@@ -1,0 +1,11 @@
+{
+  "name": "linguaedit",
+  "version": "1.8.14",
+  "summary": "A Qt6/PySide6 translation file editor for PO, TS, JSON, XLIFF, Android, ARB, PHP, and YAML files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linguaedit-1.8.14.tar.gz",
+  "download_time": "2026-02-14T08:03:04.899801",
+  "package_url": "https://pypi.org/project/linguaedit/"
+}
