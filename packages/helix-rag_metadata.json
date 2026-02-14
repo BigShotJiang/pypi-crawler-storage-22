@@ -1,11 +1,11 @@
 {
   "name": "helix-rag",
-  "version": "0.1.5",
+  "version": "0.1.16",
   "summary": "Helix: Temporal GraphRAG combining LightRAG and Graphiti for time-aware knowledge graphs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "helix_rag-0.1.5.tar.gz",
-  "download_time": "2026-02-07T18:31:15.582848",
+  "download_filename": "helix_rag-0.1.16.tar.gz",
+  "download_time": "2026-02-14T06:02:59.186632",
   "package_url": "https://pypi.org/project/helix-rag/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-anchor",
+  "version": "0.1.1",
+  "summary": "Session-based auth for FastAPI: cookie + DB storage, real logout",
+  "author": "Andre Ahlert",
+  "license": "MIT",
+  "home_page": "https://github.com/andreahlert/fastapi-anchor",
+  "download_filename": "fastapi_anchor-0.1.1.tar.gz",
+  "download_time": "2026-02-14T06:03:05.961584",
+  "package_url": "https://pypi.org/project/fastapi-anchor/"
+}

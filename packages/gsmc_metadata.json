@@ -1,0 +1,11 @@
+{
+  "name": "gsmc",
+  "version": "0.3.0",
+  "summary": "Game Server Maker - Launch game servers on AWS EC2 with Docker",
+  "author": "Samy Abidib",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gsmc-0.3.0.tar.gz",
+  "download_time": "2026-02-14T06:03:16.288996",
+  "package_url": "https://pypi.org/project/gsmc/"
+}

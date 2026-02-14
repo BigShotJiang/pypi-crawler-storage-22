@@ -1,0 +1,11 @@
+{
+  "name": "blank-agentic-cli",
+  "version": "0.1.9",
+  "summary": "CLI scaffolder for agentic AI research projects",
+  "author": "Shusuke Ioku",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "blank_agentic_cli-0.1.9.tar.gz",
+  "download_time": "2026-02-14T06:03:35.828872",
+  "package_url": "https://pypi.org/project/blank-agentic-cli/"
+}

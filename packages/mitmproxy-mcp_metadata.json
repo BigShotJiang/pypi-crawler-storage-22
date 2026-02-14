@@ -1,0 +1,11 @@
+{
+  "name": "mitmproxy-mcp",
+  "version": "0.1.0",
+  "summary": "MITM proxy manager with MCP integration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mitmproxy_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-14T06:03:25.013868",
+  "package_url": "https://pypi.org/project/mitmproxy-mcp/"
+}

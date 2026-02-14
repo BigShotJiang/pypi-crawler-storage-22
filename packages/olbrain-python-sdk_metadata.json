@@ -1,0 +1,11 @@
+{
+  "name": "olbrain-python-sdk",
+  "version": "0.3.1",
+  "summary": "Official Python SDK for Olbrain AI agents",
+  "author": "Olbrain Team",
+  "license": "MIT",
+  "home_page": "https://github.com/Olbrain/olbrain-python-sdk",
+  "download_filename": "olbrain_python_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-14T06:03:14.741166",
+  "package_url": "https://pypi.org/project/olbrain-python-sdk/"
+}

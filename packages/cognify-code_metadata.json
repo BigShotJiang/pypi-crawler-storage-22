@@ -1,11 +1,11 @@
 {
   "name": "cognify-code",
-  "version": "0.2.7",
+  "version": "0.4.0",
   "summary": "Your local AI-powered code assistant. Review, generate, search, and refactor code with an intelligent AI agent—all running locally with complete privacy.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cognify_code-0.2.7.tar.gz",
-  "download_time": "2026-02-05T18:33:45.971984",
+  "download_filename": "cognify_code-0.4.0.tar.gz",
+  "download_time": "2026-02-14T06:03:40.999474",
   "package_url": "https://pypi.org/project/cognify-code/"
 }

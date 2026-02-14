@@ -1,0 +1,11 @@
+{
+  "name": "ribotricer",
+  "version": "1.5.0",
+  "summary": "Python package to detect translating ORFs from Ribo-seq data",
+  "author": "Wenzheng Li",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "ribotricer-1.5.0.tar.gz",
+  "download_time": "2026-02-14T06:03:42.027698",
+  "package_url": "https://pypi.org/project/ribotricer/"
+}
