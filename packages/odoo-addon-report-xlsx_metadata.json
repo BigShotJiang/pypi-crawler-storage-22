@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-report-xlsx",
+  "version": "19.0.1.0.2",
+  "summary": "Base module to create xlsx report",
+  "author": "ACSONE SA/NV,Creu Blanca,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo_addon_report_xlsx-19.0.1.0.2-py3-none-any.whl",
+  "download_time": "2026-02-14T03:57:21.223849",
+  "package_url": "https://pypi.org/project/odoo-addon-report-xlsx/"
+}

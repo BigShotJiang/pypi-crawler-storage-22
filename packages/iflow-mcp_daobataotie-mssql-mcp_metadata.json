@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_daobataotie-mssql-mcp",
+  "version": "1.0.3",
+  "summary": "MSSQL MCP Server for database interaction and business intelligence",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_daobataotie_mssql_mcp-1.0.3.tar.gz",
+  "download_time": "2026-02-14T03:57:42.977765",
+  "package_url": "https://pypi.org/project/iflow-mcp_daobataotie-mssql-mcp/"
+}

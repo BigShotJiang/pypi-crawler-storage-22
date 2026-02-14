@@ -1,0 +1,11 @@
+{
+  "name": "periodfind-cpu",
+  "version": "0.1.0",
+  "summary": "CPU backends for periodfind period-finding algorithms",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "periodfind_cpu-0.1.0-cp39-cp39-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-02-14T03:57:41.530301",
+  "package_url": "https://pypi.org/project/periodfind-cpu/"
+}

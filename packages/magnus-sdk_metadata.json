@@ -1,11 +1,11 @@
 {
   "name": "magnus-sdk",
-  "version": "0.2.7",
+  "version": "0.4.5",
   "summary": "Official Python SDK and CLI for Magnus",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "magnus_sdk-0.2.7.tar.gz",
-  "download_time": "2026-02-07T15:03:49.617193",
+  "download_filename": "magnus_sdk-0.4.5-py3-none-any.whl",
+  "download_time": "2026-02-14T03:57:29.800933",
   "package_url": "https://pypi.org/project/magnus-sdk/"
 }

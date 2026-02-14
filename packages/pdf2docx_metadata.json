@@ -1,0 +1,11 @@
+{
+  "name": "pdf2docx",
+  "version": "0.5.9",
+  "summary": "Open source Python library converting pdf to docx.",
+  "author": "Artifex",
+  "license": "GNU AFFERO GPL 3.0",
+  "home_page": "https://artifex.com/",
+  "download_filename": "pdf2docx-0.5.9.tar.gz",
+  "download_time": "2026-02-14T03:57:28.041367",
+  "package_url": "https://pypi.org/project/pdf2docx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dc-u2-driver",
+  "version": "0.1.0",
+  "summary": "A lightweight Khmer greeting utility for Python",
+  "author": "Dai Chao Online",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dc_u2_driver-0.1.0.tar.gz",
+  "download_time": "2026-02-14T03:57:53.109080",
+  "package_url": "https://pypi.org/project/dc-u2-driver/"
+}

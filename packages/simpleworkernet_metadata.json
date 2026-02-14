@@ -1,11 +1,11 @@
 {
   "name": "simpleworkernet",
-  "version": "0.0.1b12",
+  "version": "0.0.1b13",
   "summary": "SDK-компонент для трансформации и типизации API-ответов сервера WorkerNet",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simpleworkernet-0.0.1b12.tar.gz",
-  "download_time": "2026-02-13T11:06:20.387650",
+  "download_filename": "simpleworkernet-0.0.1b13.tar.gz",
+  "download_time": "2026-02-14T03:57:47.369443",
   "package_url": "https://pypi.org/project/simpleworkernet/"
 }

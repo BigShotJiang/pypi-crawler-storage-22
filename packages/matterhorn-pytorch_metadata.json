@@ -1,0 +1,11 @@
+{
+  "name": "matterhorn-pytorch",
+  "version": "2.0.0",
+  "summary": "Matterhorn is a novel general neuromorphic computing framework based on PyTorch.",
+  "author": "CAG, IAIR, XJTU, Xi'an, China",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/xjtuiair-cag/Matterhorn",
+  "download_filename": "matterhorn_pytorch-2.0.0.tar.gz",
+  "download_time": "2026-02-14T03:58:11.710579",
+  "package_url": "https://pypi.org/project/matterhorn-pytorch/"
+}

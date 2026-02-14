@@ -1,0 +1,11 @@
+{
+  "name": "project-toolbox-default",
+  "version": "0.4.0",
+  "summary": "A set of tools for managing codebases, workflows, and development tasks.",
+  "author": "Farid Smaï",
+  "license": null,
+  "home_page": null,
+  "download_filename": "project_toolbox_default-0.4.0.tar.gz",
+  "download_time": "2026-02-14T03:58:14.779350",
+  "package_url": "https://pypi.org/project/project-toolbox-default/"
+}

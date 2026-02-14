@@ -1,0 +1,11 @@
+{
+  "name": "sdcat",
+  "version": "1.29.1",
+  "summary": "Sliced Detection and Clustering Analysis Toolkit - Developed by MBARI",
+  "author": "Danelle Cline",
+  "license": "Apache",
+  "home_page": null,
+  "download_filename": "sdcat-1.29.1.tar.gz",
+  "download_time": "2026-02-14T03:58:18.513631",
+  "package_url": "https://pypi.org/project/sdcat/"
+}

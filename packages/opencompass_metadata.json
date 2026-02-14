@@ -1,0 +1,11 @@
+{
+  "name": "opencompass",
+  "version": "0.5.2",
+  "summary": "A comprehensive toolkit for large model evaluation",
+  "author": "OpenCompass Contributors",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/open-compass/opencompass",
+  "download_filename": "opencompass-0.5.2.tar.gz",
+  "download_time": "2026-02-14T03:57:35.053730",
+  "package_url": "https://pypi.org/project/opencompass/"
+}
