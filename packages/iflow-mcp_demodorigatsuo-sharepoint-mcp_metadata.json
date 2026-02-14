@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_demodorigatsuo-sharepoint-mcp",
+  "version": "0.1.1",
+  "summary": "SharePoint Model Context Protocol (MCP) server for LLM applications",
+  "author": "yourname",
+  "license": null,
+  "home_page": "https://github.com/DEmodoriGatsuO/sharepoint-mcp",
+  "download_filename": "iflow_mcp_demodorigatsuo_sharepoint_mcp-0.1.1.tar.gz",
+  "download_time": "2026-02-14T01:34:01.294397",
+  "package_url": "https://pypi.org/project/iflow-mcp_demodorigatsuo-sharepoint-mcp/"
+}

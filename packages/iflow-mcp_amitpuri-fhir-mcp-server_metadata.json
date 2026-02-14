@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_amitpuri-fhir-mcp-server",
+  "version": "1.0.0",
+  "summary": "FHIR MCP Server - A Model Context Protocol server for interacting with FHIR servers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_amitpuri_fhir_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-02-14T01:33:40.670945",
+  "package_url": "https://pypi.org/project/iflow-mcp_amitpuri-fhir-mcp-server/"
+}

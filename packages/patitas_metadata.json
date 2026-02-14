@@ -1,0 +1,11 @@
+{
+  "name": "patitas",
+  "version": "0.2.0",
+  "summary": "Modern Markdown parser for Python 3.14t — CommonMark compliant, free-threading ready, 40-50% faster than mistune",
+  "author": "Bengal Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "patitas-0.2.0.tar.gz",
+  "download_time": "2026-02-14T01:33:57.449091",
+  "package_url": "https://pypi.org/project/patitas/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "currencies-lib",
+  "version": "2.0.0",
+  "summary": "A currency formatter for many currencies",
+  "author": "iamtwobe",
+  "license": "MIT",
+  "home_page": "https://github.com/iamtwobe/currencies_lib",
+  "download_filename": "currencies_lib-2.0.0.tar.gz",
+  "download_time": "2026-02-14T01:34:11.690563",
+  "package_url": "https://pypi.org/project/currencies-lib/"
+}

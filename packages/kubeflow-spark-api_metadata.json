@@ -1,0 +1,11 @@
+{
+  "name": "kubeflow-spark-api",
+  "version": "2.4.0rc0",
+  "summary": "Kubeflow Spark Operator API models for Kubernetes resources to interact with Kubeflow APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubeflow_spark_api-2.4.0rc0.tar.gz",
+  "download_time": "2026-02-14T01:33:51.991634",
+  "package_url": "https://pypi.org/project/kubeflow-spark-api/"
+}

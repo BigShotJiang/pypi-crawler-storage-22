@@ -1,0 +1,11 @@
+{
+  "name": "ddogctl",
+  "version": "2.0.1",
+  "summary": "A modern CLI for the Datadog API. Like Dogshell, but better.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ddogctl-2.0.1.tar.gz",
+  "download_time": "2026-02-14T01:34:27.599573",
+  "package_url": "https://pypi.org/project/ddogctl/"
+}

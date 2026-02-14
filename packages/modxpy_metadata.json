@@ -1,11 +1,11 @@
 {
   "name": "modxpy",
-  "version": "2.5.0",
+  "version": "2.5.2",
   "summary": "ModX — The Python Module Universe at Your Fingertips",
   "author": "Austin Wang",
   "license": null,
   "home_page": null,
-  "download_filename": "modxpy-2.5.0.tar.gz",
-  "download_time": "2026-02-13T18:45:25.934841",
+  "download_filename": "modxpy-2.5.2.tar.gz",
+  "download_time": "2026-02-14T01:34:11.144758",
   "package_url": "https://pypi.org/project/modxpy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hard-lint-py",
+  "version": "0.2.1",
+  "summary": "Rigorous linting and code quality setup for Python projects with pre-commit hooks",
+  "author": "Naylson Ferreira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hard_lint_py-0.2.1.tar.gz",
+  "download_time": "2026-02-14T01:34:14.421903",
+  "package_url": "https://pypi.org/project/hard-lint-py/"
+}

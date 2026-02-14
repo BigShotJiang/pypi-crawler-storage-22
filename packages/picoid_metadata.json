@@ -1,0 +1,11 @@
+{
+  "name": "picoid",
+  "version": "0.0.3",
+  "summary": "Low Level UUID Implementation for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "picoid-0.0.3.tar.gz",
+  "download_time": "2026-02-14T01:33:59.626927",
+  "package_url": "https://pypi.org/project/picoid/"
+}

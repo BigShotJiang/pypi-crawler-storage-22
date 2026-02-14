@@ -1,0 +1,11 @@
+{
+  "name": "django-environ",
+  "version": "0.12.1",
+  "summary": "A package that allows you to utilize 12factor inspired environment variables to configure your Django application.",
+  "author": "Daniele Faraglia",
+  "license": "MIT",
+  "home_page": "https://django-environ.readthedocs.org",
+  "download_filename": "django_environ-0.12.1.tar.gz",
+  "download_time": "2026-02-14T01:33:58.539311",
+  "package_url": "https://pypi.org/project/django-environ/"
+}

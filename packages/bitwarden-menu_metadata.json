@@ -1,0 +1,11 @@
+{
+  "name": "bitwarden-menu",
+  "version": "0.5.2",
+  "summary": "Dmenu/Rofi frontend for Bitwarden CLI tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bitwarden_menu-0.5.2.tar.gz",
+  "download_time": "2026-02-14T01:34:13.879600",
+  "package_url": "https://pypi.org/project/bitwarden-menu/"
+}
