@@ -1,0 +1,11 @@
+{
+  "name": "apilenss",
+  "version": "0.1.1",
+  "summary": "API Lens Python SDK with OpenTelemetry-based ingest forwarding",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apilenss-0.1.1.tar.gz",
+  "download_time": "2026-02-14T15:45:16.868264",
+  "package_url": "https://pypi.org/project/apilenss/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cloudflare-saas",
+  "version": "1.0.8",
+  "summary": "Production-ready async library for multi-tenant SaaS platforms with Cloudflare R2 and Workers",
+  "author": "innerkore",
+  "license": null,
+  "home_page": "https://github.com/innerkorehq/cloudflare-saas",
+  "download_filename": "cloudflare_saas-1.0.8.tar.gz",
+  "download_time": "2026-02-14T15:45:19.445398",
+  "package_url": "https://pypi.org/project/cloudflare-saas/"
+}

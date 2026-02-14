@@ -1,0 +1,11 @@
+{
+  "name": "torchgeo",
+  "version": "0.9.0",
+  "summary": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchgeo-0.9.0.tar.gz",
+  "download_time": "2026-02-14T15:44:56.847729",
+  "package_url": "https://pypi.org/project/torchgeo/"
+}

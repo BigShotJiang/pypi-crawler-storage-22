@@ -1,0 +1,11 @@
+{
+  "name": "process-watchman",
+  "version": "0.2.0",
+  "summary": "A small, focused Python library for tracking Linux process trees rooted at a specific PID.",
+  "author": "ATTMOS Inc",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "process_watchman-0.2.0.tar.gz",
+  "download_time": "2026-02-14T15:45:16.359074",
+  "package_url": "https://pypi.org/project/process-watchman/"
+}

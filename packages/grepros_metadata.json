@@ -1,0 +1,11 @@
+{
+  "name": "grepros",
+  "version": "1.3.0",
+  "summary": "grep for ROS bag files and live topics: read, filter, export",
+  "author": "Erki Suurjaak",
+  "license": "BSD",
+  "home_page": "https://github.com/suurjaak/grepros",
+  "download_filename": "grepros-1.3.0-py2.py3-none-any.whl",
+  "download_time": "2026-02-14T15:45:28.459678",
+  "package_url": "https://pypi.org/project/grepros/"
+}

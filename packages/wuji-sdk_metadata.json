@@ -1,0 +1,11 @@
+{
+  "name": "wuji-sdk",
+  "version": "0.6.0",
+  "summary": "Wuji SDK: Python package for automatic device discovery and real-time data streaming with Wuji devices.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wuji_sdk-0.6.0-cp310-cp310-manylinux_2_34_aarch64.whl",
+  "download_time": "2026-02-14T15:45:04.029462",
+  "package_url": "https://pypi.org/project/wuji-sdk/"
+}

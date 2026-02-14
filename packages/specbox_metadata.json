@@ -1,0 +1,11 @@
+{
+  "name": "specbox",
+  "version": "1.0.0",
+  "summary": "A simple tool to manipulate and visualize UV/optical/NIR spectra for astronomical research.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "specbox-1.0.0.tar.gz",
+  "download_time": "2026-02-14T15:44:48.678198",
+  "package_url": "https://pypi.org/project/specbox/"
+}

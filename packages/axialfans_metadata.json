@@ -1,0 +1,11 @@
+{
+  "name": "axialfans",
+  "version": "1.0.0",
+  "summary": "Analytical solver for multistage ducted axial fans.",
+  "author": "Sean Wang",
+  "license": "MIT License with Explicit Attribution Requirement\r\n        \r\n        Copyright (c) 2026 Sean  H. Wang\r\n        \r\n        Permission is hereby granted, free of charge, to any person obtaining a copy\r\n        of this software and associated documentation files (the \"Software\"), to deal\r\n        in the Software without restriction, including without limitation the rights\r\n        to use, copy, modify, merge, publish, distribute, sublicense, and/or sell\r\n        copies of the Software, subject to the following conditions:\r\n        \r\n        1. **Attribution Required**: The above copyright notice, this permission notice, \r\n           and this explicit attribution requirement must be included in all copies or \r\n           substantial portions of the Software. Users may not claim authorship of the \r\n           Software or any derivative works, or represent it as their original creation.\r\n        \r\n        2. **No False Claims**: You may not misrepresent the source of the Software. \r\n           Any modifications must be clearly marked as modified and not presented as \r\n           the original work of Sean Wang.\r\n        \r\n        THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\r\n        IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\r\n        FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE\r\n        AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER \r\n        LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\r\n        OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\r\n        SOFTWARE.\r\n        ",
+  "home_page": null,
+  "download_filename": "axialfans-1.0.0.tar.gz",
+  "download_time": "2026-02-14T15:44:55.240360",
+  "package_url": "https://pypi.org/project/axialfans/"
+}
