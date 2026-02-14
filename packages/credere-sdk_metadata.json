@@ -1,0 +1,11 @@
+{
+  "name": "credere-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Credere credit simulation API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "credere_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-14T23:51:34.121805",
+  "package_url": "https://pypi.org/project/credere-sdk/"
+}

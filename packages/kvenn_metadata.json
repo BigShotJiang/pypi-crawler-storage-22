@@ -1,0 +1,11 @@
+{
+  "name": "kvenn",
+  "version": "2.0.0",
+  "summary": "CLI tool for doing set operations (e.g. intersection, difference, union) on lines of input",
+  "author": "KJ",
+  "license": null,
+  "home_page": "https://github.com/jdotpy/kvenn",
+  "download_filename": "kvenn-2.0.0.tar.gz",
+  "download_time": "2026-02-14T23:51:15.997625",
+  "package_url": "https://pypi.org/project/kvenn/"
+}

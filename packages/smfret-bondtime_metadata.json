@@ -1,0 +1,11 @@
+{
+  "name": "smfret-bondtime",
+  "version": "2.1.1",
+  "summary": "Infer receptor–ligand bond lifetimes from smFRET data",
+  "author": "Lukas Schrangl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "smfret_bondtime-2.1.1.tar.gz",
+  "download_time": "2026-02-14T23:51:19.078488",
+  "package_url": "https://pypi.org/project/smfret-bondtime/"
+}

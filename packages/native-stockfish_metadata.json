@@ -1,0 +1,11 @@
+{
+  "name": "native-stockfish",
+  "version": "0.1.0",
+  "summary": "The fastest client for the Stockfish chess engine using C++ extension.",
+  "author": "Tawfiq Khalilieh",
+  "license": null,
+  "home_page": "https://github.com/tawfiqkhalilieh/stockfish-native",
+  "download_filename": "native_stockfish-0.1.0.tar.gz",
+  "download_time": "2026-02-14T23:51:14.463335",
+  "package_url": "https://pypi.org/project/native-stockfish/"
+}

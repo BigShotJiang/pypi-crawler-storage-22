@@ -1,11 +1,11 @@
 {
   "name": "django-microsys",
-  "version": "1.5.0",
-  "summary": "micro (System Integration Services) - RTL Django Starter Pack, with Users Management, Permissions, Auto Section Management Page, and Activity Logging, and more.",
+  "version": "1.5.4",
+  "summary": "Django micro (System Integration Service) - an RTL Django Starter Pack, Packed with Features.",
   "author": "DeBeski",
   "license": "MIT",
   "home_page": "https://github.com/debeski/django-microsys",
-  "download_filename": "django_microsys-1.5.0-py3-none-any.whl",
-  "download_time": "2026-02-12T20:37:10.598674",
+  "download_filename": "django_microsys-1.5.4.tar.gz",
+  "download_time": "2026-02-14T23:51:13.235418",
   "package_url": "https://pypi.org/project/django-microsys/"
 }

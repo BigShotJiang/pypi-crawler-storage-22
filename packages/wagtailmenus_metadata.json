@@ -1,0 +1,11 @@
+{
+  "name": "wagtailmenus",
+  "version": "4.0.6",
+  "summary": "An app to help you manage menus in your Wagtail projects more consistently.",
+  "author": "Andy Babic",
+  "license": "MIT",
+  "home_page": "https://github.com/jazzband/wagtailmenus",
+  "download_filename": "wagtailmenus-4.0.6.tar.gz",
+  "download_time": "2026-02-14T23:51:26.774200",
+  "package_url": "https://pypi.org/project/wagtailmenus/"
+}

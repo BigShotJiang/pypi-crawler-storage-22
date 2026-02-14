@@ -1,11 +1,11 @@
 {
   "name": "mindroom",
-  "version": "2026.2.65",
+  "version": "2026.2.67",
   "summary": "A universal interface for AI agents with persistent memory, where every conversation has a home",
   "author": "mindroom team",
   "license": null,
   "home_page": null,
-  "download_filename": "mindroom-2026.2.65.tar.gz",
-  "download_time": "2026-02-14T22:53:42.896908",
+  "download_filename": "mindroom-2026.2.67.tar.gz",
+  "download_time": "2026-02-14T23:51:33.612414",
   "package_url": "https://pypi.org/project/mindroom/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "winsecan",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "summary": "Windows Security Log Analyzer CLI for SOC analysts",
   "author": "Marwan Khatib",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "winsecan-0.1.0.tar.gz",
-  "download_time": "2026-02-14T16:03:02.828840",
+  "download_filename": "winsecan-0.1.4.tar.gz",
+  "download_time": "2026-02-14T23:51:25.228783",
   "package_url": "https://pypi.org/project/winsecan/"
 }

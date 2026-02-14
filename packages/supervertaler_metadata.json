@@ -1,11 +1,11 @@
 {
   "name": "supervertaler",
-  "version": "1.9.265",
+  "version": "1.9.266",
   "summary": "Professional AI-enhanced translation workbench with multi-LLM support, glossary system, TM, spellcheck, voice commands, and PyQt6 interface. Batteries included (core).",
   "author": "Michael Beijer",
   "license": null,
   "home_page": "https://supervertaler.com",
-  "download_filename": "supervertaler-1.9.265-py3-none-any.whl",
-  "download_time": "2026-02-14T23:24:36.811680",
+  "download_filename": "supervertaler-1.9.266-py3-none-any.whl",
+  "download_time": "2026-02-14T23:51:38.867845",
   "package_url": "https://pypi.org/project/supervertaler/"
 }
