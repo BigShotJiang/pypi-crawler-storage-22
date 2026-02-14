@@ -1,0 +1,11 @@
+{
+  "name": "raguard",
+  "version": "0.0.0",
+  "summary": "Security middleware for RAG pipelines — detect adversarial hallucination attacks before they reach your LLM.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "raguard-0.0.0.tar.gz",
+  "download_time": "2026-02-14T12:43:41.307853",
+  "package_url": "https://pypi.org/project/raguard/"
+}

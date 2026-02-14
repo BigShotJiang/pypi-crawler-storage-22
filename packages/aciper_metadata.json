@@ -1,11 +1,11 @@
 {
   "name": "aciper",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "تبدیل متن فارسی/انگلیسی به خط میخی پارسی باستان",
   "author": "Mohammad Latifipour",
   "license": null,
   "home_page": "https://github.com/yourusername/aciper",
-  "download_filename": "aciper-0.2.0.tar.gz",
-  "download_time": "2026-02-14T10:56:29.999296",
+  "download_filename": "aciper-0.2.2.tar.gz",
+  "download_time": "2026-02-14T12:43:14.884176",
   "package_url": "https://pypi.org/project/aciper/"
 }

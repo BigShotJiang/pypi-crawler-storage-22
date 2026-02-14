@@ -1,0 +1,11 @@
+{
+  "name": "polymcp",
+  "version": "1.3.7",
+  "summary": "Universal MCP Agent & Toolkit for intelligent LLM tool orchestration",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polymcp-1.3.7.tar.gz",
+  "download_time": "2026-02-14T12:43:07.253233",
+  "package_url": "https://pypi.org/project/polymcp/"
+}

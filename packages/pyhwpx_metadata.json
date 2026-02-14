@@ -1,0 +1,11 @@
+{
+  "name": "pyhwpx",
+  "version": "1.6.7",
+  "summary": "아래아한글 자동화를 위한 파이썬 모듈 pyhwpx입니다.",
+  "author": "ilco",
+  "license": null,
+  "home_page": "https://martiniifun.github.io/pyhwpx/",
+  "download_filename": "pyhwpx-1.6.7.tar.gz",
+  "download_time": "2026-02-14T12:43:51.543109",
+  "package_url": "https://pypi.org/project/pyhwpx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "aw-protocol-sdk",
+  "version": "0.3.0",
+  "summary": "Python SDK for AgentWallet Protocol - AI Agent Wallet Infrastructure on Solana",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aw_protocol_sdk-0.3.0.tar.gz",
+  "download_time": "2026-02-14T12:43:42.361580",
+  "package_url": "https://pypi.org/project/aw-protocol-sdk/"
+}

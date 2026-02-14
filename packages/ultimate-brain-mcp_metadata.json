@@ -1,11 +1,11 @@
 {
   "name": "ultimate-brain-mcp",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "MCP server for Thomas Frank's Ultimate Brain Notion system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ultimate_brain_mcp-0.1.0.tar.gz",
-  "download_time": "2026-02-13T17:09:36.838306",
+  "download_filename": "ultimate_brain_mcp-0.2.1.tar.gz",
+  "download_time": "2026-02-14T12:43:12.226304",
   "package_url": "https://pypi.org/project/ultimate-brain-mcp/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "z4usx",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Zeus Python package",
   "author": "z4usx",
   "license": "MIT",
   "home_page": "https://github.com/Z4usXcode/Zeus",
-  "download_filename": "z4usx-0.2.3.tar.gz",
-  "download_time": "2026-02-14T10:57:00.285411",
+  "download_filename": "z4usx-0.2.4.tar.gz",
+  "download_time": "2026-02-14T12:43:48.904324",
   "package_url": "https://pypi.org/project/z4usx/"
 }

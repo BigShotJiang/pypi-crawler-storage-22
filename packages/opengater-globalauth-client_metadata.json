@@ -1,11 +1,11 @@
 {
   "name": "opengater-globalauth-client",
-  "version": "0.2.4",
+  "version": "0.2.14",
   "summary": "Client library for GlobalAuth authentication service",
   "author": "Opengater",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "opengater_globalauth_client-0.2.4.tar.gz",
-  "download_time": "2026-02-07T09:49:10.265904",
+  "download_filename": "opengater_globalauth_client-0.2.14.tar.gz",
+  "download_time": "2026-02-14T12:43:38.619353",
   "package_url": "https://pypi.org/project/opengater-globalauth-client/"
 }

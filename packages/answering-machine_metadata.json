@@ -1,11 +1,11 @@
 {
   "name": "answering-machine",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "A machine that answers questions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "answering_machine-0.0.3.tar.gz",
-  "download_time": "2026-02-14T12:00:26.208383",
+  "download_filename": "answering_machine-0.0.4.tar.gz",
+  "download_time": "2026-02-14T12:43:05.621200",
   "package_url": "https://pypi.org/project/answering-machine/"
 }

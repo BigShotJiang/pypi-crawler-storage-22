@@ -1,0 +1,11 @@
+{
+  "name": "vital-agent-kg-utils",
+  "version": "0.1.8",
+  "summary": "Vital Agent KG Utils",
+  "author": "Marc Hadfield",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/vital-ai/vital-agent-kg-utils",
+  "download_filename": "vital_agent_kg_utils-0.1.8.tar.gz",
+  "download_time": "2026-02-14T12:43:39.678001",
+  "package_url": "https://pypi.org/project/vital-agent-kg-utils/"
+}

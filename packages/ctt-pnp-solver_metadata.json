@@ -1,0 +1,11 @@
+{
+  "name": "ctt-pnp-solver",
+  "version": "1.0.0",
+  "summary": "Polynomial-time SAT solver using Convergent Time Theory",
+  "author": "Américo Simões",
+  "license": null,
+  "home_page": "https://github.com/SimoesCTT/Complete-IP-archive-CTT",
+  "download_filename": "ctt_pnp_solver-1.0.0.tar.gz",
+  "download_time": "2026-02-14T12:43:30.064136",
+  "package_url": "https://pypi.org/project/ctt-pnp-solver/"
+}

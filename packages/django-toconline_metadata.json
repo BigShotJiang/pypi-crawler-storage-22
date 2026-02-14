@@ -1,0 +1,11 @@
+{
+  "name": "django-toconline",
+  "version": "1.0.3",
+  "summary": "Django integration for the TOC Online API",
+  "author": "Daniel Pinto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_toconline-1.0.3.tar.gz",
+  "download_time": "2026-02-14T12:43:34.365609",
+  "package_url": "https://pypi.org/project/django-toconline/"
+}

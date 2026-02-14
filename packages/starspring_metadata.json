@@ -1,11 +1,11 @@
 {
   "name": "starspring",
-  "version": "0.1.2",
-  "summary": "A Spring Boot-inspired Python web framework built on Starlette",
-  "author": "Dasun Nethsara",
+  "version": "0.2.0",
+  "summary": "A Spring Boot-inspired Python web framework built on Starlette, combining the elegance of Spring's dependency injection with Python's simplicity",
+  "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "starspring-0.1.2.tar.gz",
-  "download_time": "2026-02-04T08:37:55.390406",
+  "download_filename": "starspring-0.2.0.tar.gz",
+  "download_time": "2026-02-14T12:43:10.062766",
   "package_url": "https://pypi.org/project/starspring/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "RLGT",
+  "version": "1.0.0",
+  "summary": "This is Reinforcement Learning for Graph Theory (RLGT), a reinforcement learning framework that aims to facilitate future research in extremal graph theory.",
+  "author": "Ivan Damnjanović",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rlgt-1.0.0.tar.gz",
+  "download_time": "2026-02-14T12:43:28.974310",
+  "package_url": "https://pypi.org/project/RLGT/"
+}

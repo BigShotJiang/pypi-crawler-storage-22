@@ -1,0 +1,11 @@
+{
+  "name": "littlelearn",
+  "version": "1.2.3",
+  "summary": "Deep Learning API ",
+  "author": "Candra Alpin Gunawan",
+  "license": null,
+  "home_page": "https://github.com/Airinchan818/LittleLearn",
+  "download_filename": "littlelearn-1.2.3.tar.gz",
+  "download_time": "2026-02-14T12:43:27.834711",
+  "package_url": "https://pypi.org/project/littlelearn/"
+}

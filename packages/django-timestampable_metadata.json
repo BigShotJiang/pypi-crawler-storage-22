@@ -1,0 +1,11 @@
+{
+  "name": "django-timestampable",
+  "version": "1.1.6",
+  "summary": "Timestamps and Soft Delete Patterns in Django Models",
+  "author": "Daniel Pinto",
+  "license": "MIT",
+  "home_page": "https://github.com/xgeekshq/django-timestampable/",
+  "download_filename": "django_timestampable-1.1.6.tar.gz",
+  "download_time": "2026-02-14T12:43:37.035917",
+  "package_url": "https://pypi.org/project/django-timestampable/"
+}

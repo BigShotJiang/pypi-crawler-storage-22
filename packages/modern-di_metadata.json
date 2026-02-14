@@ -1,11 +1,11 @@
 {
   "name": "modern-di",
-  "version": "2.6.4",
+  "version": "2.7.1",
   "summary": "Dependency Injection framework with IOC-container and scopes",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "modern_di-2.6.4.tar.gz",
-  "download_time": "2026-02-08T09:02:33.467568",
+  "download_filename": "modern_di-2.7.1.tar.gz",
+  "download_time": "2026-02-14T12:43:49.958609",
   "package_url": "https://pypi.org/project/modern-di/"
 }
