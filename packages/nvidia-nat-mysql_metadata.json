@@ -1,11 +1,11 @@
 {
   "name": "nvidia-nat-mysql",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Subpackage for MySQL integration in NeMo Agent toolkit",
   "author": "NVIDIA Corporation",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "nvidia_nat_mysql-1.4.0-py3-none-any.whl",
-  "download_time": "2026-02-04T13:37:56.669929",
+  "download_filename": "nvidia_nat_mysql-1.4.1-py3-none-any.whl",
+  "download_time": "2026-02-14T10:24:59.386616",
   "package_url": "https://pypi.org/project/nvidia-nat-mysql/"
 }

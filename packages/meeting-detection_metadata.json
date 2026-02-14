@@ -1,0 +1,11 @@
+{
+  "name": "meeting-detection",
+  "version": "1.0.0",
+  "summary": "Python library for detecting active video meetings on macOS",
+  "author": "Meeting Detection Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "meeting_detection-1.0.0.tar.gz",
+  "download_time": "2026-02-14T10:25:04.426672",
+  "package_url": "https://pypi.org/project/meeting-detection/"
+}

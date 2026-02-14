@@ -1,0 +1,11 @@
+{
+  "name": "hatch-django-locales",
+  "version": "0.1.5",
+  "summary": "A hatchling build hook to compile django locale files during build time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hatch_django_locales-0.1.5.tar.gz",
+  "download_time": "2026-02-14T10:24:54.821877",
+  "package_url": "https://pypi.org/project/hatch-django-locales/"
+}

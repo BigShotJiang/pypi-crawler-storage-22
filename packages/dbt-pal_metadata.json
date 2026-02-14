@@ -1,11 +1,11 @@
 {
   "name": "dbt-pal",
-  "version": "0.1.0",
-  "summary": "dbt adapter for running Python models locally against BigQuery, without Dataproc",
+  "version": "0.2.0",
+  "summary": "A dbt adapter for running Python models without Dataproc or BigQuery DataFrames.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "dbt_pal-0.1.0.tar.gz",
-  "download_time": "2026-02-13T11:06:28.514421",
+  "download_filename": "dbt_pal-0.2.0.tar.gz",
+  "download_time": "2026-02-14T10:25:21.142963",
   "package_url": "https://pypi.org/project/dbt-pal/"
 }

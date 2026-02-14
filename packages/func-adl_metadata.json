@@ -1,0 +1,11 @@
+{
+  "name": "func-adl",
+  "version": "3.5.0",
+  "summary": "Functional Analysis Description Language Base Package",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "func_adl-3.5.0.tar.gz",
+  "download_time": "2026-02-14T10:24:57.686849",
+  "package_url": "https://pypi.org/project/func-adl/"
+}

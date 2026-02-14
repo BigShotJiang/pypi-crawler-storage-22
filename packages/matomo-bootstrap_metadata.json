@@ -1,11 +1,11 @@
 {
   "name": "matomo-bootstrap",
-  "version": "1.1.7",
+  "version": "1.1.9",
   "summary": "Headless bootstrap tooling for Matomo (installation + API token provisioning)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matomo_bootstrap-1.1.7.tar.gz",
-  "download_time": "2026-02-14T05:10:50.252356",
+  "download_filename": "matomo_bootstrap-1.1.9.tar.gz",
+  "download_time": "2026-02-14T10:25:18.224933",
   "package_url": "https://pypi.org/project/matomo-bootstrap/"
 }
