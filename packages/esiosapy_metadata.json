@@ -1,11 +1,11 @@
 {
   "name": "esiosapy",
-  "version": "2.2.0",
+  "version": "2.2.2",
   "summary": "Unofficial ESIOS API Python library. Up to date and fully equipped.",
   "author": "M4RC0Sx",
   "license": null,
   "home_page": null,
-  "download_filename": "esiosapy-2.2.0.tar.gz",
-  "download_time": "2026-02-14T10:25:16.476825",
+  "download_filename": "esiosapy-2.2.2.tar.gz",
+  "download_time": "2026-02-14T10:56:43.330944",
   "package_url": "https://pypi.org/project/esiosapy/"
 }

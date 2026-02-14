@@ -1,0 +1,11 @@
+{
+  "name": "OpenFisca-Japan",
+  "version": "2.1.0",
+  "summary": "OpenFisca tax and benefit system for Japan",
+  "author": "proj-inclusive",
+  "license": "http://www.fsf.org/licensing/licenses/agpl-3.0.html",
+  "home_page": "https://github.com/project-inclusive/OpenFisca-Japan",
+  "download_filename": "openfisca_japan-2.1.0.tar.gz",
+  "download_time": "2026-02-14T10:56:58.236856",
+  "package_url": "https://pypi.org/project/OpenFisca-Japan/"
+}

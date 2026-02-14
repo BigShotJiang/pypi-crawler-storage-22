@@ -1,0 +1,11 @@
+{
+  "name": "commodity-registry",
+  "version": "0.1.4",
+  "summary": "Single source of truth for financial instrument data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commodity_registry-0.1.4.tar.gz",
+  "download_time": "2026-02-14T10:56:41.796406",
+  "package_url": "https://pypi.org/project/commodity-registry/"
+}

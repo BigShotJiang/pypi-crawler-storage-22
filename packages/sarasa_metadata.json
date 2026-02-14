@@ -1,11 +1,11 @@
 {
   "name": "sarasa",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sarasa-0.0.5.tar.gz",
-  "download_time": "2026-02-04T21:49:56.782670",
+  "download_filename": "sarasa-0.0.6.tar.gz",
+  "download_time": "2026-02-14T10:56:35.639652",
   "package_url": "https://pypi.org/project/sarasa/"
 }

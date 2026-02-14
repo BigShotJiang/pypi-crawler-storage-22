@@ -1,0 +1,11 @@
+{
+  "name": "urllib3_request",
+  "version": "0.1.5",
+  "summary": "urllib3 request extension.",
+  "author": "ChenyangGao",
+  "license": "MIT",
+  "home_page": "https://github.com/ChenyangGao/python-modules/tree/main/urllib3_request",
+  "download_filename": "urllib3_request-0.1.5.tar.gz",
+  "download_time": "2026-02-14T10:56:28.469721",
+  "package_url": "https://pypi.org/project/urllib3_request/"
+}

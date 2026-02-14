@@ -1,11 +1,11 @@
 {
   "name": "m-hass-api",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "Python package for Home Assistant API with real-time WebSocket state monitoring",
   "author": "Maksym Kozlenko",
   "license": null,
   "home_page": "https://github.com/maxim75/m-hass-api",
-  "download_filename": "m_hass_api-0.5.0.tar.gz",
-  "download_time": "2026-02-14T06:03:26.047809",
+  "download_filename": "m_hass_api-0.5.2.tar.gz",
+  "download_time": "2026-02-14T10:56:31.029403",
   "package_url": "https://pypi.org/project/m-hass-api/"
 }

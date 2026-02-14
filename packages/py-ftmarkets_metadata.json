@@ -1,11 +1,11 @@
 {
   "name": "py-ftmarkets",
-  "version": "0.1.0",
+  "version": "0.1.5",
   "summary": "Financial Times (markets.ft.com) data source for Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_ftmarkets-0.1.0.tar.gz",
-  "download_time": "2026-02-06T10:09:59.298736",
+  "download_filename": "py_ftmarkets-0.1.5.tar.gz",
+  "download_time": "2026-02-14T10:56:45.886904",
   "package_url": "https://pypi.org/project/py-ftmarkets/"
 }
