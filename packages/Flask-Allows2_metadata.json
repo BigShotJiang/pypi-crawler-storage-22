@@ -1,0 +1,11 @@
+{
+  "name": "Flask-Allows2",
+  "version": "1.1.0",
+  "summary": "Impose authorization requirements on Flask routes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "flask_allows2-1.1.0.tar.gz",
+  "download_time": "2026-02-15T21:25:52.108961",
+  "package_url": "https://pypi.org/project/Flask-Allows2/"
+}

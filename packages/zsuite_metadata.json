@@ -1,0 +1,11 @@
+{
+  "name": "zsuite",
+  "version": "0.8.1",
+  "summary": "Lightweight Python utility library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zsuite-0.8.1.tar.gz",
+  "download_time": "2026-02-15T21:25:40.514459",
+  "package_url": "https://pypi.org/project/zsuite/"
+}

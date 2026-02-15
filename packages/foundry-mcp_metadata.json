@@ -1,11 +1,11 @@
 {
   "name": "foundry-mcp",
-  "version": "0.11.0",
+  "version": "0.11.1",
   "summary": "MCP server for spec-driven development management",
   "author": "Tyler Burleigh",
   "license": null,
   "home_page": null,
-  "download_filename": "foundry_mcp-0.11.0.tar.gz",
-  "download_time": "2026-02-14T12:00:21.006321",
+  "download_filename": "foundry_mcp-0.11.1.tar.gz",
+  "download_time": "2026-02-15T21:25:38.356315",
   "package_url": "https://pypi.org/project/foundry-mcp/"
 }

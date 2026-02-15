@@ -1,0 +1,11 @@
+{
+  "name": "pclink",
+  "version": "3.4.0",
+  "summary": "Cross-platform desktop app for secure remote PC control and management, featuring a lightweight built-in WebUI and API for local or remote access.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pclink-3.4.0-py3-none-any.whl",
+  "download_time": "2026-02-15T21:26:02.078214",
+  "package_url": "https://pypi.org/project/pclink/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "python3-anticaptcha",
+  "version": "2.2.2",
+  "summary": "Python 3.9+ RuCaptcha library with AIO module.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python3_anticaptcha-2.2.2.tar.gz",
+  "download_time": "2026-02-15T21:25:29.455107",
+  "package_url": "https://pypi.org/project/python3-anticaptcha/"
+}

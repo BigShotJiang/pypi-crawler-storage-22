@@ -1,11 +1,11 @@
 {
   "name": "pypeline-runner",
-  "version": "1.27.0",
+  "version": "1.28.0",
   "summary": "Configure and execute pipelines with Python (similar to GitHub workflows or Jenkins pipelines).",
   "author": "cuinixam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pypeline_runner-1.27.0.tar.gz",
-  "download_time": "2026-02-05T19:58:54.869265",
+  "download_filename": "pypeline_runner-1.28.0.tar.gz",
+  "download_time": "2026-02-15T21:25:39.443970",
   "package_url": "https://pypi.org/project/pypeline-runner/"
 }

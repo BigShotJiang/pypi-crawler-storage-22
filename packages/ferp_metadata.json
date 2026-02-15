@@ -1,11 +1,11 @@
 {
   "name": "ferp",
-  "version": "0.8.9",
+  "version": "0.8.10",
   "summary": "Terminal-first file navigator and FSCP automation workbench built with Textual.",
   "author": "Brandon Johnson",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ferp-0.8.9.tar.gz",
-  "download_time": "2026-02-14T06:03:11.144258",
+  "download_filename": "ferp-0.8.10.tar.gz",
+  "download_time": "2026-02-15T21:25:58.815900",
   "package_url": "https://pypi.org/project/ferp/"
 }

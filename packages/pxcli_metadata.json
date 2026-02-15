@@ -1,11 +1,11 @@
 {
   "name": "pxcli",
-  "version": "0.4.9",
+  "version": "0.5.0",
   "summary": "CLI for Perplexity.ai with persistent authentication, encrypted tokens, streaming responses, multiple output formats, source references, thread export with date filtering, configurable URLs, logging, and automatic retry logic",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pxcli-0.4.9.tar.gz",
-  "download_time": "2026-02-15T17:26:50.016718",
+  "download_filename": "pxcli-0.5.0.tar.gz",
+  "download_time": "2026-02-15T21:25:25.063373",
   "package_url": "https://pypi.org/project/pxcli/"
 }

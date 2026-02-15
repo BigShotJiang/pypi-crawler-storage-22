@@ -1,0 +1,11 @@
+{
+  "name": "runsim",
+  "version": "0.1.0",
+  "summary": "Unified interface for running reservoir simulators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "runsim-0.1.0.tar.gz",
+  "download_time": "2026-02-15T21:25:41.058177",
+  "package_url": "https://pypi.org/project/runsim/"
+}

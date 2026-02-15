@@ -1,11 +1,11 @@
 {
   "name": "chatvat",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "The Universal RAG Chatbot Factory. Zero-dependency AI deployments.",
   "author": "Madhav Kapila",
   "license": "Apache-2.0",
   "home_page": "https://github.com/madhavkapila",
-  "download_filename": "chatvat-0.2.1.tar.gz",
-  "download_time": "2026-02-14T12:43:31.132045",
+  "download_filename": "chatvat-0.2.2.tar.gz",
+  "download_time": "2026-02-15T21:25:44.985086",
   "package_url": "https://pypi.org/project/chatvat/"
 }

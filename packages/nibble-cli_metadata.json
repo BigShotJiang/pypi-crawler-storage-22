@@ -1,11 +1,11 @@
 {
   "name": "nibble-cli",
-  "version": "0.1.4",
+  "version": "0.2.1",
   "summary": "Fast local network scanner with hardware identification and a terminal UI",
   "author": "saberd",
   "license": null,
   "home_page": "https://github.com/saberd/nibble",
-  "download_filename": "nibble_cli-0.1.4.tar.gz",
-  "download_time": "2026-02-14T19:09:15.602550",
+  "download_filename": "nibble_cli-0.2.1.tar.gz",
+  "download_time": "2026-02-15T21:25:50.479528",
   "package_url": "https://pypi.org/project/nibble-cli/"
 }

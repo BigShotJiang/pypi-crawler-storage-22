@@ -1,11 +1,11 @@
 {
   "name": "Avlos",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Generate type-safe communication protocols for embedded systems from a single YAML specification",
   "author": "Yannis Chatzikonstantinou",
   "license": null,
   "home_page": "https://www.tinymovr.com",
-  "download_filename": "avlos-0.9.2.tar.gz",
-  "download_time": "2026-02-08T20:24:19.856974",
+  "download_filename": "avlos-0.9.3.tar.gz",
+  "download_time": "2026-02-15T21:25:41.608066",
   "package_url": "https://pypi.org/project/Avlos/"
 }
