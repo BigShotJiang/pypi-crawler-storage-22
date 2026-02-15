@@ -1,0 +1,11 @@
+{
+  "name": "miru-core",
+  "version": "16.5.8.dev1",
+  "summary": "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers",
+  "author": "Miru Developers",
+  "license": "wxWindows Library Licence, Version 3.1",
+  "home_page": "https://miru.re",
+  "download_filename": "miru_core-16.5.8.dev1.tar.gz",
+  "download_time": "2026-02-15T10:04:14.178935",
+  "package_url": "https://pypi.org/project/miru-core/"
+}

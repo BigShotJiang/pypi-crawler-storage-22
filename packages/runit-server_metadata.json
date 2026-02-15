@@ -1,11 +1,11 @@
 {
   "name": "runit-server",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "summary": "Backend for python-runit",
   "author": "Amos Amissah",
   "license": null,
   "home_page": null,
-  "download_filename": "runit_server-0.4.4.tar.gz",
-  "download_time": "2026-02-13T22:56:44.482372",
+  "download_filename": "runit_server-0.4.5.tar.gz",
+  "download_time": "2026-02-15T10:04:20.957488",
   "package_url": "https://pypi.org/project/runit-server/"
 }

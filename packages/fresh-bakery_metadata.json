@@ -1,0 +1,11 @@
+{
+  "name": "fresh-bakery",
+  "version": "0.4.4",
+  "summary": "Bake your dependencies stupidly simple!",
+  "author": "Dmitry Makarov",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fresh_bakery-0.4.4.tar.gz",
+  "download_time": "2026-02-15T10:04:27.214680",
+  "package_url": "https://pypi.org/project/fresh-bakery/"
+}

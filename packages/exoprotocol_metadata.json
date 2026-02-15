@@ -1,11 +1,11 @@
 {
   "name": "exoprotocol",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "Repo-native governance kernel for ExoProtocol",
   "author": "Jhet Chan",
   "license": null,
   "home_page": null,
-  "download_filename": "exoprotocol-0.1.11.tar.gz",
-  "download_time": "2026-02-14T19:57:58.129789",
+  "download_filename": "exoprotocol-0.1.12.tar.gz",
+  "download_time": "2026-02-15T10:04:03.801397",
   "package_url": "https://pypi.org/project/exoprotocol/"
 }
