@@ -1,0 +1,11 @@
+{
+  "name": "soap-calc",
+  "version": "0.1.1",
+  "summary": "The first Python-based soap formulation library. Professional saponification calculations, recipe management, and property analysis.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "soap_calc-0.1.1.tar.gz",
+  "download_time": "2026-02-15T06:36:15.576084",
+  "package_url": "https://pypi.org/project/soap-calc/"
+}

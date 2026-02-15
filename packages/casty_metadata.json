@@ -1,11 +1,11 @@
 {
   "name": "casty",
-  "version": "0.16.1",
+  "version": "0.16.2",
   "summary": "Typed, clustered actor framework for Python. Pure asyncio, zero dependencies.",
   "author": "Gabriel Francisco",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "casty-0.16.1.tar.gz",
-  "download_time": "2026-02-15T05:42:26.636712",
+  "download_filename": "casty-0.16.2.tar.gz",
+  "download_time": "2026-02-15T06:36:19.742346",
   "package_url": "https://pypi.org/project/casty/"
 }

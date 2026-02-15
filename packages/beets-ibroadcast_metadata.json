@@ -1,0 +1,11 @@
+{
+  "name": "beets-ibroadcast",
+  "version": "0.6.0",
+  "summary": "iBroadcast plugin for beets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "beets_ibroadcast-0.6.0.tar.gz",
+  "download_time": "2026-02-15T06:36:27.529529",
+  "package_url": "https://pypi.org/project/beets-ibroadcast/"
+}

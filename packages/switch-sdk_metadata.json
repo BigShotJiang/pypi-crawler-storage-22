@@ -1,11 +1,11 @@
 {
   "name": "switch-sdk",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Python SDK for Shift managed AI routing, telemetry, and local-first execution",
   "author": "Shift",
   "license": null,
   "home_page": null,
-  "download_filename": "switch_sdk-0.3.0.tar.gz",
-  "download_time": "2026-02-14T20:25:50.710942",
+  "download_filename": "switch_sdk-0.3.1.tar.gz",
+  "download_time": "2026-02-15T06:36:23.369479",
   "package_url": "https://pypi.org/project/switch-sdk/"
 }

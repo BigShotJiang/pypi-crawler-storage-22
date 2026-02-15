@@ -1,11 +1,11 @@
 {
   "name": "dagster-sensor-guard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A decorator that adds configurable error tolerance to Dagster sensors, suppressing transient failures and only raising errors after consecutive failure thresholds are breached.",
   "author": "Yudiell Hernandez",
   "license": null,
   "home_page": null,
-  "download_filename": "dagster_sensor_guard-0.1.0.tar.gz",
-  "download_time": "2026-02-15T04:22:20.890102",
+  "download_filename": "dagster_sensor_guard-0.1.1.tar.gz",
+  "download_time": "2026-02-15T06:36:03.359210",
   "package_url": "https://pypi.org/project/dagster-sensor-guard/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "harnessgg-blender",
+  "version": "0.1.0",
+  "summary": "Bridge-first CLI for Blender automation",
+  "author": "Harness",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "harnessgg_blender-0.1.0.tar.gz",
+  "download_time": "2026-02-15T06:36:18.204461",
+  "package_url": "https://pypi.org/project/harnessgg-blender/"
+}
