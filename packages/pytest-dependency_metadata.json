@@ -1,0 +1,11 @@
+{
+  "name": "pytest-dependency",
+  "version": "0.6.1",
+  "summary": "Manage dependencies of tests",
+  "author": "Rolf Krahl",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/RKrahl/pytest-dependency",
+  "download_filename": "pytest_dependency-0.6.1.tar.gz",
+  "download_time": "2026-02-15T18:33:39.985822",
+  "package_url": "https://pypi.org/project/pytest-dependency/"
+}

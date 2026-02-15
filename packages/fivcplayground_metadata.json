@@ -1,11 +1,11 @@
 {
   "name": "fivcplayground",
-  "version": "0.1.20",
+  "version": "0.1.21",
   "summary": "Personal Simple Generic Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fivcplayground-0.1.20.tar.gz",
-  "download_time": "2026-02-15T09:41:32.769644",
+  "download_filename": "fivcplayground-0.1.21.tar.gz",
+  "download_time": "2026-02-15T18:33:19.919657",
   "package_url": "https://pypi.org/project/fivcplayground/"
 }

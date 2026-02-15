@@ -1,0 +1,11 @@
+{
+  "name": "idotaku",
+  "version": "0.3.0",
+  "summary": "mitmproxy-based IDOR detection tool - intercepts traffic and analyzes parameter relationships to find insecure direct object references",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "idotaku-0.3.0.tar.gz",
+  "download_time": "2026-02-15T18:33:28.369656",
+  "package_url": "https://pypi.org/project/idotaku/"
+}

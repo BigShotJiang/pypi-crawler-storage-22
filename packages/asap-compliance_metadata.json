@@ -1,0 +1,11 @@
+{
+  "name": "asap-compliance",
+  "version": "1.2.0",
+  "summary": "ASAP Protocol compliance testing harness",
+  "author": "ASAP Protocol Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "asap_compliance-1.2.0.tar.gz",
+  "download_time": "2026-02-15T18:33:27.321772",
+  "package_url": "https://pypi.org/project/asap-compliance/"
+}

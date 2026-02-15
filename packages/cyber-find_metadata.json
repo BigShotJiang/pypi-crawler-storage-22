@@ -1,0 +1,11 @@
+{
+  "name": "cyber-find",
+  "version": "0.3.2",
+  "summary": "Advanced OSINT tool for searching users across 200+ platforms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cyber_find-0.3.2.tar.gz",
+  "download_time": "2026-02-15T18:33:42.061769",
+  "package_url": "https://pypi.org/project/cyber-find/"
+}

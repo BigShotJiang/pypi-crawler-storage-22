@@ -1,0 +1,11 @@
+{
+  "name": "cryoswath",
+  "version": "0.2.5",
+  "summary": "Swath processing toolbox for CryoSat-2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cryoswath-0.2.5.tar.gz",
+  "download_time": "2026-02-15T18:33:37.362229",
+  "package_url": "https://pypi.org/project/cryoswath/"
+}

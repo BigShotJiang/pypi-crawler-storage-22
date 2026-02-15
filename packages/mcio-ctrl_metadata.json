@@ -1,0 +1,11 @@
+{
+  "name": "mcio-ctrl",
+  "version": "1.5.2",
+  "summary": "Python interface to connect to the MCio Minecraft mod",
+  "author": "TwoTurtles",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcio_ctrl-1.5.2.tar.gz",
+  "download_time": "2026-02-15T18:33:01.069045",
+  "package_url": "https://pypi.org/project/mcio-ctrl/"
+}
