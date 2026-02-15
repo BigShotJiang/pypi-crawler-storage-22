@@ -1,11 +1,11 @@
 {
   "name": "takobot",
-  "version": "0.1.15",
-  "summary": "Takobot: your highly autonomous octopus friend",
+  "version": "0.1.16",
+  "summary": "Takobot: your highly autonomous and incredibly curious octopus friend",
   "author": "pierce403",
   "license": null,
   "home_page": null,
-  "download_filename": "takobot-0.1.15.tar.gz",
-  "download_time": "2026-02-15T14:09:45.335179",
+  "download_filename": "takobot-0.1.16.tar.gz",
+  "download_time": "2026-02-15T15:24:52.682484",
   "package_url": "https://pypi.org/project/takobot/"
 }

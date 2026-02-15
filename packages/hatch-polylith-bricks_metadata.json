@@ -1,11 +1,11 @@
 {
   "name": "hatch-polylith-bricks",
-  "version": "1.5.4",
+  "version": "1.5.5",
   "summary": "Hatch build hook plugin for Polylith",
   "author": "David Vujic",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hatch_polylith_bricks-1.5.4.tar.gz",
-  "download_time": "2026-02-15T11:35:26.801491",
+  "download_filename": "hatch_polylith_bricks-1.5.5.tar.gz",
+  "download_time": "2026-02-15T15:25:08.805009",
   "package_url": "https://pypi.org/project/hatch-polylith-bricks/"
 }

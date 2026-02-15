@@ -1,0 +1,11 @@
+{
+  "name": "state-of-thoughts",
+  "version": "0.1.1",
+  "summary": "Tree of Thoughts with structured action templates (built on DSPy and vLLM)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "state_of_thoughts-0.1.1.tar.gz",
+  "download_time": "2026-02-15T15:24:51.068922",
+  "package_url": "https://pypi.org/project/state-of-thoughts/"
+}

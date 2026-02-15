@@ -1,0 +1,11 @@
+{
+  "name": "pytq-cxx",
+  "version": "1.1.2",
+  "summary": "single-threaded timer demultiplexer backed by C++ implementation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytq_cxx-1.1.2.tar.gz",
+  "download_time": "2026-02-15T15:24:58.037309",
+  "package_url": "https://pypi.org/project/pytq-cxx/"
+}

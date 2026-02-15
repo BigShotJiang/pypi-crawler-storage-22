@@ -1,11 +1,11 @@
 {
   "name": "rapidkit-core",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "Community-built rapid automation toolkit for makers who ship with heart",
   "author": "RapidKit Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rapidkit_core-0.3.2.tar.gz",
-  "download_time": "2026-02-14T21:23:38.423290",
+  "download_filename": "rapidkit_core-0.3.4.tar.gz",
+  "download_time": "2026-02-15T15:25:24.584776",
   "package_url": "https://pypi.org/project/rapidkit-core/"
 }

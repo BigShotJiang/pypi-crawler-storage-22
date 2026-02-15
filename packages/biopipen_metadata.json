@@ -1,0 +1,11 @@
+{
+  "name": "biopipen",
+  "version": "1.1.12",
+  "summary": "Bioinformatics processes/pipelines that can be run from `pipen run`",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "biopipen-1.1.12.tar.gz",
+  "download_time": "2026-02-15T15:25:13.149897",
+  "package_url": "https://pypi.org/project/biopipen/"
+}

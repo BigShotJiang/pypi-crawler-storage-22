@@ -1,11 +1,11 @@
 {
   "name": "poetry-polylith-plugin",
-  "version": "1.48.3",
+  "version": "1.48.4",
   "summary": "A Poetry plugin that adds tooling support for the Polylith Architecture",
   "author": "David Vujic",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "poetry_polylith_plugin-1.48.3.tar.gz",
-  "download_time": "2026-02-15T11:35:30.618497",
+  "download_filename": "poetry_polylith_plugin-1.48.4.tar.gz",
+  "download_time": "2026-02-15T15:25:06.703047",
   "package_url": "https://pypi.org/project/poetry-polylith-plugin/"
 }

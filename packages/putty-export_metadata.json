@@ -1,11 +1,11 @@
 {
   "name": "putty-export",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "summary": "Export PuTTY session settings from Windows registry to OpenSSH config format",
   "author": "Richard Dawson",
-  "license": "MIT",
+  "license": null,
   "home_page": null,
-  "download_filename": "putty_export-0.1.1.tar.gz",
-  "download_time": "2026-02-15T14:51:13.726318",
+  "download_filename": "putty_export-0.1.3.tar.gz",
+  "download_time": "2026-02-15T15:25:04.522119",
   "package_url": "https://pypi.org/project/putty-export/"
 }

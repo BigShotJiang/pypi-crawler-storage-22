@@ -1,0 +1,11 @@
+{
+  "name": "captcha-router",
+  "version": "0.1.2",
+  "summary": "Reusable captcha router with pluggable solver providers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "captcha_router-0.1.2.tar.gz",
+  "download_time": "2026-02-15T15:24:52.144820",
+  "package_url": "https://pypi.org/project/captcha-router/"
+}

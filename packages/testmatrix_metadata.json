@@ -1,11 +1,11 @@
 {
   "name": "testmatrix",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "A matrix server sanity tester",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "testmatrix-0.2.1.tar.gz",
-  "download_time": "2026-02-15T14:51:05.972003",
+  "download_filename": "testmatrix-0.2.2.tar.gz",
+  "download_time": "2026-02-15T15:24:56.962511",
   "package_url": "https://pypi.org/project/testmatrix/"
 }

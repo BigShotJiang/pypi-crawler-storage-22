@@ -1,11 +1,11 @@
 {
   "name": "siftx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A simple grep-like CLI tools for searching and filtering text",
   "author": "Musa Adam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "siftx-0.2.0.tar.gz",
-  "download_time": "2026-02-15T13:39:17.026537",
+  "download_filename": "siftx-0.2.1.tar.gz",
+  "download_time": "2026-02-15T15:25:25.125144",
   "package_url": "https://pypi.org/project/siftx/"
 }

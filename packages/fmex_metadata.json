@@ -1,0 +1,11 @@
+{
+  "name": "fmex",
+  "version": "0.1.0",
+  "summary": "Terminal-based frame extractor for video files.",
+  "author": "Ryota Murai",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmex-0.1.0.tar.gz",
+  "download_time": "2026-02-15T15:25:28.369751",
+  "package_url": "https://pypi.org/project/fmex/"
+}
