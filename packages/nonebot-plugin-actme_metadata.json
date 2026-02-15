@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-actme",
+  "version": "0.1.0",
+  "summary": "唔唔？你想被xx嘛~？禁言/点赞/戳一戳互动插件",
+  "author": "Misty02600",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_actme-0.1.0.tar.gz",
+  "download_time": "2026-02-15T10:39:01.870583",
+  "package_url": "https://pypi.org/project/nonebot-plugin-actme/"
+}

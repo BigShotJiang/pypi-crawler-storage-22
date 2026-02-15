@@ -1,11 +1,11 @@
 {
   "name": "cdk-power-constructs",
-  "version": "0.1.11",
+  "version": "0.1.14",
   "summary": "Reusable AWS CDK constructs for common infrastructure patterns",
   "author": "Jérôme GUYON<jerome.guyon@guyon-it-consulting.com>",
   "license": "Apache-2.0",
   "home_page": "https://github.com/guyon-it-consulting/cdk-power-constructs.git",
-  "download_filename": "cdk_power_constructs-0.1.11.tar.gz",
-  "download_time": "2026-02-13T18:45:23.839349",
+  "download_filename": "cdk_power_constructs-0.1.14.tar.gz",
+  "download_time": "2026-02-15T10:38:49.318159",
   "package_url": "https://pypi.org/project/cdk-power-constructs/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "audiorag",
-  "version": "0.14.1",
+  "version": "0.15.0",
   "summary": "RAG over audio files with provider-agnostic pipeline",
   "author": "Atharva Verma",
   "license": null,
   "home_page": null,
-  "download_filename": "audiorag-0.14.1.tar.gz",
-  "download_time": "2026-02-15T07:40:20.273770",
+  "download_filename": "audiorag-0.15.0.tar.gz",
+  "download_time": "2026-02-15T10:39:18.285240",
   "package_url": "https://pypi.org/project/audiorag/"
 }

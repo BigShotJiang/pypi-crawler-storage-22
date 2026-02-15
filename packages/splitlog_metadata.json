@@ -1,0 +1,11 @@
+{
+  "name": "splitlog",
+  "version": "4.1.2",
+  "summary": "Utility to split aggregated logs from Apache Hadoop Yarn applications into a folder hierarchy",
+  "author": "Sebastian Klemke",
+  "license": null,
+  "home_page": null,
+  "download_filename": "splitlog-4.1.2.tar.gz",
+  "download_time": "2026-02-15T10:38:40.829106",
+  "package_url": "https://pypi.org/project/splitlog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-searchable",
+  "version": "2.2.0",
+  "summary": "Provides fulltext search capabilities for declarative SQLAlchemy models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlalchemy_searchable-2.2.0.tar.gz",
+  "download_time": "2026-02-15T10:39:17.265509",
+  "package_url": "https://pypi.org/project/sqlalchemy-searchable/"
+}

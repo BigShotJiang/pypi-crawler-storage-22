@@ -1,11 +1,11 @@
 {
   "name": "transix",
-  "version": "0.1.0",
-  "summary": "A lightweight toolkit for numerical transformations",
+  "version": "0.3.0",
+  "summary": "A lightweight Python library for power system and control engineering transforms",
   "author": "Gowtham Mahendran",
   "license": null,
   "home_page": null,
-  "download_filename": "transix-0.1.0.tar.gz",
-  "download_time": "2026-02-04T11:42:31.758981",
+  "download_filename": "transix-0.3.0.tar.gz",
+  "download_time": "2026-02-15T10:38:58.785491",
   "package_url": "https://pypi.org/project/transix/"
 }

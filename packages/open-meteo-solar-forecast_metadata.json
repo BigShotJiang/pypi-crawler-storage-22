@@ -1,11 +1,11 @@
 {
   "name": "open-meteo-solar-forecast",
-  "version": "0.1.23",
+  "version": "0.1.29",
   "summary": "Asynchronous Python client for getting forecast solar information",
   "author": "Rany",
   "license": "MIT",
   "home_page": "https://github.com/rany2/open-meteo-solar-forecast",
-  "download_filename": "open_meteo_solar_forecast-0.1.23.tar.gz",
-  "download_time": "2026-02-06T20:05:18.373695",
+  "download_filename": "open_meteo_solar_forecast-0.1.29.tar.gz",
+  "download_time": "2026-02-15T10:38:57.738828",
   "package_url": "https://pypi.org/project/open-meteo-solar-forecast/"
 }

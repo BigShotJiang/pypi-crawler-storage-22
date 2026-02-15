@@ -1,0 +1,11 @@
+{
+  "name": "firefox-newuser",
+  "version": "1.0.0",
+  "summary": "Script to execute a firefox instance with a recently created user. It deletes user after firefox execution",
+  "author": "turulomio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "firefox_newuser-1.0.0.tar.gz",
+  "download_time": "2026-02-15T10:38:53.598871",
+  "package_url": "https://pypi.org/project/firefox-newuser/"
+}

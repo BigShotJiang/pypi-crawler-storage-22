@@ -1,0 +1,11 @@
+{
+  "name": "mehen",
+  "version": "0.0.2",
+  "summary": "Tool to compute and export code metrics",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mehen-0.0.2.tar.gz",
+  "download_time": "2026-02-15T10:38:52.062294",
+  "package_url": "https://pypi.org/project/mehen/"
+}

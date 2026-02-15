@@ -1,0 +1,11 @@
+{
+  "name": "japtoanki",
+  "version": "0.1.3",
+  "summary": "extracts kanji sentences using ocr for automatic anki flashcards",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "japtoanki-0.1.3.tar.gz",
+  "download_time": "2026-02-15T10:38:36.058527",
+  "package_url": "https://pypi.org/project/japtoanki/"
+}

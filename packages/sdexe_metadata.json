@@ -1,11 +1,11 @@
 {
   "name": "sdexe",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Local tools for media downloads, PDF manipulation, image processing, and file conversion",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sdexe-0.1.1.tar.gz",
-  "download_time": "2026-02-15T10:04:10.003682",
+  "download_filename": "sdexe-0.1.2.tar.gz",
+  "download_time": "2026-02-15T10:38:59.805514",
   "package_url": "https://pypi.org/project/sdexe/"
 }

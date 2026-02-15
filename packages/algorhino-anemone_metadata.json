@@ -1,11 +1,11 @@
 {
   "name": "algorhino-anemone",
-  "version": "0.1.15",
+  "version": "0.1.17",
   "summary": "anemone searches trees",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "algorhino_anemone-0.1.15.tar.gz",
-  "download_time": "2026-02-11T13:52:53.814158",
+  "download_filename": "algorhino_anemone-0.1.17.tar.gz",
+  "download_time": "2026-02-15T10:39:13.690006",
   "package_url": "https://pypi.org/project/algorhino-anemone/"
 }

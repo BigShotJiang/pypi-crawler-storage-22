@@ -1,0 +1,11 @@
+{
+  "name": "immutabledict",
+  "version": "4.3.1",
+  "summary": "Immutable wrapper around dictionaries (a fork of frozendict)",
+  "author": "Corentin Garcia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "immutabledict-4.3.1.tar.gz",
+  "download_time": "2026-02-15T10:38:42.931451",
+  "package_url": "https://pypi.org/project/immutabledict/"
+}
