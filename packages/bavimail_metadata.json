@@ -1,11 +1,11 @@
 {
   "name": "bavimail",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Python SDK for the Bavimail email service API",
   "author": "samcannas, adambadar",
   "license": null,
   "home_page": null,
-  "download_filename": "bavimail-0.1.8.tar.gz",
-  "download_time": "2026-02-11T18:13:51.000883",
+  "download_filename": "bavimail-0.1.10-py3-none-any.whl",
+  "download_time": "2026-02-15T20:54:34.731120",
   "package_url": "https://pypi.org/project/bavimail/"
 }

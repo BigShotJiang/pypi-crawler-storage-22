@@ -1,0 +1,11 @@
+{
+  "name": "plink",
+  "version": "2.4.9",
+  "summary": "A full featured Tk-based knot and link editor",
+  "author": "Marc Culler, Nathan M. Dunfield, Matthias Goerner",
+  "license": "GPLv2+",
+  "home_page": null,
+  "download_filename": "plink-2.4.9.tar.gz",
+  "download_time": "2026-02-15T20:54:35.814349",
+  "package_url": "https://pypi.org/project/plink/"
+}

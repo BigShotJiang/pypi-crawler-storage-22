@@ -1,0 +1,11 @@
+{
+  "name": "prov2ld",
+  "version": "0.0.1",
+  "summary": "A lightweight Python script to convert PROV-JSON documents to PROV-JSONLD format according to the W3C PROV-JSONLD specification.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "prov2ld-0.0.1.tar.gz",
+  "download_time": "2026-02-15T20:54:32.572425",
+  "package_url": "https://pypi.org/project/prov2ld/"
+}

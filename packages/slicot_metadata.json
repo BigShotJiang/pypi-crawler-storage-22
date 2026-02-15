@@ -1,11 +1,11 @@
 {
   "name": "slicot",
-  "version": "1.0.14",
-  "summary": "Python bindings for SLICOT C library (control theory)",
+  "version": "2.0.0",
+  "summary": "Transitional package: slicot has been renamed to ctrlsys",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "slicot-1.0.14.tar.gz",
-  "download_time": "2026-02-07T16:31:38.095469",
+  "download_filename": "slicot-2.0.0.tar.gz",
+  "download_time": "2026-02-15T20:54:24.671259",
   "package_url": "https://pypi.org/project/slicot/"
 }

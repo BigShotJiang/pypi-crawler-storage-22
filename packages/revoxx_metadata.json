@@ -1,0 +1,11 @@
+{
+  "name": "revoxx",
+  "version": "1.2.0",
+  "summary": "Speech recording application for creating high-quality speech datasets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "revoxx-1.2.0.tar.gz",
+  "download_time": "2026-02-15T20:54:38.448206",
+  "package_url": "https://pypi.org/project/revoxx/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyai-caching",
+  "version": "0.3.0",
+  "summary": "Redis-based caching for Pydantic AI LLM agents with cost tracking",
+  "author": "Andrew de Jonge",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyai_caching-0.3.0.tar.gz",
+  "download_time": "2026-02-15T20:54:37.902274",
+  "package_url": "https://pypi.org/project/pyai-caching/"
+}

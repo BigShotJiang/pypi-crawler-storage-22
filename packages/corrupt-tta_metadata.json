@@ -1,0 +1,11 @@
+{
+  "name": "corrupt-tta",
+  "version": "0.1.7",
+  "summary": "A modernized library for image corruptions based on ImageNet-C",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "corrupt_tta-0.1.7.tar.gz",
+  "download_time": "2026-02-15T20:54:33.689616",
+  "package_url": "https://pypi.org/project/corrupt-tta/"
+}

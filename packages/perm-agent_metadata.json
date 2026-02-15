@@ -1,11 +1,11 @@
 {
   "name": "perm-agent",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Declarative, JSON-native AI agent framework. Define workflows as data, not code.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "perm_agent-0.2.0.tar.gz",
-  "download_time": "2026-02-15T12:43:30.342151",
+  "download_filename": "perm_agent-0.3.0.tar.gz",
+  "download_time": "2026-02-15T20:54:41.574693",
   "package_url": "https://pypi.org/project/perm-agent/"
 }

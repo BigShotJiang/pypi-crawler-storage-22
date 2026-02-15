@@ -1,11 +1,11 @@
 {
   "name": "photographi-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Visual Intelligence Command Center: A Local Computer Vision Engine for Photo Libraries",
   "author": "Abhishek Prasad",
   "license": null,
   "home_page": null,
-  "download_filename": "photographi_mcp-0.2.0.tar.gz",
-  "download_time": "2026-02-15T20:28:54.862577",
+  "download_filename": "photographi_mcp-0.2.1.tar.gz",
+  "download_time": "2026-02-15T20:55:07.458482",
   "package_url": "https://pypi.org/project/photographi-mcp/"
 }

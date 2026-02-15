@@ -1,11 +1,11 @@
 {
   "name": "clawrtc",
-  "version": "1.2.1",
-  "summary": "ClawRTC — Let your AI agent mine RTC tokens on any modern hardware. 1x multiplier, built-in wallet, VM-penalized.",
+  "version": "1.4.0",
+  "summary": "ClawRTC — Let your AI agent mine RTC tokens on any modern hardware. Built-in wallet, VM-penalized.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clawrtc-1.2.1.tar.gz",
-  "download_time": "2026-02-09T04:27:10.494103",
+  "download_filename": "clawrtc-1.4.0.tar.gz",
+  "download_time": "2026-02-15T20:54:40.012206",
   "package_url": "https://pypi.org/project/clawrtc/"
 }

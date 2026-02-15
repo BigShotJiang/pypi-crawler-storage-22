@@ -1,11 +1,11 @@
 {
   "name": "aiobsidian",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Async Python client for Obsidian Local REST API",
   "author": "kudato",
   "license": null,
   "home_page": null,
-  "download_filename": "aiobsidian-0.1.0.tar.gz",
-  "download_time": "2026-02-15T15:52:36.014404",
+  "download_filename": "aiobsidian-0.1.1.tar.gz",
+  "download_time": "2026-02-15T20:54:28.365725",
   "package_url": "https://pypi.org/project/aiobsidian/"
 }

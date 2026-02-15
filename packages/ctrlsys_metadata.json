@@ -1,0 +1,11 @@
+{
+  "name": "ctrlsys",
+  "version": "1.0.19",
+  "summary": "Python bindings for SLICOT C library (control theory)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctrlsys-1.0.19.tar.gz",
+  "download_time": "2026-02-15T20:55:04.335928",
+  "package_url": "https://pypi.org/project/ctrlsys/"
+}

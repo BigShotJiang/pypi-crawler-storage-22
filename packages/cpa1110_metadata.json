@@ -1,0 +1,11 @@
+{
+  "name": "cpa1110",
+  "version": "0.2.0",
+  "summary": "Python interface for the Cryomech CPA1110 compressor",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cpa1110-0.2.0.tar.gz",
+  "download_time": "2026-02-15T20:54:47.890150",
+  "package_url": "https://pypi.org/project/cpa1110/"
+}

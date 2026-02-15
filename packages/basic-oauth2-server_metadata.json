@@ -1,0 +1,11 @@
+{
+  "name": "basic-oauth2-server",
+  "version": "0.1.6",
+  "summary": "A simple OAuth 2.0 client credentials server for testing and development",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "basic_oauth2_server-0.1.6.tar.gz",
+  "download_time": "2026-02-15T20:54:45.265063",
+  "package_url": "https://pypi.org/project/basic-oauth2-server/"
+}
