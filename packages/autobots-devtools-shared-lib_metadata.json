@@ -1,11 +1,11 @@
 {
   "name": "autobots-devtools-shared-lib",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Shared library functions to be used for all autobots projects",
   "author": "Pralhad",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "autobots_devtools_shared_lib-0.1.4.tar.gz",
-  "download_time": "2026-02-14T14:08:36.845421",
+  "download_filename": "autobots_devtools_shared_lib-0.1.5.tar.gz",
+  "download_time": "2026-02-15T09:41:52.370907",
   "package_url": "https://pypi.org/project/autobots-devtools-shared-lib/"
 }

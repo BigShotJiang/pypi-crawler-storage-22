@@ -1,0 +1,11 @@
+{
+  "name": "ourochronos-valence",
+  "version": "1.1.1",
+  "summary": "Personal knowledge substrate for AI agents - beliefs, conversations, patterns",
+  "author": "Chris Jacobs",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ourochronos_valence-1.1.1.tar.gz",
+  "download_time": "2026-02-15T09:41:23.407900",
+  "package_url": "https://pypi.org/project/ourochronos-valence/"
+}

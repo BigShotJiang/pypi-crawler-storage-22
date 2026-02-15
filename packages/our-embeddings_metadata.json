@@ -1,0 +1,11 @@
+{
+  "name": "our-embeddings",
+  "version": "0.1.1",
+  "summary": "Vector embedding generation and similarity search",
+  "author": "Chris Jacobs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "our_embeddings-0.1.1.tar.gz",
+  "download_time": "2026-02-15T09:41:40.638683",
+  "package_url": "https://pypi.org/project/our-embeddings/"
+}

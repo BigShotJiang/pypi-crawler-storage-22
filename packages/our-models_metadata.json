@@ -1,0 +1,11 @@
+{
+  "name": "our-models",
+  "version": "0.1.1",
+  "summary": "Data models with temporal validity and dimensional confidence for the ourochronos ecosystem",
+  "author": "Chris Jacobs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "our_models-0.1.1.tar.gz",
+  "download_time": "2026-02-15T09:41:41.164606",
+  "package_url": "https://pypi.org/project/our-models/"
+}

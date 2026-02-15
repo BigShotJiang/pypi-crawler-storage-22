@@ -1,11 +1,11 @@
 {
   "name": "anicli_api",
-  "version": "0.8.11",
+  "version": "0.8.12",
   "summary": "Anime extractors api implementation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anicli_api-0.8.11.tar.gz",
-  "download_time": "2026-02-06T21:29:13.052169",
+  "download_filename": "anicli_api-0.8.12.tar.gz",
+  "download_time": "2026-02-15T09:41:46.668929",
   "package_url": "https://pypi.org/project/anicli_api/"
 }

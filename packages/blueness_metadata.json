@@ -1,0 +1,11 @@
+{
+  "name": "blueness",
+  "version": "3.120.1",
+  "summary": "🌀 Blueness for Bluer AI.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/blueness",
+  "download_filename": "blueness-3.120.1.tar.gz",
+  "download_time": "2026-02-15T09:41:42.784021",
+  "package_url": "https://pypi.org/project/blueness/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kuaijs-ios",
+  "version": "0.3.15",
+  "summary": "快点JS代码提示与类型检查。",
+  "author": "KuaiJS",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuaijs_ios-0.3.15.tar.gz",
+  "download_time": "2026-02-15T09:41:53.993829",
+  "package_url": "https://pypi.org/project/kuaijs-ios/"
+}
