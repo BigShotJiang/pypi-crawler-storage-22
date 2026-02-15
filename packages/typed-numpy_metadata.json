@@ -1,0 +1,11 @@
+{
+  "name": "typed-numpy",
+  "version": "0.2.0",
+  "summary": "Typed NumPy with static shape typing and runtime shape validation.",
+  "author": "Ashrith Sagar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typed_numpy-0.2.0.tar.gz",
+  "download_time": "2026-02-15T17:55:32.053927",
+  "package_url": "https://pypi.org/project/typed-numpy/"
+}

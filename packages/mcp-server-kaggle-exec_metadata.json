@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-kaggle-exec",
+  "version": "0.1.0",
+  "summary": "MCP server for executing Python code on Kaggle GPU runtimes (T4/P100/TPU)",
+  "author": "Paritosh Dwivedi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_kaggle_exec-0.1.0.tar.gz",
+  "download_time": "2026-02-15T17:55:29.423803",
+  "package_url": "https://pypi.org/project/mcp-server-kaggle-exec/"
+}

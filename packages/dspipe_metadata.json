@@ -1,0 +1,11 @@
+{
+  "name": "dspipe",
+  "version": "0.4.2",
+  "summary": "dspipe: Easy to use data science pipes",
+  "author": "Travis Hoppe",
+  "license": "CC0",
+  "home_page": "https://github.com/thoppe/dspipe",
+  "download_filename": "dspipe-0.4.2.tar.gz",
+  "download_time": "2026-02-15T17:55:28.334561",
+  "package_url": "https://pypi.org/project/dspipe/"
+}

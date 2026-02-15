@@ -1,11 +1,11 @@
 {
   "name": "dgcv",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "Differential Geometry with Complex Variables",
   "author": "David Sykes",
   "license": null,
   "home_page": null,
-  "download_filename": "dgcv-0.4.1.tar.gz",
-  "download_time": "2026-02-15T15:25:01.297518",
+  "download_filename": "dgcv-0.4.2.tar.gz",
+  "download_time": "2026-02-15T17:55:36.314070",
   "package_url": "https://pypi.org/project/dgcv/"
 }

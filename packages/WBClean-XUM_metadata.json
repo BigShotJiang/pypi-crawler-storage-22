@@ -1,11 +1,11 @@
 {
   "name": "WBClean-XUM",
-  "version": "1.5",
+  "version": "1.6",
   "summary": "A python library that will help developers trying to parse different excel file formats. From conversions of file formats to extracting required information from complex excel sheets, this library is the go-to I would like to propose to all of developer community.",
   "author": "Muthu Krishnan",
   "license": "GNU",
   "home_page": null,
-  "download_filename": "wbclean_xum-1.5.tar.gz",
-  "download_time": "2026-02-15T17:01:18.804477",
+  "download_filename": "wbclean_xum-1.6.tar.gz",
+  "download_time": "2026-02-15T17:55:50.278124",
   "package_url": "https://pypi.org/project/WBClean-XUM/"
 }

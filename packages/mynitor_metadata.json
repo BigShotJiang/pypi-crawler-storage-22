@@ -1,11 +1,11 @@
 {
   "name": "mynitor",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Production safety and observability for AI systems.",
   "author": "MyNitor AI",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mynitor-0.2.5.tar.gz",
-  "download_time": "2026-02-15T17:27:11.915248",
+  "download_filename": "mynitor-0.2.6.tar.gz",
+  "download_time": "2026-02-15T17:55:44.631509",
   "package_url": "https://pypi.org/project/mynitor/"
 }

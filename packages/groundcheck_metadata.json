@@ -1,0 +1,11 @@
+{
+  "name": "groundcheck",
+  "version": "1.0.0",
+  "summary": "Trust-weighted hallucination detection for AI agents. Verify LLM outputs against multiple sources with contradiction awareness. Zero dependencies. Sub-2ms.",
+  "author": "blockhead22",
+  "license": null,
+  "home_page": null,
+  "download_filename": "groundcheck-1.0.0.tar.gz",
+  "download_time": "2026-02-15T17:55:51.814321",
+  "package_url": "https://pypi.org/project/groundcheck/"
+}

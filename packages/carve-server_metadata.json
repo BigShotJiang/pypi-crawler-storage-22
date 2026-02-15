@@ -1,11 +1,11 @@
 {
   "name": "carve-server",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Text Editor for AI Agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "carve_server-0.1.1.tar.gz",
-  "download_time": "2026-02-15T06:36:06.108875",
+  "download_filename": "carve_server-0.1.2.tar.gz",
+  "download_time": "2026-02-15T17:55:52.841553",
   "package_url": "https://pypi.org/project/carve-server/"
 }

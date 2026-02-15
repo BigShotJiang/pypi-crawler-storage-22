@@ -1,0 +1,11 @@
+{
+  "name": "surfacedocs",
+  "version": "0.3.0",
+  "summary": "Python SDK for SurfaceDocs - Save LLM-generated documents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "surfacedocs-0.3.0.tar.gz",
+  "download_time": "2026-02-15T17:55:56.041035",
+  "package_url": "https://pypi.org/project/surfacedocs/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "simplepycons",
-  "version": "1!16.7.0",
+  "version": "1!16.9.0",
   "summary": "Python Wrapper for the simpleicons (https://simpleicons.org) library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "simplepycons-1!16.7.0.tar.gz",
-  "download_time": "2026-02-01T23:21:23.545998",
+  "download_filename": "simplepycons-1!16.9.0.tar.gz",
+  "download_time": "2026-02-15T17:55:40.464510",
   "package_url": "https://pypi.org/project/simplepycons/"
 }

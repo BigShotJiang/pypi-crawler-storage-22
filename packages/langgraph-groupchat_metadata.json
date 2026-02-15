@@ -1,0 +1,11 @@
+{
+  "name": "langgraph-groupchat",
+  "version": "0.1.1",
+  "summary": "A group chat implementation using LangGraph",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langgraph_groupchat-0.1.1.tar.gz",
+  "download_time": "2026-02-15T17:55:46.671816",
+  "package_url": "https://pypi.org/project/langgraph-groupchat/"
+}
