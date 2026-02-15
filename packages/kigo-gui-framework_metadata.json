@@ -1,11 +1,11 @@
 {
   "name": "kigo-gui-framework",
-  "version": "1.7",
-  "summary": "Added hierarchical UI components, CSS like styling, and media playback. ",
+  "version": "1.8",
+  "summary": "Added skins (Retro, glass, neon) and a lot of thanks to you for helping me cross 10K downloads in 3 months = D. Refer to examples/ skins-demos.py to see the code. ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kigo_gui_framework-1.7.tar.gz",
-  "download_time": "2026-02-08T11:57:47.647616",
+  "download_filename": "kigo_gui_framework-1.8.tar.gz",
+  "download_time": "2026-02-15T08:32:45.737273",
   "package_url": "https://pypi.org/project/kigo-gui-framework/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "duvo-sandstorm",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Sandboxed Claude agents on demand. Run Claude Agent SDK in isolated E2B sandboxes and stream results via SSE.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "duvo_sandstorm-0.3.0.tar.gz",
-  "download_time": "2026-02-15T01:53:44.639816",
+  "download_filename": "duvo_sandstorm-0.4.0.tar.gz",
+  "download_time": "2026-02-15T08:32:36.829179",
   "package_url": "https://pypi.org/project/duvo-sandstorm/"
 }

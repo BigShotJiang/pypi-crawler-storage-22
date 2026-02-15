@@ -1,0 +1,11 @@
+{
+  "name": "knowlyr-sandbox",
+  "version": "0.1.1",
+  "summary": "Code Agent execution sandbox - reproducible Docker environments for isolated code task execution and trajectory replay",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "knowlyr_sandbox-0.1.1.tar.gz",
+  "download_time": "2026-02-15T08:32:48.291643",
+  "package_url": "https://pypi.org/project/knowlyr-sandbox/"
+}

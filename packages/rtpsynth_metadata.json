@@ -5,7 +5,7 @@
   "author": "Maksym Sobolyev",
   "license": "BSD-2-Clause",
   "home_page": "https://github.com/sippy/librtpsynth.git",
-  "download_filename": "rtpsynth-1.3.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.manylinux_2_28_aarch64.whl",
-  "download_time": "2026-02-15T08:00:11.057739",
+  "download_filename": "rtpsynth-1.3.0.tar.gz",
+  "download_time": "2026-02-15T08:32:56.050622",
   "package_url": "https://pypi.org/project/rtpsynth/"
 }

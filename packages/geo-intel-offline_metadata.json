@@ -1,0 +1,11 @@
+{
+  "name": "geo-intel-offline",
+  "version": "1.5.0",
+  "summary": "Production-ready, offline geo-intelligence library for resolving latitude/longitude to country, ISO codes, continent, and timezone information",
+  "author": "Rakesh Ranjan Jena",
+  "license": "MIT",
+  "home_page": "https://github.com/RRJena/geo-intel-offline",
+  "download_filename": "geo_intel_offline-1.5.0.tar.gz",
+  "download_time": "2026-02-15T08:32:39.867492",
+  "package_url": "https://pypi.org/project/geo-intel-offline/"
+}

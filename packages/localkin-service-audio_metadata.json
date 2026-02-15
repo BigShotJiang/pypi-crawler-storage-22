@@ -1,11 +1,11 @@
 {
   "name": "localkin-service-audio",
-  "version": "2.0.7",
+  "version": "2.0.9",
   "summary": "Voice AI Platform - Local STT/TTS with Chinese Language Support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "localkin_service_audio-2.0.7.tar.gz",
-  "download_time": "2026-02-15T08:00:23.141394",
+  "download_filename": "localkin_service_audio-2.0.9.tar.gz",
+  "download_time": "2026-02-15T08:32:20.866115",
   "package_url": "https://pypi.org/project/localkin-service-audio/"
 }

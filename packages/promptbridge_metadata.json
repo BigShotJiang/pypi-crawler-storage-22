@@ -1,11 +1,11 @@
 {
   "name": "promptbridge",
-  "version": "1.0.3",
+  "version": "1.1.1",
   "summary": "CLI Wrapper with Prompt Optimization - Bridge between you and AI CLI tools (opencode, claude, gemini)",
   "author": "Art_John",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "promptbridge-1.0.3.tar.gz",
-  "download_time": "2026-02-01T19:02:01.848612",
+  "download_filename": "promptbridge-1.1.1.tar.gz",
+  "download_time": "2026-02-15T08:32:14.753823",
   "package_url": "https://pypi.org/project/promptbridge/"
 }
