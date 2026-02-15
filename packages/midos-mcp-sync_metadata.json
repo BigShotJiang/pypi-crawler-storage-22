@@ -1,0 +1,11 @@
+{
+  "name": "midos-mcp-sync",
+  "version": "0.1.0",
+  "summary": "Detect, validate, and sync MCP server configurations across all your AI tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "midos_mcp_sync-0.1.0.tar.gz",
+  "download_time": "2026-02-15T19:58:44.335649",
+  "package_url": "https://pypi.org/project/midos-mcp-sync/"
+}

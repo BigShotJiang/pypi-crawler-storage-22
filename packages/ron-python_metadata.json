@@ -1,11 +1,11 @@
 {
   "name": "ron-python",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Python reader for Rusty Object Notation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ron_python-0.0.2.tar.gz",
-  "download_time": "2026-01-31T22:48:21.636557",
+  "download_filename": "ron_python-0.0.4.tar.gz",
+  "download_time": "2026-02-15T19:58:48.488235",
   "package_url": "https://pypi.org/project/ron-python/"
 }

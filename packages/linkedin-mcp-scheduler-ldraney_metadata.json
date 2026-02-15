@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-mcp-scheduler-ldraney",
+  "version": "0.1.0",
+  "summary": "Standalone MCP server for LinkedIn post scheduling with a publisher daemon",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "linkedin_mcp_scheduler_ldraney-0.1.0.tar.gz",
+  "download_time": "2026-02-15T19:58:41.243522",
+  "package_url": "https://pypi.org/project/linkedin-mcp-scheduler-ldraney/"
+}

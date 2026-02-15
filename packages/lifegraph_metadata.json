@@ -1,11 +1,11 @@
 {
   "name": "lifegraph",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A package to visualize your life as a grid of weeks.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lifegraph-0.2.0.tar.gz",
-  "download_time": "2026-02-14T19:39:46.128528",
+  "download_filename": "lifegraph-0.3.0.tar.gz",
+  "download_time": "2026-02-15T19:58:56.366592",
   "package_url": "https://pypi.org/project/lifegraph/"
 }

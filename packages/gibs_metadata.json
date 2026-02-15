@@ -1,11 +1,11 @@
 {
   "name": "gibs",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python SDK for the Gibs multi-regulation compliance API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gibs-0.1.1.tar.gz",
-  "download_time": "2026-02-15T18:33:13.637846",
+  "download_filename": "gibs-0.2.0.tar.gz",
+  "download_time": "2026-02-15T19:58:53.158075",
   "package_url": "https://pypi.org/project/gibs/"
 }
