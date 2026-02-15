@@ -1,11 +1,11 @@
 {
   "name": "webmentions",
-  "version": "0.1.5",
+  "version": "0.1.10",
   "summary": "A general-purpose library to add Webmentions support to your website",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "webmentions-0.1.5.tar.gz",
-  "download_time": "2026-02-08T23:29:44.067365",
+  "download_filename": "webmentions-0.1.10.tar.gz",
+  "download_time": "2026-02-15T23:26:19.452261",
   "package_url": "https://pypi.org/project/webmentions/"
 }

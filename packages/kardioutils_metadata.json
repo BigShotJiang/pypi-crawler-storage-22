@@ -1,11 +1,11 @@
 {
   "name": "kardioutils",
-  "version": "1.0.25",
+  "version": "1.0.28",
   "summary": "Utils lib",
   "author": "João Neto",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kardioutils-1.0.25.tar.gz",
-  "download_time": "2026-02-02T14:39:24.135535",
+  "download_filename": "kardioutils-1.0.28.tar.gz",
+  "download_time": "2026-02-15T23:26:02.177872",
   "package_url": "https://pypi.org/project/kardioutils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "maniscope",
+  "version": "1.1.0",
+  "summary": "Efficient neural reranking via geodesic distances on k-NN manifolds",
+  "author": "Wen G. Gong, Albert Gong",
+  "license": null,
+  "home_page": "https://github.com/digital-duck/maniscope",
+  "download_filename": "maniscope-1.1.0.tar.gz",
+  "download_time": "2026-02-15T23:26:18.919168",
+  "package_url": "https://pypi.org/project/maniscope/"
+}

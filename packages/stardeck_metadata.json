@@ -1,0 +1,11 @@
+{
+  "name": "stardeck",
+  "version": "0.1.0",
+  "summary": "Developer-first presentation tool - Slidev for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stardeck-0.1.0.tar.gz",
+  "download_time": "2026-02-15T23:26:07.336106",
+  "package_url": "https://pypi.org/project/stardeck/"
+}

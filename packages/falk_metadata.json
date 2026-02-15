@@ -1,11 +1,11 @@
 {
   "name": "falk",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "falk-0.3.0.tar.gz",
-  "download_time": "2026-02-14T13:35:43.527212",
+  "download_filename": "falk-0.3.1.tar.gz",
+  "download_time": "2026-02-15T23:26:25.809424",
   "package_url": "https://pypi.org/project/falk/"
 }

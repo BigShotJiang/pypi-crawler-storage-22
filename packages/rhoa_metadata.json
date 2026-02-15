@@ -1,11 +1,11 @@
 {
   "name": "rhoa",
-  "version": "0.1.9",
+  "version": "0.2.1",
   "summary": "A pandas DataFrame extension for technical analysis.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rhoa-0.1.9.tar.gz",
-  "download_time": "2026-02-15T22:55:42.937953",
+  "download_filename": "rhoa-0.2.1.tar.gz",
+  "download_time": "2026-02-15T23:25:53.660295",
   "package_url": "https://pypi.org/project/rhoa/"
 }

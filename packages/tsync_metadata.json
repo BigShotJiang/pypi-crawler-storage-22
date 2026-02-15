@@ -1,0 +1,11 @@
+{
+  "name": "tsync",
+  "version": "0.1.1",
+  "summary": "rsync wrapper to sync files between local machine and remotes with push/pull workflow",
+  "author": "jayghoshter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tsync-0.1.1.tar.gz",
+  "download_time": "2026-02-15T23:26:03.717496",
+  "package_url": "https://pypi.org/project/tsync/"
+}
