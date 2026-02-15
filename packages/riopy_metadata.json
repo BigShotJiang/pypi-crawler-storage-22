@@ -1,0 +1,11 @@
+{
+  "name": "riopy",
+  "version": "0.1.0",
+  "summary": "Python library for Rubika bot",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/riopy",
+  "download_filename": "riopy-0.1.0.tar.gz",
+  "download_time": "2026-02-15T11:56:19.250562",
+  "package_url": "https://pypi.org/project/riopy/"
+}

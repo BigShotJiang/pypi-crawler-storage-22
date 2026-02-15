@@ -1,11 +1,11 @@
 {
   "name": "structcast",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Elegantly orchestrating structured data via a flexible and serializable workflow.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "structcast-1.1.1-py3-none-any.whl",
-  "download_time": "2026-02-14T15:05:50.248449",
+  "download_filename": "structcast-1.1.2-py3-none-any.whl",
+  "download_time": "2026-02-15T11:56:15.151455",
   "package_url": "https://pypi.org/project/structcast/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "modekeeper",
+  "version": "0.1.1",
+  "summary": "ModeKeeper: self-serve observability and safe closed-loop tuning",
+  "author": "ModeKeeper",
+  "license": null,
+  "home_page": null,
+  "download_filename": "modekeeper-0.1.1.tar.gz",
+  "download_time": "2026-02-15T11:56:04.838940",
+  "package_url": "https://pypi.org/project/modekeeper/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "justmyresource-lucide",
+  "version": "0.1.0",
+  "summary": "JustMyResource pack for Lucide icons - provides access to 1500+ SVG icons from the Lucide icon library",
+  "author": "Kaj Siebert",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "justmyresource_lucide-0.1.0.tar.gz",
+  "download_time": "2026-02-15T11:56:09.532254",
+  "package_url": "https://pypi.org/project/justmyresource-lucide/"
+}

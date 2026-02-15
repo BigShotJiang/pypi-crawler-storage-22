@@ -1,11 +1,11 @@
 {
   "name": "citekit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A local SDK that lets AI agents open specific parts of files instead of sending entire documents.",
-  "author": "CiteKit Team",
+  "author": "Abdushakurob",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "citekit-0.1.0.tar.gz",
-  "download_time": "2026-02-14T21:50:01.012537",
+  "download_filename": "citekit-0.1.2.tar.gz",
+  "download_time": "2026-02-15T11:56:11.064325",
   "package_url": "https://pypi.org/project/citekit/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "sekoia-event-exporter",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Export search job results from Sekoia.io API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sekoia_event_exporter-0.3.0.tar.gz",
-  "download_time": "2026-02-14T14:08:57.381193",
+  "download_filename": "sekoia_event_exporter-0.4.0.tar.gz",
+  "download_time": "2026-02-15T11:56:18.229354",
   "package_url": "https://pypi.org/project/sekoia-event-exporter/"
 }

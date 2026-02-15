@@ -1,0 +1,11 @@
+{
+  "name": "spex-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool for managing requirements and decisions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spex_cli-0.1.0.tar.gz",
+  "download_time": "2026-02-15T11:56:11.576767",
+  "package_url": "https://pypi.org/project/spex-cli/"
+}

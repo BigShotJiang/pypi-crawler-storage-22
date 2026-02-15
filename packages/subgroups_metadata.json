@@ -1,0 +1,11 @@
+{
+  "name": "subgroups",
+  "version": "0.1.12",
+  "summary": "subgroups is a python library which contains a collection of subgroup discovery algorithms and other data analysis utilities.",
+  "author": "Antonio López Martínez-Carrasco",
+  "license": "BSD-4-Clause",
+  "home_page": "https://github.com/antoniolopezmc/subgroups",
+  "download_filename": "subgroups-0.1.12.tar.gz",
+  "download_time": "2026-02-15T11:56:18.740698",
+  "package_url": "https://pypi.org/project/subgroups/"
+}

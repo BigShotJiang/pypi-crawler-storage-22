@@ -1,11 +1,11 @@
 {
   "name": "django-mantle-drf",
-  "version": "26.1",
+  "version": "26.2",
   "summary": "Django REST Framework views and schema powered by Mantle and attrs shape classes.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_mantle_drf-26.1.tar.gz",
-  "download_time": "2026-02-15T11:05:12.642347",
+  "download_filename": "django_mantle_drf-26.2.tar.gz",
+  "download_time": "2026-02-15T11:56:26.981708",
   "package_url": "https://pypi.org/project/django-mantle-drf/"
 }
