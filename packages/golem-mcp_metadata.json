@@ -1,11 +1,11 @@
 {
   "name": "golem-mcp",
-  "version": "2.3.2",
+  "version": "2.3.3",
   "summary": "MCP bridge — connects AI coding agents to Godot 4.x via TCP",
   "author": "Haidy-ID",
   "license": null,
   "home_page": null,
-  "download_filename": "golem_mcp-2.3.2.tar.gz",
-  "download_time": "2026-02-14T21:23:42.581388",
+  "download_filename": "golem_mcp-2.3.3.tar.gz",
+  "download_time": "2026-02-15T19:07:22.249287",
   "package_url": "https://pypi.org/project/golem-mcp/"
 }

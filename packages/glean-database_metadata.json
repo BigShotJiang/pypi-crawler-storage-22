@@ -1,0 +1,11 @@
+{
+  "name": "glean-database",
+  "version": "0.3.2",
+  "summary": "Database access classes with caching capabilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glean_database-0.3.2.tar.gz",
+  "download_time": "2026-02-15T19:07:11.648452",
+  "package_url": "https://pypi.org/project/glean-database/"
+}

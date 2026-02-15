@@ -1,11 +1,11 @@
 {
   "name": "latdraw",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Draw Accelerator lattices in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "latdraw-0.3.0.tar.gz",
-  "download_time": "2026-02-14T18:01:12.587881",
+  "download_filename": "latdraw-0.3.1.tar.gz",
+  "download_time": "2026-02-15T19:07:10.017462",
   "package_url": "https://pypi.org/project/latdraw/"
 }

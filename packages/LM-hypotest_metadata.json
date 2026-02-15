@@ -1,0 +1,11 @@
+{
+  "name": "LM-hypotest",
+  "version": "0.1.1",
+  "summary": "A Python library for hypothesis testing with automated assumptions",
+  "author": "Hypotest Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lm_hypotest-0.1.1.tar.gz",
+  "download_time": "2026-02-15T19:07:03.174537",
+  "package_url": "https://pypi.org/project/LM-hypotest/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vocalyx",
-  "version": "0.2.1",
-  "summary": "Real-time voice assistant with STT, GPT, and TTS. Install with pip install vocalyx. Run vocalyx-stt, vocalyx-tts, and vocalyx.",
+  "version": "1.0.2",
+  "summary": "Real-time voice assistant with Speech-to-Text (STT), GPT, and Text-to-Speech (TTS). Run vocalyx-stt, vocalyx-tts, and vocalyx in three terminals.",
   "author": "Daxrajsinh Jadeja",
   "license": null,
   "home_page": null,
-  "download_filename": "vocalyx-0.2.1.tar.gz",
-  "download_time": "2026-02-11T08:32:18.535907",
+  "download_filename": "vocalyx-1.0.2.tar.gz",
+  "download_time": "2026-02-15T19:07:02.655667",
   "package_url": "https://pypi.org/project/vocalyx/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "convnet",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "summary": "A high-performance CNN framework: SciPy for CPU optimization, JAX for GPU/TPU",
   "author": "codinggamer-dev",
   "license": null,
   "home_page": "https://github.com/codinggamer-dev/ConvNet-NumPy",
-  "download_filename": "convnet-2.4.2.tar.gz",
-  "download_time": "2026-02-15T18:33:09.476761",
+  "download_filename": "convnet-2.4.3.tar.gz",
+  "download_time": "2026-02-15T19:07:03.693953",
   "package_url": "https://pypi.org/project/convnet/"
 }

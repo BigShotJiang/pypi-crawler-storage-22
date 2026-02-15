@@ -1,0 +1,11 @@
+{
+  "name": "clipkly",
+  "version": "0.1.6",
+  "summary": "Automatiza la creación de clips impactantes desde tus transmisiones. clipkly convierte JSONs con timecodes en cortes precisos listos para redes sociales, exportando también un Excel con metadatos editoriales. Perfecto para devs que crean, editan y publican contenido.",
+  "author": "Julian Dario Luna Patiño",
+  "license": null,
+  "home_page": "https://github.com/judlup/clipkly",
+  "download_filename": "clipkly-0.1.6.tar.gz",
+  "download_time": "2026-02-15T19:07:08.450196",
+  "package_url": "https://pypi.org/project/clipkly/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "prellm",
-  "version": "0.1.15",
-  "summary": "Prellm - Lightweight LLM prompt middleware for bias detection, standardization, and DevOps process chains via YAML config, supporting context injection and multi-provider orchestration.",
+  "version": "0.3.1",
+  "summary": "preLLM — One function for small LLM preprocessing before large LLM execution. Like litellm.completion() but with decomposition.",
   "author": "Softreck",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prellm-0.1.15.tar.gz",
-  "download_time": "2026-02-15T18:33:07.847820",
+  "download_filename": "prellm-0.3.1.tar.gz",
+  "download_time": "2026-02-15T19:06:59.959842",
   "package_url": "https://pypi.org/project/prellm/"
 }

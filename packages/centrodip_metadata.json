@@ -1,0 +1,11 @@
+{
+  "name": "centrodip",
+  "version": "1.0.1",
+  "summary": "Find hypomethylated regions in centromeres",
+  "author": "Julian Menendez",
+  "license": "MIT",
+  "home_page": "https://github.com/jmenendez98/centrodip",
+  "download_filename": "centrodip-1.0.1.tar.gz",
+  "download_time": "2026-02-15T19:06:54.056777",
+  "package_url": "https://pypi.org/project/centrodip/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tiskitpy",
-  "version": "2.2.0",
+  "version": "2.2.0.post1",
   "summary": "TIme Series toolKIT",
   "author": "Wayne Crawford",
   "license": null,
   "home_page": "https://github.com/WayneCrawford/tiskitpy",
-  "download_filename": "tiskitpy-2.2.0.tar.gz",
-  "download_time": "2026-02-15T17:55:35.796943",
+  "download_filename": "tiskitpy-2.2.0.post1.tar.gz",
+  "download_time": "2026-02-15T19:07:23.822821",
   "package_url": "https://pypi.org/project/tiskitpy/"
 }

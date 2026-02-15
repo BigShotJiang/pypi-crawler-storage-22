@@ -1,0 +1,11 @@
+{
+  "name": "dsa-metric",
+  "version": "2.0.0",
+  "summary": "Dynamical Similarity Analysis",
+  "author": "Mitchell Ostrow",
+  "license": null,
+  "home_page": "https://github.com/mitchellostrow/DSA",
+  "download_filename": "dsa_metric-2.0.0.tar.gz",
+  "download_time": "2026-02-15T19:07:30.627542",
+  "package_url": "https://pypi.org/project/dsa-metric/"
+}

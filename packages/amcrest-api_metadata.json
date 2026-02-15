@@ -1,0 +1,11 @@
+{
+  "name": "amcrest-api",
+  "version": "0.1.10",
+  "summary": "Python Wrapper for Amcrest API v3.26 or greater.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amcrest_api-0.1.10.tar.gz",
+  "download_time": "2026-02-15T19:07:22.768684",
+  "package_url": "https://pypi.org/project/amcrest-api/"
+}
