@@ -1,11 +1,11 @@
 {
   "name": "ghostcfg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Interactive TUI for Ghostty terminal configuration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ghostcfg-0.1.0.tar.gz",
-  "download_time": "2026-02-13T22:56:11.752464",
+  "download_filename": "ghostcfg-0.1.1.tar.gz",
+  "download_time": "2026-02-15T22:55:19.725251",
   "package_url": "https://pypi.org/project/ghostcfg/"
 }

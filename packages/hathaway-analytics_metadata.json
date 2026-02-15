@@ -1,0 +1,11 @@
+{
+  "name": "hathaway-analytics",
+  "version": "0.2.0",
+  "summary": "Minimal non-blocking data analytics collection for Flask apps",
+  "author": "Isaac Hathaway",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "hathaway_analytics-0.2.0.tar.gz",
+  "download_time": "2026-02-15T22:55:49.856717",
+  "package_url": "https://pypi.org/project/hathaway-analytics/"
+}

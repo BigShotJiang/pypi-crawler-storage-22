@@ -1,0 +1,11 @@
+{
+  "name": "read-no-evil-mcp",
+  "version": "0.3.1",
+  "summary": "A secure email gateway MCP server that protects AI agents from prompt injection attacks in emails",
+  "author": "read-no-evil-mcp contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "read_no_evil_mcp-0.3.1.tar.gz",
+  "download_time": "2026-02-15T22:55:11.282043",
+  "package_url": "https://pypi.org/project/read-no-evil-mcp/"
+}

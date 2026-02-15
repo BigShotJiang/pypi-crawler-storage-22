@@ -1,11 +1,11 @@
 {
   "name": "kader",
-  "version": "2.2.6",
+  "version": "2.4.0",
   "summary": "kader coding agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kader-2.2.6.tar.gz",
-  "download_time": "2026-02-12T11:16:42.633493",
+  "download_filename": "kader-2.4.0.tar.gz",
+  "download_time": "2026-02-15T22:55:13.975023",
   "package_url": "https://pypi.org/project/kader/"
 }

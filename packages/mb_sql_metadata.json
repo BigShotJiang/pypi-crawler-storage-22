@@ -1,0 +1,11 @@
+{
+  "name": "mb_sql",
+  "version": "2.0.3",
+  "summary": "mb SQL functions API",
+  "author": "['Malav Bateriwala']",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mb_sql-2.0.3-py3-none-any.whl",
+  "download_time": "2026-02-15T22:55:08.589427",
+  "package_url": "https://pypi.org/project/mb_sql/"
+}

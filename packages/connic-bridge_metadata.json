@@ -1,0 +1,11 @@
+{
+  "name": "connic-bridge",
+  "version": "0.1.0",
+  "summary": "Connic Bridge - connect private networks to Connic Cloud",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "connic_bridge-0.1.0.tar.gz",
+  "download_time": "2026-02-15T22:55:22.968492",
+  "package_url": "https://pypi.org/project/connic-bridge/"
+}

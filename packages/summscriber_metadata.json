@@ -1,0 +1,11 @@
+{
+  "name": "summscriber",
+  "version": "0.8.1",
+  "summary": "Transcribe audio with Whisper (faster-whisper), with summarization (pysummarization, sumy, OpenAI) and short reply with OpenAI.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "summscriber-0.8.1.tar.gz",
+  "download_time": "2026-02-15T22:55:17.328792",
+  "package_url": "https://pypi.org/project/summscriber/"
+}

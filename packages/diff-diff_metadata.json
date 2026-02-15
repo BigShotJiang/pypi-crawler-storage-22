@@ -1,0 +1,11 @@
+{
+  "name": "diff-diff",
+  "version": "2.3.1",
+  "summary": "A library for Difference-in-Differences causal inference analysis",
+  "author": "diff-diff contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "diff_diff-2.3.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-15T22:55:03.411316",
+  "package_url": "https://pypi.org/project/diff-diff/"
+}

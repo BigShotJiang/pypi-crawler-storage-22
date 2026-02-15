@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-request-pipeline",
+  "version": "0.1.1",
+  "summary": "A composable request processing pipeline for FastAPI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_request_pipeline-0.1.1.tar.gz",
+  "download_time": "2026-02-15T22:55:44.557065",
+  "package_url": "https://pypi.org/project/fastapi-request-pipeline/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bio-pypage",
+  "version": "0.2.1",
+  "summary": "Python implementation of the PAGE algorithm",
+  "author": "Artemy Bakulin, Noam Teyssier",
+  "license": null,
+  "home_page": "https://github.com/goodarzilab/pyPAGE",
+  "download_filename": "bio_pypage-0.2.1.tar.gz",
+  "download_time": "2026-02-15T22:55:46.702765",
+  "package_url": "https://pypi.org/project/bio-pypage/"
+}

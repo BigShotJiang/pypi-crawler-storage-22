@@ -1,11 +1,11 @@
 {
   "name": "antaris-memory",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Human-like memory for AI agents. Patent pending.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "antaris_memory-0.1.1.tar.gz",
-  "download_time": "2026-02-15T22:24:49.867921",
+  "download_filename": "antaris_memory-0.2.0.tar.gz",
+  "download_time": "2026-02-15T22:55:47.746921",
   "package_url": "https://pypi.org/project/antaris-memory/"
 }
