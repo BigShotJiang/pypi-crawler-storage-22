@@ -1,0 +1,11 @@
+{
+  "name": "cutagent",
+  "version": "0.1.0",
+  "summary": "Agent-first video cutting library — declarative JSON edits powered by FFmpeg",
+  "author": "Kevin Koch",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cutagent-0.1.0.tar.gz",
+  "download_time": "2026-02-15T19:43:11.614740",
+  "package_url": "https://pypi.org/project/cutagent/"
+}

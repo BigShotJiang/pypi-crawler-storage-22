@@ -1,0 +1,11 @@
+{
+  "name": "organize-cli",
+  "version": "1.0.0",
+  "summary": "A smart command-line file organizer with recursive sorting, duplicate detection, and dry-run preview.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "organize_cli-1.0.0.tar.gz",
+  "download_time": "2026-02-15T19:43:17.657755",
+  "package_url": "https://pypi.org/project/organize-cli/"
+}

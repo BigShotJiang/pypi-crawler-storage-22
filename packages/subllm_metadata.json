@@ -1,11 +1,11 @@
 {
   "name": "subllm",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Route LLM API calls through subscription-authenticated coding agents (Claude Code, Codex, Gemini CLI)",
   "author": "Tom Mathews",
   "license": null,
   "home_page": null,
-  "download_filename": "subllm-0.3.0.tar.gz",
-  "download_time": "2026-02-15T18:33:41.020736",
+  "download_filename": "subllm-0.4.0.tar.gz",
+  "download_time": "2026-02-15T19:43:45.669276",
   "package_url": "https://pypi.org/project/subllm/"
 }

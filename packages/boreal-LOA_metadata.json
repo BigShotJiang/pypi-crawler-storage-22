@@ -1,0 +1,11 @@
+{
+  "name": "boreal-LOA",
+  "version": "0.5.0",
+  "summary": "Python package of the Basic algOrithm for REtrieval of Aerosol with Lidar - an algorithm to retrieve aerosol optical and microphysical properties from lidar measurements",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "boreal_loa-0.5.0.tar.gz",
+  "download_time": "2026-02-15T19:43:39.073910",
+  "package_url": "https://pypi.org/project/boreal-LOA/"
+}

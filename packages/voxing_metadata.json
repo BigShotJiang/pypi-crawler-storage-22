@@ -1,11 +1,11 @@
 {
   "name": "voxing",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "Voice assistant TUI powered by local MLX models",
   "author": "yeungadrian",
   "license": null,
   "home_page": null,
-  "download_filename": "voxing-0.1.0.tar.gz",
-  "download_time": "2026-02-15T19:06:57.232494",
+  "download_filename": "voxing-0.1.2.tar.gz",
+  "download_time": "2026-02-15T19:43:40.164171",
   "package_url": "https://pypi.org/project/voxing/"
 }

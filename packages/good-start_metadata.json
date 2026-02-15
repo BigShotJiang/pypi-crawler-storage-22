@@ -1,0 +1,11 @@
+{
+  "name": "good-start",
+  "version": "0.1.1",
+  "summary": "Test whether a codebase's getting-started documentation is accurate and easy to follow",
+  "author": "cldixon",
+  "license": null,
+  "home_page": null,
+  "download_filename": "good_start-0.1.1.tar.gz",
+  "download_time": "2026-02-15T19:43:39.617680",
+  "package_url": "https://pypi.org/project/good-start/"
+}

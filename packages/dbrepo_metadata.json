@@ -1,0 +1,11 @@
+{
+  "name": "dbrepo",
+  "version": "1.13.3",
+  "summary": "DBRepo Python Library",
+  "author": "Martin Weise",
+  "license": null,
+  "home_page": "https://www.ifs.tuwien.ac.at/infrastructures/dbrepo/1.13/",
+  "download_filename": "dbrepo-1.13.3.tar.gz",
+  "download_time": "2026-02-15T19:43:29.153694",
+  "package_url": "https://pypi.org/project/dbrepo/"
+}

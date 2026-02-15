@@ -1,0 +1,11 @@
+{
+  "name": "ebay-rest",
+  "version": "1.1.4",
+  "summary": "Wraps the eBay REST APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ebay_rest-1.1.4.tar.gz",
+  "download_time": "2026-02-15T19:43:20.962938",
+  "package_url": "https://pypi.org/project/ebay-rest/"
+}

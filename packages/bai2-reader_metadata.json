@@ -1,0 +1,11 @@
+{
+  "name": "bai2-reader",
+  "version": "0.0.2",
+  "summary": "Utility to parse BAI2 files and export them to structured formats like CSV/JSON/Parquet",
+  "author": "SaiHarsha Tallpalli",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bai2_reader-0.0.2.tar.gz",
+  "download_time": "2026-02-15T19:43:35.764091",
+  "package_url": "https://pypi.org/project/bai2-reader/"
+}

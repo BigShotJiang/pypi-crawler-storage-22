@@ -1,0 +1,11 @@
+{
+  "name": "django-bridge",
+  "version": "0.5",
+  "summary": "The simple way to build Django applications with modern React frontends",
+  "author": "Karl Hobley",
+  "license": "BSD-3-Clause",
+  "home_page": "https://django-bridge.org",
+  "download_filename": "django_bridge-0.5.tar.gz",
+  "download_time": "2026-02-15T19:43:46.791267",
+  "package_url": "https://pypi.org/project/django-bridge/"
+}

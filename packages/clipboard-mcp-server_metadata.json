@@ -1,11 +1,11 @@
 {
   "name": "clipboard-mcp-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "MCP server that reads content from the system clipboard — tables, text, code, JSON, URLs, and more.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clipboard_mcp_server-0.1.0.tar.gz",
-  "download_time": "2026-02-15T18:33:05.755066",
+  "download_filename": "clipboard_mcp_server-0.1.1.tar.gz",
+  "download_time": "2026-02-15T19:43:32.473982",
   "package_url": "https://pypi.org/project/clipboard-mcp-server/"
 }
