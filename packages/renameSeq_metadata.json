@@ -1,0 +1,11 @@
+{
+  "name": "renameSeq",
+  "version": "0.3.2",
+  "summary": "Replace names of ABI sequencing result files with those defined by the user.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "renameseq-0.3.2.tar.gz",
+  "download_time": "2026-02-15T13:38:59.442864",
+  "package_url": "https://pypi.org/project/renameSeq/"
+}

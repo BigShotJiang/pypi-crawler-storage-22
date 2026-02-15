@@ -1,0 +1,11 @@
+{
+  "name": "langchain-hatidata",
+  "version": "0.1.0",
+  "summary": "LangChain integration for HatiData — Memory, VectorStore, and Tools backed by HatiData",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "langchain_hatidata-0.1.0.tar.gz",
+  "download_time": "2026-02-15T13:38:53.826127",
+  "package_url": "https://pypi.org/project/langchain-hatidata/"
+}

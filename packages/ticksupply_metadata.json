@@ -1,0 +1,11 @@
+{
+  "name": "ticksupply",
+  "version": "0.1.0",
+  "summary": "Official Python client for Ticksupply market data API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ticksupply-0.1.0.tar.gz",
+  "download_time": "2026-02-15T13:38:56.572360",
+  "package_url": "https://pypi.org/project/ticksupply/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "rigetti-quax",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "summary": "A high-performance library for quantum information science built on top of JAX",
   "author": "Bram Evert",
   "license": null,
   "home_page": null,
-  "download_filename": "rigetti_quax-0.2.3.tar.gz",
-  "download_time": "2026-02-15T11:05:03.169804",
+  "download_filename": "rigetti_quax-0.3.0.tar.gz",
+  "download_time": "2026-02-15T13:39:10.198005",
   "package_url": "https://pypi.org/project/rigetti-quax/"
 }

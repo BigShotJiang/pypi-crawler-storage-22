@@ -1,0 +1,11 @@
+{
+  "name": "sibylline-clean",
+  "version": "0.1.1",
+  "summary": "Prompt injection detection library for LLM applications",
+  "author": "Nathan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sibylline_clean-0.1.1-cp310-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-15T13:39:03.719176",
+  "package_url": "https://pypi.org/project/sibylline-clean/"
+}

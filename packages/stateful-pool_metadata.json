@@ -1,0 +1,11 @@
+{
+  "name": "stateful-pool",
+  "version": "0.3.2",
+  "summary": "A process pool that allows workers to maintain state across tasks.",
+  "author": "Li, Meng-Xun",
+  "license": null,
+  "home_page": "https://github.com/menxli/stateful_pool",
+  "download_filename": "stateful_pool-0.3.2.tar.gz",
+  "download_time": "2026-02-15T13:39:26.842006",
+  "package_url": "https://pypi.org/project/stateful-pool/"
+}

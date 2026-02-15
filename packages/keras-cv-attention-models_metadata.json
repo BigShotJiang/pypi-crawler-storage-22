@@ -1,0 +1,11 @@
+{
+  "name": "keras-cv-attention-models",
+  "version": "1.4.3",
+  "summary": "Tensorflow keras computer vision attention models. Alias kecam. https://github.com/leondgarse/keras_cv_attention_models",
+  "author": "Leondgarse",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/leondgarse/keras_cv_attention_models",
+  "download_filename": "keras_cv_attention_models-1.4.3.tar.gz",
+  "download_time": "2026-02-15T13:39:06.795124",
+  "package_url": "https://pypi.org/project/keras-cv-attention-models/"
+}

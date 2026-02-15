@@ -1,11 +1,11 @@
 {
   "name": "dycw-postgres",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Library to operate `postgres` and `pgbackrest`",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_postgres-0.2.9-py3-none-any.whl",
-  "download_time": "2026-02-15T10:39:12.667507",
+  "download_filename": "dycw_postgres-0.2.10-py3-none-any.whl",
+  "download_time": "2026-02-15T13:39:06.271324",
   "package_url": "https://pypi.org/project/dycw-postgres/"
 }

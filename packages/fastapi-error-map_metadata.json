@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-error-map",
+  "version": "0.9.9",
+  "summary": "Elegant per-endpoint error handling for FastAPI that keeps OpenAPI in sync",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fastapi_error_map-0.9.9.tar.gz",
+  "download_time": "2026-02-15T13:39:24.284760",
+  "package_url": "https://pypi.org/project/fastapi-error-map/"
+}

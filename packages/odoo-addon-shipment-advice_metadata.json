@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shipment-advice",
+  "version": "18.0.1.2.4",
+  "summary": "Manage your (un)loading process through shipment advices.",
+  "author": "Camptocamp, BCIM, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/stock-logistics-transport",
+  "download_filename": "odoo_addon_shipment_advice-18.0.1.2.4-py3-none-any.whl",
+  "download_time": "2026-02-15T13:38:49.722003",
+  "package_url": "https://pypi.org/project/odoo-addon-shipment-advice/"
+}

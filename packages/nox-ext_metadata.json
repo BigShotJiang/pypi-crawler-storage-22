@@ -1,0 +1,11 @@
+{
+  "name": "nox-ext",
+  "version": "0.4.0",
+  "summary": "Utility functions and helpers for Nox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nox_ext-0.4.0.tar.gz",
+  "download_time": "2026-02-15T13:39:05.759664",
+  "package_url": "https://pypi.org/project/nox-ext/"
+}
