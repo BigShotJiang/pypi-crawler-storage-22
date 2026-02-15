@@ -1,11 +1,11 @@
 {
   "name": "h5pandas",
-  "version": "0.21",
+  "version": "0.22",
   "summary": "Load hdf5 into Pandas DataFrame instantaneously",
   "author": "Frédéric MASSON",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "h5pandas-0.21.tar.gz",
-  "download_time": "2026-02-14T12:43:06.709486",
+  "download_filename": "h5pandas-0.22.tar.gz",
+  "download_time": "2026-02-15T11:35:32.434699",
   "package_url": "https://pypi.org/project/h5pandas/"
 }

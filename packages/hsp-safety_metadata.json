@@ -1,0 +1,11 @@
+{
+  "name": "hsp-safety",
+  "version": "0.1.0",
+  "summary": "Standard AI Safety Logger & Compliance Check for LLMs.",
+  "author": "HSP Protocol Foundation",
+  "license": null,
+  "home_page": "https://hsp-protocol.com",
+  "download_filename": "hsp_safety-0.1.0.tar.gz",
+  "download_time": "2026-02-15T11:35:35.820661",
+  "package_url": "https://pypi.org/project/hsp-safety/"
+}

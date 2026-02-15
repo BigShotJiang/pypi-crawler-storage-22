@@ -1,11 +1,11 @@
 {
   "name": "d-fake-seeder",
-  "version": "0.0.65",
+  "version": "1.0.6",
   "summary": "BitTorrent seeding simulator for testing and development",
   "author": "David O Neill",
   "license": null,
   "home_page": "https://github.com/dmzoneill/DFakeSeeder",
-  "download_filename": "d_fake_seeder-0.0.65.tar.gz",
-  "download_time": "2026-02-14T20:54:57.988794",
+  "download_filename": "d_fake_seeder-1.0.6.tar.gz",
+  "download_time": "2026-02-15T11:35:37.497889",
   "package_url": "https://pypi.org/project/d-fake-seeder/"
 }
