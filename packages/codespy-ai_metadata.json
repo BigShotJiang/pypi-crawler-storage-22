@@ -1,11 +1,11 @@
 {
   "name": "codespy-ai",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Code review agent powered by DSPy",
   "author": "khezen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "codespy_ai-0.3.0.tar.gz",
-  "download_time": "2026-02-14T19:08:45.802388",
+  "download_filename": "codespy_ai-0.3.1.tar.gz",
+  "download_time": "2026-02-15T12:42:59.885979",
   "package_url": "https://pypi.org/project/codespy-ai/"
 }

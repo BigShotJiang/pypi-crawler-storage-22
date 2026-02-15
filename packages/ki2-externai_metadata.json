@@ -1,0 +1,11 @@
+{
+  "name": "ki2-externai",
+  "version": "0.3.0",
+  "summary": "Manage read-only external projects for AI coding assistants.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ki2_externai-0.3.0.tar.gz",
+  "download_time": "2026-02-15T12:42:55.171503",
+  "package_url": "https://pypi.org/project/ki2-externai/"
+}

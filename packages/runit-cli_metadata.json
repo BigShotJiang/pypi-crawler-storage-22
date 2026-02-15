@@ -1,0 +1,11 @@
+{
+  "name": "runit-cli",
+  "version": "0.4.6",
+  "summary": "Develop serverless applications",
+  "author": "Amos Amissah",
+  "license": null,
+  "home_page": null,
+  "download_filename": "runit_cli-0.4.6.tar.gz",
+  "download_time": "2026-02-15T12:43:32.420587",
+  "package_url": "https://pypi.org/project/runit-cli/"
+}

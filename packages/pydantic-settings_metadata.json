@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-settings",
+  "version": "2.13.0",
+  "summary": "Settings management using Pydantic",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydantic_settings-2.13.0.tar.gz",
+  "download_time": "2026-02-15T12:43:26.679302",
+  "package_url": "https://pypi.org/project/pydantic-settings/"
+}

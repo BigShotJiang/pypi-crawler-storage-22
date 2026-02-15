@@ -1,11 +1,11 @@
 {
   "name": "FinTrack",
-  "version": "1.0.0",
-  "summary": "A Python package for tracking a dynamic portfolio of stocks with daily price monitoring, cash management, and dividend handling",
+  "version": "1.1.1",
+  "summary": "A robust portfolio tracker with multi-currency support",
   "author": "Aron Fredriksson",
   "license": "MIT",
   "home_page": "https://github.com/arofre/FinTrack",
-  "download_filename": "fintrack-1.0.0.tar.gz",
-  "download_time": "2026-02-13T22:56:13.870204",
+  "download_filename": "fintrack-1.1.1.tar.gz",
+  "download_time": "2026-02-15T12:43:19.407970",
   "package_url": "https://pypi.org/project/FinTrack/"
 }

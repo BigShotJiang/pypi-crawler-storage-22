@@ -1,11 +1,11 @@
 {
   "name": "agentprobe-framework",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "A testing and evaluation framework for software agents",
   "author": "AgentProbe Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agentprobe_framework-1.0.1.tar.gz",
-  "download_time": "2026-02-14T12:00:17.803153",
+  "download_filename": "agentprobe_framework-1.1.0.tar.gz",
+  "download_time": "2026-02-15T12:43:34.524200",
   "package_url": "https://pypi.org/project/agentprobe-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-rma",
+  "version": "14.0.2.6.0",
+  "summary": "RMA",
+  "author": "PT. Simetri Sinergi Indonesia, OpenSynergy Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_rma-14.0.2.6.0-py3-none-any.whl",
+  "download_time": "2026-02-15T12:42:52.032598",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-rma/"
+}

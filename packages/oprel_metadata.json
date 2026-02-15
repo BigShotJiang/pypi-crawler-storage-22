@@ -1,11 +1,11 @@
 {
   "name": "oprel",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Oprel is a high-performance Python library for running large language models locally. It provides a production-ready runtime with advanced memory management, hybrid offloading, and full multimodal support.",
   "author": "Oprel Team and Skyroot Solutions",
   "license": "MIT",
   "home_page": "https://github.com/Skyroot-Solutions/Oprel",
-  "download_filename": "oprel-0.3.4.tar.gz",
-  "download_time": "2026-02-15T10:04:02.243441",
+  "download_filename": "oprel-0.3.5.tar.gz",
+  "download_time": "2026-02-15T12:42:49.374098",
   "package_url": "https://pypi.org/project/oprel/"
 }

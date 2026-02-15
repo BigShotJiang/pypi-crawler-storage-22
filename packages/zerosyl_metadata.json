@@ -1,11 +1,11 @@
 {
   "name": "zerosyl",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Simple zero-resource syllable tokenization for spoken language modeling",
   "author": "nicolvisser",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zerosyl-1.0.1.tar.gz",
-  "download_time": "2026-02-15T11:56:13.621174",
+  "download_filename": "zerosyl-1.0.2.tar.gz",
+  "download_time": "2026-02-15T12:42:58.328691",
   "package_url": "https://pypi.org/project/zerosyl/"
 }
