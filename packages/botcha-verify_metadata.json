@@ -1,0 +1,11 @@
+{
+  "name": "botcha-verify",
+  "version": "0.1.0",
+  "summary": "Server-side verification middleware for BOTCHA JWT tokens",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "botcha_verify-0.1.0.tar.gz",
+  "download_time": "2026-02-15T15:52:18.910592",
+  "package_url": "https://pypi.org/project/botcha-verify/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gmail-sdk-ldraney",
+  "version": "0.1.2",
+  "summary": "Python SDK for the Gmail REST API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gmail_sdk_ldraney-0.1.2.tar.gz",
+  "download_time": "2026-02-15T15:52:04.309112",
+  "package_url": "https://pypi.org/project/gmail-sdk-ldraney/"
+}

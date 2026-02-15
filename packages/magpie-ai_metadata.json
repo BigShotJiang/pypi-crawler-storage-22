@@ -1,11 +1,11 @@
 {
   "name": "magpie-ai",
-  "version": "0.2.8",
+  "version": "0.3.0",
   "summary": "Enterprise-grade LLM middleware for monitoring and metadata tracking",
   "author": "Magpie Team",
   "license": "MIT",
   "home_page": "https://github.com/magpie-ai/sdk",
-  "download_filename": "magpie_ai-0.2.8.tar.gz",
-  "download_time": "2026-01-30T20:24:53.372260",
+  "download_filename": "magpie_ai-0.3.0.tar.gz",
+  "download_time": "2026-02-15T15:51:54.497617",
   "package_url": "https://pypi.org/project/magpie-ai/"
 }

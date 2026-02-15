@@ -1,0 +1,11 @@
+{
+  "name": "aip-engine",
+  "version": "0.3.0",
+  "summary": "Algebraic Independence Processor - auto-detects structure for optimal computation",
+  "author": "Carmen Esteban",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aip_engine-0.3.0.tar.gz",
+  "download_time": "2026-02-15T15:51:53.465279",
+  "package_url": "https://pypi.org/project/aip-engine/"
+}

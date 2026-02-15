@@ -1,0 +1,11 @@
+{
+  "name": "jamorasep",
+  "version": "0.0.2",
+  "summary": "Japanese mora separator",
+  "author": "Hideyuki Tachibana",
+  "license": "MIT",
+  "home_page": "https://github.com/tachi-hi/jamorasep",
+  "download_filename": "jamorasep-0.0.2.tar.gz",
+  "download_time": "2026-02-15T15:52:05.877607",
+  "package_url": "https://pypi.org/project/jamorasep/"
+}

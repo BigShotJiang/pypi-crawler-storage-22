@@ -1,11 +1,11 @@
 {
   "name": "oubliette-shield",
-  "version": "0.3.1",
-  "summary": "AI LLM Firewall - Protect LLM applications from prompt injection, jailbreak, and adversarial attacks",
+  "version": "0.3.2",
+  "summary": "AI LLM Firewall -- Runtime defense for LLM applications against prompt injection, jailbreak, and adversarial attacks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "oubliette_shield-0.3.1.tar.gz",
-  "download_time": "2026-02-13T21:00:05.659291",
+  "download_filename": "oubliette_shield-0.3.2.tar.gz",
+  "download_time": "2026-02-15T15:52:02.773571",
   "package_url": "https://pypi.org/project/oubliette-shield/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hundredandten",
-  "version": "1.11.55",
+  "version": "2.1.1",
   "summary": "A package to play the game Hundred and Ten",
   "author": "Seamus Lowry",
   "license": null,
   "home_page": null,
-  "download_filename": "hundredandten-1.11.55.tar.gz",
-  "download_time": "2026-02-02T23:38:27.709310",
+  "download_filename": "hundredandten-2.1.1.tar.gz",
+  "download_time": "2026-02-15T15:52:06.393367",
   "package_url": "https://pypi.org/project/hundredandten/"
 }

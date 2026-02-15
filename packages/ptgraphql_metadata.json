@@ -1,11 +1,11 @@
 {
   "name": "ptgraphql",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": null,
   "author": "Penterep",
   "license": "GPLv3",
   "home_page": "https://www.penterep.com/",
-  "download_filename": "ptgraphql-0.0.7.tar.gz",
-  "download_time": "2026-02-01T16:24:18.659514",
+  "download_filename": "ptgraphql-0.0.8.tar.gz",
+  "download_time": "2026-02-15T15:52:03.797529",
   "package_url": "https://pypi.org/project/ptgraphql/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "markdown-fastrag-mcp",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "Semantic search engine for markdown documents. MCP server with multi-provider embeddings and Milvus vector storage.",
   "author": "bitkyc08-arch",
   "license": null,
   "home_page": null,
-  "download_filename": "markdown_fastrag_mcp-1.3.0.tar.gz",
-  "download_time": "2026-02-15T15:25:12.083723",
+  "download_filename": "markdown_fastrag_mcp-1.4.0.tar.gz",
+  "download_time": "2026-02-15T15:52:12.210891",
   "package_url": "https://pypi.org/project/markdown-fastrag-mcp/"
 }

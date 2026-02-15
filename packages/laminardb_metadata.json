@@ -1,0 +1,11 @@
+{
+  "name": "laminardb",
+  "version": "0.13.1",
+  "summary": "Python bindings for LaminarDB streaming SQL database",
+  "author": "LaminarDB Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "laminardb-0.13.1.tar.gz",
+  "download_time": "2026-02-15T15:52:25.596691",
+  "package_url": "https://pypi.org/project/laminardb/"
+}

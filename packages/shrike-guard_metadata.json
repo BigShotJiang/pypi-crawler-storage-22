@@ -1,0 +1,11 @@
+{
+  "name": "shrike-guard",
+  "version": "1.0.1",
+  "summary": "Shrike Security SDK - Protect your LLM applications (OpenAI, Claude, Gemini) from prompt injection, PII leakage, and jailbreaks",
+  "author": "Shrike Security",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "shrike_guard-1.0.1.tar.gz",
+  "download_time": "2026-02-15T15:52:24.049250",
+  "package_url": "https://pypi.org/project/shrike-guard/"
+}

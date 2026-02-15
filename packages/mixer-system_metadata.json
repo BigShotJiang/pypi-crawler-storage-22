@@ -1,11 +1,11 @@
 {
   "name": "mixer-system",
-  "version": "0.1.16",
+  "version": "0.1.17",
   "summary": "MixerSystem workflow engine package",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "mixer_system-0.1.16.tar.gz",
-  "download_time": "2026-02-15T11:56:07.481794",
+  "download_filename": "mixer_system-0.1.17.tar.gz",
+  "download_time": "2026-02-15T15:52:29.769658",
   "package_url": "https://pypi.org/project/mixer-system/"
 }

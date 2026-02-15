@@ -1,0 +1,11 @@
+{
+  "name": "daisy-exact-search",
+  "version": "1.0.2",
+  "summary": "DaiSy: A Library for Scalable Data Series Similarity Search",
+  "author": "Franscesca Del Gaudio, Manos Chatzakis, Gayathiri Ravendirane, Botao Peng, Panagiota Fatourou, Themis Palpanas",
+  "license": null,
+  "home_page": "https://github.com/MChatzakis/daisy",
+  "download_filename": "daisy_exact_search-1.0.2.tar.gz",
+  "download_time": "2026-02-15T15:52:30.845914",
+  "package_url": "https://pypi.org/project/daisy-exact-search/"
+}
