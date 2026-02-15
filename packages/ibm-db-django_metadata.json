@@ -1,0 +1,11 @@
+{
+  "name": "ibm-db-django",
+  "version": "1.6.0.0",
+  "summary": "DB2 support for Django framework.",
+  "author": "IBM Application Development Team",
+  "license": "Apache License 2.0",
+  "home_page": "http://pypi.python.org/pypi/ibm_db_django/",
+  "download_filename": "ibm_db_django-1.6.0.0.tar.gz",
+  "download_time": "2026-02-15T17:26:55.380924",
+  "package_url": "https://pypi.org/project/ibm-db-django/"
+}

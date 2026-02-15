@@ -1,0 +1,11 @@
+{
+  "name": "dawei-agent",
+  "version": "0.1.0",
+  "summary": "Dawei AI Assistant - Server Package (Backend + Frontend)",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "dawei_agent-0.1.0.tar.gz",
+  "download_time": "2026-02-15T17:26:48.423018",
+  "package_url": "https://pypi.org/project/dawei-agent/"
+}

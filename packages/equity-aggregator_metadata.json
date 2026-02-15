@@ -1,11 +1,11 @@
 {
   "name": "equity-aggregator",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "Financial equity data aggregation toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "equity_aggregator-1.0.2.tar.gz",
-  "download_time": "2026-02-05T09:05:36.272441",
+  "download_filename": "equity_aggregator-1.0.6.tar.gz",
+  "download_time": "2026-02-15T17:27:08.171017",
   "package_url": "https://pypi.org/project/equity-aggregator/"
 }

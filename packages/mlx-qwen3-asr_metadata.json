@@ -1,11 +1,11 @@
 {
   "name": "mlx-qwen3-asr",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Qwen3-ASR speech recognition on Apple Silicon via MLX",
   "author": "dmoon",
   "license": null,
   "home_page": null,
-  "download_filename": "mlx_qwen3_asr-0.2.0.tar.gz",
-  "download_time": "2026-02-15T17:01:19.317121",
+  "download_filename": "mlx_qwen3_asr-0.2.1.tar.gz",
+  "download_time": "2026-02-15T17:26:37.725565",
   "package_url": "https://pypi.org/project/mlx-qwen3-asr/"
 }

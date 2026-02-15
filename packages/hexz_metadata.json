@@ -1,11 +1,11 @@
 {
   "name": "hexz",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "High-performance snapshot storage library with compression and encryption",
   "author": "Will",
   "license": null,
   "home_page": null,
-  "download_filename": "hexz-0.1.1.tar.gz",
-  "download_time": "2026-02-15T16:28:59.358279",
+  "download_filename": "hexz-0.1.2.tar.gz",
+  "download_time": "2026-02-15T17:26:40.386620",
   "package_url": "https://pypi.org/project/hexz/"
 }

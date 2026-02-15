@@ -1,0 +1,11 @@
+{
+  "name": "walytis-beta-embedded",
+  "version": "0.0.15",
+  "summary": "A lightweight, flexible, non-linear blockchain.",
+  "author": "Emendir",
+  "license": null,
+  "home_page": null,
+  "download_filename": "walytis_beta_embedded-0.0.15.tar.gz",
+  "download_time": "2026-02-15T17:26:36.660039",
+  "package_url": "https://pypi.org/project/walytis-beta-embedded/"
+}

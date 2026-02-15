@@ -1,0 +1,11 @@
+{
+  "name": "pydid",
+  "version": "0.5.3",
+  "summary": "Python library for validating, constructing, and representing DIDs and DID Documents",
+  "author": "Daniel Bluhm",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "pydid-0.5.3.tar.gz",
+  "download_time": "2026-02-15T17:27:11.385275",
+  "package_url": "https://pypi.org/project/pydid/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "japan-news-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for Japanese financial news RSS feeds",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "japan_news_mcp-0.1.1.tar.gz",
-  "download_time": "2026-02-14T20:55:32.807184",
+  "download_filename": "japan_news_mcp-0.1.2.tar.gz",
+  "download_time": "2026-02-15T17:26:59.642631",
   "package_url": "https://pypi.org/project/japan-news-mcp/"
 }

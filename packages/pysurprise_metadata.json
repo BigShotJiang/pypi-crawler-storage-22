@@ -1,11 +1,11 @@
 {
   "name": "pysurprise",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Python bindings for the Surprise network community structure metric",
   "author": "José Marín",
   "license": null,
   "home_page": null,
-  "download_filename": "pysurprise-1.1.0.tar.gz",
-  "download_time": "2026-02-15T17:00:42.418131",
+  "download_filename": "pysurprise-1.1.1.tar.gz",
+  "download_time": "2026-02-15T17:27:06.035931",
   "package_url": "https://pypi.org/project/pysurprise/"
 }

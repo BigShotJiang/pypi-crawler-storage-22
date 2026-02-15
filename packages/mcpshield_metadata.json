@@ -1,11 +1,11 @@
 {
   "name": "mcpshield",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "MCPShield - Secure infrastructure access for AI agents (databases, APIs, cloud) with deterministic policy enforcement and AI-powered policy generation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpshield-0.3.1.tar.gz",
-  "download_time": "2026-02-15T16:29:13.867386",
+  "download_filename": "mcpshield-0.3.3.tar.gz",
+  "download_time": "2026-02-15T17:26:52.678326",
   "package_url": "https://pypi.org/project/mcpshield/"
 }
