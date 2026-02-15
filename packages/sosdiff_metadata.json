@@ -1,11 +1,11 @@
 {
   "name": "sosdiff",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Compare two sosreports and show the differences.",
   "author": "Pablo Fernández Rodríguez",
   "license": "GPLv3",
   "home_page": "https://github.com/pafernanr/sosdiff",
-  "download_filename": "sosdiff-0.1.0.tar.gz",
-  "download_time": "2026-02-14T16:03:07.064441",
+  "download_filename": "sosdiff-0.2.0.tar.gz",
+  "download_time": "2026-02-15T11:04:53.181588",
   "package_url": "https://pypi.org/project/sosdiff/"
 }

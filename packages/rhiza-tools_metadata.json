@@ -1,11 +1,11 @@
 {
   "name": "rhiza-tools",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "summary": "Extra utilities and tools for the Rhiza ecosystem",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rhiza_tools-0.3.1.tar.gz",
-  "download_time": "2026-02-14T19:58:02.258584",
+  "download_filename": "rhiza_tools-0.3.3.tar.gz",
+  "download_time": "2026-02-15T11:05:09.507481",
   "package_url": "https://pypi.org/project/rhiza-tools/"
 }

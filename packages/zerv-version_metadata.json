@@ -1,11 +1,11 @@
 {
   "name": "zerv-version",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "summary": "Dynamic versioning CLI tool",
   "author": null,
   "license": null,
   "home_page": "https://github.com/wislertt/zerv",
-  "download_filename": "zerv_version-0.8.4-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-15T09:04:16.536259",
+  "download_filename": "zerv_version-0.8.5-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-15T11:05:18.920689",
   "package_url": "https://pypi.org/project/zerv-version/"
 }

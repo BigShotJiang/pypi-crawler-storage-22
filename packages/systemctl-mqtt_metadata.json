@@ -1,0 +1,11 @@
+{
+  "name": "systemctl-mqtt",
+  "version": "3.0.0",
+  "summary": "MQTT client triggering & reporting shutdown on systemd-based systems",
+  "author": "Fabian Peter Hammerle",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/fphammerle/systemctl-mqtt",
+  "download_filename": "systemctl_mqtt-3.0.0.tar.gz",
+  "download_time": "2026-02-15T11:04:56.867288",
+  "package_url": "https://pypi.org/project/systemctl-mqtt/"
+}

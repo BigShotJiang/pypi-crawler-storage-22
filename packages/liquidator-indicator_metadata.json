@@ -1,11 +1,11 @@
 {
   "name": "liquidator-indicator",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "summary": "Lightweight liquidation zone indicator with multi-signal detection and visual chart integration",
   "author": "ViWarshawski",
   "license": "MIT",
   "home_page": "https://github.com/ViWarshawski/liquidator_indicator",
-  "download_filename": "liquidator_indicator-0.0.8.tar.gz",
-  "download_time": "2026-02-05T18:33:37.559327",
+  "download_filename": "liquidator_indicator-0.0.9.tar.gz",
+  "download_time": "2026-02-15T11:05:11.068066",
   "package_url": "https://pypi.org/project/liquidator-indicator/"
 }

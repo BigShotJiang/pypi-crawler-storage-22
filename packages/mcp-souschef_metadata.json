@@ -1,11 +1,11 @@
 {
   "name": "mcp-souschef",
-  "version": "4.1.0",
-  "summary": "AI-powered MCP server for Chef to Ansible conversion",
+  "version": "5.1.1",
+  "summary": "AI-powered MCP server for Chef to Ansible migration and Ansible upgrade planning",
   "author": "SousChef Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_souschef-4.1.0.tar.gz",
-  "download_time": "2026-02-05T05:19:25.145558",
+  "download_filename": "mcp_souschef-5.1.1.tar.gz",
+  "download_time": "2026-02-15T11:04:55.826748",
   "package_url": "https://pypi.org/project/mcp-souschef/"
 }

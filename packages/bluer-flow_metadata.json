@@ -1,0 +1,11 @@
+{
+  "name": "bluer-flow",
+  "version": "5.63.1",
+  "summary": "📜 Workflow management.",
+  "author": "Arash Abadpour (Kamangir)",
+  "license": "CC0-1.0",
+  "home_page": "https://github.com/kamangir/bluer-flow",
+  "download_filename": "bluer_flow-5.63.1.tar.gz",
+  "download_time": "2026-02-15T11:05:15.255767",
+  "package_url": "https://pypi.org/project/bluer-flow/"
+}

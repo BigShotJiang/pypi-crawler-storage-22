@@ -1,11 +1,11 @@
 {
   "name": "datasety",
-  "version": "0.13.0",
-  "summary": "CLI tool for dataset preparation: resize, caption, and synthetic image generation",
+  "version": "0.18.0",
+  "summary": "CLI tool for dataset preparation: resize, align, caption, shuffle, synthetic, and mask generation.",
   "author": "kontextox",
   "license": null,
   "home_page": null,
-  "download_filename": "datasety-0.13.0.tar.gz",
-  "download_time": "2026-02-09T04:26:53.255340",
+  "download_filename": "datasety-0.18.0.tar.gz",
+  "download_time": "2026-02-15T11:04:58.953575",
   "package_url": "https://pypi.org/project/datasety/"
 }

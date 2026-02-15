@@ -1,0 +1,11 @@
+{
+  "name": "powerfox",
+  "version": "2.1.0",
+  "summary": "Asynchronous Python client for the Powerfox devices",
+  "author": "Klaas Schoute",
+  "license": null,
+  "home_page": null,
+  "download_filename": "powerfox-2.1.0.tar.gz",
+  "download_time": "2026-02-15T11:05:10.545746",
+  "package_url": "https://pypi.org/project/powerfox/"
+}

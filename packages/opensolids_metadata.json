@@ -1,0 +1,11 @@
+{
+  "name": "opensolids",
+  "version": "0.2.1",
+  "summary": "Open solid material properties with provenance and provider backends",
+  "author": "OpenSolids Contributors",
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "opensolids-0.2.1.tar.gz",
+  "download_time": "2026-02-15T11:05:16.822824",
+  "package_url": "https://pypi.org/project/opensolids/"
+}
