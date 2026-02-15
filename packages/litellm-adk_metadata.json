@@ -1,11 +1,11 @@
 {
   "name": "litellm-adk",
-  "version": "0.2.2",
+  "version": "0.2.4",
   "summary": "Production-grade multiservice Agent Development Kit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "litellm_adk-0.2.2.tar.gz",
-  "download_time": "2026-02-06T10:10:43.669917",
+  "download_filename": "litellm_adk-0.2.4.tar.gz",
+  "download_time": "2026-02-15T14:09:49.965234",
   "package_url": "https://pypi.org/project/litellm-adk/"
 }

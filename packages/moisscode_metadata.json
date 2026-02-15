@@ -1,0 +1,11 @@
+{
+  "name": "moisscode",
+  "version": "3.0.2",
+  "summary": "Multi Organ Intervention State Space Code — a domain-specific language for clinical decision support and biotech workflow automation.",
+  "author": null,
+  "license": "BSL-1.1",
+  "home_page": null,
+  "download_filename": "moisscode-3.0.2.tar.gz",
+  "download_time": "2026-02-15T14:09:56.226609",
+  "package_url": "https://pypi.org/project/moisscode/"
+}

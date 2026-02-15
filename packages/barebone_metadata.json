@@ -1,11 +1,11 @@
 {
   "name": "barebone",
-  "version": "0.1.1",
-  "summary": "LLM primitives for Python. You own the loop.",
+  "version": "0.1.2",
+  "summary": "Build agents your way using barebone primitives",
   "author": "taraqqi",
   "license": null,
   "home_page": null,
-  "download_filename": "barebone-0.1.1.tar.gz",
-  "download_time": "2026-02-15T11:05:31.290235",
+  "download_filename": "barebone-0.1.2.tar.gz",
+  "download_time": "2026-02-15T14:09:43.287972",
   "package_url": "https://pypi.org/project/barebone/"
 }

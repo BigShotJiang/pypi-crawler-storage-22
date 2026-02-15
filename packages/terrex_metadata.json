@@ -1,0 +1,11 @@
+{
+  "name": "terrex",
+  "version": "1.0.0",
+  "summary": "Programmable automation client for Terraria servers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terrex-1.0.0.tar.gz",
+  "download_time": "2026-02-15T14:09:32.969506",
+  "package_url": "https://pypi.org/project/terrex/"
+}

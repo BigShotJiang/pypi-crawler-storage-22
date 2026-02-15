@@ -1,0 +1,11 @@
+{
+  "name": "cadquery-ocp-stubs",
+  "version": "7.9.3.1",
+  "summary": "Typing stubs for cadquery-ocp based on the official CadQuery/OCP sources",
+  "author": "Bernhard Walter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cadquery_ocp_stubs-7.9.3.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-15T14:09:57.801227",
+  "package_url": "https://pypi.org/project/cadquery-ocp-stubs/"
+}

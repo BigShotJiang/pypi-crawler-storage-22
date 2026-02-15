@@ -1,11 +1,11 @@
 {
   "name": "notifykit",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "A modern efficient Python toolkit for building applications that need to watch filesystem changes",
   "author": null,
   "license": null,
   "home_page": "https://github.com/roma-glushko/notifykit",
-  "download_filename": "notifykit-0.2.1.tar.gz",
-  "download_time": "2026-02-15T12:43:02.591849",
+  "download_filename": "notifykit-0.3.0.tar.gz",
+  "download_time": "2026-02-15T14:09:32.454958",
   "package_url": "https://pypi.org/project/notifykit/"
 }

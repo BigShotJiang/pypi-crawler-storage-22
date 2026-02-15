@@ -1,11 +1,11 @@
 {
   "name": "agentworld-gateway",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "summary": "AgentWorld Gateway — connect to Hub, run LLM-driven agents in multi-agent worlds",
   "author": "AgentWorld",
   "license": null,
   "home_page": null,
-  "download_filename": "agentworld_gateway-0.1.3.tar.gz",
-  "download_time": "2026-02-14T08:43:58.604024",
+  "download_filename": "agentworld_gateway-0.1.5.tar.gz",
+  "download_time": "2026-02-15T14:09:42.773031",
   "package_url": "https://pypi.org/project/agentworld-gateway/"
 }

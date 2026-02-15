@@ -1,11 +1,11 @@
 {
   "name": "robotframework-clang",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Robot Framework library for Clang-REPL execution via xeus-cpp",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "robotframework_clang-1.0.1.tar.gz",
-  "download_time": "2026-02-08T21:52:50.641363",
+  "download_filename": "robotframework_clang-1.0.2.tar.gz",
+  "download_time": "2026-02-15T14:09:51.551003",
   "package_url": "https://pypi.org/project/robotframework-clang/"
 }

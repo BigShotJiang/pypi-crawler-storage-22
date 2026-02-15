@@ -1,11 +1,11 @@
 {
   "name": "sibylline-scurl",
-  "version": "0.2.0",
+  "version": "0.3.1",
   "summary": "A secure curl wrapper with middleware support and HTML-to-markdown extraction",
   "author": "Nathan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sibylline_scurl-0.2.0-py3-none-any.whl",
-  "download_time": "2026-02-06T15:31:01.086227",
+  "download_filename": "sibylline_scurl-0.3.1.tar.gz",
+  "download_time": "2026-02-15T14:09:45.847320",
   "package_url": "https://pypi.org/project/sibylline-scurl/"
 }

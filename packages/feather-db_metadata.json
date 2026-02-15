@@ -1,0 +1,11 @@
+{
+  "name": "feather-db",
+  "version": "0.3.0",
+  "summary": "Fast, lightweight context-aware vector database - Part of Hawky.ai Digital Marketing OS",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "feather_db-0.3.0.tar.gz",
+  "download_time": "2026-02-15T14:09:49.435718",
+  "package_url": "https://pypi.org/project/feather-db/"
+}

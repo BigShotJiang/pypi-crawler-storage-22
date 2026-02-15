@@ -1,11 +1,11 @@
 {
   "name": "balagan-agent",
-  "version": "0.3.1",
+  "version": "0.5.0",
   "summary": "Chaos engineering framework for AI agents - stress-test agent reliability",
   "author": "Ariel Shadkhan",
   "license": null,
   "home_page": null,
-  "download_filename": "balagan_agent-0.3.1.tar.gz",
-  "download_time": "2026-01-28T20:24:15.792224",
+  "download_filename": "balagan_agent-0.5.0-py3-none-any.whl",
+  "download_time": "2026-02-15T14:09:46.875229",
   "package_url": "https://pypi.org/project/balagan-agent/"
 }
