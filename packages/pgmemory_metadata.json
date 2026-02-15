@@ -1,0 +1,11 @@
+{
+  "name": "pgmemory",
+  "version": "0.0.7",
+  "summary": "Opinionated multi-user agent memory on PostgreSQL + pgvector. Hybrid SQL/semantic search, lifecycle management, framework-agnostic.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgmemory-0.0.7.tar.gz",
+  "download_time": "2026-02-15T09:03:51.974436",
+  "package_url": "https://pypi.org/project/pgmemory/"
+}

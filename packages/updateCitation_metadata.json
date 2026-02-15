@@ -1,0 +1,11 @@
+{
+  "name": "updateCitation",
+  "version": "0.0.12",
+  "summary": "Automatically update citation files (CITATION.cff) in a GitHub repository from `pyproject.toml`, GitHub releases, and PyPI releases.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "updatecitation-0.0.12.tar.gz",
+  "download_time": "2026-02-15T09:04:22.698200",
+  "package_url": "https://pypi.org/project/updateCitation/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sanatan-sdk",
-  "version": "0.13.7",
+  "version": "0.14.0",
   "summary": "SDK for generating rich multimedia content for verse-based texts",
   "author": "Sanatan Learnings",
   "license": null,
   "home_page": "https://github.com/sanatan-learnings/sanatan-sdk",
-  "download_filename": "sanatan_sdk-0.13.7.tar.gz",
-  "download_time": "2026-02-15T07:40:08.181535",
+  "download_filename": "sanatan_sdk-0.14.0.tar.gz",
+  "download_time": "2026-02-15T09:04:05.641501",
   "package_url": "https://pypi.org/project/sanatan-sdk/"
 }

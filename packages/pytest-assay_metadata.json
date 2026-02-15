@@ -1,0 +1,11 @@
+{
+  "name": "pytest-assay",
+  "version": "0.1.0",
+  "summary": "Evaluation framework for Pydantic AI agents",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_assay-0.1.0.tar.gz",
+  "download_time": "2026-02-15T09:03:50.886328",
+  "package_url": "https://pypi.org/project/pytest-assay/"
+}

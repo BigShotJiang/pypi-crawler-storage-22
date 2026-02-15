@@ -1,11 +1,11 @@
 {
   "name": "mineconnect",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Minecraft TCP/UDP to WebSocket bridge with Cloudflare tunnel support",
   "author": "Priyadarshan Mahankuda (httperry)",
   "license": null,
   "home_page": "https://github.com/httperry/MineConnect",
-  "download_filename": "mineconnect-0.1.1.tar.gz",
-  "download_time": "2026-02-15T08:32:18.061323",
+  "download_filename": "mineconnect-0.1.2.tar.gz",
+  "download_time": "2026-02-15T09:04:14.320488",
   "package_url": "https://pypi.org/project/mineconnect/"
 }

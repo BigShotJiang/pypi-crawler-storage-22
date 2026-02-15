@@ -1,11 +1,11 @@
 {
   "name": "gpxpy-test",
-  "version": "0.1",
+  "version": "0.3",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gpxpy_test-0.1.tar.gz",
-  "download_time": "2026-02-15T08:32:19.974802",
+  "download_filename": "gpxpy_test-0.3.tar.gz",
+  "download_time": "2026-02-15T09:04:17.077562",
   "package_url": "https://pypi.org/project/gpxpy-test/"
 }

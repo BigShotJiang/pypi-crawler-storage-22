@@ -1,11 +1,11 @@
 {
   "name": "convexity-api-client",
-  "version": "0.4.0.dev146",
+  "version": "0.4.1.dev148",
   "summary": "A client library for accessing Convexity API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "convexity_api_client-0.4.0.dev146.tar.gz",
-  "download_time": "2026-02-15T08:32:30.729213",
+  "download_filename": "convexity_api_client-0.4.1.dev148.tar.gz",
+  "download_time": "2026-02-15T09:03:59.576187",
   "package_url": "https://pypi.org/project/convexity-api-client/"
 }

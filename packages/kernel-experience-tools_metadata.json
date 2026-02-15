@@ -1,11 +1,11 @@
 {
   "name": "kernel-experience-tools",
-  "version": "1.0.4",
+  "version": "1.1.2",
   "summary": "Library for projecting memory kernels to experience functions",
   "author": "Artem Vozmishchev",
   "license": "MIT",
   "home_page": "https://github.com/BRUTALLOLOL/kernel-experience-tools",
-  "download_filename": "kernel_experience_tools-1.0.4.tar.gz",
-  "download_time": "2026-02-15T08:00:27.753673",
+  "download_filename": "kernel_experience_tools-1.1.2.tar.gz",
+  "download_time": "2026-02-15T09:03:53.599594",
   "package_url": "https://pypi.org/project/kernel-experience-tools/"
 }

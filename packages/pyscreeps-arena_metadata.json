@@ -1,0 +1,11 @@
+{
+  "name": "pyscreeps-arena",
+  "version": "0.6.0.2",
+  "summary": "Python api|interface to play game: Screeps: Arena.",
+  "author": null,
+  "license": "Apache Licence 2.0",
+  "home_page": null,
+  "download_filename": "pyscreeps_arena-0.6.0.2.tar.gz",
+  "download_time": "2026-02-15T09:04:03.420784",
+  "package_url": "https://pypi.org/project/pyscreeps-arena/"
+}

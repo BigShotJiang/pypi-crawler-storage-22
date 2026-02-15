@@ -1,0 +1,11 @@
+{
+  "name": "python-keycloak",
+  "version": "7.1.1",
+  "summary": "python-keycloak is a Python package providing access to the Keycloak API.",
+  "author": "Marcos Pereira",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "python_keycloak-7.1.1.tar.gz",
+  "download_time": "2026-02-15T09:04:09.450855",
+  "package_url": "https://pypi.org/project/python-keycloak/"
+}
