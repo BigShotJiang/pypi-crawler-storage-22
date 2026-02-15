@@ -1,0 +1,11 @@
+{
+  "name": "maniple-mcp",
+  "version": "0.12.0",
+  "summary": "MCP server for managing multiple Claude Code sessions via iTerm2",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maniple_mcp-0.12.0.tar.gz",
+  "download_time": "2026-02-15T22:24:46.797606",
+  "package_url": "https://pypi.org/project/maniple-mcp/"
+}

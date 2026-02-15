@@ -1,11 +1,11 @@
 {
   "name": "gatehouse",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "summary": "Error-driven code schema enforcement for LLMs writing Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gatehouse-0.1.3.tar.gz",
-  "download_time": "2026-02-15T19:07:16.456539",
+  "download_filename": "gatehouse-0.2.0.tar.gz",
+  "download_time": "2026-02-15T22:24:45.771775",
   "package_url": "https://pypi.org/project/gatehouse/"
 }

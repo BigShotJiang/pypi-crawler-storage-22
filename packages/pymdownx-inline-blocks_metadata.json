@@ -1,0 +1,11 @@
+{
+  "name": "pymdownx-inline-blocks",
+  "version": "0.2.0",
+  "summary": "A Python Markdown extension to add inline block elements based on PyMdown Extensions.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymdownx_inline_blocks-0.2.0.tar.gz",
+  "download_time": "2026-02-15T22:24:22.788635",
+  "package_url": "https://pypi.org/project/pymdownx-inline-blocks/"
+}

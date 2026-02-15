@@ -1,0 +1,11 @@
+{
+  "name": "libpinocchio",
+  "version": "3.9.0",
+  "summary": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/libpinocchio",
+  "download_filename": "libpinocchio-3.9.0.tar.gz",
+  "download_time": "2026-02-15T22:24:10.220017",
+  "package_url": "https://pypi.org/project/libpinocchio/"
+}

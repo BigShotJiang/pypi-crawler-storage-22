@@ -1,0 +1,11 @@
+{
+  "name": "ctf-watch",
+  "version": "1.0.0",
+  "summary": "A lightweight surveillance tool for CTFd competitions",
+  "author": "MushroomWasp",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ctf_watch-1.0.0.tar.gz",
+  "download_time": "2026-02-15T22:24:02.911204",
+  "package_url": "https://pypi.org/project/ctf-watch/"
+}

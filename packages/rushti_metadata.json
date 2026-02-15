@@ -1,11 +1,11 @@
 {
   "name": "rushti",
-  "version": "2.0.0b8",
+  "version": "2.0.0b9",
   "summary": "RushTI - Parallel TM1 TurboIntegrator Process Execution",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rushti-2.0.0b8.tar.gz",
-  "download_time": "2026-02-15T21:51:38.490803",
+  "download_filename": "rushti-2.0.0b9.tar.gz",
+  "download_time": "2026-02-15T22:24:11.253183",
   "package_url": "https://pypi.org/project/rushti/"
 }

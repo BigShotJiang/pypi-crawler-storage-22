@@ -1,0 +1,11 @@
+{
+  "name": "caze-tools",
+  "version": "0.3.0",
+  "summary": "Command-line dev tools by Daniel Caze (dsscaze)",
+  "author": "Daniel Caze",
+  "license": null,
+  "home_page": null,
+  "download_filename": "caze_tools-0.3.0.tar.gz",
+  "download_time": "2026-02-15T22:24:38.258120",
+  "package_url": "https://pypi.org/project/caze-tools/"
+}

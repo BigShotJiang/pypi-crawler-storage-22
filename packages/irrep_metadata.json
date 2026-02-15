@@ -1,0 +1,11 @@
+{
+  "name": "irrep",
+  "version": "2.6.0",
+  "summary": "A tool to get symmetry proberties of ab-initio wavefunctions, irreduible representations and more.",
+  "author": "Stepan S. Tsirkin",
+  "license": null,
+  "home_page": "https://github.com/irreducible-representations/irrep.git",
+  "download_filename": "irrep-2.6.0.tar.gz",
+  "download_time": "2026-02-15T22:24:49.356937",
+  "package_url": "https://pypi.org/project/irrep/"
+}

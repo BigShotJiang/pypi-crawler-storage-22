@@ -1,0 +1,11 @@
+{
+  "name": "xase-ai",
+  "version": "2.0.2",
+  "summary": "Enterprise-grade CLI for the Xase AI Lab (governed AI training datasets)",
+  "author": "Xase AI Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/xaseai/xase-sheets",
+  "download_filename": "xase_ai-2.0.2.tar.gz",
+  "download_time": "2026-02-15T22:24:18.245161",
+  "package_url": "https://pypi.org/project/xase-ai/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "temporal-mapper",
-  "version": "1.1.0",
-  "summary": null,
+  "version": "1.2.0",
+  "summary": "Implementation of density-based Mapper for temporal topic modelling.",
   "author": null,
-  "license": "BSD-3-Clause license",
+  "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "temporal_mapper-1.1.0.tar.gz",
-  "download_time": "2026-02-07T20:54:01.419941",
+  "download_filename": "temporal_mapper-1.2.0-py3-none-any.whl",
+  "download_time": "2026-02-15T22:24:47.821292",
   "package_url": "https://pypi.org/project/temporal-mapper/"
 }
