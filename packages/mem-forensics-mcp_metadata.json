@@ -1,11 +1,11 @@
 {
   "name": "mem-forensics-mcp",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "summary": "Unified Memory Forensics MCP Server - Multi-tier engine (Rust + Python + Vol3)",
   "author": "xtk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mem_forensics_mcp-1.0.0.tar.gz",
-  "download_time": "2026-02-15T15:52:09.634762",
+  "download_filename": "mem_forensics_mcp-1.2.0.tar.gz",
+  "download_time": "2026-02-15T23:54:08.095437",
   "package_url": "https://pypi.org/project/mem-forensics-mcp/"
 }

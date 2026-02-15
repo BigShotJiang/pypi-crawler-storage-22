@@ -1,11 +1,11 @@
 {
   "name": "quant-pml",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": null,
   "author": "Viacheslav Buchkov",
   "license": null,
   "home_page": null,
-  "download_filename": "quant_pml-0.1.9.tar.gz",
-  "download_time": "2026-02-15T22:24:31.382521",
+  "download_filename": "quant_pml-0.1.10.tar.gz",
+  "download_time": "2026-02-15T23:54:16.094042",
   "package_url": "https://pypi.org/project/quant-pml/"
 }

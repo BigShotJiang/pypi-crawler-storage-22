@@ -1,0 +1,11 @@
+{
+  "name": "openocd-python",
+  "version": "2026.2.15",
+  "summary": "Typed, async-first Python bindings for the full OpenOCD command surface",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openocd_python-2026.2.15.tar.gz",
+  "download_time": "2026-02-15T23:54:09.765076",
+  "package_url": "https://pypi.org/project/openocd-python/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "omnibase_core",
-  "version": "0.15.0",
+  "version": "0.18.0",
   "summary": "ONEX Core Framework - Base classes and essential implementations",
   "author": "OmniNode Team",
   "license": null,
   "home_page": "https://github.com/OmniNode-ai/omnibase_core",
-  "download_filename": "omnibase_core-0.15.0.tar.gz",
-  "download_time": "2026-02-05T20:31:51.600879",
+  "download_filename": "omnibase_core-0.18.0.tar.gz",
+  "download_time": "2026-02-15T23:53:56.720891",
   "package_url": "https://pypi.org/project/omnibase_core/"
 }

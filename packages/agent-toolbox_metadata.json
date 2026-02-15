@@ -1,0 +1,11 @@
+{
+  "name": "agent-toolbox",
+  "version": "0.1.1",
+  "summary": "Standardized Agent Runtime — preset-based AI agent gateway with stable HTTP API",
+  "author": "Agent Toolbox",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agent_toolbox-0.1.1.tar.gz",
+  "download_time": "2026-02-15T23:54:30.317031",
+  "package_url": "https://pypi.org/project/agent-toolbox/"
+}

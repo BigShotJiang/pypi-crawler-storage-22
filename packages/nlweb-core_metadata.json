@@ -1,0 +1,11 @@
+{
+  "name": "nlweb-core",
+  "version": "0.6.4",
+  "summary": "Core framework for NLWeb - Natural Language Web interface with config-driven provider architecture",
+  "author": "nlweb-ai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nlweb_core-0.6.4.tar.gz",
+  "download_time": "2026-02-15T23:54:03.588182",
+  "package_url": "https://pypi.org/project/nlweb-core/"
+}

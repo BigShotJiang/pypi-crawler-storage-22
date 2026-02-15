@@ -1,0 +1,11 @@
+{
+  "name": "dj-rest-auth",
+  "version": "7.1.0",
+  "summary": "Authentication and Registration in Django Rest Framework",
+  "author": "iMerica",
+  "license": "MIT",
+  "home_page": "https://github.com/iMerica/dj-rest-auth",
+  "download_filename": "dj_rest_auth-7.1.0.tar.gz",
+  "download_time": "2026-02-15T23:54:00.907459",
+  "package_url": "https://pypi.org/project/dj-rest-auth/"
+}
