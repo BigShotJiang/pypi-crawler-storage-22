@@ -1,11 +1,11 @@
 {
   "name": "qortex",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "Knowledge graph that learns from every interaction. MCP server, graph retrieval, adaptive learning.",
   "author": "Peleke Sengstacke",
   "license": null,
   "home_page": null,
-  "download_filename": "qortex-0.7.0.tar.gz",
-  "download_time": "2026-02-15T14:09:25.678844",
+  "download_filename": "qortex-0.7.1.tar.gz",
+  "download_time": "2026-02-15T16:28:58.847203",
   "package_url": "https://pypi.org/project/qortex/"
 }

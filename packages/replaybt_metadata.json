@@ -1,0 +1,11 @@
+{
+  "name": "replaybt",
+  "version": "1.0.0",
+  "summary": "Realistic backtesting engine for algo traders & AI agents",
+  "author": "sirmoremoney",
+  "license": null,
+  "home_page": null,
+  "download_filename": "replaybt-1.0.0.tar.gz",
+  "download_time": "2026-02-15T16:28:59.874628",
+  "package_url": "https://pypi.org/project/replaybt/"
+}

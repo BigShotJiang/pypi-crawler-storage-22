@@ -1,11 +1,11 @@
 {
   "name": "inalign-mcp",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "summary": "In-A-Lign Agent Provenance & Security MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "inalign_mcp-0.9.0-py3-none-any.whl",
-  "download_time": "2026-02-15T15:52:23.022536",
+  "download_filename": "inalign_mcp-0.9.1-py3-none-any.whl",
+  "download_time": "2026-02-15T16:29:00.912971",
   "package_url": "https://pypi.org/project/inalign-mcp/"
 }

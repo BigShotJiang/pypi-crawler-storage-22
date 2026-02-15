@@ -1,0 +1,11 @@
+{
+  "name": "lynx-logger",
+  "version": "1.0.3",
+  "summary": "Универсальная библиотека структурированного логирования на основе structlog",
+  "author": "FlacSy",
+  "license": null,
+  "home_page": "https://github.com/NullPointerGang/lynx-logger",
+  "download_filename": "lynx_logger-1.0.3.tar.gz",
+  "download_time": "2026-02-15T16:28:51.990135",
+  "package_url": "https://pypi.org/project/lynx-logger/"
+}

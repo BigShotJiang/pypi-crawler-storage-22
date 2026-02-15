@@ -1,0 +1,11 @@
+{
+  "name": "HandySQL",
+  "version": "1.0.0",
+  "summary": "A simple and powerful SQL library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "handysql-1.0.0.tar.gz",
+  "download_time": "2026-02-15T16:29:02.441064",
+  "package_url": "https://pypi.org/project/HandySQL/"
+}

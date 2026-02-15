@@ -1,0 +1,11 @@
+{
+  "name": "m4d-engine",
+  "version": "1.2.1",
+  "summary": "A premium Native & Web GUI framework for Windows.",
+  "author": "M4D Dev Team",
+  "license": null,
+  "home_page": "https://github.com/m4d/m4d-engine",
+  "download_filename": "m4d_engine-1.2.1.tar.gz",
+  "download_time": "2026-02-15T16:28:50.464211",
+  "package_url": "https://pypi.org/project/m4d-engine/"
+}

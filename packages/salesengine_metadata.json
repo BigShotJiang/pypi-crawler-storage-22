@@ -1,11 +1,11 @@
 {
   "name": "salesengine",
-  "version": "0.3.5",
-  "summary": "Universal Sales Intelligence Engine — drop in any dataset, get standardized reports",
+  "version": "0.4.0",
+  "summary": "Universal Sales Intelligence Engine — drop in any dataset, get standardized, executive-ready reports",
   "author": "KTG",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "salesengine-0.3.5.tar.gz",
-  "download_time": "2026-02-14T21:50:31.782055",
+  "download_filename": "salesengine-0.4.0.tar.gz",
+  "download_time": "2026-02-15T16:28:44.813107",
   "package_url": "https://pypi.org/project/salesengine/"
 }

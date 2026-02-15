@@ -1,0 +1,11 @@
+{
+  "name": "odys",
+  "version": "0.1.2",
+  "summary": "Python framework for optimizing multi-energy systems.",
+  "author": "Ramiro Criach",
+  "license": null,
+  "home_page": null,
+  "download_filename": "odys-0.1.2.tar.gz",
+  "download_time": "2026-02-15T16:28:58.267829",
+  "package_url": "https://pypi.org/project/odys/"
+}

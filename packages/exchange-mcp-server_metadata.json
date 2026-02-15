@@ -1,11 +1,11 @@
 {
   "name": "exchange-mcp-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "MCP server for Exchange / OWA - email, calendar, directory, availability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exchange_mcp_server-1.0.0.tar.gz",
-  "download_time": "2026-02-15T15:52:05.365678",
+  "download_filename": "exchange_mcp_server-1.0.1.tar.gz",
+  "download_time": "2026-02-15T16:29:14.889097",
   "package_url": "https://pypi.org/project/exchange-mcp-server/"
 }

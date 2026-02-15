@@ -1,0 +1,11 @@
+{
+  "name": "alfen-eve-modbus-tcp",
+  "version": "0.0.17",
+  "summary": "Alfen Eve Car Charger parser library",
+  "author": "nessnaj",
+  "license": "MIT License",
+  "home_page": "https://github.com/nessnaj/alfen_eve_modbus_tcp",
+  "download_filename": "alfen_eve_modbus_tcp-0.0.17.tar.gz",
+  "download_time": "2026-02-15T16:29:11.316866",
+  "package_url": "https://pypi.org/project/alfen-eve-modbus-tcp/"
+}

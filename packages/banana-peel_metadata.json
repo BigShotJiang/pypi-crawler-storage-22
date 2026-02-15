@@ -1,11 +1,11 @@
 {
   "name": "banana-peel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Remove Gemini AI watermarks from images using LaMa AI inpainting",
   "author": "Niyazi Erdogan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "banana_peel-0.1.0.tar.gz",
-  "download_time": "2026-02-15T15:52:08.578552",
+  "download_filename": "banana_peel-0.1.1.tar.gz",
+  "download_time": "2026-02-15T16:28:35.060834",
   "package_url": "https://pypi.org/project/banana-peel/"
 }

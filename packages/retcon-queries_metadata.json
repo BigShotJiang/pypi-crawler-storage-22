@@ -1,0 +1,11 @@
+{
+  "name": "retcon-queries",
+  "version": "1.0.0",
+  "summary": "Shared GraphQL queries for the Retcon platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "retcon_queries-1.0.0.tar.gz",
+  "download_time": "2026-02-15T16:28:48.928558",
+  "package_url": "https://pypi.org/project/retcon-queries/"
+}
