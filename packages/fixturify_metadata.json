@@ -1,11 +1,11 @@
 {
   "name": "fixturify",
-  "version": "0.1.32",
+  "version": "0.1.33",
   "summary": "A collection of convenient testing utilities for Python",
   "author": "eleven-sea",
   "license": null,
   "home_page": null,
-  "download_filename": "fixturify-0.1.32.tar.gz",
-  "download_time": "2026-02-15T14:51:18.342721",
+  "download_filename": "fixturify-0.1.33.tar.gz",
+  "download_time": "2026-02-15T21:52:03.404989",
   "package_url": "https://pypi.org/project/fixturify/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "prlx",
-  "version": "0.3.3",
+  "version": "0.4.1",
   "summary": "Differential debugger for CUDA/Triton GPU kernels",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prlx-0.3.3-py3-none-manylinux_2_28_x86_64.whl",
-  "download_time": "2026-02-15T20:28:32.711419",
+  "download_filename": "prlx-0.4.1-py3-none-manylinux_2_28_x86_64.whl",
+  "download_time": "2026-02-15T21:51:47.657132",
   "package_url": "https://pypi.org/project/prlx/"
 }

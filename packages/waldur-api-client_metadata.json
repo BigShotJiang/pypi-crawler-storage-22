@@ -1,11 +1,11 @@
 {
   "name": "waldur-api-client",
-  "version": "8.0.1",
+  "version": "8.0.3",
   "summary": "A client library for accessing Waldur API",
   "author": "OpenNode Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "waldur_api_client-8.0.1.tar.gz",
-  "download_time": "2026-02-03T14:02:56.304847",
+  "download_filename": "waldur_api_client-8.0.3.tar.gz",
+  "download_time": "2026-02-15T21:52:15.368388",
   "package_url": "https://pypi.org/project/waldur-api-client/"
 }

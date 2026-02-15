@@ -1,11 +1,11 @@
 {
   "name": "deleted-pypi-package-test",
-  "version": "1.0",
+  "version": "99.0",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deleted_pypi_package_test-1.0.tar.gz",
-  "download_time": "2026-02-15T20:28:29.630190",
+  "download_filename": "deleted_pypi_package_test-99.0.tar.gz",
+  "download_time": "2026-02-15T21:52:16.952774",
   "package_url": "https://pypi.org/project/deleted-pypi-package-test/"
 }

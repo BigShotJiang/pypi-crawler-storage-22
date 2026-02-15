@@ -1,0 +1,11 @@
+{
+  "name": "hydrus-mcp-server",
+  "version": "1.0.0",
+  "summary": "MCP Server for Hydrus - Allowing your LLM to interact with your hydrus client to interact with your media",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hydrus_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-02-15T21:52:09.975045",
+  "package_url": "https://pypi.org/project/hydrus-mcp-server/"
+}

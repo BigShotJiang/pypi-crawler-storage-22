@@ -1,0 +1,11 @@
+{
+  "name": "asyncsleepiq",
+  "version": "1.7.0",
+  "summary": "ASync SleepIQ API",
+  "author": "Keilin Bickar",
+  "license": "MIT",
+  "home_page": "http://github.com/kbickar/asyncsleepiq",
+  "download_filename": "asyncsleepiq-1.7.0.tar.gz",
+  "download_time": "2026-02-15T21:51:39.037374",
+  "package_url": "https://pypi.org/project/asyncsleepiq/"
+}

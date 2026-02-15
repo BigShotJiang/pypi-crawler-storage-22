@@ -1,0 +1,11 @@
+{
+  "name": "netbox-circuitmaintenance",
+  "version": "0.8.0",
+  "summary": "Provides the ability to record circuit maintenance, maintenance impact and maintenance notifications in Netbox and link them to Providers and Circuits.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netbox_circuitmaintenance-0.8.0.tar.gz",
+  "download_time": "2026-02-15T21:52:09.444002",
+  "package_url": "https://pypi.org/project/netbox-circuitmaintenance/"
+}

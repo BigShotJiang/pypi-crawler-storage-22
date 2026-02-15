@@ -1,0 +1,11 @@
+{
+  "name": "chocoinst",
+  "version": "1.0.0",
+  "summary": "🍫 ChocoInst - Установка программ через Chocolatey",
+  "author": "Марк",
+  "license": null,
+  "home_page": "https://github.com/Marrcus113/ChocoInst",
+  "download_filename": "chocoinst-1.0.0.tar.gz",
+  "download_time": "2026-02-15T21:52:14.808346",
+  "package_url": "https://pypi.org/project/chocoinst/"
+}

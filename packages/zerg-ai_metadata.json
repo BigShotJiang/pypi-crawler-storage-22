@@ -1,11 +1,11 @@
 {
   "name": "zerg-ai",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Parallel Claude Code execution system",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zerg_ai-0.3.1.tar.gz",
-  "download_time": "2026-02-15T16:28:53.014387",
+  "download_filename": "zerg_ai-0.3.2.tar.gz",
+  "download_time": "2026-02-15T21:51:43.746648",
   "package_url": "https://pypi.org/project/zerg-ai/"
 }

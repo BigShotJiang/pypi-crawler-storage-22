@@ -1,11 +1,11 @@
 {
   "name": "furu",
-  "version": "0.0.6",
+  "version": "0.0.12",
   "summary": "Cacheable, nested pipelines for Python. Define computations as configs; furu handles caching, state tracking, and result reuse across runs.",
   "author": "Herman Brunborg",
   "license": null,
   "home_page": null,
-  "download_filename": "furu-0.0.6.tar.gz",
-  "download_time": "2026-02-01T04:38:39.979849",
+  "download_filename": "furu-0.0.12.tar.gz",
+  "download_time": "2026-02-15T21:51:44.844307",
   "package_url": "https://pypi.org/project/furu/"
 }

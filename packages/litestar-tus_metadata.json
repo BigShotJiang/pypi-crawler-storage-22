@@ -1,11 +1,11 @@
 {
   "name": "litestar-tus",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "TUS resumable upload protocol plugin for Litestar",
   "author": "Enno Richter",
   "license": null,
   "home_page": null,
-  "download_filename": "litestar_tus-1.1.0.tar.gz",
-  "download_time": "2026-01-31T15:46:26.829564",
+  "download_filename": "litestar_tus-1.2.0.tar.gz",
+  "download_time": "2026-02-15T21:52:17.503616",
   "package_url": "https://pypi.org/project/litestar-tus/"
 }

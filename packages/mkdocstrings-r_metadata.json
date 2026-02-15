@@ -1,0 +1,11 @@
+{
+  "name": "mkdocstrings-r",
+  "version": "0.1.1",
+  "summary": "Mkdocstrings handler for R.",
+  "author": "kay-mw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mkdocstrings_r-0.1.1.tar.gz",
+  "download_time": "2026-02-15T21:52:06.116131",
+  "package_url": "https://pypi.org/project/mkdocstrings-r/"
+}

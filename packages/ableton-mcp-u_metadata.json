@@ -1,0 +1,11 @@
+{
+  "name": "ableton-mcp-u",
+  "version": "1.0.2",
+  "summary": "Ableton Live integration through the Model Context Protocol - Upgraded Version",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ableton_mcp_u-1.0.2.tar.gz",
+  "download_time": "2026-02-15T21:52:11.544791",
+  "package_url": "https://pypi.org/project/ableton-mcp-u/"
+}
