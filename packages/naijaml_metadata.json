@@ -1,0 +1,11 @@
+{
+  "name": "naijaml",
+  "version": "0.1.2",
+  "summary": "Open-source ML tools, libraries, and notebooks for the Nigerian ML ecosystem",
+  "author": "Ugochukwu Onyebuchi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "naijaml-0.1.2.tar.gz",
+  "download_time": "2026-02-15T14:51:07.028985",
+  "package_url": "https://pypi.org/project/naijaml/"
+}

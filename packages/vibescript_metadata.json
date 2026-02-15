@@ -1,0 +1,11 @@
+{
+  "name": "vibescript",
+  "version": "1.0.1",
+  "summary": "Transform intent into production code - The Vibe-to-Code compiler",
+  "author": "Beri Dayan",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/vibescript",
+  "download_filename": "vibescript-1.0.1.tar.gz",
+  "download_time": "2026-02-15T14:50:40.572315",
+  "package_url": "https://pypi.org/project/vibescript/"
+}

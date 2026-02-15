@@ -1,0 +1,11 @@
+{
+  "name": "cellcast",
+  "version": "0.1.2",
+  "summary": "A recast of cell segmentation models built on the Burn deep learning framework.",
+  "author": "cellcast developers",
+  "license": "Unlicense OR MIT",
+  "home_page": null,
+  "download_filename": "cellcast-0.1.2.tar.gz",
+  "download_time": "2026-02-15T14:51:09.609844",
+  "package_url": "https://pypi.org/project/cellcast/"
+}

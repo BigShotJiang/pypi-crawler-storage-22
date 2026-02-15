@@ -1,0 +1,11 @@
+{
+  "name": "tronpad",
+  "version": "0.0.1",
+  "summary": "tronpad library for Python",
+  "author": "alimserg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tronpad-0.0.1.tar.gz",
+  "download_time": "2026-02-15T14:50:57.617468",
+  "package_url": "https://pypi.org/project/tronpad/"
+}

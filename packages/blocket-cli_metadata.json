@@ -1,0 +1,11 @@
+{
+  "name": "blocket-cli",
+  "version": "0.2.0",
+  "summary": "Fast CLI for searching Blocket.se — optimized for agents and scripting",
+  "author": "Lennart Johansson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "blocket_cli-0.2.0.tar.gz",
+  "download_time": "2026-02-15T14:51:12.183179",
+  "package_url": "https://pypi.org/project/blocket-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fivccliche",
-  "version": "0.1.39",
+  "version": "0.1.40",
   "summary": "A modern async Python framework for building scalable applications with FastAPI and SQLModel",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fivccliche-0.1.39.tar.gz",
-  "download_time": "2026-02-15T14:09:53.115658",
+  "download_filename": "fivccliche-0.1.40.tar.gz",
+  "download_time": "2026-02-15T14:51:07.540365",
   "package_url": "https://pypi.org/project/fivccliche/"
 }
