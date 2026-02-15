@@ -1,0 +1,11 @@
+{
+  "name": "netzooe-eservice-api",
+  "version": "1.0.0b1",
+  "summary": "A Python wrapper for the unofficial eService-Portal API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "netzooe_eservice_api-1.0.0b1.tar.gz",
+  "download_time": "2026-02-15T17:01:03.631403",
+  "package_url": "https://pypi.org/project/netzooe-eservice-api/"
+}

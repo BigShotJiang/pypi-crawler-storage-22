@@ -1,11 +1,11 @@
 {
   "name": "radnn",
-  "version": "0.1.7",
+  "version": "0.2.1",
   "summary": "Rapid Deep Neural Networks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "radnn-0.1.7.tar.gz",
-  "download_time": "2026-02-04T07:12:25.515641",
+  "download_filename": "radnn-0.2.1.tar.gz",
+  "download_time": "2026-02-15T17:00:57.486164",
   "package_url": "https://pypi.org/project/radnn/"
 }

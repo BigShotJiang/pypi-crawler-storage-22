@@ -1,11 +1,11 @@
 {
   "name": "letterboxdpy",
-  "version": "6.1.0",
+  "version": "6.4.1",
   "summary": "A letterboxd webscraper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "letterboxdpy-6.1.0.tar.gz",
-  "download_time": "2026-01-29T01:28:45.138581",
+  "download_filename": "letterboxdpy-6.4.1.tar.gz",
+  "download_time": "2026-02-15T17:01:03.109020",
   "package_url": "https://pypi.org/project/letterboxdpy/"
 }

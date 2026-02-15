@@ -1,0 +1,11 @@
+{
+  "name": "palimpsest-qr",
+  "version": "0.1.2",
+  "summary": "A hyper-realistic QR code replacer with perspective transform, tone matching, and noise simulation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "palimpsest_qr-0.1.2.tar.gz",
+  "download_time": "2026-02-15T17:00:42.949672",
+  "package_url": "https://pypi.org/project/palimpsest-qr/"
+}

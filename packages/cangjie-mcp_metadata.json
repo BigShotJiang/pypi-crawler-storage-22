@@ -1,11 +1,11 @@
 {
   "name": "cangjie-mcp",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "MCP server for Cangjie programming language documentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cangjie_mcp-0.2.3.tar.gz",
-  "download_time": "2026-02-14T07:34:14.447420",
+  "download_filename": "cangjie_mcp-0.2.4.tar.gz",
+  "download_time": "2026-02-15T17:01:20.344241",
   "package_url": "https://pypi.org/project/cangjie-mcp/"
 }

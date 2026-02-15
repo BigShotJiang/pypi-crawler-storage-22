@@ -1,11 +1,11 @@
 {
   "name": "viewx",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Librería de visualización adaptable para HTML, Dashboards y PDFs en Python",
   "author": "Emmanuel Ascendra Perez",
   "license": null,
   "home_page": "https://github.com/GhostAnalyst30/ViewX",
-  "download_filename": "viewx-0.1.6.tar.gz",
-  "download_time": "2026-02-15T04:22:31.219492",
+  "download_filename": "viewx-0.1.7.tar.gz",
+  "download_time": "2026-02-15T17:00:56.462156",
   "package_url": "https://pypi.org/project/viewx/"
 }
