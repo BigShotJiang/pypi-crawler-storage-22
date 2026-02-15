@@ -1,11 +1,11 @@
 {
   "name": "rubbernecker",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Web scraping engine",
   "author": "Greg Brandt",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rubbernecker-0.0.2.tar.gz",
-  "download_time": "2026-02-14T22:53:50.622142",
+  "download_filename": "rubbernecker-0.0.4.tar.gz",
+  "download_time": "2026-02-15T04:22:24.496258",
   "package_url": "https://pypi.org/project/rubbernecker/"
 }

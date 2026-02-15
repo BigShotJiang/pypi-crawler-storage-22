@@ -1,0 +1,11 @@
+{
+  "name": "fmureader",
+  "version": "0.1.2",
+  "summary": "A Python library for reading and parsing Functional Mock-up Interface model description XML file.",
+  "author": "coder",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fmureader-0.1.2.tar.gz",
+  "download_time": "2026-02-15T04:22:15.235323",
+  "package_url": "https://pypi.org/project/fmureader/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "video-ai-studio",
-  "version": "1.0.24",
+  "version": "1.0.29",
   "summary": "Comprehensive AI content generation suite with multiple providers and services",
   "author": "donghao zhang",
   "license": null,
   "home_page": "https://github.com/donghaozhang/video-agent-skill",
-  "download_filename": "video_ai_studio-1.0.24.tar.gz",
-  "download_time": "2026-02-10T03:32:15.708314",
+  "download_filename": "video_ai_studio-1.0.29.tar.gz",
+  "download_time": "2026-02-15T04:22:15.749967",
   "package_url": "https://pypi.org/project/video-ai-studio/"
 }

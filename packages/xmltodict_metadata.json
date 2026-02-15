@@ -1,0 +1,11 @@
+{
+  "name": "xmltodict",
+  "version": "1.0.3",
+  "summary": "Makes working with XML feel like you are working with JSON",
+  "author": "Martin Blech",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmltodict-1.0.3.tar.gz",
+  "download_time": "2026-02-15T04:22:22.432557",
+  "package_url": "https://pypi.org/project/xmltodict/"
+}

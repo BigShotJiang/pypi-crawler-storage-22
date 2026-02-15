@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-base-user-copy-user-role",
+  "version": "14.0.1.1.0",
+  "summary": "Base Copy User Role",
+  "author": "PT. Simetri Sinergi Indonesia,OpenSynergy Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_base_user_copy_user_role-14.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-02-15T04:22:01.300439",
+  "package_url": "https://pypi.org/project/odoo14-addon-base-user-copy-user-role/"
+}

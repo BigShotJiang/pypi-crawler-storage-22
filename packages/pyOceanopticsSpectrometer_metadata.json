@@ -1,0 +1,11 @@
+{
+  "name": "pyOceanopticsSpectrometer",
+  "version": "0.4",
+  "summary": "A python library/GUI to access and control OceanOptics spectrometers",
+  "author": "Michele Cotrufo",
+  "license": "MIT",
+  "home_page": "https://github.com/MicheleCotrufo/",
+  "download_filename": "pyoceanopticsspectrometer-0.4.tar.gz",
+  "download_time": "2026-02-15T04:22:17.801966",
+  "package_url": "https://pypi.org/project/pyOceanopticsSpectrometer/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcp-nanobanana-pro",
+  "version": "2026.2.15.2",
+  "summary": "MCP Server for NanoBanana AI Image Generation via AceDataCloud API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_nanobanana_pro-2026.2.15.2.tar.gz",
+  "download_time": "2026-02-15T04:22:06.497623",
+  "package_url": "https://pypi.org/project/mcp-nanobanana-pro/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "avrokit",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "summary": "Python utilities for working with Avro data files",
   "author": "Greg Brandt",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "avrokit-0.0.2.tar.gz",
-  "download_time": "2026-02-14T22:23:19.339797",
+  "download_filename": "avrokit-0.0.4.tar.gz",
+  "download_time": "2026-02-15T04:22:30.161467",
   "package_url": "https://pypi.org/project/avrokit/"
 }

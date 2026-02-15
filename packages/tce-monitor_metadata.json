@@ -1,11 +1,11 @@
 {
   "name": "tce-monitor",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Terminus Cancrorum Est — monitor Claude Code processes, token usage, and costs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tce_monitor-0.3.0.tar.gz",
-  "download_time": "2026-02-13T23:30:18.817413",
+  "download_filename": "tce_monitor-0.4.0.tar.gz",
+  "download_time": "2026-02-15T04:22:16.774610",
   "package_url": "https://pypi.org/project/tce-monitor/"
 }
