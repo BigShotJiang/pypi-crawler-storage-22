@@ -1,0 +1,11 @@
+{
+  "name": "uv-secure",
+  "version": "0.16.0",
+  "summary": "Scan your uv.lock file for dependencies with known vulnerabilities",
+  "author": "Owen Lamont",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uv_secure-0.16.0.tar.gz",
+  "download_time": "2026-02-15T05:42:45.126147",
+  "package_url": "https://pypi.org/project/uv-secure/"
+}

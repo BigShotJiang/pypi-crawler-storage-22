@@ -1,11 +1,11 @@
 {
   "name": "gitship",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "Interactive Git history management and commit inspection tools with comprehensive diff review",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gitship-0.2.4.tar.gz",
-  "download_time": "2026-02-15T04:22:12.157710",
+  "download_filename": "gitship-0.2.5.tar.gz",
+  "download_time": "2026-02-15T05:42:38.461185",
   "package_url": "https://pypi.org/project/gitship/"
 }

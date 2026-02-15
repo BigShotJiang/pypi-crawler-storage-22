@@ -1,0 +1,11 @@
+{
+  "name": "synsc-context-proxy",
+  "version": "1.2.1",
+  "summary": "Lightweight MCP proxy for SyntheticSciences Context — gives AI agents deep code, research paper, and HuggingFace dataset context.",
+  "author": "InkVell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "synsc_context_proxy-1.2.1.tar.gz",
+  "download_time": "2026-02-15T05:42:20.935297",
+  "package_url": "https://pypi.org/project/synsc-context-proxy/"
+}

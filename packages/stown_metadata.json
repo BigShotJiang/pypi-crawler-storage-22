@@ -1,0 +1,11 @@
+{
+  "name": "stown",
+  "version": "1.2.1",
+  "summary": "Manage file system object mapping via symlinks. Lightweight alternative to GNU Stow.",
+  "author": "Ralph Seichter",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stown-1.2.1.tar.gz",
+  "download_time": "2026-02-15T05:42:26.119742",
+  "package_url": "https://pypi.org/project/stown/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hypername",
+  "version": "0.0.1",
+  "summary": "Official Hypername namespace on PyPI.",
+  "author": "Hypername",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hypername-0.0.1.tar.gz",
+  "download_time": "2026-02-15T05:42:58.997365",
+  "package_url": "https://pypi.org/project/hypername/"
+}

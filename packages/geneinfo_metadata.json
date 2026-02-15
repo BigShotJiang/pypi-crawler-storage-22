@@ -1,11 +1,11 @@
 {
   "name": "geneinfo",
-  "version": "5.6.7",
+  "version": "5.6.8",
   "summary": "...",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geneinfo-5.6.7.tar.gz",
-  "download_time": "2026-02-14T18:37:09.547392",
+  "download_filename": "geneinfo-5.6.8.tar.gz",
+  "download_time": "2026-02-15T05:42:29.202901",
   "package_url": "https://pypi.org/project/geneinfo/"
 }

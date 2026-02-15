@@ -1,11 +1,11 @@
 {
   "name": "otto-agent",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Otto — AI agent platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "otto_agent-0.4.2.tar.gz",
-  "download_time": "2026-02-15T04:22:30.674574",
+  "download_filename": "otto_agent-0.4.4.tar.gz",
+  "download_time": "2026-02-15T05:42:20.423287",
   "package_url": "https://pypi.org/project/otto-agent/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fleet-rlm",
+  "version": "0.4.2",
+  "summary": "Recursive Language Models with DSPy + Modal for secure long-context code execution",
+  "author": "Qredence",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fleet_rlm-0.4.2.tar.gz",
+  "download_time": "2026-02-15T05:42:43.080093",
+  "package_url": "https://pypi.org/project/fleet-rlm/"
+}

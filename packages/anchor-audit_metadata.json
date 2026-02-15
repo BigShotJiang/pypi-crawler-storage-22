@@ -1,11 +1,11 @@
 {
   "name": "anchor-audit",
-  "version": "2.4.14",
+  "version": "2.8.1",
   "summary": "The Federated Governance Engine for AI (Universal Multi-Language)",
   "author": "Tanishq",
   "license": null,
   "home_page": "https://github.com/Tanishq1030/anchor",
-  "download_filename": "anchor_audit-2.4.14.tar.gz",
-  "download_time": "2026-02-08T16:59:12.263202",
+  "download_filename": "anchor_audit-2.8.1.tar.gz",
+  "download_time": "2026-02-15T05:42:44.102519",
   "package_url": "https://pypi.org/project/anchor-audit/"
 }

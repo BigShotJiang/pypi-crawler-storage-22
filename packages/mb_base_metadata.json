@@ -1,0 +1,11 @@
+{
+  "name": "mb_base",
+  "version": "2.0.7",
+  "summary": "Meta Package for mb_* packages",
+  "author": "['Malav Bateriwala']",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mb_base-2.0.7-py3-none-any.whl",
+  "download_time": "2026-02-15T05:42:37.950471",
+  "package_url": "https://pypi.org/project/mb_base/"
+}

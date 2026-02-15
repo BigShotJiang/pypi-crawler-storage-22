@@ -1,0 +1,11 @@
+{
+  "name": "django-postgresql-dag",
+  "version": "2026.2.2",
+  "summary": "Directed Acyclic Graph implementation for Django & Postgresql",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_postgresql_dag-2026.2.2.tar.gz",
+  "download_time": "2026-02-15T05:42:50.271826",
+  "package_url": "https://pypi.org/project/django-postgresql-dag/"
+}
