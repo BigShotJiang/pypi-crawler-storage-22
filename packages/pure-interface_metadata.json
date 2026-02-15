@@ -1,0 +1,11 @@
+{
+  "name": "pure-interface",
+  "version": "8.3.0",
+  "summary": "A Python interface library that disallows function body content on interfaces and supports adaption.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pure_interface-8.3.0.tar.gz",
+  "download_time": "2026-02-15T20:28:35.286092",
+  "package_url": "https://pypi.org/project/pure-interface/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apk2abb",
+  "version": "0.1.0",
+  "summary": "Convert Android APK files to AAB (Android App Bundle) for Google Play Store",
+  "author": "Nithin Jambula",
+  "license": "MIT",
+  "home_page": "https://github.com/nithin434/apk2abb",
+  "download_filename": "apk2abb-0.1.0.tar.gz",
+  "download_time": "2026-02-15T20:28:54.348415",
+  "package_url": "https://pypi.org/project/apk2abb/"
+}

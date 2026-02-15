@@ -1,11 +1,11 @@
 {
   "name": "mdalign",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Auto-fix alignment in markdown docs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mdalign-0.2.1.tar.gz",
-  "download_time": "2026-02-15T19:43:12.705589",
+  "download_filename": "mdalign-0.2.2.tar.gz",
+  "download_time": "2026-02-15T20:28:52.304346",
   "package_url": "https://pypi.org/project/mdalign/"
 }

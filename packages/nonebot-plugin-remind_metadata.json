@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-remind",
+  "version": "0.2.0",
+  "summary": "nonebot2插件：提供符合中国宝宝体质的定时提醒功能~",
+  "author": "Elden",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_remind-0.2.0.tar.gz",
+  "download_time": "2026-02-15T20:28:48.201900",
+  "package_url": "https://pypi.org/project/nonebot-plugin-remind/"
+}

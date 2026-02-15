@@ -1,11 +1,11 @@
 {
   "name": "acodex",
-  "version": "0.0.0a1",
+  "version": "0.0.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "acodex-0.0.0a1.tar.gz",
-  "download_time": "2026-02-14T14:08:21.172816",
+  "download_filename": "acodex-0.0.1.tar.gz",
+  "download_time": "2026-02-15T20:28:30.141059",
   "package_url": "https://pypi.org/project/acodex/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "SimpleGram",
+  "version": "0.1.0",
+  "summary": "A simple Python library that prints 'Hola Mundo'",
+  "author": "TechDev",
+  "license": "MIT",
+  "home_page": "https://github.com/ale-techdev/SimpleGram",
+  "download_filename": "simplegram-0.1.0.tar.gz",
+  "download_time": "2026-02-15T20:28:19.093731",
+  "package_url": "https://pypi.org/project/SimpleGram/"
+}

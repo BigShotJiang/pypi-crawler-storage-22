@@ -1,0 +1,11 @@
+{
+  "name": "devr",
+  "version": "0.0.0",
+  "summary": "Run a full Python dev preflight (ruff format/lint, typecheck, tests, coverage) inside your project venv.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "devr-0.0.0.tar.gz",
+  "download_time": "2026-02-15T20:28:49.737047",
+  "package_url": "https://pypi.org/project/devr/"
+}
