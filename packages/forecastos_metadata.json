@@ -1,0 +1,11 @@
+{
+  "name": "forecastos",
+  "version": "0.3.0",
+  "summary": "ForecastOS.com quantitative investing tools",
+  "author": "Charlie Reese",
+  "license": "MIT",
+  "home_page": "https://forecastos.com/",
+  "download_filename": "forecastos-0.3.0.tar.gz",
+  "download_time": "2026-02-15T01:53:40.829712",
+  "package_url": "https://pypi.org/project/forecastos/"
+}

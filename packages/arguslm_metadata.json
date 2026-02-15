@@ -1,0 +1,11 @@
+{
+  "name": "arguslm",
+  "version": "0.1.0",
+  "summary": "ArgusLM — Open-source LLM monitoring & benchmarking SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arguslm-0.1.0.tar.gz",
+  "download_time": "2026-02-15T01:53:41.372131",
+  "package_url": "https://pypi.org/project/arguslm/"
+}

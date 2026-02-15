@@ -1,0 +1,11 @@
+{
+  "name": "codex-mcp-bridge",
+  "version": "0.2.0",
+  "summary": "Lightweight stdio MCP server that bridges Claude CLI tools to codex exec",
+  "author": "dante",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_mcp_bridge-0.2.0.tar.gz",
+  "download_time": "2026-02-15T01:53:55.489886",
+  "package_url": "https://pypi.org/project/codex-mcp-bridge/"
+}

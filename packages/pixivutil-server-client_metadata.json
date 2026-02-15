@@ -1,0 +1,11 @@
+{
+  "name": "pixivutil-server-client",
+  "version": "0.1.0",
+  "summary": "Async aiohttp client SDK for PixivUtil Server",
+  "author": "psilabs-dev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixivutil_server_client-0.1.0.tar.gz",
+  "download_time": "2026-02-15T01:53:31.230880",
+  "package_url": "https://pypi.org/project/pixivutil-server-client/"
+}

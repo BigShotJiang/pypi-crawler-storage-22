@@ -1,0 +1,11 @@
+{
+  "name": "FreeAeon-Fractal",
+  "version": "0.5.1",
+  "summary": "Toolkit for Multifractal Analysis",
+  "author": "Jim Xie",
+  "license": null,
+  "home_page": "https://github.com/jim-xie-cn/FreeAeon-Fractal",
+  "download_filename": "freeaeon_fractal-0.5.1.tar.gz",
+  "download_time": "2026-02-15T01:53:49.576559",
+  "package_url": "https://pypi.org/project/FreeAeon-Fractal/"
+}

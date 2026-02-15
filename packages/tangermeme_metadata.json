@@ -1,0 +1,11 @@
+{
+  "name": "tangermeme",
+  "version": "1.0.3",
+  "summary": "Biological sequence analysis for the modern age.",
+  "author": "Jacob Schreiber",
+  "license": "LICENSE.txt",
+  "home_page": "https://github.com/jmschrei/tangermeme",
+  "download_filename": "tangermeme-1.0.3.tar.gz",
+  "download_time": "2026-02-15T01:53:47.944578",
+  "package_url": "https://pypi.org/project/tangermeme/"
+}

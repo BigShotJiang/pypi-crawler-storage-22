@@ -1,0 +1,11 @@
+{
+  "name": "qualysetl",
+  "version": "0.9.20",
+  "summary": "Qualys API Best Practices Series - ETL Blueprint Example Code within Python Virtual Environment",
+  "author": "David Gregory",
+  "license": "Apache",
+  "home_page": "https://pypi.org/project/qualysetl/",
+  "download_filename": "qualysetl-0.9.20.tar.gz",
+  "download_time": "2026-02-15T01:53:36.360388",
+  "package_url": "https://pypi.org/project/qualysetl/"
+}

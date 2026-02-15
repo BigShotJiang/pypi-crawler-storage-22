@@ -1,0 +1,11 @@
+{
+  "name": "jmstate",
+  "version": "0.75",
+  "summary": "Joint modeling with automatic differentiation",
+  "author": "Félix Laplante",
+  "license": null,
+  "home_page": null,
+  "download_filename": "jmstate-0.75.tar.gz",
+  "download_time": "2026-02-15T01:54:07.628596",
+  "package_url": "https://pypi.org/project/jmstate/"
+}

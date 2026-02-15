@@ -1,0 +1,11 @@
+{
+  "name": "bmasterai",
+  "version": "0.2.3",
+  "summary": "A comprehensive Python framework for building multi-agent AI systems with advanced logging, monitoring, and integrations",
+  "author": "Travis Burmaster",
+  "license": null,
+  "home_page": "https://github.com/travis-burmaster/bmasterai",
+  "download_filename": "bmasterai-0.2.3-py3-none-any.whl",
+  "download_time": "2026-02-15T01:53:43.003292",
+  "package_url": "https://pypi.org/project/bmasterai/"
+}
