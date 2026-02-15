@@ -1,0 +1,11 @@
+{
+  "name": "edgequake-sdk",
+  "version": "0.1.0",
+  "summary": "Official Python SDK for the EdgeQuake RAG API",
+  "author": "EdgeQuake Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "edgequake_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-15T07:40:06.544184",
+  "package_url": "https://pypi.org/project/edgequake-sdk/"
+}

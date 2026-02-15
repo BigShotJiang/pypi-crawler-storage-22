@@ -1,11 +1,11 @@
 {
   "name": "artifactr",
-  "version": "0.0.2",
-  "summary": "CLI tool for managing AI project artifacts across repositories",
+  "version": "0.0.8",
+  "summary": "Manage AI artifacts across multiple configurations, tools, & repositories",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "artifactr-0.0.2.tar.gz",
-  "download_time": "2026-02-12T11:17:17.485191",
+  "download_filename": "artifactr-0.0.8.tar.gz",
+  "download_time": "2026-02-15T07:40:02.025417",
   "package_url": "https://pypi.org/project/artifactr/"
 }

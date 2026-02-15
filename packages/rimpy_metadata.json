@@ -1,0 +1,11 @@
+{
+  "name": "rimpy",
+  "version": "0.1.1",
+  "summary": "Super fast rust-powered RIM (raking) survey weighting with narwhals - supports polars and pandas",
+  "author": "Albert Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rimpy-0.1.1.tar.gz",
+  "download_time": "2026-02-15T07:40:20.815282",
+  "package_url": "https://pypi.org/project/rimpy/"
+}

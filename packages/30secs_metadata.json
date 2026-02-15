@@ -1,0 +1,11 @@
+{
+  "name": "30secs",
+  "version": "0.2.9",
+  "summary": "Collect and expose lightweight system snapshots (CLI).",
+  "author": "jundorok",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "30secs-0.2.9.tar.gz",
+  "download_time": "2026-02-15T07:39:52.127336",
+  "package_url": "https://pypi.org/project/30secs/"
+}

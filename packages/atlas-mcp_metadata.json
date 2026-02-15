@@ -1,0 +1,11 @@
+{
+  "name": "atlas-mcp",
+  "version": "0.1.0",
+  "summary": "AI-powered MCP server for FHIR document search and conversation",
+  "author": "rsanandres",
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlas_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-15T07:39:54.565131",
+  "package_url": "https://pypi.org/project/atlas-mcp/"
+}

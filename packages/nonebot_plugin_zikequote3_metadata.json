@@ -1,0 +1,11 @@
+{
+  "name": "nonebot_plugin_zikequote3",
+  "version": "0.5.0a3",
+  "summary": "LLM 介入，功能丰富的群聊语录自动收集与管理插件，支持自动收集、后台管理、生成排行榜、展示等功能",
+  "author": "LifeCheckpoint",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nonebot_plugin_zikequote3-0.5.0a3.tar.gz",
+  "download_time": "2026-02-15T07:40:28.435519",
+  "package_url": "https://pypi.org/project/nonebot_plugin_zikequote3/"
+}

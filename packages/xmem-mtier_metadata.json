@@ -1,0 +1,11 @@
+{
+  "name": "xmem-mtier",
+  "version": "0.1.1",
+  "summary": "High-level Python wrapper for MTier memory management with PyTorch integration",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "xmem_mtier-0.1.1.tar.gz",
+  "download_time": "2026-02-15T07:40:25.186227",
+  "package_url": "https://pypi.org/project/xmem-mtier/"
+}
