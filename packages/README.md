@@ -1,38 +1,76 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-15T07:40:34.462531
-- **Total Packages**: 76
-- **Total Size**: 53.32 MB
+- **Download Time**: 2026-02-15T08:00:52.315318
+- **Total Packages**: 78
+- **Total Size**: 20.9 MB
 
 ## Packages List
+- goal
+- Undefined-bot
+- rtpsynth
+- duk
+- magpie-mags
+- hbrowser
+- vastian
+- pccc-checker
+- langchain-openrouter
+- pdd-cli
+- secure-crypto
+- chainsaws
+- allegro-cli
+- pfc-mcp
+- bclm-pytorch
+- http_client_request
+- prophet-cli
+- nfo
+- sadu
+- pythion
+- odoo-addon-web-widget-x2many-2d-matrix
+- agentdsl
+- namel3ss
 - appstore-mcp-server
-- inalign-mcp
+- localkin-service-audio
+- sm-logtool
+- artifactr
+- rpc-language
+- gjalla
+- winiutils
+- knowlyr-core
+- engram-cli
+- langchain-core
+- kernel-experience-tools
+- mindroom
+- crimsonland
+- xiangting
 - markdown-fastrag-mcp
+- late-sdk
+- khmer-time-format
+- omega-memory
+- memorylayer-llamaindex
+- memorylayer-client
+- memorylayer-server
+- memorylayer-langchain
+- inalign-mcp
 - harnessgg-blender
 - stash-graphql-client
 - udsxml2tex
 - tks-essentials
 - 30secs
-- localkin-service-audio
 - pptx-mcp
 - dmart
 - atlas-mcp
 - harnessgg-gimp
 - py3-tts-wrapper
 - psolr
-- engram-cli
 - console-agent
 - quick-sentiments
 - ai-edge-litert-sdk-mediatek-nightly
 - ai-edge-litert-sdk-qualcomm-nightly
-- mindroom
 - hex-device
-- artifactr
 - bpsai-pair
 - aris-sdk
 - harnessgg-kdenlive
-- secure-crypto
 - monarchic-agent-protocol
 - cortex-mcp
 - edgequake-sdk
@@ -46,39 +84,3 @@
 - dms-influx2
 - robyn
 - local-pigeon
-- gjalla
-- btweak
-- appmesh
-- pypck
-- pathling
-- kernelforge
-- aiocortex
-- streamlit-nightly
-- strands-vishal-tools
-- mm-qa-mcp
-- fastlayer
-- python-sdlc
-- audiorag
-- rimpy
-- parlant-alice
-- drip-sdk
-- ragscore
-- isagellm-core
-- sonar-graph
-- oxaigen
-- xmem-mtier
-- ergodic-insurance
-- ai2hum
-- gha-utils
-- layoutir
-- nonebot_plugin_zikequote3
-- bayes-classifier
-- grafeo
-- craftllc-wikin
-- raysurfer
-- social-media-posters
-- pymobiledevice3
-- phonopy
-- mqtt-entity
-- prophet-cli
-- keble-helpers

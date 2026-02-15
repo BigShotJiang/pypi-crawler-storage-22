@@ -1,0 +1,11 @@
+{
+  "name": "duk",
+  "version": "1.0.10",
+  "summary": "Python wrapper around the du -ks command. It will show you a histogram of the disk usage in a directory",
+  "author": "Werner Van Geit",
+  "license": null,
+  "home_page": null,
+  "download_filename": "duk-1.0.10.tar.gz",
+  "download_time": "2026-02-15T08:00:11.572197",
+  "package_url": "https://pypi.org/project/duk/"
+}

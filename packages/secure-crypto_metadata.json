@@ -1,11 +1,11 @@
 {
   "name": "secure-crypto",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A cryptography library with strong security defaults for non-expert developers",
   "author": "Binamra Bikram Pandey",
   "license": null,
   "home_page": "https://github.com/binamra-linux/cryptoLib",
-  "download_filename": "secure_crypto-1.0.0.tar.gz",
-  "download_time": "2026-02-15T07:40:04.334684",
+  "download_filename": "secure_crypto-1.0.2.tar.gz",
+  "download_time": "2026-02-15T08:00:15.897647",
   "package_url": "https://pypi.org/project/secure-crypto/"
 }
