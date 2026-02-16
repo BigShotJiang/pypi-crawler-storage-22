@@ -1,11 +1,11 @@
 {
   "name": "prellm",
-  "version": "0.3.13",
+  "version": "0.4.3",
   "summary": "preLLM — One function for small LLM preprocessing before large LLM execution. Like litellm.completion() but with decomposition.",
   "author": "Softreck",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "prellm-0.3.13.tar.gz",
-  "download_time": "2026-02-16T06:51:38.824268",
+  "download_filename": "prellm-0.4.3.tar.gz",
+  "download_time": "2026-02-16T12:05:01.748169",
   "package_url": "https://pypi.org/project/prellm/"
 }

@@ -1,15 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-16T11:32:32.334489
+- **Download Time**: 2026-02-16T12:05:03.420711
 - **Total Packages**: 88
-- **Total Size**: 25.76 MB
+- **Total Size**: 2.07 MB
 
 ## Packages List
-- sling
-- remind-cli
-- oculo-sdk
-- naas-abi
 - sosdiff
 - jarvis-voice-free-undergames
 - cross-auth
@@ -94,3 +90,7 @@
 - loki-cactus01
 - crc-pulp-file-client
 - crc-pulp-maven-client
+- crc-pulp-rpm-client
+- prellm
+- crc-pulp-gem-client
+- heylead
