@@ -1,0 +1,11 @@
+{
+  "name": "evo-model",
+  "version": "0.5",
+  "summary": "DNA foundation modeling from molecular to genome scale.",
+  "author": "Team Evo",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/evo-design/evo",
+  "download_filename": "evo_model-0.5.tar.gz",
+  "download_time": "2026-02-16T18:09:40.514477",
+  "package_url": "https://pypi.org/project/evo-model/"
+}

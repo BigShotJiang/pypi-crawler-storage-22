@@ -1,11 +1,11 @@
 {
   "name": "sipstuff-k8s-operator",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Kubernetes operator that creates SIP call Jobs via a FastAPI HTTP API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sipstuff_k8s_operator-0.0.5.tar.gz",
-  "download_time": "2026-02-15T15:52:14.773270",
+  "download_filename": "sipstuff_k8s_operator-0.0.6.tar.gz",
+  "download_time": "2026-02-16T18:09:38.894162",
   "package_url": "https://pypi.org/project/sipstuff-k8s-operator/"
 }

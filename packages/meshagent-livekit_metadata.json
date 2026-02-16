@@ -1,11 +1,11 @@
 {
   "name": "meshagent-livekit",
-  "version": "0.25.7",
+  "version": "0.27.0",
   "summary": "Livekit support for Meshagent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "meshagent_livekit-0.25.7.tar.gz",
-  "download_time": "2026-02-06T21:55:41.537530",
+  "download_filename": "meshagent_livekit-0.27.0.tar.gz",
+  "download_time": "2026-02-16T18:09:30.613230",
   "package_url": "https://pypi.org/project/meshagent-livekit/"
 }

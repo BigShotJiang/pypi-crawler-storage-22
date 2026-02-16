@@ -1,0 +1,11 @@
+{
+  "name": "dotenvguard",
+  "version": "0.2.0",
+  "summary": "Catch missing .env variables before they crash production",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dotenvguard-0.2.0.tar.gz",
+  "download_time": "2026-02-16T18:09:20.675117",
+  "package_url": "https://pypi.org/project/dotenvguard/"
+}

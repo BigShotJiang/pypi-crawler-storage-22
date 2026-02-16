@@ -1,11 +1,11 @@
 {
   "name": "sequence-llm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A sequence-based LLM orchestration framework",
   "author": "Ananay",
   "license": null,
   "home_page": null,
-  "download_filename": "sequence_llm-0.1.0.tar.gz",
-  "download_time": "2026-02-16T10:39:06.820061",
+  "download_filename": "sequence_llm-0.1.1.tar.gz",
+  "download_time": "2026-02-16T18:08:58.615750",
   "package_url": "https://pypi.org/project/sequence-llm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "xmpy-sqlite",
+  "version": "1.1.5",
+  "summary": "xmpy框架的SQLite数据库接口",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xmpy_sqlite-1.1.5.tar.gz",
+  "download_time": "2026-02-16T18:09:31.638117",
+  "package_url": "https://pypi.org/project/xmpy-sqlite/"
+}
