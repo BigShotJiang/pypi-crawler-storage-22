@@ -1,0 +1,11 @@
+{
+  "name": "ionbus-fast-persist",
+  "version": "1.0.3.2",
+  "summary": "High-performance Python persistence layers using WAL and DuckDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ionbus_fast_persist-1.0.3.2-py3-none-any.whl",
+  "download_time": "2026-02-16T21:58:24.892499",
+  "package_url": "https://pypi.org/project/ionbus-fast-persist/"
+}

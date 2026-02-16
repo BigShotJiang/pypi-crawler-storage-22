@@ -1,0 +1,11 @@
+{
+  "name": "gitlab-harvester",
+  "version": "0.1.0",
+  "summary": "Build GitLab instance project index (JSONL) and search repositories for sensitive keywords.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gitlab_harvester-0.1.0.tar.gz",
+  "download_time": "2026-02-16T21:57:59.006002",
+  "package_url": "https://pypi.org/project/gitlab-harvester/"
+}

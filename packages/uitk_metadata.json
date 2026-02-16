@@ -1,11 +1,11 @@
 {
   "name": "uitk",
-  "version": "1.0.73",
+  "version": "1.0.86",
   "summary": "A comprehensive UI toolkit extending Qt Designer workflows with dynamic loading, custom widgets, and automatic signal-slot management.",
   "author": null,
   "license": "LGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "uitk-1.0.73-py3-none-any.whl",
-  "download_time": "2026-01-28T22:53:53.619750",
+  "download_filename": "uitk-1.0.86-py3-none-any.whl",
+  "download_time": "2026-02-16T21:57:52.426581",
   "package_url": "https://pypi.org/project/uitk/"
 }

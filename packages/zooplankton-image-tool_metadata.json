@@ -1,0 +1,11 @@
+{
+  "name": "zooplankton-image-tool",
+  "version": "0.1.7",
+  "summary": "ZIT, the premier zooplankton imaging tool",
+  "author": "Julián Henry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zooplankton_image_tool-0.1.7.tar.gz",
+  "download_time": "2026-02-16T21:58:25.909380",
+  "package_url": "https://pypi.org/project/zooplankton-image-tool/"
+}

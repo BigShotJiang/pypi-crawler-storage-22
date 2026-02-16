@@ -1,11 +1,11 @@
 {
   "name": "mars-llm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Multi-Agent Resolution Synthesis — LLMs debate to find the best answer",
   "author": "Jeremy Pollock",
   "license": null,
   "home_page": null,
-  "download_filename": "mars_llm-0.0.3.tar.gz",
-  "download_time": "2026-02-16T21:29:44.044035",
+  "download_filename": "mars_llm-0.0.4.tar.gz",
+  "download_time": "2026-02-16T21:58:17.864234",
   "package_url": "https://pypi.org/project/mars-llm/"
 }

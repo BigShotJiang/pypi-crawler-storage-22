@@ -1,11 +1,11 @@
 {
   "name": "pymqrest",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "summary": "Python wrapper for the IBM MQ REST API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymqrest-1.1.3.tar.gz",
-  "download_time": "2026-02-15T13:39:16.004499",
+  "download_filename": "pymqrest-1.1.4.tar.gz",
+  "download_time": "2026-02-16T21:57:56.736811",
   "package_url": "https://pypi.org/project/pymqrest/"
 }
