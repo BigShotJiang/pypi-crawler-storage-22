@@ -1,0 +1,11 @@
+{
+  "name": "drbutil",
+  "version": "0.0.24",
+  "summary": "A tiny collection of geometry processing routines frequently used in my projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "drbutil-0.0.24.tar.gz",
+  "download_time": "2026-02-16T13:27:53.809031",
+  "package_url": "https://pypi.org/project/drbutil/"
+}

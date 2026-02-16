@@ -1,0 +1,11 @@
+{
+  "name": "x-scraper-tool",
+  "version": "0.1.0",
+  "summary": "A tool for scraping user data from X (Twitter)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "x_scraper_tool-0.1.0.tar.gz",
+  "download_time": "2026-02-16T13:27:48.617223",
+  "package_url": "https://pypi.org/project/x-scraper-tool/"
+}

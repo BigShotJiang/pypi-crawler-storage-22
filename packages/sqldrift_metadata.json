@@ -1,0 +1,11 @@
+{
+  "name": "sqldrift",
+  "version": "0.1.4",
+  "summary": "Detect schema drift before your SQL queries blow up.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqldrift-0.1.4.tar.gz",
+  "download_time": "2026-02-16T13:28:04.723248",
+  "package_url": "https://pypi.org/project/sqldrift/"
+}

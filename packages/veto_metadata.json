@@ -1,11 +1,11 @@
 {
   "name": "veto",
-  "version": "0.5.0",
+  "version": "0.7.0",
   "summary": "A guardrail system that intercepts and validates AI agent tool calls",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "veto-0.5.0.tar.gz",
-  "download_time": "2026-02-15T21:51:45.391543",
+  "download_filename": "veto-0.7.0.tar.gz",
+  "download_time": "2026-02-16T13:28:06.948046",
   "package_url": "https://pypi.org/project/veto/"
 }

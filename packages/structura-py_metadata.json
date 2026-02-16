@@ -1,0 +1,11 @@
+{
+  "name": "structura-py",
+  "version": "1.1.1",
+  "summary": "Structura is a CLI tool that automates folder structure generation and dependency management for Python projects. It supports multiple architectures (MVC, MVCS, Hexagonal) and frameworks (Flask, FastAPI), using YAML configuration for flexibility.",
+  "author": "ShyamSundhar1411",
+  "license": null,
+  "home_page": null,
+  "download_filename": "structura_py-1.1.1.tar.gz",
+  "download_time": "2026-02-16T13:27:37.128334",
+  "package_url": "https://pypi.org/project/structura-py/"
+}

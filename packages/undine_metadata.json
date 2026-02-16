@@ -1,11 +1,11 @@
 {
   "name": "undine",
-  "version": "0.2.3",
+  "version": "0.2.6",
   "summary": "A GraphQL library for Django",
   "author": "Matti Lamppu",
   "license": "MIT",
   "home_page": "https://mrthearman.github.io/undine",
-  "download_filename": "undine-0.2.3.tar.gz",
-  "download_time": "2026-02-06T14:03:31.124782",
+  "download_filename": "undine-0.2.6.tar.gz",
+  "download_time": "2026-02-16T13:27:52.113685",
   "package_url": "https://pypi.org/project/undine/"
 }

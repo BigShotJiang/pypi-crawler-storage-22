@@ -1,0 +1,11 @@
+{
+  "name": "md-project-manager",
+  "version": "0.1.1",
+  "summary": "CLI tool to organize project documentation in a consistent structure",
+  "author": "Mohammed",
+  "license": null,
+  "home_page": null,
+  "download_filename": "md_project_manager-0.1.1.tar.gz",
+  "download_time": "2026-02-16T13:27:42.791511",
+  "package_url": "https://pypi.org/project/md-project-manager/"
+}

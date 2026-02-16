@@ -1,0 +1,11 @@
+{
+  "name": "jupyterlab-trillia-theme",
+  "version": "0.1.6",
+  "summary": "Trillia theme for JupyterLab",
+  "author": "Eduardo",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "jupyterlab_trillia_theme-0.1.6.tar.gz",
+  "download_time": "2026-02-16T13:27:50.971319",
+  "package_url": "https://pypi.org/project/jupyterlab-trillia-theme/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fbtk",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "summary": "High-performance molecular simulation toolkit with Python bindings",
   "author": "Forblaze Project Contributors",
   "license": "MIT OR Apache-2.0",
   "home_page": null,
-  "download_filename": "fbtk-0.9.3-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-15T15:51:53.984738",
+  "download_filename": "fbtk-0.9.4-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-16T13:27:54.945035",
   "package_url": "https://pypi.org/project/fbtk/"
 }

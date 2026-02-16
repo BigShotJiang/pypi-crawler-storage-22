@@ -1,0 +1,11 @@
+{
+  "name": "aep-parser",
+  "version": "0.2.0",
+  "summary": "A .aep (After Effects Project) parser",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aep_parser-0.2.0.tar.gz",
+  "download_time": "2026-02-16T13:27:35.436323",
+  "package_url": "https://pypi.org/project/aep-parser/"
+}
