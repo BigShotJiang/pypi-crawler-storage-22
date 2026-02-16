@@ -1,11 +1,11 @@
 {
   "name": "micro-svm",
-  "version": "1.0.0",
-  "summary": "Symbolic Virtual Machine for defect detection",
+  "version": "1.0.2",
+  "summary": "Simple symbolic Virtual Machine in Python and Z3",
   "author": "Mikhail Onischuck",
   "license": null,
   "home_page": null,
-  "download_filename": "micro_svm-1.0.0.tar.gz",
-  "download_time": "2026-02-15T19:06:53.015781",
+  "download_filename": "micro_svm-1.0.2.tar.gz",
+  "download_time": "2026-02-16T20:06:32.694512",
   "package_url": "https://pypi.org/project/micro-svm/"
 }

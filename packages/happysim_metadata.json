@@ -1,11 +1,11 @@
 {
   "name": "happysim",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "Discrete event simulation library for Python.",
   "author": "adamfilli",
   "license": null,
   "home_page": null,
-  "download_filename": "happysim-0.2.2.tar.gz",
-  "download_time": "2026-02-16T06:52:07.136360",
+  "download_filename": "happysim-0.2.3.tar.gz",
+  "download_time": "2026-02-16T20:06:15.856287",
   "package_url": "https://pypi.org/project/happysim/"
 }

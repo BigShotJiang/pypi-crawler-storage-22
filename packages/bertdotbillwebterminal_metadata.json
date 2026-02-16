@@ -1,0 +1,11 @@
+{
+  "name": "bertdotbillwebterminal",
+  "version": "2.8.2",
+  "summary": "Webterminal Component for Bert's Interactive Lesson Loader",
+  "author": "Engelbert Tejeda",
+  "license": null,
+  "home_page": "https://github.com/berttejeda/bert.bill-webterminal",
+  "download_filename": "bertdotbillwebterminal-2.8.2.tar.gz",
+  "download_time": "2026-02-16T20:06:13.288353",
+  "package_url": "https://pypi.org/project/bertdotbillwebterminal/"
+}

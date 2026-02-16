@@ -1,0 +1,11 @@
+{
+  "name": "musicdiff",
+  "version": "5.2",
+  "summary": "A music score notation diff package",
+  "author": "Greg Chapman",
+  "license": null,
+  "home_page": "https://github.com/gregchapman-dev/musicdiff",
+  "download_filename": "musicdiff-5.2.tar.gz",
+  "download_time": "2026-02-16T20:06:36.285781",
+  "package_url": "https://pypi.org/project/musicdiff/"
+}

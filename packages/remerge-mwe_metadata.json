@@ -1,0 +1,11 @@
+{
+  "name": "remerge-mwe",
+  "version": "0.4.0",
+  "summary": "REMERGE is a Multi-Word Expression (MWE) discovery algorithm derived from the MERGE algorithm.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "remerge_mwe-0.4.0.tar.gz",
+  "download_time": "2026-02-16T20:06:43.071338",
+  "package_url": "https://pypi.org/project/remerge-mwe/"
+}

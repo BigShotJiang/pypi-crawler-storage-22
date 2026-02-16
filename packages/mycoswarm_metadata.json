@@ -1,11 +1,11 @@
 {
   "name": "mycoswarm",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "summary": "Distributed AI framework — grow your own cluster from whatever hardware you've got",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mycoswarm-0.2.3.tar.gz",
-  "download_time": "2026-02-16T18:08:54.716448",
+  "download_filename": "mycoswarm-0.2.5.tar.gz",
+  "download_time": "2026-02-16T20:06:53.874674",
   "package_url": "https://pypi.org/project/mycoswarm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "touchable-templates",
+  "version": "2026.2.7a0",
+  "summary": "A dev tool that magically opens templates and partials in your IDE",
+  "author": "Brady Whitby",
+  "license": null,
+  "home_page": null,
+  "download_filename": "touchable_templates-2026.2.7a0.tar.gz",
+  "download_time": "2026-02-16T20:06:34.237321",
+  "package_url": "https://pypi.org/project/touchable-templates/"
+}

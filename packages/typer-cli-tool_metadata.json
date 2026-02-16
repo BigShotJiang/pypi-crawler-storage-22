@@ -1,0 +1,11 @@
+{
+  "name": "typer-cli-tool",
+  "version": "0.5.1",
+  "summary": "Typing practice in your terminal. Like monkeytype, but in the CLI.",
+  "author": "Will Gerstung",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typer_cli_tool-0.5.1.tar.gz",
+  "download_time": "2026-02-16T20:06:45.653506",
+  "package_url": "https://pypi.org/project/typer-cli-tool/"
+}
