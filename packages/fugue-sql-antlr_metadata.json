@@ -1,0 +1,11 @@
+{
+  "name": "fugue-sql-antlr",
+  "version": "0.2.3",
+  "summary": "Fugue SQL Antlr Parser",
+  "author": "The Fugue Development Team",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/fugue-project/fugue",
+  "download_filename": "fugue_sql_antlr-0.2.3.tar.gz",
+  "download_time": "2026-02-16T05:49:31.180515",
+  "package_url": "https://pypi.org/project/fugue-sql-antlr/"
+}

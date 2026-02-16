@@ -1,11 +1,11 @@
 {
   "name": "whitebox-plugin-device-insta360",
-  "version": "0.1.17",
+  "version": "0.1.19",
   "summary": "A plugin for whitebox to interface with Insta360 cameras",
   "author": "Milos",
   "license": "GNU Affero General Public License v3",
   "home_page": null,
-  "download_filename": "whitebox_plugin_device_insta360-0.1.17.tar.gz",
-  "download_time": "2026-02-04T14:30:59.799727",
+  "download_filename": "whitebox_plugin_device_insta360-0.1.19.tar.gz",
+  "download_time": "2026-02-16T05:49:39.536749",
   "package_url": "https://pypi.org/project/whitebox-plugin-device-insta360/"
 }

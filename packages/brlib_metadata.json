@@ -1,0 +1,11 @@
+{
+  "name": "brlib",
+  "version": "0.3.0",
+  "summary": "A library for collecting baseball statistics from Baseball Reference",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brlib-0.3.0.tar.gz",
+  "download_time": "2026-02-16T05:49:11.941915",
+  "package_url": "https://pypi.org/project/brlib/"
+}

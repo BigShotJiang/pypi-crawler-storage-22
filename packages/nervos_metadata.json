@@ -1,0 +1,11 @@
+{
+  "name": "nervos",
+  "version": "0.0.6",
+  "summary": "Tool to simulate Spiking Neural Networks",
+  "author": "Jaskirat Singh Maskeen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nervos-0.0.6.tar.gz",
+  "download_time": "2026-02-16T05:49:45.215023",
+  "package_url": "https://pypi.org/project/nervos/"
+}

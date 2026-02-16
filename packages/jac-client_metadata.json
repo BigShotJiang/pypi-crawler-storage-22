@@ -1,11 +1,11 @@
 {
   "name": "jac-client",
-  "version": "0.2.17",
+  "version": "0.2.18",
   "summary": "Build full-stack web applications with Jac - one language for frontend and backend.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jac_client-0.2.17.tar.gz",
-  "download_time": "2026-02-14T09:07:56.022237",
+  "download_filename": "jac_client-0.2.18.tar.gz",
+  "download_time": "2026-02-16T05:49:21.309066",
   "package_url": "https://pypi.org/project/jac-client/"
 }

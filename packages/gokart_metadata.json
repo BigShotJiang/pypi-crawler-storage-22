@@ -1,0 +1,11 @@
+{
+  "name": "gokart",
+  "version": "1.11.0",
+  "summary": "Gokart solves reproducibility, task dependencies, constraints of good code, and ease of use for Machine Learning Pipeline. [Documentation](https://gokart.readthedocs.io/en/latest/)",
+  "author": "M3, inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gokart-1.11.0.tar.gz",
+  "download_time": "2026-02-16T05:49:08.191359",
+  "package_url": "https://pypi.org/project/gokart/"
+}

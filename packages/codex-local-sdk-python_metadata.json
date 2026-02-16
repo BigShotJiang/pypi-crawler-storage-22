@@ -1,0 +1,11 @@
+{
+  "name": "codex-local-sdk-python",
+  "version": "0.1.1",
+  "summary": "Python SDK wrapper around codex exec with bundled skill/docs scaffolding CLI.",
+  "author": "Codex Local SDK Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codex_local_sdk_python-0.1.1.tar.gz",
+  "download_time": "2026-02-16T05:49:40.559564",
+  "package_url": "https://pypi.org/project/codex-local-sdk-python/"
+}

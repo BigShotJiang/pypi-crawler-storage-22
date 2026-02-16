@@ -1,0 +1,11 @@
+{
+  "name": "python-gls",
+  "version": "0.1.0",
+  "summary": "GLS estimator with learned correlation and variance structures (Python equivalent of R's nlme::gls)",
+  "author": "Bruno Abrahao",
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_gls-0.1.0.tar.gz",
+  "download_time": "2026-02-16T05:49:50.876244",
+  "package_url": "https://pypi.org/project/python-gls/"
+}

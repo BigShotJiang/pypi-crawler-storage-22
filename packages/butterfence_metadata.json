@@ -1,0 +1,11 @@
+{
+  "name": "butterfence",
+  "version": "0.3.2",
+  "summary": "Claude Code-native safety harness that red-teams repos against destructive/secret-leaking agent behavior",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "butterfence-0.3.2.tar.gz",
+  "download_time": "2026-02-16T05:49:37.450256",
+  "package_url": "https://pypi.org/project/butterfence/"
+}

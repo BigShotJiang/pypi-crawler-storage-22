@@ -1,0 +1,11 @@
+{
+  "name": "juliet",
+  "version": "2.2.9",
+  "summary": "juliet: a versatile modelling tool for transiting exoplanets, radial-velocity systems or both",
+  "author": "Nestor Espinoza",
+  "license": "MIT",
+  "home_page": "http://github.com/nespinoza/juliet",
+  "download_filename": "juliet-2.2.9-py3-none-any.whl",
+  "download_time": "2026-02-16T05:49:47.796343",
+  "package_url": "https://pypi.org/project/juliet/"
+}
