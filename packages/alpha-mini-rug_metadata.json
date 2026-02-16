@@ -1,0 +1,11 @@
+{
+  "name": "alpha-mini-rug",
+  "version": "0.7.3.2",
+  "summary": "Alpha Mini RUG robot control and computer vision package with speech recognition and face tracking",
+  "author": "RUG Social Robotics Lab",
+  "license": null,
+  "home_page": "https://srl-rug.github.io/SRL_Website/",
+  "download_filename": "alpha_mini_rug-0.7.3.2.tar.gz",
+  "download_time": "2026-02-16T15:09:29.692781",
+  "package_url": "https://pypi.org/project/alpha-mini-rug/"
+}

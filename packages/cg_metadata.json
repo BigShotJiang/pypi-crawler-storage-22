@@ -1,11 +1,11 @@
 {
   "name": "cg",
-  "version": "83.20.3",
+  "version": "84.1.0",
   "summary": "Clinical Genomics command center",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cg-83.20.3.tar.gz",
-  "download_time": "2026-02-04T10:10:34.674804",
+  "download_filename": "cg-84.1.0.tar.gz",
+  "download_time": "2026-02-16T15:09:35.645075",
   "package_url": "https://pypi.org/project/cg/"
 }

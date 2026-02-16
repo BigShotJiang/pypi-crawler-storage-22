@@ -1,0 +1,11 @@
+{
+  "name": "deling",
+  "version": "0.4.2",
+  "summary": "A library for accessing and storing data in remote storage systems",
+  "author": "Rasmus Munk",
+  "license": "GNU General Public License v2 (GPLv2)",
+  "home_page": "https://github.com/rasmunk/deling",
+  "download_filename": "deling-0.4.2.tar.gz",
+  "download_time": "2026-02-16T15:09:19.374596",
+  "package_url": "https://pypi.org/project/deling/"
+}

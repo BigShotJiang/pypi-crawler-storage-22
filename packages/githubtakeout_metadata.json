@@ -1,0 +1,11 @@
+{
+  "name": "githubtakeout",
+  "version": "0.1.21",
+  "summary": "Backup and archive Git Repos and Gists from GitHub",
+  "author": "Corey Goldberg",
+  "license": null,
+  "home_page": null,
+  "download_filename": "githubtakeout-0.1.21.tar.gz",
+  "download_time": "2026-02-16T15:08:55.267160",
+  "package_url": "https://pypi.org/project/githubtakeout/"
+}

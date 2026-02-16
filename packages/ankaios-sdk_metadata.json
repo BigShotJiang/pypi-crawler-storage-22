@@ -1,0 +1,11 @@
+{
+  "name": "ankaios-sdk",
+  "version": "1.0.0",
+  "summary": "Eclipse Ankaios Python SDK - provides a convenient Python interface for interacting with the Ankaios platform.",
+  "author": "Elektrobit Automotive GmbH and Ankaios contributors",
+  "license": "Apache-2.0",
+  "home_page": "https://eclipse-ankaios.github.io/ankaios/latest/",
+  "download_filename": "ankaios_sdk-1.0.0.tar.gz",
+  "download_time": "2026-02-16T15:09:36.668722",
+  "package_url": "https://pypi.org/project/ankaios-sdk/"
+}

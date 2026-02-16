@@ -1,11 +1,11 @@
 {
   "name": "tkinterweb",
-  "version": "4.19.3",
+  "version": "4.19.4",
   "summary": "HTML/CSS widgets for Tkinter",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/Andereoo/TkinterWeb",
-  "download_filename": "tkinterweb-4.19.3.tar.gz",
-  "download_time": "2026-02-16T14:20:08.971413",
+  "download_filename": "tkinterweb-4.19.4.tar.gz",
+  "download_time": "2026-02-16T15:09:00.980220",
   "package_url": "https://pypi.org/project/tkinterweb/"
 }

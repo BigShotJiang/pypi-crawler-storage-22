@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-dnslookup",
+  "version": "1.1.14",
+  "summary": "DNS Lookup is a simple tool for looking up the DNS records of a domain. It returns the A, MX, and other records of the domain.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_dnslookup-1.1.14.tar.gz",
+  "download_time": "2026-02-16T15:09:33.277390",
+  "package_url": "https://pypi.org/project/apiverve-dnslookup/"
+}

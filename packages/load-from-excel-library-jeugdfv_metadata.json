@@ -1,0 +1,11 @@
+{
+  "name": "load-from-excel-library-jeugdfv",
+  "version": "0.0.3",
+  "summary": "A wrapper library that contains wrapper functions to grab excel table objects, figures and import them to Pandas Dataframes or save them as .png. ",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "load_from_excel_library_jeugdfv-0.0.3.tar.gz",
+  "download_time": "2026-02-16T15:09:18.350864",
+  "package_url": "https://pypi.org/project/load-from-excel-library-jeugdfv/"
+}

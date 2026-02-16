@@ -1,0 +1,11 @@
+{
+  "name": "statements-manager",
+  "version": "2.0.3",
+  "summary": "競技プログラミングの作問時に使用する、問題文管理を便利にするツール",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "statements_manager-2.0.3.tar.gz",
+  "download_time": "2026-02-16T15:09:32.767924",
+  "package_url": "https://pypi.org/project/statements-manager/"
+}

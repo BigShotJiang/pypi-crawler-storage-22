@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-exercises",
+  "version": "1.1.14",
+  "summary": "Exercises is a simple tool for getting exercise information. It returns information on various exercises.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_exercises-1.1.14.tar.gz",
+  "download_time": "2026-02-16T15:09:14.245230",
+  "package_url": "https://pypi.org/project/apiverve-exercises/"
+}

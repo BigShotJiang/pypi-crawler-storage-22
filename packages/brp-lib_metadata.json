@@ -1,0 +1,11 @@
+{
+  "name": "brp-lib",
+  "version": "4.0.0",
+  "summary": "Low-level C library wrapper for Baltech RFID readers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "brp_lib-4.0.0.tar.gz",
+  "download_time": "2026-02-16T15:09:12.714918",
+  "package_url": "https://pypi.org/project/brp-lib/"
+}

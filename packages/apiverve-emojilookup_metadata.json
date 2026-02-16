@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-emojilookup",
+  "version": "1.1.14",
+  "summary": "Emoji is a simple tool for getting emoji data. It returns the emoji name, category, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_emojilookup-1.1.14.tar.gz",
+  "download_time": "2026-02-16T15:09:17.329637",
+  "package_url": "https://pypi.org/project/apiverve-emojilookup/"
+}

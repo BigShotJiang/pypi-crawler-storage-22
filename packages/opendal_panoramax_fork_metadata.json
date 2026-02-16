@@ -1,0 +1,11 @@
+{
+  "name": "opendal_panoramax_fork",
+  "version": "0.47.1",
+  "summary": "Apache OpenDAL™ Python Binding",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": "https://opendal.apache.org/",
+  "download_filename": "opendal_panoramax_fork-0.47.1-cp310-cp310-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-02-16T15:08:54.117667",
+  "package_url": "https://pypi.org/project/opendal_panoramax_fork/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "koala-diff",
+  "version": "0.2.2",
+  "summary": "High-performance data diff tool in Rust.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koala_diff-0.2.2.tar.gz",
+  "download_time": "2026-02-16T15:09:11.690494",
+  "package_url": "https://pypi.org/project/koala-diff/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nautilus-astrochem",
+  "version": "0.0.0",
+  "summary": "Nautilus gas-grain code for astrochemistry.",
+  "author": "Alexandre Mechineau",
+  "license": "MIT",
+  "home_page": "https://url.com",
+  "download_filename": "nautilus_astrochem-0.0.0.tar.gz",
+  "download_time": "2026-02-16T15:09:25.602666",
+  "package_url": "https://pypi.org/project/nautilus-astrochem/"
+}

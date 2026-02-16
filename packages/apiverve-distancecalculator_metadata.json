@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-distancecalculator",
+  "version": "1.1.14",
+  "summary": "Distance Calculator is a simple tool for calculating the distance between two locations. It returns the distance in miles and kilometers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_distancecalculator-1.1.14.tar.gz",
+  "download_time": "2026-02-16T15:09:37.777652",
+  "package_url": "https://pypi.org/project/apiverve-distancecalculator/"
+}

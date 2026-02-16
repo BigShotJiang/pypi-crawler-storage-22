@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-domainexpiration",
+  "version": "1.1.14",
+  "summary": "Domain Expiration Checker is a simple tool for checking the expiration date and age of a domain. It returns the expiration date and age of the domain provided.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_domainexpiration-1.1.14.tar.gz",
+  "download_time": "2026-02-16T15:09:26.113294",
+  "package_url": "https://pypi.org/project/apiverve-domainexpiration/"
+}

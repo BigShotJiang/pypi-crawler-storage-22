@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-dogbreeds",
+  "version": "1.1.14",
+  "summary": "Dog Breeds is a simple tool for getting information about dog breeds. It returns information such as breed name, temperament, lifespan, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_dogbreeds-1.1.14.tar.gz",
+  "download_time": "2026-02-16T15:09:26.625792",
+  "package_url": "https://pypi.org/project/apiverve-dogbreeds/"
+}
