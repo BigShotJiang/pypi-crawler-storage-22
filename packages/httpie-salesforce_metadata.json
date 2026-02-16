@@ -1,0 +1,11 @@
+{
+  "name": "httpie-salesforce",
+  "version": "0.2.2",
+  "summary": "HTTPie Authorization plugin for Salesforce API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "httpie_salesforce-0.2.2.tar.gz",
+  "download_time": "2026-02-16T23:00:40.030292",
+  "package_url": "https://pypi.org/project/httpie-salesforce/"
+}

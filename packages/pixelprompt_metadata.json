@@ -1,11 +1,11 @@
 {
   "name": "pixelprompt",
-  "version": "0.1.1",
+  "version": "0.3.2",
   "summary": "Compress LLM context by rendering text as optimized images",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pixelprompt-0.1.1.tar.gz",
-  "download_time": "2026-02-16T20:06:35.260938",
+  "download_filename": "pixelprompt-0.3.2.tar.gz",
+  "download_time": "2026-02-16T23:00:46.745298",
   "package_url": "https://pypi.org/project/pixelprompt/"
 }

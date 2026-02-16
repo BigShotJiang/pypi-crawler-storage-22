@@ -1,0 +1,11 @@
+{
+  "name": "sekha-mcp",
+  "version": "0.2.0",
+  "summary": "Model Context Protocol server for Project Sekha - Persistent AI Memory Controller (v2.0 multi-provider compatible)",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "sekha_mcp-0.2.0.tar.gz",
+  "download_time": "2026-02-16T23:00:46.232789",
+  "package_url": "https://pypi.org/project/sekha-mcp/"
+}

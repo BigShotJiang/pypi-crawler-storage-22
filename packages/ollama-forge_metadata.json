@@ -1,0 +1,11 @@
+{
+  "name": "ollama-forge",
+  "version": "1.0.0",
+  "summary": "Create, retrain, ablate, and convert models for local Ollama",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ollama_forge-1.0.0.tar.gz",
+  "download_time": "2026-02-16T23:00:31.766805",
+  "package_url": "https://pypi.org/project/ollama-forge/"
+}

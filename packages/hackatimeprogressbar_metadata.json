@@ -1,0 +1,11 @@
+{
+  "name": "hackatimeprogressbar",
+  "version": "0.1.6",
+  "summary": "Display your set goal for Hackclub's Wakatime fork",
+  "author": "Jan Koch",
+  "license": null,
+  "home_page": "https://github.com/meepstertron/HackatimeProgressBar",
+  "download_filename": "hackatimeprogressbar-0.1.6.tar.gz",
+  "download_time": "2026-02-16T23:00:21.435329",
+  "package_url": "https://pypi.org/project/hackatimeprogressbar/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "clawdfolio",
+  "version": "2.3.0",
+  "summary": "Production-grade quantitative portfolio toolkit — multi-broker aggregation, institutional risk analytics, options lifecycle management, and 20+ automated finance workflows",
+  "author": "YICHENG YANG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clawdfolio-2.3.0.tar.gz",
+  "download_time": "2026-02-16T23:00:22.476326",
+  "package_url": "https://pypi.org/project/clawdfolio/"
+}

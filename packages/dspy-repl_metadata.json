@@ -1,0 +1,11 @@
+{
+  "name": "dspy-repl",
+  "version": "0.1.0",
+  "summary": "Modular non-Python REPL engines for DSPy Recursive Language Models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dspy_repl-0.1.0.tar.gz",
+  "download_time": "2026-02-16T23:00:57.089466",
+  "package_url": "https://pypi.org/project/dspy-repl/"
+}

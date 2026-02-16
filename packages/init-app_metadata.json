@@ -1,11 +1,11 @@
 {
   "name": "init-app",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Interactive Python CLI for scaffolding backend projects (Flask, Django, FastAPI, etc.)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "init_app-0.2.0.tar.gz",
-  "download_time": "2026-02-16T21:29:41.968230",
+  "download_filename": "init_app-0.2.2.tar.gz",
+  "download_time": "2026-02-16T23:00:34.842952",
   "package_url": "https://pypi.org/project/init-app/"
 }

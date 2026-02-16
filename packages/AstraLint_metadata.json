@@ -1,11 +1,11 @@
 {
   "name": "AstraLint",
-  "version": "0.2.1",
+  "version": "0.4.0",
   "summary": "A data model linter ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "astralint-0.2.1.tar.gz",
-  "download_time": "2026-02-15T18:33:22.019444",
+  "download_filename": "astralint-0.4.0.tar.gz",
+  "download_time": "2026-02-16T23:00:31.250916",
   "package_url": "https://pypi.org/project/AstraLint/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vcon-telephony-adapters",
+  "version": "0.2.0",
+  "summary": "Telephony adapters for converting recordings to vCon format - supports Twilio and more",
+  "author": "vCon Community",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vcon_telephony_adapters-0.2.0.tar.gz",
+  "download_time": "2026-02-16T23:00:24.574854",
+  "package_url": "https://pypi.org/project/vcon-telephony-adapters/"
+}

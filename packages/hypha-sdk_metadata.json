@@ -1,0 +1,11 @@
+{
+  "name": "hypha-sdk",
+  "version": "0.1.0",
+  "summary": "P2P Infrastructure for Autonomous AI Agents",
+  "author": "HYPHA Team",
+  "license": null,
+  "home_page": "https://github.com/Pointsnode/hypha-network",
+  "download_filename": "hypha_sdk-0.1.0.tar.gz",
+  "download_time": "2026-02-16T23:00:47.261103",
+  "package_url": "https://pypi.org/project/hypha-sdk/"
+}

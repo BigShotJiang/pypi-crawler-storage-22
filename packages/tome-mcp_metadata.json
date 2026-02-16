@@ -1,11 +1,11 @@
 {
   "name": "tome-mcp",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "MCP server for managing a research paper library",
   "author": "Reto Stamm",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "tome_mcp-0.5.0.tar.gz",
-  "download_time": "2026-02-16T21:29:43.007678",
+  "download_filename": "tome_mcp-0.5.1.tar.gz",
+  "download_time": "2026-02-16T23:00:34.331224",
   "package_url": "https://pypi.org/project/tome-mcp/"
 }

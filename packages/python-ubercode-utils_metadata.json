@@ -1,11 +1,11 @@
 {
   "name": "python-ubercode-utils",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "summary": "Core python utilities for all apps",
   "author": "Steve Stacha",
   "license": "MIT",
   "home_page": "https://github.com/sstacha/python-ubercode-utils",
-  "download_filename": "python_ubercode_utils-2.0.4.tar.gz",
-  "download_time": "2026-02-13T22:07:48.417116",
+  "download_filename": "python_ubercode_utils-2.0.5.tar.gz",
+  "download_time": "2026-02-16T23:00:32.277438",
   "package_url": "https://pypi.org/project/python-ubercode-utils/"
 }

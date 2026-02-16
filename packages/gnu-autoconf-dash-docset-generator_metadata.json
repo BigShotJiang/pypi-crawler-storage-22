@@ -1,0 +1,11 @@
+{
+  "name": "gnu-autoconf-dash-docset-generator",
+  "version": "2026.2.16",
+  "summary": "Dash docset generator for GNU Autoconf",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gnu_autoconf_dash_docset_generator-2026.2.16.tar.gz",
+  "download_time": "2026-02-16T23:00:30.225061",
+  "package_url": "https://pypi.org/project/gnu-autoconf-dash-docset-generator/"
+}
