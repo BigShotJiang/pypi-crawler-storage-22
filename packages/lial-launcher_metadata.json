@@ -1,0 +1,11 @@
+{
+  "name": "lial-launcher",
+  "version": "1.0.2",
+  "summary": "Library to manage app launching and updating",
+  "author": "MOINE Adrien",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lial_launcher-1.0.2.tar.gz",
+  "download_time": "2026-02-16T08:46:36.623075",
+  "package_url": "https://pypi.org/project/lial-launcher/"
+}

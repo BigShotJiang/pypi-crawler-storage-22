@@ -1,0 +1,11 @@
+{
+  "name": "flowbook",
+  "version": "0.1.0a1",
+  "summary": "Config-driven data flow framework with pluggable ops and extensions (Excel, Postgres, FastAPI).",
+  "author": "d4c.dev",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "flowbook-0.1.0a1.tar.gz",
+  "download_time": "2026-02-16T08:47:09.918262",
+  "package_url": "https://pypi.org/project/flowbook/"
+}

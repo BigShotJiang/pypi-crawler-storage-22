@@ -1,11 +1,11 @@
 {
   "name": "shipshape",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Open-source parametric vessel design and validation library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "shipshape-0.3.0.tar.gz",
-  "download_time": "2026-02-15T14:50:57.104944",
+  "download_filename": "shipshape-0.4.0.tar.gz",
+  "download_time": "2026-02-16T08:46:45.353872",
   "package_url": "https://pypi.org/project/shipshape/"
 }

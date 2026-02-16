@@ -1,11 +1,11 @@
 {
   "name": "gql-pygen",
-  "version": "0.1.1",
-  "summary": "GraphQL to Python code generator - generates typed Pydantic models and async clients",
-  "author": "Yevgeny Farber",
+  "version": "0.2.0",
+  "summary": "GraphQL to Python code generator - generates typed Pydantic models and sync/async clients",
+  "author": "Developer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gql_pygen-0.1.1.tar.gz",
-  "download_time": "2026-02-15T16:28:47.384800",
+  "download_filename": "gql_pygen-0.2.0.tar.gz",
+  "download_time": "2026-02-16T08:47:07.371978",
   "package_url": "https://pypi.org/project/gql-pygen/"
 }

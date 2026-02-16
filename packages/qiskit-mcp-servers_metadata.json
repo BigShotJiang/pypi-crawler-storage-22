@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-mcp-servers",
+  "version": "0.6.0",
+  "summary": "Model Context Protocol servers for IBM Quantum services and Qiskit",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qiskit_mcp_servers-0.6.0.tar.gz",
+  "download_time": "2026-02-16T08:46:32.530065",
+  "package_url": "https://pypi.org/project/qiskit-mcp-servers/"
+}

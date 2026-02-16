@@ -1,0 +1,11 @@
+{
+  "name": "earthkit-utils",
+  "version": "0.2.0",
+  "summary": "Utilities for the Earthkit ecosystem",
+  "author": null,
+  "license": "Apache License Version 2.0",
+  "home_page": null,
+  "download_filename": "earthkit_utils-0.2.0.tar.gz",
+  "download_time": "2026-02-16T08:46:43.760767",
+  "package_url": "https://pypi.org/project/earthkit-utils/"
+}

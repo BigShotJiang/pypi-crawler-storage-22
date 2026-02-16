@@ -1,0 +1,11 @@
+{
+  "name": "virtusoul-router",
+  "version": "0.1.2",
+  "summary": "Intelligent LLM router with ML-based query classification. Route prompts to the right model automatically.",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/TekkyAI/virtusoul-router",
+  "download_filename": "virtusoul_router-0.1.2.tar.gz",
+  "download_time": "2026-02-16T08:46:30.978401",
+  "package_url": "https://pypi.org/project/virtusoul-router/"
+}

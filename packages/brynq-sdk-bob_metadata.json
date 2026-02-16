@@ -1,0 +1,11 @@
+{
+  "name": "brynq-sdk-bob",
+  "version": "2.11.0",
+  "summary": "Bob wrapper from BrynQ",
+  "author": "BrynQ",
+  "license": "BrynQ License",
+  "home_page": null,
+  "download_filename": "brynq_sdk_bob-2.11.0.tar.gz",
+  "download_time": "2026-02-16T08:47:01.257262",
+  "package_url": "https://pypi.org/project/brynq-sdk-bob/"
+}

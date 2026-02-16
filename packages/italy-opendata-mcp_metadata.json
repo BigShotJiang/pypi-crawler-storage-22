@@ -1,0 +1,11 @@
+{
+  "name": "italy-opendata-mcp",
+  "version": "1.0.0",
+  "summary": "Server MCP per open data italiani (comuni, province, regioni, CAP, coordinate, dati geografici)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "italy_opendata_mcp-1.0.0.tar.gz",
+  "download_time": "2026-02-16T08:46:41.253251",
+  "package_url": "https://pypi.org/project/italy-opendata-mcp/"
+}

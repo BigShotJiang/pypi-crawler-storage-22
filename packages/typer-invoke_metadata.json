@@ -1,0 +1,11 @@
+{
+  "name": "typer-invoke",
+  "version": "0.5.0",
+  "summary": "Simplified invocation of typer apps from any directory.",
+  "author": "Joao Coelho",
+  "license": null,
+  "home_page": null,
+  "download_filename": "typer_invoke-0.5.0.tar.gz",
+  "download_time": "2026-02-16T08:47:10.429446",
+  "package_url": "https://pypi.org/project/typer-invoke/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "personnalisation-admin-django-IIT",
+  "version": "0.3.0",
+  "summary": "Package Django réutilisable pour personnaliser l'interface d'administration avec graphiques dynamiques, grilles de données et thèmes modernes",
+  "author": "Bléou Christ, Sylla Scheickna, Kossonou Marie Joseph, Kouassi Nissi, Yoboué Romuald",
+  "license": "MIT",
+  "home_page": "https://github.com/VOTRE_USERNAME/django-admin-custom",
+  "download_filename": "personnalisation_admin_django_iit-0.3.0.tar.gz",
+  "download_time": "2026-02-16T08:46:42.733865",
+  "package_url": "https://pypi.org/project/personnalisation-admin-django-IIT/"
+}

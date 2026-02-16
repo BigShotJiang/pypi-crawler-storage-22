@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-ibm-runtime-mcp-server",
+  "version": "0.4.1",
+  "summary": "MCP server for IBM Quantum computing services through Qiskit IBM Runtime",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qiskit_ibm_runtime_mcp_server-0.4.1.tar.gz",
+  "download_time": "2026-02-16T08:46:40.745015",
+  "package_url": "https://pypi.org/project/qiskit-ibm-runtime-mcp-server/"
+}

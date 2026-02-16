@@ -1,11 +1,11 @@
 {
   "name": "flyto-core",
-  "version": "2.6.0",
+  "version": "2.7.1",
   "summary": "The open-source execution engine for AI agents. 300+ atomic modules, MCP-native, secure by default.",
   "author": null,
   "license": "Source Available License v1.0",
   "home_page": null,
-  "download_filename": "flyto_core-2.6.0.tar.gz",
-  "download_time": "2026-02-16T07:55:04.850366",
+  "download_filename": "flyto_core-2.7.1.tar.gz",
+  "download_time": "2026-02-16T08:46:32.015679",
   "package_url": "https://pypi.org/project/flyto-core/"
 }
