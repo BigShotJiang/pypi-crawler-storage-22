@@ -1,0 +1,11 @@
+{
+  "name": "skysurvey",
+  "version": "0.31.0",
+  "summary": "Simulating Transient in the sky and how to observe them",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "skysurvey-0.31.0.tar.gz",
+  "download_time": "2026-02-16T09:41:45.498894",
+  "package_url": "https://pypi.org/project/skysurvey/"
+}

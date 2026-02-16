@@ -1,0 +1,11 @@
+{
+  "name": "fs-watchdog",
+  "version": "0.1.4",
+  "summary": "File system watchdog wrapper. Monitors a directory and logs events.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fs_watchdog-0.1.4.tar.gz",
+  "download_time": "2026-02-16T09:41:26.105478",
+  "package_url": "https://pypi.org/project/fs-watchdog/"
+}

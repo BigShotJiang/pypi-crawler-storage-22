@@ -1,11 +1,11 @@
 {
   "name": "arato-simulate-agent",
-  "version": "0.0.66",
+  "version": "0.0.68",
   "summary": "Arato Simulate Agent - Browser-based AI chat testing agent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arato_simulate_agent-0.0.66.tar.gz",
-  "download_time": "2026-02-15T09:03:48.172200",
+  "download_filename": "arato_simulate_agent-0.0.68.tar.gz",
+  "download_time": "2026-02-16T09:41:24.772646",
   "package_url": "https://pypi.org/project/arato-simulate-agent/"
 }

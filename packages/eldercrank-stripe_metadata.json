@@ -1,11 +1,11 @@
 {
   "name": "eldercrank-stripe",
-  "version": "0.1.0",
+  "version": "0.1.0b1",
   "summary": "A no-nonsense Stripe integration by a grumpy dev.",
   "author": null,
-  "license": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "eldercrank_stripe-0.1.0.tar.gz",
-  "download_time": "2026-02-16T08:47:05.835641",
+  "download_filename": "eldercrank_stripe-0.1.0b1.tar.gz",
+  "download_time": "2026-02-16T09:41:48.580891",
   "package_url": "https://pypi.org/project/eldercrank-stripe/"
 }

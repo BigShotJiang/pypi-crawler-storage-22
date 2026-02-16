@@ -1,0 +1,11 @@
+{
+  "name": "enthought-sphinx-theme",
+  "version": "0.7.4",
+  "summary": "Sphinx theme for Enthought products",
+  "author": "Enthought, Inc.",
+  "license": "BSD",
+  "home_page": "https://github.com/enthought/enthought-sphinx-theme",
+  "download_filename": "enthought_sphinx_theme-0.7.4.tar.gz",
+  "download_time": "2026-02-16T09:41:46.666533",
+  "package_url": "https://pypi.org/project/enthought-sphinx-theme/"
+}
