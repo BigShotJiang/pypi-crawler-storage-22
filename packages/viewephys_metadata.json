@@ -1,0 +1,11 @@
+{
+  "name": "viewephys",
+  "version": "1.1.1",
+  "summary": "Neuropixel raw data viewer",
+  "author": "Olivier Winter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "viewephys-1.1.1.tar.gz",
+  "download_time": "2026-02-16T11:31:53.329226",
+  "package_url": "https://pypi.org/project/viewephys/"
+}

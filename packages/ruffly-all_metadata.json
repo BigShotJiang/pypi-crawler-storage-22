@@ -1,11 +1,11 @@
 {
   "name": "ruffly-all",
-  "version": "0.3.0",
+  "version": "0.6.0",
   "summary": "Generate a migration path to ruff from anywhere.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ruffly_all-0.3.0.tar.gz",
-  "download_time": "2026-02-06T21:55:51.441448",
+  "download_filename": "ruffly_all-0.6.0.tar.gz",
+  "download_time": "2026-02-16T11:31:58.464083",
   "package_url": "https://pypi.org/project/ruffly-all/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "check_zpool_scrub",
+  "version": "3.0.0a0",
+  "summary": "Monitoring plugin to check how long ago the last ZFS scrub was performed.",
+  "author": "Josef Friedrich",
+  "license": null,
+  "home_page": null,
+  "download_filename": "check_zpool_scrub-3.0.0a0.tar.gz",
+  "download_time": "2026-02-16T11:32:11.511840",
+  "package_url": "https://pypi.org/project/check_zpool_scrub/"
+}

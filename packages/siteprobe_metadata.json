@@ -1,0 +1,11 @@
+{
+  "name": "siteprobe",
+  "version": "1.2.2",
+  "summary": "CLI tool to fetch URLs from sitemap.xml, check their existence, and generate performance reports",
+  "author": "Martin Mahner <martin@elephant.house>",
+  "license": "MIT",
+  "home_page": "https://barttc.github.io/siteprobe/",
+  "download_filename": "siteprobe-1.2.2-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-16T11:32:01.045299",
+  "package_url": "https://pypi.org/project/siteprobe/"
+}

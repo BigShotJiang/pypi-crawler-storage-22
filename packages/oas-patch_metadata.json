@@ -1,0 +1,11 @@
+{
+  "name": "oas-patch",
+  "version": "0.6.0",
+  "summary": "A complete cli/lib to apply overlays to OpenAPI documents, powering your ci/cd and API lifecycle",
+  "author": "Matthieu Croissant",
+  "license": null,
+  "home_page": "https://github.com/mcroissant/oas_patcher",
+  "download_filename": "oas_patch-0.6.0.tar.gz",
+  "download_time": "2026-02-16T11:32:13.048198",
+  "package_url": "https://pypi.org/project/oas-patch/"
+}

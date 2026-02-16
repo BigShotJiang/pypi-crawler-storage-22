@@ -1,11 +1,11 @@
 {
   "name": "whitebox-plugin-transfer-manager",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A plugin for whitebox to manage file transfers from devices",
   "author": "avilabss",
   "license": "GNU Affero General Public License v3",
   "home_page": null,
-  "download_filename": "whitebox_plugin_transfer_manager-0.1.0.tar.gz",
-  "download_time": "2026-02-16T05:49:35.357272",
+  "download_filename": "whitebox_plugin_transfer_manager-0.1.1.tar.gz",
+  "download_time": "2026-02-16T11:32:23.898579",
   "package_url": "https://pypi.org/project/whitebox-plugin-transfer-manager/"
 }

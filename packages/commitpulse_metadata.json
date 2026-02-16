@@ -1,11 +1,11 @@
 {
   "name": "commitpulse",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "Premium Git repository analytics and dashboard generator",
   "author": "Samuel Olubukun",
   "license": null,
   "home_page": null,
-  "download_filename": "commitpulse-0.1.5.tar.gz",
-  "download_time": "2026-02-16T09:41:31.299794",
+  "download_filename": "commitpulse-0.1.6.tar.gz",
+  "download_time": "2026-02-16T11:31:56.401901",
   "package_url": "https://pypi.org/project/commitpulse/"
 }

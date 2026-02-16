@@ -1,11 +1,11 @@
 {
   "name": "asyncexchange",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Async outlook exchange api lib.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "asyncexchange-0.1.1.tar.gz",
-  "download_time": "2026-02-13T11:06:02.645801",
+  "download_filename": "asyncexchange-0.1.2.tar.gz",
+  "download_time": "2026-02-16T11:31:54.353021",
   "package_url": "https://pypi.org/project/asyncexchange/"
 }
