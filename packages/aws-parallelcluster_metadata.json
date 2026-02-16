@@ -1,0 +1,11 @@
+{
+  "name": "aws-parallelcluster",
+  "version": "3.14.2",
+  "summary": "AWS ParallelCluster is an AWS supported Open Source cluster management tool to deploy and manage HPC clusters in the AWS cloud.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/aws-parallelcluster",
+  "download_filename": "aws_parallelcluster-3.14.2.tar.gz",
+  "download_time": "2026-02-16T22:28:15.030075",
+  "package_url": "https://pypi.org/project/aws-parallelcluster/"
+}

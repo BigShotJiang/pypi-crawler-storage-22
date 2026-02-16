@@ -1,11 +1,11 @@
 {
   "name": "downstream",
-  "version": "1.16.1",
+  "version": "1.16.3",
   "summary": "downstream provides efficient, constant-space algorithms for stream curation",
   "author": null,
   "license": "MIT license",
   "home_page": null,
-  "download_filename": "downstream-1.16.1.tar.gz",
-  "download_time": "2026-02-16T19:50:29.865435",
+  "download_filename": "downstream-1.16.3.tar.gz",
+  "download_time": "2026-02-16T22:28:19.380400",
   "package_url": "https://pypi.org/project/downstream/"
 }

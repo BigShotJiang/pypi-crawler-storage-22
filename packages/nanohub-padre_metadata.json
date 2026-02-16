@@ -1,11 +1,11 @@
 {
   "name": "nanohub-padre",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Python library for creating and running PADRE semiconductor device simulations",
   "author": "nanohub-padre Contributors",
   "license": "MIT",
   "home_page": "https://github.com/nanohub/nanohub-padre",
-  "download_filename": "nanohub_padre-0.0.4.tar.gz",
-  "download_time": "2026-02-16T20:53:36.798485",
+  "download_filename": "nanohub_padre-0.0.5.tar.gz",
+  "download_time": "2026-02-16T22:28:32.620592",
   "package_url": "https://pypi.org/project/nanohub-padre/"
 }

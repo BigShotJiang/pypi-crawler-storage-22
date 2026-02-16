@@ -1,0 +1,11 @@
+{
+  "name": "kalshiClient-fc56",
+  "version": "0.1.2",
+  "summary": "A modular Python wrapper for the Kalshi Prediction Market API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kalshiclient_fc56-0.1.2.tar.gz",
+  "download_time": "2026-02-16T22:28:26.568509",
+  "package_url": "https://pypi.org/project/kalshiClient-fc56/"
+}

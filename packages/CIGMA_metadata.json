@@ -1,0 +1,11 @@
+{
+  "name": "CIGMA",
+  "version": "1.0.5",
+  "summary": "Add a short description here!",
+  "author": "mhc",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/pyscaffold/pyscaffold/",
+  "download_filename": "cigma-1.0.5.tar.gz",
+  "download_time": "2026-02-16T22:28:05.147331",
+  "package_url": "https://pypi.org/project/CIGMA/"
+}

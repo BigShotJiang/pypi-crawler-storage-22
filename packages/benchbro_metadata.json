@@ -1,0 +1,11 @@
+{
+  "name": "benchbro",
+  "version": "0.2.0",
+  "summary": "Benchmark library and CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "benchbro-0.2.0.tar.gz",
+  "download_time": "2026-02-16T22:28:24.960045",
+  "package_url": "https://pypi.org/project/benchbro/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sagemap",
+  "version": "0.5.1",
+  "summary": "A library for reading and writing .map files from SAGE engine games.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/ClementJ18/sagemap",
+  "download_filename": "sagemap-0.5.1.tar.gz",
+  "download_time": "2026-02-16T22:28:24.417859",
+  "package_url": "https://pypi.org/project/sagemap/"
+}

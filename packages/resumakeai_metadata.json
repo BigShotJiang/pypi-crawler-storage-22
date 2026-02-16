@@ -1,11 +1,11 @@
 {
   "name": "resumakeai",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Build styled CV documents from a single YAML source.",
   "author": "Fayssal El Mofatiche",
   "license": null,
   "home_page": null,
-  "download_filename": "resumakeai-0.8.0.tar.gz",
-  "download_time": "2026-02-15T15:25:13.686023",
+  "download_filename": "resumakeai-0.9.0.tar.gz",
+  "download_time": "2026-02-16T22:28:02.432868",
   "package_url": "https://pypi.org/project/resumakeai/"
 }

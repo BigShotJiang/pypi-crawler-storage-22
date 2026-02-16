@@ -1,11 +1,11 @@
 {
   "name": "reviewcerberus",
-  "version": "1.3.1",
+  "version": "1.5.0",
   "summary": "AI-powered code review tool for git branches",
   "author": "Kirill",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reviewcerberus-1.3.1.tar.gz",
-  "download_time": "2026-02-01T09:54:40.756225",
+  "download_filename": "reviewcerberus-1.5.0.tar.gz",
+  "download_time": "2026-02-16T22:28:17.190470",
   "package_url": "https://pypi.org/project/reviewcerberus/"
 }

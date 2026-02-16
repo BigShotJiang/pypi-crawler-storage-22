@@ -1,11 +1,11 @@
 {
   "name": "itd-iter-api",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "ITD client for python",
   "author": "sharkow",
   "license": null,
   "home_page": null,
-  "download_filename": "itd_iter_api-2.2.0.tar.gz",
-  "download_time": "2026-02-15T10:39:10.117093",
+  "download_filename": "itd_iter_api-2.3.0.tar.gz",
+  "download_time": "2026-02-16T22:27:56.834252",
   "package_url": "https://pypi.org/project/itd-iter-api/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tariochbctools",
+  "version": "1.6.1",
+  "summary": "Importers, plugins and price fetchers for Beancount",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tariochbctools-1.6.1.tar.gz",
+  "download_time": "2026-02-16T22:28:29.348746",
+  "package_url": "https://pypi.org/project/tariochbctools/"
+}

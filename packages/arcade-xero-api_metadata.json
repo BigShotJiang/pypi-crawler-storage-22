@@ -1,0 +1,11 @@
+{
+  "name": "arcade-xero-api",
+  "version": "2.1.0",
+  "summary": "Tools that enable LLMs to interact directly with the Xero API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcade_xero_api-2.1.0-py3-none-any.whl",
+  "download_time": "2026-02-16T22:28:07.347226",
+  "package_url": "https://pypi.org/project/arcade-xero-api/"
+}

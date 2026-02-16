@@ -1,0 +1,11 @@
+{
+  "name": "aws-parallelcluster-node",
+  "version": "3.14.2",
+  "summary": "aws-parallelcluster-node provides the scripts for an AWS ParallelCluster node.",
+  "author": "Amazon Web Services",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aws/aws-parallelcluster-node",
+  "download_filename": "aws_parallelcluster_node-3.14.2.tar.gz",
+  "download_time": "2026-02-16T22:28:18.838176",
+  "package_url": "https://pypi.org/project/aws-parallelcluster-node/"
+}

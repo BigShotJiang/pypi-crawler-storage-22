@@ -1,0 +1,11 @@
+{
+  "name": "ionis-validate",
+  "version": "0.1.0",
+  "summary": "IONIS V20 — HF Propagation Model Validation Suite",
+  "author": "Greg Beam, KI7MT",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ionis_validate-0.1.0.tar.gz",
+  "download_time": "2026-02-16T22:27:50.231924",
+  "package_url": "https://pypi.org/project/ionis-validate/"
+}

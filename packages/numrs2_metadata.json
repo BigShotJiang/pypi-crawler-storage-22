@@ -1,0 +1,11 @@
+{
+  "name": "numrs2",
+  "version": "0.2.0",
+  "summary": "A Rust implementation inspired by NumPy for numerical computing",
+  "author": "COOLJAPAN OU (Team KitaSan)",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cool-japan/numrs",
+  "download_filename": "numrs2-0.2.0.tar.gz",
+  "download_time": "2026-02-16T22:27:53.521364",
+  "package_url": "https://pypi.org/project/numrs2/"
+}
