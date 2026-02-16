@@ -1,0 +1,11 @@
+{
+  "name": "troposphere",
+  "version": "4.10.1",
+  "summary": "AWS CloudFormation creation library",
+  "author": "Mark Peek",
+  "license": "New BSD license",
+  "home_page": "https://github.com/cloudtools/troposphere",
+  "download_filename": "troposphere-4.10.1.tar.gz",
+  "download_time": "2026-02-16T23:30:22.293131",
+  "package_url": "https://pypi.org/project/troposphere/"
+}

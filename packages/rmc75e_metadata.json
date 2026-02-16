@@ -1,11 +1,11 @@
 {
   "name": "rmc75e",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "EtherNet/IP explicit messaging client for Delta RMC75E motion controllers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rmc75e-0.1.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
-  "download_time": "2026-02-16T22:27:47.327445",
+  "download_filename": "rmc75e-0.2.0-cp310-cp310-manylinux2014_aarch64.manylinux_2_17_aarch64.whl",
+  "download_time": "2026-02-16T23:30:36.314685",
   "package_url": "https://pypi.org/project/rmc75e/"
 }

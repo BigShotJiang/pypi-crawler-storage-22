@@ -1,0 +1,11 @@
+{
+  "name": "dpgmm",
+  "version": "0.1.0",
+  "summary": "dpgmm is a library implementing high-performance MCMC sampler for Dirichlet Process Gaussian Mixture Model (DPGMM). Built with PyTorch and accelerated with Triton kernels, it is designed to handle high-dimensional data efficiently.",
+  "author": "mateuszlampert",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dpgmm-0.1.0.tar.gz",
+  "download_time": "2026-02-16T23:30:18.675144",
+  "package_url": "https://pypi.org/project/dpgmm/"
+}

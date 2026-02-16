@@ -1,0 +1,11 @@
+{
+  "name": "sekha-llm-bridge",
+  "version": "0.2.0",
+  "summary": "Universal LLM adapter service for Sekha AI - Multi-provider bridge supporting 100+ LLMs via LiteLLM",
+  "author": "Sekha AI",
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "sekha_llm_bridge-0.2.0.tar.gz",
+  "download_time": "2026-02-16T23:30:09.523113",
+  "package_url": "https://pypi.org/project/sekha-llm-bridge/"
+}

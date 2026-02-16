@@ -1,0 +1,11 @@
+{
+  "name": "django-dagster",
+  "version": "0.1.0",
+  "summary": "Django plugin for interacting with a Dagster server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_dagster-0.1.0.tar.gz",
+  "download_time": "2026-02-16T23:30:19.201439",
+  "package_url": "https://pypi.org/project/django-dagster/"
+}

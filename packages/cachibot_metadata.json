@@ -1,11 +1,11 @@
 {
   "name": "cachibot",
-  "version": "0.2.35",
+  "version": "0.2.37",
   "summary": "The Armored AI Agent. Cross-platform, secure, yours.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cachibot-0.2.35-py3-none-any.whl",
-  "download_time": "2026-02-16T23:00:17.759471",
+  "download_filename": "cachibot-0.2.37-py3-none-any.whl",
+  "download_time": "2026-02-16T23:30:38.413023",
   "package_url": "https://pypi.org/project/cachibot/"
 }

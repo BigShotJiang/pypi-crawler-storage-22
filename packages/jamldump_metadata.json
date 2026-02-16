@@ -1,11 +1,11 @@
 {
   "name": "jamldump",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Opinionated YAML dump function for JSON serializable content.",
   "author": "Matthias Dellweg",
   "license": null,
   "home_page": null,
-  "download_filename": "jamldump-1.2.0.tar.gz",
-  "download_time": "2026-02-09T13:05:36.805670",
+  "download_filename": "jamldump-1.2.1.tar.gz",
+  "download_time": "2026-02-16T23:30:33.702032",
   "package_url": "https://pypi.org/project/jamldump/"
 }
