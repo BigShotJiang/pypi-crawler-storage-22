@@ -1,0 +1,11 @@
+{
+  "name": "pmctl",
+  "version": "0.1.2",
+  "summary": "A CLI tool for managing Postman collections, environments, and workspaces",
+  "author": "Wenbing Li",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pmctl-0.1.2.tar.gz",
+  "download_time": "2026-02-16T07:55:12.559701",
+  "package_url": "https://pypi.org/project/pmctl/"
+}

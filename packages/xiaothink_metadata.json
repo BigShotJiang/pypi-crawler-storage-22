@@ -1,0 +1,11 @@
+{
+  "name": "xiaothink",
+  "version": "1.4.0",
+  "summary": "An AI toolkit that helps users quickly call interfaces related to the Xiaothink framework.",
+  "author": "Shi Jingqi",
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "xiaothink-1.4.0.tar.gz",
+  "download_time": "2026-02-16T07:55:02.247913",
+  "package_url": "https://pypi.org/project/xiaothink/"
+}

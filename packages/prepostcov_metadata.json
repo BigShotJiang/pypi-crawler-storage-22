@@ -1,0 +1,11 @@
+{
+  "name": "prepostcov",
+  "version": "0.1.0",
+  "summary": "Covariance and multipole tools for power spectrum and correlation function analysis.",
+  "author": "A. Baleato Lizancos & M. Maus",
+  "license": "MIT",
+  "home_page": "https://github.com/abaleato/PrePostCov/tree/main",
+  "download_filename": "prepostcov-0.1.0.tar.gz",
+  "download_time": "2026-02-16T07:55:38.217647",
+  "package_url": "https://pypi.org/project/prepostcov/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "eclsdk",
+  "version": "1.9.0",
+  "summary": "SDK for building applications to work with Enterprise Cloud 2.0",
+  "author": "NTT DOCOMO BUSINESS",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://ecl.ntt.com",
+  "download_filename": "eclsdk-1.9.0.tar.gz",
+  "download_time": "2026-02-16T07:55:01.128370",
+  "package_url": "https://pypi.org/project/eclsdk/"
+}

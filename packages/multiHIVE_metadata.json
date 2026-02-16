@@ -1,0 +1,11 @@
+{
+  "name": "multiHIVE",
+  "version": "0.1.1",
+  "summary": "multiHIVE, a hierarchical multimodal deep generative model for integrating multiomics data",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multihive-0.1.1.tar.gz",
+  "download_time": "2026-02-16T07:55:00.607505",
+  "package_url": "https://pypi.org/project/multiHIVE/"
+}

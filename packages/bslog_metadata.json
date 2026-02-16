@@ -1,0 +1,11 @@
+{
+  "name": "bslog",
+  "version": "1.4.0",
+  "summary": "CLI tool for querying Better Stack logs via ClickHouse SQL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bslog-1.4.0.tar.gz",
+  "download_time": "2026-02-16T07:54:58.819897",
+  "package_url": "https://pypi.org/project/bslog/"
+}

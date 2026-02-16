@@ -1,11 +1,11 @@
 {
   "name": "prophet-events-runtime",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Shared Prophet event publisher runtime",
   "author": "Prophet",
   "license": null,
   "home_page": null,
-  "download_filename": "prophet_events_runtime-0.2.2.tar.gz",
-  "download_time": "2026-02-16T06:52:02.870528",
+  "download_filename": "prophet_events_runtime-0.2.5.tar.gz",
+  "download_time": "2026-02-16T07:55:20.908436",
   "package_url": "https://pypi.org/project/prophet-events-runtime/"
 }

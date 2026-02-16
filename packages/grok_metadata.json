@@ -1,0 +1,11 @@
+{
+  "name": "grok",
+  "version": "6.2",
+  "summary": "Grok: Now even cavemen can use Zope 3!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grok-6.2.tar.gz",
+  "download_time": "2026-02-16T07:55:03.287325",
+  "package_url": "https://pypi.org/project/grok/"
+}

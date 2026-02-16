@@ -1,11 +1,11 @@
 {
   "name": "langfuse-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI tool for Langfuse LLM observability platform, following gh-ux patterns",
   "author": "Aviad S.",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "langfuse_cli-0.1.0.tar.gz",
-  "download_time": "2026-02-15T19:43:50.605992",
+  "download_filename": "langfuse_cli-0.1.1.tar.gz",
+  "download_time": "2026-02-16T07:55:32.486438",
   "package_url": "https://pypi.org/project/langfuse-cli/"
 }

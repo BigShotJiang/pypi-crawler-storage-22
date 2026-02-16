@@ -1,11 +1,11 @@
 {
   "name": "hass-nabucasa",
-  "version": "1.14.0",
+  "version": "1.15.0",
   "summary": "Home Assistant cloud integration by Nabu Casa, Inc.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hass_nabucasa-1.14.0.tar.gz",
-  "download_time": "2026-02-05T17:37:47.754655",
+  "download_filename": "hass_nabucasa-1.15.0.tar.gz",
+  "download_time": "2026-02-16T07:55:30.932457",
   "package_url": "https://pypi.org/project/hass-nabucasa/"
 }
