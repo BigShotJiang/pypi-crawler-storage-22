@@ -1,0 +1,11 @@
+{
+  "name": "ibm-fms",
+  "version": "1.7.0",
+  "summary": "Foundation Model Stack is a collection of components for development, inference, training, and tuning of foundation models leveraging PyTorch native components.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ibm_fms-1.7.0-py3-none-any.whl",
+  "download_time": "2026-02-16T20:53:51.948953",
+  "package_url": "https://pypi.org/project/ibm-fms/"
+}

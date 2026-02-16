@@ -1,0 +1,11 @@
+{
+  "name": "datablender",
+  "version": "0.0.18",
+  "summary": "Tools for data.",
+  "author": "Julien Douville",
+  "license": null,
+  "home_page": "https://github.com/MontrealMobilite/datablender.git",
+  "download_filename": "datablender-0.0.18.tar.gz",
+  "download_time": "2026-02-16T20:53:12.420308",
+  "package_url": "https://pypi.org/project/datablender/"
+}

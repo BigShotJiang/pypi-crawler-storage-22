@@ -1,11 +1,11 @@
 {
   "name": "hydroopt",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "Biblioteca de otimização de redes hidráulicas (EPANET) utilizando algoritmos de Inteligência de Enxame (GWO, WOA, PSO) para minimização de custos e garantia de pressão.",
   "author": "Gladistony Silva Lins",
   "license": null,
   "home_page": null,
-  "download_filename": "hydroopt-0.5.8.tar.gz",
-  "download_time": "2026-02-16T19:07:30.094437",
+  "download_filename": "hydroopt-0.5.9.tar.gz",
+  "download_time": "2026-02-16T20:53:14.367352",
   "package_url": "https://pypi.org/project/hydroopt/"
 }

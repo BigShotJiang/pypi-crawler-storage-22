@@ -1,0 +1,11 @@
+{
+  "name": "xarray-sweep",
+  "version": "0.1.5",
+  "summary": "Simple grid search utility that returns xarray outputs.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xarray_sweep-0.1.5.tar.gz",
+  "download_time": "2026-02-16T20:53:52.978249",
+  "package_url": "https://pypi.org/project/xarray-sweep/"
+}

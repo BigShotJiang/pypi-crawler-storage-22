@@ -1,11 +1,11 @@
 {
   "name": "utwrite",
-  "version": "0.0.16",
+  "version": "0.0.18",
   "summary": "Auto[magically] write Python unittest files from docstrings.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "utwrite-0.0.16.tar.gz",
-  "download_time": "2026-02-15T20:54:25.198696",
+  "download_filename": "utwrite-0.0.18.tar.gz",
+  "download_time": "2026-02-16T20:53:11.904647",
   "package_url": "https://pypi.org/project/utwrite/"
 }

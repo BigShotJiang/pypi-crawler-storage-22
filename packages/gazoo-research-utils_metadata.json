@@ -1,11 +1,11 @@
 {
   "name": "gazoo-research-utils",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Utilities for the Analysis of Gazoo Research Data",
   "author": "Andrew Lim MD, Megan Lim MD, Christopher Lim MD, Robert Lim MD",
   "license": null,
   "home_page": null,
-  "download_filename": "gazoo_research_utils-2.1.0.tar.gz",
-  "download_time": "2026-02-16T18:09:00.704361",
+  "download_filename": "gazoo_research_utils-2.1.1.tar.gz",
+  "download_time": "2026-02-16T20:53:50.922585",
   "package_url": "https://pypi.org/project/gazoo-research-utils/"
 }

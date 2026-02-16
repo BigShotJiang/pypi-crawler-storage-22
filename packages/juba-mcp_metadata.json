@@ -1,0 +1,11 @@
+{
+  "name": "juba-mcp",
+  "version": "0.1.0",
+  "summary": "Servidor MCP para buscar en JUBA (Jurisprudencia de Buenos Aires) — sumarios de fallos de la Provincia de Buenos Aires",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "juba_mcp-0.1.0.tar.gz",
+  "download_time": "2026-02-16T20:53:38.877678",
+  "package_url": "https://pypi.org/project/juba-mcp/"
+}

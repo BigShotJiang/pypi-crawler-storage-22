@@ -1,11 +1,11 @@
 {
   "name": "nowfocus",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "summary": "nowfocus: the open source task-tracking self-control panel.",
   "author": "AltruistEnterprises",
   "license": null,
   "home_page": null,
-  "download_filename": "nowfocus-0.7.1.tar.gz",
-  "download_time": "2026-02-12T06:59:47.189411",
+  "download_filename": "nowfocus-0.7.2.tar.gz",
+  "download_time": "2026-02-16T20:53:15.397457",
   "package_url": "https://pypi.org/project/nowfocus/"
 }

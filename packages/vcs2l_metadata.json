@@ -1,0 +1,11 @@
+{
+  "name": "vcs2l",
+  "version": "1.1.7",
+  "summary": "vcs2l provides a command line tool to invoke vcs commands on multiple repositories.",
+  "author": "Dirk Thomas",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ros-infrastructure/vcs2l",
+  "download_filename": "vcs2l-1.1.7.tar.gz",
+  "download_time": "2026-02-16T20:53:34.198353",
+  "package_url": "https://pypi.org/project/vcs2l/"
+}

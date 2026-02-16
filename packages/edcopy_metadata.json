@@ -1,0 +1,11 @@
+{
+  "name": "edcopy",
+  "version": "0.1.0",
+  "summary": "Interactive CLI to collect files and build a numbered prompt.md for LLM workflows.",
+  "author": "Edmond La Chance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edcopy-0.1.0.tar.gz",
+  "download_time": "2026-02-16T20:53:49.386835",
+  "package_url": "https://pypi.org/project/edcopy/"
+}

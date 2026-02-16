@@ -1,11 +1,11 @@
 {
   "name": "rm-mcp",
-  "version": "0.4.1",
+  "version": "0.4.3",
   "summary": "MCP server for accessing reMarkable tablet data",
   "author": "Thijs Verreck",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rm_mcp-0.4.1.tar.gz",
-  "download_time": "2026-02-16T20:06:33.725772",
+  "download_filename": "rm_mcp-0.4.3.tar.gz",
+  "download_time": "2026-02-16T20:53:39.395065",
   "package_url": "https://pypi.org/project/rm-mcp/"
 }

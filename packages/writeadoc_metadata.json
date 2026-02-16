@@ -1,11 +1,11 @@
 {
   "name": "writeadoc",
-  "version": "0.14.0",
+  "version": "0.16.0",
   "summary": "Focus on your content and let WriteADoc take care of the rest",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "writeadoc-0.14.0.tar.gz",
-  "download_time": "2026-02-04T23:24:44.040658",
+  "download_filename": "writeadoc-0.16.0.tar.gz",
+  "download_time": "2026-02-16T20:53:21.651402",
   "package_url": "https://pypi.org/project/writeadoc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "amzn-nova-customization-sdk",
+  "version": "1.0.96",
+  "summary": "A Python SDK for customizing Amazon Nova models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amzn_nova_customization_sdk-1.0.96.tar.gz",
+  "download_time": "2026-02-16T20:53:40.477379",
+  "package_url": "https://pypi.org/project/amzn-nova-customization-sdk/"
+}
