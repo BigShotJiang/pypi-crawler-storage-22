@@ -1,0 +1,11 @@
+{
+  "name": "cuemap",
+  "version": "0.6.3",
+  "summary": "CueMap Python SDK - High-performance temporal-associative memory",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cuemap-0.6.3.tar.gz",
+  "download_time": "2026-02-16T17:30:32.886349",
+  "package_url": "https://pypi.org/project/cuemap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "taskforge-rasti",
+  "version": "0.1.0",
+  "summary": "A clean minimal task tracking engine with layered architecture.",
+  "author": "Rasti",
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskforge_rasti-0.1.0.tar.gz",
+  "download_time": "2026-02-16T17:30:19.146279",
+  "package_url": "https://pypi.org/project/taskforge-rasti/"
+}

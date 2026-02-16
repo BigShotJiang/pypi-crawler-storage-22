@@ -1,11 +1,11 @@
 {
   "name": "vantage6-server",
-  "version": "4.13.6",
+  "version": "4.13.7",
   "summary": "Vantage6 server",
   "author": null,
   "license": null,
   "home_page": "https://github.com/vantage6/vantage6",
-  "download_filename": "vantage6_server-4.13.6.tar.gz",
-  "download_time": "2026-02-16T16:02:11.966523",
+  "download_filename": "vantage6_server-4.13.7.tar.gz",
+  "download_time": "2026-02-16T17:30:37.174212",
   "package_url": "https://pypi.org/project/vantage6-server/"
 }

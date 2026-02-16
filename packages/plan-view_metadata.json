@@ -1,0 +1,11 @@
+{
+  "name": "plan-view",
+  "version": "1.5.0",
+  "summary": "Pretty print plan.json for task tracking",
+  "author": "Jacob Coffee",
+  "license": null,
+  "home_page": null,
+  "download_filename": "plan_view-1.5.0.tar.gz",
+  "download_time": "2026-02-16T17:30:11.802324",
+  "package_url": "https://pypi.org/project/plan-view/"
+}

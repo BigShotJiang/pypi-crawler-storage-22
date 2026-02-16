@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-websitetopdf",
+  "version": "1.1.14",
+  "summary": "Website to PDF is a simple tool for converting a website to PDF. It returns the PDF file generated from the website.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_websitetopdf-1.1.14.tar.gz",
+  "download_time": "2026-02-16T17:30:48.191799",
+  "package_url": "https://pypi.org/project/apiverve-websitetopdf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vantage6",
-  "version": "4.13.6",
+  "version": "4.13.7",
   "summary": "vantage6 command line interface",
   "author": null,
   "license": null,
   "home_page": "https://github.com/vantage6/vantage6",
-  "download_filename": "vantage6-4.13.6.tar.gz",
-  "download_time": "2026-02-16T16:02:16.809682",
+  "download_filename": "vantage6-4.13.7.tar.gz",
+  "download_time": "2026-02-16T17:30:38.749610",
   "package_url": "https://pypi.org/project/vantage6/"
 }

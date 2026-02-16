@@ -1,11 +1,11 @@
 {
   "name": "batrachian-toad",
-  "version": "0.5.38",
+  "version": "0.6.0",
   "summary": "A unified experience for AI in your terminal.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "batrachian_toad-0.5.38.tar.gz",
-  "download_time": "2026-02-01T22:26:32.942309",
+  "download_filename": "batrachian_toad-0.6.0.tar.gz",
+  "download_time": "2026-02-16T17:30:20.722196",
   "package_url": "https://pypi.org/project/batrachian-toad/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vantage6-node",
-  "version": "4.13.6",
+  "version": "4.13.7",
   "summary": "vantage6 node",
   "author": null,
   "license": null,
   "home_page": "https://github.com/vantage6/vantage6",
-  "download_filename": "vantage6_node-4.13.6.tar.gz",
-  "download_time": "2026-02-16T16:02:15.183418",
+  "download_filename": "vantage6_node-4.13.7.tar.gz",
+  "download_time": "2026-02-16T17:30:38.222826",
   "package_url": "https://pypi.org/project/vantage6-node/"
 }

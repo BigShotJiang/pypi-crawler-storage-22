@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-automatic-workflow-force-invoiced",
+  "version": "18.0.1.0.0.2",
+  "summary": "Force Invoice as an automatic workflow option",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_automatic_workflow_force_invoiced-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-02-16T17:30:40.844406",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-automatic-workflow-force-invoiced/"
+}

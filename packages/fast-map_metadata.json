@@ -1,0 +1,11 @@
+{
+  "name": "fast-map",
+  "version": "0.3.0",
+  "summary": "Combines multiprocessing and multithreading for fast computation.",
+  "author": "Michal Borowski",
+  "license": null,
+  "home_page": "https://github.com/michalmonday/fast_map",
+  "download_filename": "fast_map-0.3.0.tar.gz",
+  "download_time": "2026-02-16T17:30:13.364556",
+  "package_url": "https://pypi.org/project/fast-map/"
+}

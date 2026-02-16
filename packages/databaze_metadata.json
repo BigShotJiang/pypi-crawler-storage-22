@@ -1,0 +1,11 @@
+{
+  "name": "databaze",
+  "version": "0.0.0",
+  "summary": "SELECT needle FROM haystack;",
+  "author": "Khiat Mohammed Abderrezzak",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/databaze/",
+  "download_filename": "databaze-0.0.0.tar.gz",
+  "download_time": "2026-02-16T17:30:33.409199",
+  "package_url": "https://pypi.org/project/databaze/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-rhymingwords",
+  "version": "1.1.14",
+  "summary": "Word Rhymes is a simple tool for getting word rhymes. It returns a list of rhyming words.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_rhymingwords-1.1.14.tar.gz",
+  "download_time": "2026-02-16T17:30:43.471881",
+  "package_url": "https://pypi.org/project/apiverve-rhymingwords/"
+}

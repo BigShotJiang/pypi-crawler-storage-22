@@ -1,0 +1,11 @@
+{
+  "name": "langchain-knowledgelib",
+  "version": "0.1.1",
+  "summary": "LangChain retriever for knowledgelib.io — pre-verified, cited knowledge units for AI agents",
+  "author": null,
+  "license": "CC-BY-SA-4.0",
+  "home_page": null,
+  "download_filename": "langchain_knowledgelib-0.1.1.tar.gz",
+  "download_time": "2026-02-16T17:30:12.844754",
+  "package_url": "https://pypi.org/project/langchain-knowledgelib/"
+}

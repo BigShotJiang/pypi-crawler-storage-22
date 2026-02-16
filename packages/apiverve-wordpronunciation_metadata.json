@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-wordpronunciation",
+  "version": "1.1.14",
+  "summary": "Word Pronunciation is a simple tool for getting the pronunciation of a word. It returns the pronunciation of the word provided.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_wordpronunciation-1.1.14.tar.gz",
+  "download_time": "2026-02-16T17:30:43.991740",
+  "package_url": "https://pypi.org/project/apiverve-wordpronunciation/"
+}

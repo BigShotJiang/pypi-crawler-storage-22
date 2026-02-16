@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-zipcodeslookup",
+  "version": "1.1.14",
+  "summary": "Zip Codes Lookup is a simple tool for looking up the zip codes of a city. It returns the zip codes of the city.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_zipcodeslookup-1.1.14.tar.gz",
+  "download_time": "2026-02-16T17:30:25.463568",
+  "package_url": "https://pypi.org/project/apiverve-zipcodeslookup/"
+}

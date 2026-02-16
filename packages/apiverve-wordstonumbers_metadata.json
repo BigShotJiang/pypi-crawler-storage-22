@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-wordstonumbers",
+  "version": "1.1.14",
+  "summary": "Words to Numbers is a simple tool for converting words to numbers. It returns the words in numbers.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_wordstonumbers-1.1.14.tar.gz",
+  "download_time": "2026-02-16T17:30:31.845034",
+  "package_url": "https://pypi.org/project/apiverve-wordstonumbers/"
+}
