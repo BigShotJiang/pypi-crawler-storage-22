@@ -1,11 +1,11 @@
 {
   "name": "peek-python",
-  "version": "26.1.1",
+  "version": "26.1.1.post0",
   "summary": "peek - like print, but easy",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "peek_python-26.1.1.tar.gz",
-  "download_time": "2026-02-15T15:52:24.564743",
+  "download_filename": "peek_python-26.1.1.post0.tar.gz",
+  "download_time": "2026-02-16T14:20:15.268139",
   "package_url": "https://pypi.org/project/peek-python/"
 }

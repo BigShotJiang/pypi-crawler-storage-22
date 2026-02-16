@@ -1,0 +1,11 @@
+{
+  "name": "pyams-utils",
+  "version": "2.9.0",
+  "summary": "PyAMS generic modules",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_utils-2.9.0.tar.gz",
+  "download_time": "2026-02-16T14:20:20.974201",
+  "package_url": "https://pypi.org/project/pyams-utils/"
+}

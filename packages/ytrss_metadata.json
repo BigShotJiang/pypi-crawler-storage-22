@@ -1,0 +1,11 @@
+{
+  "name": "ytrss",
+  "version": "0.4.2",
+  "summary": "Tools for downloading mp3 from YouTube subscription and playlists.",
+  "author": "Rafal Kobel",
+  "license": "GNU",
+  "home_page": "https://github.com/rafyco/ytrss.git",
+  "download_filename": "ytrss-0.4.2.tar.gz",
+  "download_time": "2026-02-16T14:20:24.057405",
+  "package_url": "https://pypi.org/project/ytrss/"
+}

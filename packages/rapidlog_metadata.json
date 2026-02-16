@@ -1,0 +1,11 @@
+{
+  "name": "rapidlog",
+  "version": "1.0.0",
+  "summary": "High-performance JSON logging for Python with zero dependencies",
+  "author": "fastlog contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rapidlog-1.0.0.tar.gz",
+  "download_time": "2026-02-16T14:20:23.025504",
+  "package_url": "https://pypi.org/project/rapidlog/"
+}

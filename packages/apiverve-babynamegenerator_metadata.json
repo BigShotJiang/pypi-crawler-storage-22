@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-babynamegenerator",
+  "version": "1.1.14",
+  "summary": "Baby Name Generator is a simple tool for generating baby names. It returns a list of baby names.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_babynamegenerator-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:19:53.935897",
+  "package_url": "https://pypi.org/project/apiverve-babynamegenerator/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "polaris-audit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Audit your website across four pillars: Privacy, Security, Accessibility, and Performance.",
   "author": "Polaris Audit",
   "license": null,
   "home_page": null,
-  "download_filename": "polaris_audit-0.1.0.tar.gz",
-  "download_time": "2026-02-16T04:14:50.758897",
+  "download_filename": "polaris_audit-0.1.1.tar.gz",
+  "download_time": "2026-02-16T14:20:19.423033",
   "package_url": "https://pypi.org/project/polaris-audit/"
 }

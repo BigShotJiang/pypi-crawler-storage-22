@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-anagramdetector",
+  "version": "1.1.14",
+  "summary": "Anagram Detector is a tool for checking if two words or phrases are anagrams of each other. It provides character frequency analysis and similarity scoring.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_anagramdetector-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:03.334331",
+  "package_url": "https://pypi.org/project/apiverve-anagramdetector/"
+}

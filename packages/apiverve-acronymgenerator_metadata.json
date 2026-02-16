@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-acronymgenerator",
+  "version": "1.1.14",
+  "summary": "Acronym Generator is an AI-powered tool for creating creative acronyms from text. It returns 3 unique acronym suggestions for any given phrase.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_acronymgenerator-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:17.366759",
+  "package_url": "https://pypi.org/project/apiverve-acronymgenerator/"
+}

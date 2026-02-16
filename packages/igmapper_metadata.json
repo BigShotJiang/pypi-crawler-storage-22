@@ -1,11 +1,11 @@
 {
   "name": "igmapper",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Unofficial Instagram API to request available data",
   "author": "lucasoal",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "igmapper-1.0.1.tar.gz",
-  "download_time": "2026-02-15T19:07:34.325333",
+  "download_filename": "igmapper-1.0.2.tar.gz",
+  "download_time": "2026-02-16T14:20:29.187527",
   "package_url": "https://pypi.org/project/igmapper/"
 }

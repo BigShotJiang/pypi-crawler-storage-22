@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-acrosticpuzzlegenerator",
+  "version": "1.1.14",
+  "summary": "Acrostic Puzzle Generator creates puzzles where the first letters of answer words spell out a hidden keyword.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_acrosticpuzzlegenerator-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:17.878121",
+  "package_url": "https://pypi.org/project/apiverve-acrosticpuzzlegenerator/"
+}

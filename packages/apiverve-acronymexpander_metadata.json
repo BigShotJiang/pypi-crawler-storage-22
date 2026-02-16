@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-acronymexpander",
+  "version": "1.1.14",
+  "summary": "Acronym Expander is an AI-powered tool for expanding acronyms to their full meanings. It uses a dictionary of common acronyms and AI for unknown ones, with optional context for better accuracy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_acronymexpander-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:18.910066",
+  "package_url": "https://pypi.org/project/apiverve-acronymexpander/"
+}

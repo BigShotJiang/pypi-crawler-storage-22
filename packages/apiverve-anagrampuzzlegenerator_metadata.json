@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-anagrampuzzlegenerator",
+  "version": "1.1.14",
+  "summary": "Anagram Puzzle Generator creates word puzzles where players rearrange scrambled letters to form valid words, with optional hints.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_anagrampuzzlegenerator-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:02.823372",
+  "package_url": "https://pypi.org/project/apiverve-anagrampuzzlegenerator/"
+}

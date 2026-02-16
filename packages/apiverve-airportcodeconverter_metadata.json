@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-airportcodeconverter",
+  "version": "1.1.14",
+  "summary": "Airport Code Converter is a simple tool for converting between IATA (3-letter) and ICAO (4-letter) airport codes. Submit either format and get the corresponding code back.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_airportcodeconverter-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:07.945709",
+  "package_url": "https://pypi.org/project/apiverve-airportcodeconverter/"
+}

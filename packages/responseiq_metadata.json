@@ -1,11 +1,11 @@
 {
   "name": "responseiq",
-  "version": "2.0.1",
+  "version": "2.2.0",
   "summary": "AI-Powered Infrastructure Copilot: The Self-Healing SRE.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "responseiq-2.0.1.tar.gz",
-  "download_time": "2026-02-13T12:48:46.847983",
+  "download_filename": "responseiq-2.2.0.tar.gz",
+  "download_time": "2026-02-16T14:20:27.646513",
   "package_url": "https://pypi.org/project/responseiq/"
 }

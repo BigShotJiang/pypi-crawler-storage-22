@@ -1,11 +1,11 @@
 {
   "name": "qio",
-  "version": "0.1.27",
+  "version": "0.1.31",
   "summary": "Common quantum computing objects description and conversion library",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qio-0.1.27.tar.gz",
-  "download_time": "2026-02-03T19:15:09.917767",
+  "download_filename": "qio-0.1.31.tar.gz",
+  "download_time": "2026-02-16T14:20:05.384461",
   "package_url": "https://pypi.org/project/qio/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "vasprocar",
-  "version": "1.1.19.197",
+  "version": "1.1.20.10",
   "summary": "VASProcar is an open-source package written in the Python 3 programming language, which aims to provide an intuitive tool for the post-processing of the output files produced by the DFT VASP/QE codes, through an interactive user interface.",
   "author": "Augusto de Lelis Araujo and Renan da Paixao Maciel",
   "license": "GNU GPLv3",
   "home_page": "https://doi.org/10.5281/zenodo.6343960",
-  "download_filename": "vasprocar-1.1.19.197.tar.gz",
-  "download_time": "2026-02-16T10:38:48.409977",
+  "download_filename": "vasprocar-1.1.20.10.tar.gz",
+  "download_time": "2026-02-16T14:19:57.089240",
   "package_url": "https://pypi.org/project/vasprocar/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "g2cv-casm",
+  "version": "0.1.0.post1.dev2",
+  "summary": "CASM: Continuous Attack Surface Monitoring",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "g2cv_casm-0.1.0.post1.dev2.tar.gz",
+  "download_time": "2026-02-16T14:20:05.897372",
+  "package_url": "https://pypi.org/project/g2cv-casm/"
+}

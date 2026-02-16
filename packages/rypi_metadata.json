@@ -1,11 +1,11 @@
 {
   "name": "rypi",
-  "version": "2026.2.5.0",
+  "version": "2026.2.16.0",
   "summary": "Rybby's Python tools.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rypi-2026.2.5.0.tar.gz",
-  "download_time": "2026-02-04T17:02:03.897548",
+  "download_filename": "rypi-2026.2.16.0.tar.gz",
+  "download_time": "2026-02-16T14:20:13.587381",
   "package_url": "https://pypi.org/project/rypi/"
 }

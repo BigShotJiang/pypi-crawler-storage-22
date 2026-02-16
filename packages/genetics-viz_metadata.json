@@ -1,0 +1,11 @@
+{
+  "name": "genetics-viz",
+  "version": "0.3.0",
+  "summary": "A web-based visualization tool for genetics cohort data",
+  "author": "Freddy Cliquet",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genetics_viz-0.3.0.tar.gz",
+  "download_time": "2026-02-16T14:20:32.826073",
+  "package_url": "https://pypi.org/project/genetics-viz/"
+}

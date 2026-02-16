@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-airportdistance",
+  "version": "1.1.14",
+  "summary": "Airport Distance is a simple tool for getting the distance between two airports. It returns the distance between the two airports.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_airportdistance-1.1.14.tar.gz",
+  "download_time": "2026-02-16T14:20:07.434764",
+  "package_url": "https://pypi.org/project/apiverve-airportdistance/"
+}

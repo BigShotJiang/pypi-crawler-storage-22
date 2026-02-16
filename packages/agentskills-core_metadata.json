@@ -1,11 +1,11 @@
 {
   "name": "agentskills-core",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Storage-agnostic abstractions for discovering, validating, and accessing Agent Skills (https://agentskills.io)",
   "author": "Pratik Panda",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentskills_core-0.2.0.tar.gz",
-  "download_time": "2026-02-14T18:37:15.230652",
+  "download_filename": "agentskills_core-0.2.2.tar.gz",
+  "download_time": "2026-02-16T14:20:28.163122",
   "package_url": "https://pypi.org/project/agentskills-core/"
 }

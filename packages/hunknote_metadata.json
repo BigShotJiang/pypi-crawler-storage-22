@@ -1,11 +1,11 @@
 {
   "name": "hunknote",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "summary": "AI-powered git commit message generator with multi-LLM support",
   "author": "Avinash Ranganath",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hunknote-1.1.0.tar.gz",
-  "download_time": "2026-02-14T21:50:18.362236",
+  "download_filename": "hunknote-1.2.0.tar.gz",
+  "download_time": "2026-02-16T14:20:03.847410",
   "package_url": "https://pypi.org/project/hunknote/"
 }
