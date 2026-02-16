@@ -1,11 +1,11 @@
 {
   "name": "bbconf",
-  "version": "0.14.3",
+  "version": "0.14.7",
   "summary": "Configuration package for bedbase project",
   "author": "Michal Stolarczyk, Oleksandr Khoroshevskyi",
   "license": "BSD2",
   "home_page": "https://databio.org",
-  "download_filename": "bbconf-0.14.3.tar.gz",
-  "download_time": "2026-02-01T05:50:00.026774",
+  "download_filename": "bbconf-0.14.7.tar.gz",
+  "download_time": "2026-02-16T19:08:12.041697",
   "package_url": "https://pypi.org/project/bbconf/"
 }

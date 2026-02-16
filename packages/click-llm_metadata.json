@@ -1,11 +1,11 @@
 {
   "name": "click-llm",
-  "version": "0.1.1.dev5",
+  "version": "0.2",
   "summary": "Inject an llm command into Click CLIs for command discovery",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "click_llm-0.1.1.dev5.tar.gz",
-  "download_time": "2026-02-16T18:09:02.830338",
+  "download_filename": "click_llm-0.2.tar.gz",
+  "download_time": "2026-02-16T19:07:40.401059",
   "package_url": "https://pypi.org/project/click-llm/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tinymovr",
-  "version": "2.5.0",
+  "version": "2.5.1",
   "summary": "Tinymovr Studio",
   "author": "Yannis Chatzikonstantinou",
   "license": null,
   "home_page": "https://github.com/yconst/Tinymovr",
-  "download_filename": "tinymovr-2.5.0.tar.gz",
-  "download_time": "2026-02-15T20:54:35.285426",
+  "download_filename": "tinymovr-2.5.1.tar.gz",
+  "download_time": "2026-02-16T19:08:04.260256",
   "package_url": "https://pypi.org/project/tinymovr/"
 }

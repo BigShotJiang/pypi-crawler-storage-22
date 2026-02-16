@@ -1,11 +1,11 @@
 {
   "name": "aablocks",
-  "version": "0.1.1",
+  "version": "0.1.7",
   "summary": "A-Alpha Bio SDK for accessing Atlas datasets",
   "author": "A-Alpha Bio",
   "license": null,
   "home_page": null,
-  "download_filename": "aablocks-0.1.1.tar.gz",
-  "download_time": "2026-02-11T05:48:52.748555",
+  "download_filename": "aablocks-0.1.7.tar.gz",
+  "download_time": "2026-02-16T19:07:39.377210",
   "package_url": "https://pypi.org/project/aablocks/"
 }

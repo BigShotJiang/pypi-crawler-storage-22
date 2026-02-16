@@ -1,0 +1,11 @@
+{
+  "name": "ttsim3d",
+  "version": "0.4.2",
+  "summary": "Simulate a 3D electrostatic potential map from a PDB in pyTorch",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "ttsim3d-0.4.2.tar.gz",
+  "download_time": "2026-02-16T19:07:27.958719",
+  "package_url": "https://pypi.org/project/ttsim3d/"
+}

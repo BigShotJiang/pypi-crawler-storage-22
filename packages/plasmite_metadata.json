@@ -1,11 +1,11 @@
 {
   "name": "plasmite",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Persistent JSON message queues for Python - native bindings for local and remote IPC",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plasmite-0.2.0.tar.gz",
-  "download_time": "2026-02-15T17:55:48.746828",
+  "download_filename": "plasmite-0.3.0.tar.gz",
+  "download_time": "2026-02-16T19:07:54.496120",
   "package_url": "https://pypi.org/project/plasmite/"
 }

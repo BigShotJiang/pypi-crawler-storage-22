@@ -1,0 +1,11 @@
+{
+  "name": "zeroreg",
+  "version": "0.1.0",
+  "summary": "Regex was a mistake. A human-readable regex builder for Python.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zeroreg-0.1.0.tar.gz",
+  "download_time": "2026-02-16T19:07:32.679698",
+  "package_url": "https://pypi.org/project/zeroreg/"
+}

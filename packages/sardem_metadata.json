@@ -1,0 +1,11 @@
+{
+  "name": "sardem",
+  "version": "0.13.0",
+  "summary": "Download and crop DEMs for InSAR processing",
+  "author": "Scott Staniewicz",
+  "license": null,
+  "home_page": "https://github.com/scottstanie/sardem",
+  "download_filename": "sardem-0.13.0.tar.gz",
+  "download_time": "2026-02-16T19:07:47.139323",
+  "package_url": "https://pypi.org/project/sardem/"
+}

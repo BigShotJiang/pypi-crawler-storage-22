@@ -1,11 +1,11 @@
 {
   "name": "xcli-v2",
-  "version": "0.1.2",
+  "version": "0.1.7",
   "summary": "Open-source CLI for composing and publishing X posts",
   "author": "Twitter CLI Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "xcli_v2-0.1.2.tar.gz",
-  "download_time": "2026-02-14T01:34:15.516412",
+  "download_filename": "xcli_v2-0.1.7.tar.gz",
+  "download_time": "2026-02-16T19:07:45.551012",
   "package_url": "https://pypi.org/project/xcli-v2/"
 }

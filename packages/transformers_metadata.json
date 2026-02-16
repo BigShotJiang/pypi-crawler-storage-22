@@ -1,0 +1,11 @@
+{
+  "name": "transformers",
+  "version": "5.2.0",
+  "summary": "Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+  "author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
+  "license": "Apache 2.0 License",
+  "home_page": "https://github.com/huggingface/transformers",
+  "download_filename": "transformers-5.2.0.tar.gz",
+  "download_time": "2026-02-16T19:07:50.811475",
+  "package_url": "https://pypi.org/project/transformers/"
+}
