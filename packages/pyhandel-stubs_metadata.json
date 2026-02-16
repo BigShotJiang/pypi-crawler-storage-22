@@ -1,11 +1,11 @@
 {
   "name": "pyhandel-stubs",
-  "version": "0.1.18",
+  "version": "0.2.0",
   "summary": "Type stubs for pyhandel library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhandel_stubs-0.1.18.tar.gz",
-  "download_time": "2026-02-14T11:47:56.713390",
+  "download_filename": "pyhandel_stubs-0.2.0.tar.gz",
+  "download_time": "2026-02-16T16:02:23.748695",
   "package_url": "https://pypi.org/project/pyhandel-stubs/"
 }

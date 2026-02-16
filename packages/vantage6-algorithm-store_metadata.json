@@ -1,0 +1,11 @@
+{
+  "name": "vantage6-algorithm-store",
+  "version": "4.13.6",
+  "summary": "Vantage6 algorithm store",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/vantage6/vantage6",
+  "download_filename": "vantage6_algorithm_store-4.13.6.tar.gz",
+  "download_time": "2026-02-16T16:02:11.384703",
+  "package_url": "https://pypi.org/project/vantage6-algorithm-store/"
+}

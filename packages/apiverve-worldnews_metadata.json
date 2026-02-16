@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-worldnews",
+  "version": "1.1.14",
+  "summary": "News API is a simple tool for scraping news data. It returns the news title, description, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_worldnews-1.1.14.tar.gz",
+  "download_time": "2026-02-16T16:02:13.501658",
+  "package_url": "https://pypi.org/project/apiverve-worldnews/"
+}

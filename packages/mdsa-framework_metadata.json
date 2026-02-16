@@ -1,0 +1,11 @@
+{
+  "name": "mdsa-framework",
+  "version": "2.0.0",
+  "summary": "Domain-agnostic AI orchestration framework for e-commerce, healthcare, HR, finance, and custom domains",
+  "author": "MDSA Team",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/VickyVignesh2002/MDSA-Orchestration-Framework",
+  "download_filename": "mdsa_framework-2.0.0.tar.gz",
+  "download_time": "2026-02-16T16:02:01.803508",
+  "package_url": "https://pypi.org/project/mdsa-framework/"
+}

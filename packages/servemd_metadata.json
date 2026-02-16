@@ -1,11 +1,11 @@
 {
   "name": "servemd",
-  "version": "0.1.0",
-  "summary": "Beautiful markdown documentation server for humans and AI with native llms.txt support",
+  "version": "1.0.0",
+  "summary": "Beautiful markdown documentation server for humans and AI with native llms.txt and MCP (Model Context Protocol) support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "servemd-0.1.0.tar.gz",
-  "download_time": "2026-01-31T13:30:04.532964",
+  "download_filename": "servemd-1.0.0.tar.gz",
+  "download_time": "2026-02-16T16:02:08.757457",
   "package_url": "https://pypi.org/project/servemd/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "meili-ros-lib",
+  "version": "0.3.19",
+  "summary": "Library combining common functions of Meili Agent ROS1 and ROS2",
+  "author": "nuriafe",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/meilirobots/public/meili-ros-lib",
+  "download_filename": "meili_ros_lib-0.3.19.tar.gz",
+  "download_time": "2026-02-16T16:02:08.246451",
+  "package_url": "https://pypi.org/project/meili-ros-lib/"
+}

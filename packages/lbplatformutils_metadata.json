@@ -1,0 +1,11 @@
+{
+  "name": "lbplatformutils",
+  "version": "4.6.0",
+  "summary": "utilities for platform detection",
+  "author": "CERN - LHCb Core Software",
+  "license": "GPL-3.0+",
+  "home_page": "https://gitlab.cern.ch/lhcb-core/LbPlatformUtils",
+  "download_filename": "lbplatformutils-4.6.0.tar.gz",
+  "download_time": "2026-02-16T16:02:43.124892",
+  "package_url": "https://pypi.org/project/lbplatformutils/"
+}

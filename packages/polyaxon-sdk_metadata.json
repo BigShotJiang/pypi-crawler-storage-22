@@ -1,11 +1,11 @@
 {
   "name": "polyaxon-sdk",
-  "version": "2.13.0",
+  "version": "2.13.1",
   "summary": "Polyaxon SDKs and REST API specification.",
   "author": "Polyaxon sdk",
   "license": null,
   "home_page": null,
-  "download_filename": "polyaxon_sdk-2.13.0.tar.gz",
-  "download_time": "2026-02-11T18:13:35.032096",
+  "download_filename": "polyaxon_sdk-2.13.1.tar.gz",
+  "download_time": "2026-02-16T16:02:28.529551",
   "package_url": "https://pypi.org/project/polyaxon-sdk/"
 }

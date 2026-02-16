@@ -1,0 +1,11 @@
+{
+  "name": "fakeredis",
+  "version": "2.34.0",
+  "summary": "Python implementation of redis API, can be used for testing purposes.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fakeredis-2.34.0.tar.gz",
+  "download_time": "2026-02-16T16:02:25.384794",
+  "package_url": "https://pypi.org/project/fakeredis/"
+}

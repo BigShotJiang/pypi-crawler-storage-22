@@ -1,11 +1,11 @@
 {
   "name": "attestant",
-  "version": "0.8.7",
+  "version": "0.8.11",
   "summary": "Attestant: Cryptographically Provable AI Compliance for Banks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "attestant-0.8.7.tar.gz",
-  "download_time": "2026-02-15T21:25:37.799006",
+  "download_filename": "attestant-0.8.11.tar.gz",
+  "download_time": "2026-02-16T16:02:24.872158",
   "package_url": "https://pypi.org/project/attestant/"
 }

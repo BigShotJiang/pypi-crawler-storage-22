@@ -1,11 +1,11 @@
 {
   "name": "thds.mops",
-  "version": "3.14.20260206204649",
+  "version": "3.14.20260216155555",
   "summary": "ML Ops tools for Trilliant Health",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thds_mops-3.14.20260206204649-py3-none-any.whl",
-  "download_time": "2026-02-06T20:53:38.100066",
+  "download_filename": "thds_mops-3.14.20260216155555-py3-none-any.whl",
+  "download_time": "2026-02-16T16:02:27.488702",
   "package_url": "https://pypi.org/project/thds.mops/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "tpcav",
-  "version": "0.3.2",
+  "version": "0.4.8",
   "summary": "Testing with PCA projected Concept Activation Vectors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tpcav-0.3.2.tar.gz",
-  "download_time": "2026-02-08T16:59:34.618930",
+  "download_filename": "tpcav-0.4.8.tar.gz",
+  "download_time": "2026-02-16T16:02:45.166227",
   "package_url": "https://pypi.org/project/tpcav/"
 }

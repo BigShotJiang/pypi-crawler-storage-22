@@ -1,0 +1,11 @@
+{
+  "name": "trello-mcp-server",
+  "version": "1.0.1",
+  "summary": "Model Context Protocol server for Trello API integration",
+  "author": "Carlos Gomez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "trello_mcp_server-1.0.1.tar.gz",
+  "download_time": "2026-02-16T16:02:25.894814",
+  "package_url": "https://pypi.org/project/trello-mcp-server/"
+}
