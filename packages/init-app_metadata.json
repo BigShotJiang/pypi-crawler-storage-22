@@ -1,11 +1,11 @@
 {
   "name": "init-app",
-  "version": "0.1.0",
+  "version": "0.1.0b1",
   "summary": "Interactive Python CLI for scaffolding backend projects (Flask, Django, FastAPI, etc.)",
   "author": "TechQuanta",
   "license": null,
   "home_page": "https://github.com/TechQuanta/py-create",
-  "download_filename": "init_app-0.1.0-py3-none-any.whl",
-  "download_time": "2026-02-16T19:07:30.607394",
+  "download_filename": "init_app-0.1.0b1-py3-none-any.whl",
+  "download_time": "2026-02-16T19:50:27.561221",
   "package_url": "https://pypi.org/project/init-app/"
 }

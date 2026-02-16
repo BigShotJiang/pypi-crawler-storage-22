@@ -1,18 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-16T19:08:13.579921
-- **Total Packages**: 92
-- **Total Size**: 65.69 MB
+- **Download Time**: 2026-02-16T19:51:17.772550
+- **Total Packages**: 93
+- **Total Size**: 16.45 MB
 
 ## Packages List
-- cmdop-bot
-- batabyal
-- querycraft
-- saengra
-- preset-mcp
-- sqlmodel
-- sqlmodel-slim
 - ttsim3d
 - accelforge
 - AstrBot
@@ -20,6 +13,7 @@
 - hydroopt
 - init-app
 - mcp-vector-search
+- cmdop-bot
 - mnexium
 - downstream
 - zeroreg
@@ -98,3 +92,10 @@
 - bbconf
 - hcom
 - translate-messages
+- fixturify
+- pyphi-cli
+- remotion-lambda
+- alter-sdk
+- magetools
+- typhonbreaker
+- libviper

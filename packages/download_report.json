@@ -1,15 +1,8 @@
 {
-  "download_time": "2026-02-16T19:08:13.579921",
-  "total_packages_downloaded": 92,
-  "total_size_mb": 65.69,
+  "download_time": "2026-02-16T19:51:17.772550",
+  "total_packages_downloaded": 93,
+  "total_size_mb": 16.45,
   "packages": [
-    "cmdop-bot",
-    "batabyal",
-    "querycraft",
-    "saengra",
-    "preset-mcp",
-    "sqlmodel",
-    "sqlmodel-slim",
     "ttsim3d",
     "accelforge",
     "AstrBot",
@@ -17,6 +10,7 @@
     "hydroopt",
     "init-app",
     "mcp-vector-search",
+    "cmdop-bot",
     "mnexium",
     "downstream",
     "zeroreg",
@@ -94,6 +88,13 @@
     "keep-skill",
     "bbconf",
     "hcom",
-    "translate-messages"
+    "translate-messages",
+    "fixturify",
+    "pyphi-cli",
+    "remotion-lambda",
+    "alter-sdk",
+    "magetools",
+    "typhonbreaker",
+    "libviper"
   ]
 }
