@@ -1,0 +1,11 @@
+{
+  "name": "lmstudio-agent-config",
+  "version": "0.1.2",
+  "summary": "Generate and update agent config files from LM Studio models for VS Code Copilot, OpenCode, Pi, and Codex.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmstudio_agent_config-0.1.2.tar.gz",
+  "download_time": "2026-02-16T04:14:57.055548",
+  "package_url": "https://pypi.org/project/lmstudio-agent-config/"
+}

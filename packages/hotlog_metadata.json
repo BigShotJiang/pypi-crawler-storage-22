@@ -1,0 +1,11 @@
+{
+  "name": "hotlog",
+  "version": "0.2.0",
+  "summary": "cli loggging utilities",
+  "author": "hotdog-werx",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hotlog-0.2.0.tar.gz",
+  "download_time": "2026-02-16T04:15:11.250638",
+  "package_url": "https://pypi.org/project/hotlog/"
+}

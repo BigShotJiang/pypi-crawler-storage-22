@@ -1,11 +1,11 @@
 {
   "name": "iafisher-foundation",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "iafisher's utility libraries for Python",
   "author": "Ian Fisher",
   "license": "MIT",
   "home_page": "https://github.com/iafisher/foundation",
-  "download_filename": "iafisher_foundation-0.1.5.tar.gz",
-  "download_time": "2026-02-15T15:25:00.757544",
+  "download_filename": "iafisher_foundation-0.1.6.tar.gz",
+  "download_time": "2026-02-16T04:15:04.405487",
   "package_url": "https://pypi.org/project/iafisher-foundation/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "crucible-mcp",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Code review MCP server for Claude. Not affiliated with Atlassian.",
   "author": "be.nvy",
   "license": null,
   "home_page": null,
-  "download_filename": "crucible_mcp-1.4.0.tar.gz",
-  "download_time": "2026-02-15T23:54:02.537820",
+  "download_filename": "crucible_mcp-1.4.1.tar.gz",
+  "download_time": "2026-02-16T04:15:15.488948",
   "package_url": "https://pypi.org/project/crucible-mcp/"
 }

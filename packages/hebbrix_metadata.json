@@ -1,0 +1,11 @@
+{
+  "name": "hebbrix",
+  "version": "2.0.2",
+  "summary": "Advanced Memory API for AI Agents with Reinforcement Learning - 3-line integration",
+  "author": "Hebbrix Team",
+  "license": "MIT",
+  "home_page": "https://github.com/hebbrix/hebbrix-python",
+  "download_filename": "hebbrix-2.0.2.tar.gz",
+  "download_time": "2026-02-16T04:14:43.223564",
+  "package_url": "https://pypi.org/project/hebbrix/"
+}

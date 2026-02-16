@@ -1,0 +1,11 @@
+{
+  "name": "agentwallet-gov",
+  "version": "0.1.0",
+  "summary": "Financial governance infrastructure for AI agents — spend controls, rules engine, kill switch, and audit trail.",
+  "author": "Jack Davis",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentwallet_gov-0.1.0.tar.gz",
+  "download_time": "2026-02-16T04:15:28.073239",
+  "package_url": "https://pypi.org/project/agentwallet-gov/"
+}

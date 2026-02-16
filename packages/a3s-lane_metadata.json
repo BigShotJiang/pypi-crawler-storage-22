@@ -1,0 +1,11 @@
+{
+  "name": "a3s-lane",
+  "version": "0.2.2",
+  "summary": "Python bindings for a3s-lane priority command queue",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "a3s_lane-0.2.2-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-16T04:14:52.853522",
+  "package_url": "https://pypi.org/project/a3s-lane/"
+}

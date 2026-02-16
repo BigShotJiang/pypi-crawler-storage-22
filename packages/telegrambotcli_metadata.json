@@ -1,0 +1,11 @@
+{
+  "name": "telegrambotcli",
+  "version": "0.4.2",
+  "summary": "A utility for quickly generating projects on aiogram 3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "telegrambotcli-0.4.2.tar.gz",
+  "download_time": "2026-02-16T04:15:10.210926",
+  "package_url": "https://pypi.org/project/telegrambotcli/"
+}

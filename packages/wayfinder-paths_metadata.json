@@ -1,11 +1,11 @@
 {
   "name": "wayfinder-paths",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Wayfinder Path: strategies and adapters",
   "author": "Wayfinder",
   "license": null,
   "home_page": null,
-  "download_filename": "wayfinder_paths-0.5.0.tar.gz",
-  "download_time": "2026-02-14T22:53:39.788561",
+  "download_filename": "wayfinder_paths-0.6.0.tar.gz",
+  "download_time": "2026-02-16T04:15:27.553769",
   "package_url": "https://pypi.org/project/wayfinder-paths/"
 }

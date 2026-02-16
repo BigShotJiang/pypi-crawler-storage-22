@@ -1,0 +1,11 @@
+{
+  "name": "bargain",
+  "version": "0.1.2",
+  "summary": "BARGAIN: Guaranteed Accurate AI for Less",
+  "author": "Sepanta Zeighami",
+  "license": "MIT",
+  "home_page": "https://github.com/szeighami/BARGAIN",
+  "download_filename": "bargain-0.1.2.tar.gz",
+  "download_time": "2026-02-16T04:14:45.348478",
+  "package_url": "https://pypi.org/project/bargain/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "afterburn",
+  "version": "0.6.0",
+  "summary": "Post-training diagnostics for LLMs — what did fine-tuning actually do to your model?",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "afterburn-0.6.0.tar.gz",
+  "download_time": "2026-02-16T04:15:08.110907",
+  "package_url": "https://pypi.org/project/afterburn/"
+}

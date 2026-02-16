@@ -1,0 +1,11 @@
+{
+  "name": "types-pyperclip",
+  "version": "1.11.0.20260216",
+  "summary": "Typing stubs for pyperclip",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "types_pyperclip-1.11.0.20260216.tar.gz",
+  "download_time": "2026-02-16T04:14:46.912992",
+  "package_url": "https://pypi.org/project/types-pyperclip/"
+}
