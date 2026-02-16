@@ -1,11 +1,11 @@
 {
   "name": "deltacycle",
-  "version": "0.28.1",
+  "version": "0.29.0",
   "summary": "Delta Cycle",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deltacycle-0.28.1.tar.gz",
-  "download_time": "2026-02-01T05:49:43.198473",
+  "download_filename": "deltacycle-0.29.0.tar.gz",
+  "download_time": "2026-02-16T06:52:04.410473",
   "package_url": "https://pypi.org/project/deltacycle/"
 }

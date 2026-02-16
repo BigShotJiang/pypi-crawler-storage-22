@@ -1,11 +1,11 @@
 {
   "name": "acs-data-collection",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "summary": "ACS Data Collection Service - Professional data collection from marketplaces to ClickHouse",
   "author": "AbovyansConsultingServices",
   "license": null,
   "home_page": "https://github.com/abovyanmg/data-collection-service",
-  "download_filename": "acs_data_collection-1.0.4.tar.gz",
-  "download_time": "2026-02-14T12:43:33.821961",
+  "download_filename": "acs_data_collection-1.0.6-py3-none-any.whl",
+  "download_time": "2026-02-16T06:52:06.460144",
   "package_url": "https://pypi.org/project/acs-data-collection/"
 }

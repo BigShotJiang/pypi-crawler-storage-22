@@ -1,11 +1,11 @@
 {
   "name": "mes-courriels",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "A Python mail connector library",
   "author": null,
-  "license": "Proprietary",
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mes_courriels-0.0.1.tar.gz",
-  "download_time": "2026-02-15T19:43:07.668846",
+  "download_filename": "mes_courriels-0.0.3.tar.gz",
+  "download_time": "2026-02-16T06:51:33.027705",
   "package_url": "https://pypi.org/project/mes-courriels/"
 }

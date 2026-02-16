@@ -1,11 +1,11 @@
 {
   "name": "cog-mcp-experimental",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Unofficial MCP server for Cognite Data Fusion data modeling",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cog_mcp_experimental-0.2.0.tar.gz",
-  "download_time": "2026-02-16T05:49:29.072798",
+  "download_filename": "cog_mcp_experimental-0.2.2.tar.gz",
+  "download_time": "2026-02-16T06:52:05.433467",
   "package_url": "https://pypi.org/project/cog-mcp-experimental/"
 }

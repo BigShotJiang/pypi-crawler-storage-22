@@ -1,11 +1,11 @@
 {
   "name": "macer",
-  "version": "0.2.9",
+  "version": "0.2.10",
   "summary": "Machine-learning accelerated Atomic Computational Environment for automated Research workflows",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "macer-0.2.9.tar.gz",
-  "download_time": "2026-02-15T06:36:12.439395",
+  "download_filename": "macer-0.2.10.tar.gz",
+  "download_time": "2026-02-16T06:51:40.375854",
   "package_url": "https://pypi.org/project/macer/"
 }

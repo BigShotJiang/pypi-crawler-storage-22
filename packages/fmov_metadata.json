@@ -1,0 +1,11 @@
+{
+  "name": "fmov",
+  "version": "0.4.2",
+  "summary": "A simple, optimized way to programmatically create video with python.",
+  "author": "Dylan DiBeneditto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fmov-0.4.2.tar.gz",
+  "download_time": "2026-02-16T06:52:11.247650",
+  "package_url": "https://pypi.org/project/fmov/"
+}

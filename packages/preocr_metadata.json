@@ -1,11 +1,11 @@
 {
   "name": "preocr",
-  "version": "1.3.0",
-  "summary": "A fast, CPU-only library that intelligently detects whether files need OCR processing before expensive OCR operations. Uses hybrid adaptive pipeline for 92-95% accuracy.",
-  "author": "PreOCR Contributors",
-  "license": null,
+  "version": "1.4.0",
+  "summary": "A fast, layout-aware OCR decision engine for document processing pipelines. Detects whether files truly require OCR before expensive processing, reducing unnecessary OCR calls while preserving extraction reliability.",
+  "author": "Yuvaraj Kannan",
+  "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "preocr-1.3.0.tar.gz",
-  "download_time": "2026-02-14T17:45:45.259969",
+  "download_filename": "preocr-1.4.0.tar.gz",
+  "download_time": "2026-02-16T06:51:44.533351",
   "package_url": "https://pypi.org/project/preocr/"
 }

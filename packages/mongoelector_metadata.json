@@ -1,0 +1,11 @@
+{
+  "name": "mongoelector",
+  "version": "1.0.2",
+  "summary": "Distributed leader election and locking using MongoDB",
+  "author": "Zeb Palmer",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mongoelector-1.0.2.tar.gz",
+  "download_time": "2026-02-16T06:52:09.190868",
+  "package_url": "https://pypi.org/project/mongoelector/"
+}

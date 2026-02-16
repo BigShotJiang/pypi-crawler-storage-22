@@ -1,11 +1,11 @@
 {
   "name": "razin",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "Static Analysis for LLM Agent Skills",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "razin-1.1.1.tar.gz",
-  "download_time": "2026-02-15T17:00:46.028820",
+  "download_filename": "razin-1.2.0.tar.gz",
+  "download_time": "2026-02-16T06:51:45.044790",
   "package_url": "https://pypi.org/project/razin/"
 }

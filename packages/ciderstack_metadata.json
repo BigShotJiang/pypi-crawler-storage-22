@@ -1,0 +1,11 @@
+{
+  "name": "ciderstack",
+  "version": "0.1.1",
+  "summary": "CiderStack Fleet SDK for Python",
+  "author": "CiderStack",
+  "license": null,
+  "home_page": "https://ciderstack.io",
+  "download_filename": "ciderstack-0.1.1.tar.gz",
+  "download_time": "2026-02-16T06:51:37.778399",
+  "package_url": "https://pypi.org/project/ciderstack/"
+}

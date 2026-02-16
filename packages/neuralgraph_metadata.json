@@ -1,11 +1,11 @@
 {
   "name": "neuralgraph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "NeuralGraph — Not quite a neural network. More than a graph. A context engine for AI.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "neuralgraph-0.0.1.tar.gz",
-  "download_time": "2026-02-16T04:15:14.423921",
+  "download_filename": "neuralgraph-0.0.2.tar.gz",
+  "download_time": "2026-02-16T06:51:59.244127",
   "package_url": "https://pypi.org/project/neuralgraph/"
 }
