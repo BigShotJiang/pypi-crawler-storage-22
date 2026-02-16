@@ -1,0 +1,11 @@
+{
+  "name": "MinexPy",
+  "version": "0.1.2",
+  "summary": "A python toolkit for geoscience researchers and students",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "minexpy-0.1.2.tar.gz",
+  "download_time": "2026-02-16T23:57:35.835333",
+  "package_url": "https://pypi.org/project/MinexPy/"
+}

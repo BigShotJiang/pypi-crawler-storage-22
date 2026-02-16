@@ -1,0 +1,11 @@
+{
+  "name": "OASYS2-XRayServer",
+  "version": "1.0.4",
+  "summary": "X-Ray Server: Sergey Stepanov's X-Ray Server on OASYS 2",
+  "author": "Luca Rebuffi",
+  "license": "GPLv3",
+  "home_page": "https://github.com/oasys-kit/OASYS2-XRayServer",
+  "download_filename": "oasys2_xrayserver-1.0.4.tar.gz",
+  "download_time": "2026-02-16T23:57:54.102973",
+  "package_url": "https://pypi.org/project/OASYS2-XRayServer/"
+}

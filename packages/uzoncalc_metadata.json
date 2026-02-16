@@ -1,0 +1,11 @@
+{
+  "name": "uzoncalc",
+  "version": "1.0.2",
+  "summary": "UzonCalc is a tool for writing engineering calculation documents using Python. With it, you can write calculation reports as smoothly as writing Python, and benefit from the full Python ecosystem and AI assistance.",
+  "author": "uyoufu",
+  "license": null,
+  "home_page": "https://github.com/uyoufu/UzonCalc",
+  "download_filename": "uzoncalc-1.0.2.tar.gz",
+  "download_time": "2026-02-16T23:57:57.375246",
+  "package_url": "https://pypi.org/project/uzoncalc/"
+}

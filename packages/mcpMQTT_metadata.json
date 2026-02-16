@@ -1,0 +1,11 @@
+{
+  "name": "mcpMQTT",
+  "version": "0.0.3",
+  "summary": "An MCP server for basic MQTT operations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpmqtt-0.0.3.tar.gz",
+  "download_time": "2026-02-16T23:58:01.830317",
+  "package_url": "https://pypi.org/project/mcpMQTT/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cloud-files",
-  "version": "6.1.0",
+  "version": "6.1.2",
   "summary": "Fast access to cloud storage and local FS.",
   "author": "William Silversmith",
   "license": "BSD-3-Clause",
   "home_page": "https://github.com/seung-lab/cloud-files/",
-  "download_filename": "cloud_files-6.1.0.tar.gz",
-  "download_time": "2026-02-02T23:07:22.715806",
+  "download_filename": "cloud_files-6.1.2.tar.gz",
+  "download_time": "2026-02-16T23:57:51.943405",
   "package_url": "https://pypi.org/project/cloud-files/"
 }

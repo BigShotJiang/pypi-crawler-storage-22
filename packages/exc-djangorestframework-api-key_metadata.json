@@ -1,0 +1,11 @@
+{
+  "name": "exc-djangorestframework-api-key",
+  "version": "1.0.0",
+  "summary": "API key permissions for the Django REST Framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "exc_djangorestframework_api_key-1.0.0.tar.gz",
+  "download_time": "2026-02-16T23:57:52.478878",
+  "package_url": "https://pypi.org/project/exc-djangorestframework-api-key/"
+}

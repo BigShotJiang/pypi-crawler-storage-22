@@ -1,11 +1,11 @@
 {
   "name": "mudio",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "summary": "Friendly command-line music-metadata editor and Python library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mudio-3.1.0.tar.gz",
-  "download_time": "2026-02-16T23:30:21.774505",
+  "download_filename": "mudio-3.1.1.tar.gz",
+  "download_time": "2026-02-16T23:57:50.865111",
   "package_url": "https://pypi.org/project/mudio/"
 }
