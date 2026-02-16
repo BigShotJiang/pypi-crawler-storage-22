@@ -1,0 +1,11 @@
+{
+  "name": "spot-optimizer",
+  "version": "1.2.11",
+  "summary": "AWS EC2 spot instance optimizer",
+  "author": "Amar Prakash",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spot_optimizer-1.2.11.tar.gz",
+  "download_time": "2026-02-16T01:49:52.791779",
+  "package_url": "https://pypi.org/project/spot-optimizer/"
+}

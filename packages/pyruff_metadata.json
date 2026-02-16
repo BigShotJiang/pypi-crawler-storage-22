@@ -1,0 +1,11 @@
+{
+  "name": "pyruff",
+  "version": "0.15.1rc5",
+  "summary": "Native Python API for Ruff linter and formatter",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyruff-0.15.1rc5-cp311-cp311-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-16T01:49:39.010481",
+  "package_url": "https://pypi.org/project/pyruff/"
+}

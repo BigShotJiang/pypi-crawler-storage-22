@@ -1,0 +1,11 @@
+{
+  "name": "bugstack",
+  "version": "1.0.0",
+  "summary": "Official BugStack SDK for Python — capture, report, and auto-fix production errors.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bugstack-1.0.0.tar.gz",
+  "download_time": "2026-02-16T01:49:37.364348",
+  "package_url": "https://pypi.org/project/bugstack/"
+}
