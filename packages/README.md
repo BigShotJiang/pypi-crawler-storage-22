@@ -1,24 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-02-16T16:02:51.279902
+- **Download Time**: 2026-02-16T16:47:21.788543
 - **Total Packages**: 93
-- **Total Size**: 29.47 MB
+- **Total Size**: 2.08 MB
 
 ## Packages List
-- article-backup
-- meadoc
-- clue-api
-- mdsa-framework
-- ownscribe
-- django-ml-audit
-- apiverve-opensourcelicenses
-- apiverve-numbertowords
-- orq-ai-sdk
-- pyausaxs
-- yfinance-fixed
-- gmail-sdk-ldraney
-- gcal-mcp-ldraney
 - pyhandel
 - remoroo
 - meili-ros-lib
@@ -87,6 +74,7 @@
 - lbplatformutils
 - supercharge-ai
 - revlo-cli
+- meadoc
 - tpcav
 - preset-mcp
 - QuizGenerator
@@ -99,3 +87,15 @@
 - holoviz-utils
 - aiosolaredge
 - apiverve-moonphases
+- embedl-hub
+- poscidyn
+- flaresolverr-session
+- apiverve-meteoritelandings
+- majordomo-llm
+- pfc-mcp
+- browser-use-ai
+- scikit-surprise-2
+- pytest-fkit
+- pfc-mcp-bridge
+- py-smart-test
+- colibri-stateless

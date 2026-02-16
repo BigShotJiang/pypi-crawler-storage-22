@@ -1,11 +1,11 @@
 {
   "name": "pfc-mcp",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "MCP server for ITASCA PFC discrete element simulation control and documentation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pfc_mcp-0.2.1.tar.gz",
-  "download_time": "2026-02-16T10:39:04.119409",
+  "download_filename": "pfc_mcp-0.2.2.tar.gz",
+  "download_time": "2026-02-16T16:47:17.424410",
   "package_url": "https://pypi.org/project/pfc-mcp/"
 }

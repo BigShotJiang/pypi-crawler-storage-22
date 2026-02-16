@@ -1,11 +1,11 @@
 {
   "name": "sailor-remote-agent",
-  "version": "0.4.2",
+  "version": "0.4.4",
   "summary": "Exam evaluation and answer display system with SSH verification",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sailor_remote_agent-0.4.2.tar.gz",
-  "download_time": "2026-02-16T16:02:32.641765",
+  "download_filename": "sailor_remote_agent-0.4.4.tar.gz",
+  "download_time": "2026-02-16T16:46:52.966273",
   "package_url": "https://pypi.org/project/sailor-remote-agent/"
 }

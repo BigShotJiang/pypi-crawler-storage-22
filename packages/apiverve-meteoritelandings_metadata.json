@@ -1,0 +1,11 @@
+{
+  "name": "apiverve-meteoritelandings",
+  "version": "1.1.14",
+  "summary": "Meteorites is a simple tool for getting meteorite data. It returns a list of meteorites that have fallen to Earth.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "apiverve_meteoritelandings-1.1.14.tar.gz",
+  "download_time": "2026-02-16T16:47:16.061735",
+  "package_url": "https://pypi.org/project/apiverve-meteoritelandings/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "browser-use-ai",
+  "version": "0.1.0",
+  "summary": "Headed/headless PyQt5/QWebEngine browser exposed as an MCP stdio server.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "browser_use_ai-0.1.0.tar.gz",
+  "download_time": "2026-02-16T16:47:18.067229",
+  "package_url": "https://pypi.org/project/browser-use-ai/"
+}
