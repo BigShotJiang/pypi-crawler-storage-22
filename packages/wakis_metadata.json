@@ -1,0 +1,11 @@
+{
+  "name": "wakis",
+  "version": "0.6.2",
+  "summary": "3D Electromagnetic Time-Domain wake and impedance solver",
+  "author": "Elena de la Fuente et al.",
+  "license": "Apache 2.0",
+  "home_page": "https://wakis.readthedocs.io/",
+  "download_filename": "wakis-0.6.2.tar.gz",
+  "download_time": "2026-02-16T10:39:19.985956",
+  "package_url": "https://pypi.org/project/wakis/"
+}

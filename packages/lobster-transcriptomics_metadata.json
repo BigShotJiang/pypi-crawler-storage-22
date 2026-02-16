@@ -1,11 +1,11 @@
 {
   "name": "lobster-transcriptomics",
-  "version": "1.0.1",
+  "version": "1.0.8",
   "summary": "Transcriptomics agents for Lobster AI - single-cell and bulk RNA-seq analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lobster_transcriptomics-1.0.1.tar.gz",
-  "download_time": "2026-02-14T10:56:33.077508",
+  "download_filename": "lobster_transcriptomics-1.0.8.tar.gz",
+  "download_time": "2026-02-16T10:38:43.204313",
   "package_url": "https://pypi.org/project/lobster-transcriptomics/"
 }

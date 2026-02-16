@@ -1,0 +1,11 @@
+{
+  "name": "driconfig",
+  "version": "1.2.0",
+  "summary": "Pydantic-ish YAML configuration management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "driconfig-1.2.0.tar.gz",
+  "download_time": "2026-02-16T10:39:00.996384",
+  "package_url": "https://pypi.org/project/driconfig/"
+}

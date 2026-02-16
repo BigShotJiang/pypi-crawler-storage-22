@@ -1,0 +1,11 @@
+{
+  "name": "sshmenuc",
+  "version": "1.1.0",
+  "summary": "Command line SSH menu and helper utility with cluster support (OO rewrite).",
+  "author": "Davide Isoardi",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "sshmenuc-1.1.0.tar.gz",
+  "download_time": "2026-02-16T10:39:11.497949",
+  "package_url": "https://pypi.org/project/sshmenuc/"
+}
