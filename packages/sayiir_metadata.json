@@ -1,11 +1,11 @@
 {
   "name": "sayiir",
-  "version": "0.1.0a8",
+  "version": "0.1.0a11",
   "summary": "Durable workflow engine with Rust core and Python bindings — checkpointing, fork/join, distributed workers",
   "author": "Yacine Bouraoui <ybsoft2011@live.com>",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sayiir-0.1.0a8.tar.gz",
-  "download_time": "2026-02-16T20:06:30.651951",
+  "download_filename": "sayiir-0.1.0a11.tar.gz",
+  "download_time": "2026-02-16T21:29:18.249361",
   "package_url": "https://pypi.org/project/sayiir/"
 }

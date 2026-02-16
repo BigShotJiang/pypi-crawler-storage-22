@@ -1,0 +1,11 @@
+{
+  "name": "stix2nx",
+  "version": "0.1.0",
+  "summary": "Convert STIX cyber threat intelligence bundles to NetworkX graphs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stix2nx-0.1.0.tar.gz",
+  "download_time": "2026-02-16T21:29:09.707301",
+  "package_url": "https://pypi.org/project/stix2nx/"
+}

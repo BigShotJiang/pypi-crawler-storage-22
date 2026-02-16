@@ -1,11 +1,11 @@
 {
   "name": "naas-abi",
-  "version": "1.5.2",
+  "version": "1.6.0",
   "summary": "Multi-agent orchestrator and knowledge graph management system for AI orchestration, providing comprehensive coordination of specialized AI agents and semantic data management capabilities",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "naas_abi-1.5.2.tar.gz",
-  "download_time": "2026-02-16T11:31:47.681474",
+  "download_filename": "naas_abi-1.6.0.tar.gz",
+  "download_time": "2026-02-16T21:29:12.336066",
   "package_url": "https://pypi.org/project/naas-abi/"
 }

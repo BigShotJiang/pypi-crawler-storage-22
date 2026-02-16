@@ -1,11 +1,11 @@
 {
   "name": "bitcart",
-  "version": "1.19.1.1",
+  "version": "1.19.1.2",
   "summary": "Bitcart coins support library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bitcart-1.19.1.1.tar.gz",
-  "download_time": "2026-02-16T01:50:01.975990",
+  "download_filename": "bitcart-1.19.1.2.tar.gz",
+  "download_time": "2026-02-16T21:29:25.602910",
   "package_url": "https://pypi.org/project/bitcart/"
 }

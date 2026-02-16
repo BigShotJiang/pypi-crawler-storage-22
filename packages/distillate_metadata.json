@@ -1,11 +1,11 @@
 {
   "name": "distillate",
-  "version": "0.1.4",
+  "version": "0.1.6",
   "summary": "Distill research papers from Zotero through reMarkable into structured notes",
   "author": "Romain Lacombe",
   "license": null,
   "home_page": null,
-  "download_filename": "distillate-0.1.4.tar.gz",
-  "download_time": "2026-02-16T06:52:08.167425",
+  "download_filename": "distillate-0.1.6.tar.gz",
+  "download_time": "2026-02-16T21:29:44.566277",
   "package_url": "https://pypi.org/project/distillate/"
 }

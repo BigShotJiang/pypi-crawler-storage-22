@@ -1,0 +1,11 @@
+{
+  "name": "autothink",
+  "version": "4.0.0",
+  "summary": "Throw any data, get a working model. One-click AutoML with intelligent preprocessing, feature engineering, and ensemble optimization.",
+  "author": "Usman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autothink-4.0.0.tar.gz",
+  "download_time": "2026-02-16T21:29:43.525534",
+  "package_url": "https://pypi.org/project/autothink/"
+}

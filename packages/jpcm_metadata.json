@@ -1,0 +1,11 @@
+{
+  "name": "jpcm",
+  "version": "0.1.28",
+  "summary": "A perceptually uniform colormap generator equipped with a traditional-ish Japanese color palette. Allows unique colormap generation and integration with ML experiment workflows.",
+  "author": "Akhil Sadam",
+  "license": null,
+  "home_page": "https://github.com/akhilsadam/perceptual-jp-colormaps",
+  "download_filename": "jpcm-0.1.28.tar.gz",
+  "download_time": "2026-02-16T21:29:51.881264",
+  "package_url": "https://pypi.org/project/jpcm/"
+}

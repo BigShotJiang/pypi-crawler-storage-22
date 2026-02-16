@@ -1,0 +1,11 @@
+{
+  "name": "mura",
+  "version": "0.3.0",
+  "summary": "WandB, Git, and run-table integration for ML++ / eliminating workflow unevenness - Now with Hydra support!",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mura-0.3.0.tar.gz",
+  "download_time": "2026-02-16T21:29:42.487303",
+  "package_url": "https://pypi.org/project/mura/"
+}

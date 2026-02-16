@@ -1,0 +1,11 @@
+{
+  "name": "caso",
+  "version": "5.2.1",
+  "summary": "cASO is an OpenStack Accounting extractor.",
+  "author": "Alvaro Lopez Garcia",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "caso-5.2.1.tar.gz",
+  "download_time": "2026-02-16T21:29:11.812968",
+  "package_url": "https://pypi.org/project/caso/"
+}

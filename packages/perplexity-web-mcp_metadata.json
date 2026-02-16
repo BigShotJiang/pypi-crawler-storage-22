@@ -1,0 +1,11 @@
+{
+  "name": "perplexity-web-mcp",
+  "version": "0.4.1",
+  "summary": "MCP server and Anthropic API-compatible interface for Perplexity AI web interface.",
+  "author": "Jacob Ben David",
+  "license": null,
+  "home_page": null,
+  "download_filename": "perplexity_web_mcp-0.4.1.tar.gz",
+  "download_time": "2026-02-16T21:29:25.081292",
+  "package_url": "https://pypi.org/project/perplexity-web-mcp/"
+}

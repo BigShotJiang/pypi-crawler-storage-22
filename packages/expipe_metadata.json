@@ -1,0 +1,11 @@
+{
+  "name": "expipe",
+  "version": "0.6.1",
+  "summary": "Experiment-data management platform",
+  "author": "CINPLA",
+  "license": null,
+  "home_page": "https://github.com/CINPLA/expipe",
+  "download_filename": "expipe-0.6.1.tar.gz",
+  "download_time": "2026-02-16T21:29:37.780089",
+  "package_url": "https://pypi.org/project/expipe/"
+}
