@@ -1,0 +1,11 @@
+{
+  "name": "mblm",
+  "version": "0.4.1",
+  "summary": "Multiscale Byte Language Model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mblm-0.4.1.tar.gz",
+  "download_time": "2026-02-17T08:31:48.383429",
+  "package_url": "https://pypi.org/project/mblm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hummingbot",
+  "version": "20260126",
+  "summary": "Hummingbot",
+  "author": "Hummingbot Foundation",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/hummingbot/hummingbot",
+  "download_filename": "hummingbot-20260126.tar.gz",
+  "download_time": "2026-02-17T08:32:23.501428",
+  "package_url": "https://pypi.org/project/hummingbot/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "tracetorch",
-  "version": "0.10.0",
+  "version": "0.11.4",
   "summary": "A strict, ergonomic, and powerful Spiking Neural Network (SNN) library for PyTorch.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tracetorch-0.10.0.tar.gz",
-  "download_time": "2026-02-14T08:44:21.566092",
+  "download_filename": "tracetorch-0.11.4.tar.gz",
+  "download_time": "2026-02-17T08:32:12.515772",
   "package_url": "https://pypi.org/project/tracetorch/"
 }

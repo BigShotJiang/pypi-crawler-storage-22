@@ -1,0 +1,11 @@
+{
+  "name": "turludock",
+  "version": "3.3.0",
+  "summary": "Builds ROS docker images that support GUI with either X11 or Wayland.",
+  "author": "Athanasios",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/turlucode/ros-docker-gui",
+  "download_filename": "turludock-3.3.0.tar.gz",
+  "download_time": "2026-02-17T08:31:54.119525",
+  "package_url": "https://pypi.org/project/turludock/"
+}

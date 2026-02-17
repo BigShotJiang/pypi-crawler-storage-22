@@ -1,0 +1,11 @@
+{
+  "name": "blackduck-remediation-metrics",
+  "version": "0.1.19",
+  "summary": "A Python module for extracting and analyzing remediation status metrics from Black Duck",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "blackduck_remediation_metrics-0.1.19.tar.gz",
+  "download_time": "2026-02-17T08:31:51.001440",
+  "package_url": "https://pypi.org/project/blackduck-remediation-metrics/"
+}

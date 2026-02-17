@@ -1,0 +1,11 @@
+{
+  "name": "gluepy",
+  "version": "1.5.3",
+  "summary": "A framework for data scientists",
+  "author": "Marcus Lind",
+  "license": null,
+  "home_page": "https://github.com/gluepy/gluepy",
+  "download_filename": "gluepy-1.5.3.tar.gz",
+  "download_time": "2026-02-17T08:31:52.562629",
+  "package_url": "https://pypi.org/project/gluepy/"
+}

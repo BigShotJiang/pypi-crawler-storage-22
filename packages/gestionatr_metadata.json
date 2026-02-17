@@ -1,0 +1,11 @@
+{
+  "name": "gestionatr",
+  "version": "4.11.3",
+  "summary": "Llibreria de Gestió ATR",
+  "author": "GISCE Enginyeria",
+  "license": "General Public Licence 2",
+  "home_page": "http://www.gisce.net",
+  "download_filename": "gestionatr-4.11.3.tar.gz",
+  "download_time": "2026-02-17T08:32:21.386706",
+  "package_url": "https://pypi.org/project/gestionatr/"
+}

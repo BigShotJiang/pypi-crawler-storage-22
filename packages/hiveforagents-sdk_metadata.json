@@ -1,0 +1,11 @@
+{
+  "name": "hiveforagents-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for the Hive Agent Protocol",
+  "author": "Hive Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hiveforagents_sdk-0.1.1.tar.gz",
+  "download_time": "2026-02-17T08:32:09.916137",
+  "package_url": "https://pypi.org/project/hiveforagents-sdk/"
+}

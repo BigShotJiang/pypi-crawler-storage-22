@@ -1,0 +1,11 @@
+{
+  "name": "plasmidfinder",
+  "version": "3.0.2",
+  "summary": "The application identifies plasmids in total or partial sequenced isolates of bacteria.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "plasmidfinder-3.0.2.tar.gz",
+  "download_time": "2026-02-17T08:32:16.698686",
+  "package_url": "https://pypi.org/project/plasmidfinder/"
+}

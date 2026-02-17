@@ -1,11 +1,11 @@
 {
   "name": "mengram-ai",
-  "version": "2.1.0",
+  "version": "2.3.2",
   "summary": "AI memory layer with autonomous agents. Open-source Mem0 alternative with memory agents, webhooks, and cognitive insights.",
   "author": "Ali Baizhanov",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mengram_ai-2.1.0.tar.gz",
-  "download_time": "2026-02-16T11:31:56.914046",
+  "download_filename": "mengram_ai-2.3.2.tar.gz",
+  "download_time": "2026-02-17T08:32:06.247434",
   "package_url": "https://pypi.org/project/mengram-ai/"
 }

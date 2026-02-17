@@ -1,11 +1,11 @@
 {
   "name": "big-talk-ai",
-  "version": "0.4.4",
+  "version": "0.4.7",
   "summary": "The lightweight, middleware-first LLM framework for Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "big_talk_ai-0.4.4-py3-none-any.whl",
-  "download_time": "2026-02-17T07:44:01.692099",
+  "download_filename": "big_talk_ai-0.4.7-py3-none-any.whl",
+  "download_time": "2026-02-17T08:31:49.961906",
   "package_url": "https://pypi.org/project/big-talk-ai/"
 }

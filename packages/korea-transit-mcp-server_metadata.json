@@ -1,0 +1,11 @@
+{
+  "name": "korea-transit-mcp-server",
+  "version": "0.1.0",
+  "summary": "Korean public transit MCP server - real-time bus/subway info & route search",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "korea_transit_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-02-17T08:32:10.952816",
+  "package_url": "https://pypi.org/project/korea-transit-mcp-server/"
+}
