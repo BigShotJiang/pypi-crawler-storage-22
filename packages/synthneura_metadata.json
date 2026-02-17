@@ -1,11 +1,11 @@
 {
   "name": "synthneura",
-  "version": "4.0.6",
+  "version": "4.0.10",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "synthneura-4.0.6.tar.gz",
-  "download_time": "2026-02-13T15:31:00.024928",
+  "download_filename": "synthneura-4.0.10.tar.gz",
+  "download_time": "2026-02-17T11:11:14.953654",
   "package_url": "https://pypi.org/project/synthneura/"
 }

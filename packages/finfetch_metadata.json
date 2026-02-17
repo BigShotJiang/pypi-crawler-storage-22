@@ -1,0 +1,11 @@
+{
+  "name": "finfetch",
+  "version": "0.2.1",
+  "summary": "Free financial data for Indian stocks — no API key needed.",
+  "author": "Khushmeet Narwal, Karan Veer Singh",
+  "license": null,
+  "home_page": null,
+  "download_filename": "finfetch-0.2.1.tar.gz",
+  "download_time": "2026-02-17T11:11:29.452963",
+  "package_url": "https://pypi.org/project/finfetch/"
+}

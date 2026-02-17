@@ -1,11 +1,11 @@
 {
   "name": "dolphie",
-  "version": "6.13.0",
+  "version": "6.13.2",
   "summary": "Your single pane of glass for real-time analytics into MySQL/MariaDB & ProxySQL",
   "author": "Charles Thompson",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "dolphie-6.13.0.tar.gz",
-  "download_time": "2026-02-16T10:39:07.339538",
+  "download_filename": "dolphie-6.13.2.tar.gz",
+  "download_time": "2026-02-17T11:11:27.911469",
   "package_url": "https://pypi.org/project/dolphie/"
 }

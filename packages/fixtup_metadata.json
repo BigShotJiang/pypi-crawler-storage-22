@@ -1,0 +1,11 @@
+{
+  "name": "fixtup",
+  "version": "0.2.0",
+  "summary": "integration testing on steroids",
+  "author": "Fabien Arcellier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fixtup-0.2.0.tar.gz",
+  "download_time": "2026-02-17T11:11:32.520535",
+  "package_url": "https://pypi.org/project/fixtup/"
+}

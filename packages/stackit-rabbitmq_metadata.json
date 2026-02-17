@@ -1,0 +1,11 @@
+{
+  "name": "stackit-rabbitmq",
+  "version": "0.4.0",
+  "summary": "STACKIT RabbitMQ API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_rabbitmq-0.4.0.tar.gz",
+  "download_time": "2026-02-17T11:11:22.772031",
+  "package_url": "https://pypi.org/project/stackit-rabbitmq/"
+}

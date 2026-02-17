@@ -1,11 +1,11 @@
 {
   "name": "zaira",
-  "version": "0.15.2",
+  "version": "0.15.3",
   "summary": "CLI tool for offline Jira ticket management. Export tickets to markdown, generate reports, and keep everything in sync.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zaira-0.15.2.tar.gz",
-  "download_time": "2026-02-16T14:20:16.855872",
+  "download_filename": "zaira-0.15.3.tar.gz",
+  "download_time": "2026-02-17T11:11:40.737008",
   "package_url": "https://pypi.org/project/zaira/"
 }

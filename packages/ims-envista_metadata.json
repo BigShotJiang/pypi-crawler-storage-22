@@ -1,0 +1,11 @@
+{
+  "name": "ims-envista",
+  "version": "0.1.14",
+  "summary": "Israel Meteorological Service Envista API wrapper package",
+  "author": "Guy Khmelnitsky",
+  "license": "MIT License",
+  "home_page": "https://github.com/GuyKh/py-ims-envista",
+  "download_filename": "ims_envista-0.1.14.tar.gz",
+  "download_time": "2026-02-17T11:11:57.243531",
+  "package_url": "https://pypi.org/project/ims-envista/"
+}

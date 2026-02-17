@@ -1,0 +1,11 @@
+{
+  "name": "ceraviz",
+  "version": "0.1.0",
+  "summary": "Crystal structure visualization and Materials Project search tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ceraviz-0.1.0.tar.gz",
+  "download_time": "2026-02-17T11:11:17.027502",
+  "package_url": "https://pypi.org/project/ceraviz/"
+}

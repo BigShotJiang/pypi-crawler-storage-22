@@ -1,0 +1,11 @@
+{
+  "name": "dbplus",
+  "version": "0.5.0",
+  "summary": "Database-agnostic SQL Interface for Postresql, MySQL, SQLite, DB2 and more",
+  "author": "Klaas Brant",
+  "license": "ISC",
+  "home_page": "https://github.com/klaasbrant/DBPlus",
+  "download_filename": "dbplus-0.5.0.tar.gz",
+  "download_time": "2026-02-17T11:11:57.754575",
+  "package_url": "https://pypi.org/project/dbplus/"
+}
