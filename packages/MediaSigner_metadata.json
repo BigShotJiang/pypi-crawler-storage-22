@@ -1,0 +1,11 @@
+{
+  "name": "MediaSigner",
+  "version": "0.6.3",
+  "summary": "Swarmauri signing facade plugin that aggregates registered SigningBase providers.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mediasigner-0.6.3.tar.gz",
+  "download_time": "2026-02-17T15:12:10.623775",
+  "package_url": "https://pypi.org/project/MediaSigner/"
+}

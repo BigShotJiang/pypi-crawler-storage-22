@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-invoice-supplierinfo-update",
+  "version": "18.0.1.1.0.3",
+  "summary": "In the supplier invoice, automatically updates all products whose unit price on the line is different from the supplier price",
+  "author": "Akretion, GRAP, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/account-invoicing",
+  "download_filename": "odoo_addon_account_invoice_supplierinfo_update-18.0.1.1.0.3-py3-none-any.whl",
+  "download_time": "2026-02-17T15:12:05.806988",
+  "package_url": "https://pypi.org/project/odoo-addon-account-invoice-supplierinfo-update/"
+}

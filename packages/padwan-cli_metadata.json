@@ -1,0 +1,11 @@
+{
+  "name": "padwan-cli",
+  "version": "0.2.2",
+  "summary": "CLI and TUI for padwan-llm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "padwan_cli-0.2.2.tar.gz",
+  "download_time": "2026-02-17T15:11:59.843785",
+  "package_url": "https://pypi.org/project/padwan-cli/"
+}

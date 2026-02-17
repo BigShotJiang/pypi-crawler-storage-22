@@ -1,11 +1,11 @@
 {
   "name": "yuutrace",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": "LLM-oriented observability SDK built on OpenTelemetry with cost/usage tracking",
   "author": "Tomorrowdawn",
   "license": null,
   "home_page": null,
-  "download_filename": "yuutrace-0.1.9.tar.gz",
-  "download_time": "2026-02-15T15:25:24.035242",
+  "download_filename": "yuutrace-0.1.11.tar.gz",
+  "download_time": "2026-02-17T15:12:19.254784",
   "package_url": "https://pypi.org/project/yuutrace/"
 }
