@@ -1,0 +1,11 @@
+{
+  "name": "modelguard-lr",
+  "version": "0.1.2",
+  "summary": "Monitoring, validation, and doc automation tools for ML models",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "modelguard_lr-0.1.2.tar.gz",
+  "download_time": "2026-02-17T12:57:27.364377",
+  "package_url": "https://pypi.org/project/modelguard-lr/"
+}

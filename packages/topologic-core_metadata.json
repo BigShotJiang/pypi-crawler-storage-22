@@ -1,0 +1,11 @@
+{
+  "name": "topologic-core",
+  "version": "8.0.3",
+  "summary": "TopologicPythonBindings wrapper package",
+  "author": "Topologic Authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "topologic_core-8.0.3-cp315-cp315-macosx_14_0_arm64.whl",
+  "download_time": "2026-02-17T12:57:55.038414",
+  "package_url": "https://pypi.org/project/topologic-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pyckett",
+  "version": "0.1.31",
+  "summary": "A wrapper around Pickett's SPFIT and SPCAT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyckett-0.1.31.tar.gz",
+  "download_time": "2026-02-17T12:57:53.963438",
+  "package_url": "https://pypi.org/project/pyckett/"
+}

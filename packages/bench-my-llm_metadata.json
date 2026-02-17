@@ -1,0 +1,11 @@
+{
+  "name": "bench-my-llm",
+  "version": "0.1.1",
+  "summary": "Dead-simple LLM benchmarking CLI. Measure TTFT, TPS, latency, cost, and quality for any OpenAI-compatible API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bench_my_llm-0.1.1.tar.gz",
+  "download_time": "2026-02-17T12:57:21.629956",
+  "package_url": "https://pypi.org/project/bench-my-llm/"
+}

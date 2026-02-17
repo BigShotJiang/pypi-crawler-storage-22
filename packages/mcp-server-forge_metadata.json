@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-forge",
+  "version": "0.1.1",
+  "summary": "Scaffold, test, and publish Model Context Protocol (MCP) servers in seconds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_forge-0.1.1.tar.gz",
+  "download_time": "2026-02-17T12:57:22.149104",
+  "package_url": "https://pypi.org/project/mcp-server-forge/"
+}

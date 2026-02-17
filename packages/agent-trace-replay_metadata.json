@@ -1,0 +1,11 @@
+{
+  "name": "agent-trace-replay",
+  "version": "0.1.1",
+  "summary": "Record, replay, and debug AI agent execution traces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_trace_replay-0.1.1.tar.gz",
+  "download_time": "2026-02-17T12:57:23.709615",
+  "package_url": "https://pypi.org/project/agent-trace-replay/"
+}

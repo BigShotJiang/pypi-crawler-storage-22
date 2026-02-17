@@ -1,0 +1,11 @@
+{
+  "name": "sixtydb-python",
+  "version": "1.0.5",
+  "summary": "Official 60db SDK for Python",
+  "author": "60db",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sixtydb_python-1.0.5.tar.gz",
+  "download_time": "2026-02-17T12:57:53.444200",
+  "package_url": "https://pypi.org/project/sixtydb-python/"
+}

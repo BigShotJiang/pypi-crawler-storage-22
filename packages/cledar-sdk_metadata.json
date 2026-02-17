@@ -1,11 +1,11 @@
 {
   "name": "cledar-sdk",
-  "version": "2.1.0",
+  "version": "2.1.3",
   "summary": "Cledar Python SDK",
   "author": "Cledar",
   "license": null,
   "home_page": null,
-  "download_filename": "cledar_sdk-2.1.0.tar.gz",
-  "download_time": "2026-02-04T12:02:59.509370",
+  "download_filename": "cledar_sdk-2.1.3.tar.gz",
+  "download_time": "2026-02-17T12:57:40.434024",
   "package_url": "https://pypi.org/project/cledar-sdk/"
 }
