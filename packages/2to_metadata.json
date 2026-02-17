@@ -1,0 +1,11 @@
+{
+  "name": "2to",
+  "version": "0.2.1",
+  "summary": "Common utilities for 2_ converters (styles, caching, CLI helpers).",
+  "author": "Henri J. Norden",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "2to-0.2.1.tar.gz",
+  "download_time": "2026-02-17T01:49:03.591403",
+  "package_url": "https://pypi.org/project/2to/"
+}

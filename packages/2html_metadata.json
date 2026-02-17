@@ -1,0 +1,11 @@
+{
+  "name": "2html",
+  "version": "0.1.1",
+  "summary": "Markdown to HTML converter using pandoc (bundled via pypandoc-binary) with built-in styles.",
+  "author": "Henri J. Norden",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "2html-0.1.1.tar.gz",
+  "download_time": "2026-02-17T01:49:03.067276",
+  "package_url": "https://pypi.org/project/2html/"
+}

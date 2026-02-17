@@ -1,0 +1,11 @@
+{
+  "name": "DBTunnelBridge",
+  "version": "0.0.2",
+  "summary": "A package for managing local and remote database connections with optional SSH tunneling.",
+  "author": "Kyle Wilson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dbtunnelbridge-0.0.2.tar.gz",
+  "download_time": "2026-02-17T01:49:18.532178",
+  "package_url": "https://pypi.org/project/DBTunnelBridge/"
+}

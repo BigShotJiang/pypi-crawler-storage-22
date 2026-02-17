@@ -1,0 +1,11 @@
+{
+  "name": "phytrace-sdk",
+  "version": "0.0.1",
+  "summary": "PhyTrace SDK for autonomous systems telemetry capture and streaming",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phytrace_sdk-0.0.1.tar.gz",
+  "download_time": "2026-02-17T01:49:27.541416",
+  "package_url": "https://pypi.org/project/phytrace-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "academic-paperweight",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Automated retrieval, filtering, and LLM-powered summarization of arXiv papers based on your research interests.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "academic_paperweight-0.2.0.tar.gz",
-  "download_time": "2026-02-14T15:44:49.833823",
+  "download_filename": "academic_paperweight-0.3.0.tar.gz",
+  "download_time": "2026-02-17T01:49:21.180186",
   "package_url": "https://pypi.org/project/academic-paperweight/"
 }

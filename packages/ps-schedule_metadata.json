@@ -1,0 +1,11 @@
+{
+  "name": "ps-schedule",
+  "version": "1.0",
+  "summary": "Бібліотека-парсер для \"ПС-Розклад v4.0\" від ПП \"Політек-Софт\".",
+  "author": "olekstsu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ps_schedule-1.0.tar.gz",
+  "download_time": "2026-02-17T01:49:09.928501",
+  "package_url": "https://pypi.org/project/ps-schedule/"
+}

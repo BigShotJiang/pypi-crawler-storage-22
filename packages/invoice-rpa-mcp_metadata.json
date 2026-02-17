@@ -1,0 +1,11 @@
+{
+  "name": "invoice-rpa-mcp",
+  "version": "0.2.0",
+  "summary": "MCP server for invoice automation — extracts, maps, and outputs standardized invoices from Excel files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "invoice_rpa_mcp-0.2.0.tar.gz",
+  "download_time": "2026-02-17T01:49:08.359612",
+  "package_url": "https://pypi.org/project/invoice-rpa-mcp/"
+}

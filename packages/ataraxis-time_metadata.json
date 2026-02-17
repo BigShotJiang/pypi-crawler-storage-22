@@ -1,0 +1,11 @@
+{
+  "name": "ataraxis-time",
+  "version": "6.0.0",
+  "summary": "Provides a high-precision thread-safe timer and helper methods to work with date and time data.",
+  "author": "Ivan Kondratyev",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ataraxis_time-6.0.0.tar.gz",
+  "download_time": "2026-02-17T01:49:18.009717",
+  "package_url": "https://pypi.org/project/ataraxis-time/"
+}

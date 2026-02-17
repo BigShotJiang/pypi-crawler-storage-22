@@ -1,0 +1,11 @@
+{
+  "name": "e2b-desktop",
+  "version": "2.3.0",
+  "summary": "E2B Desktop Sandbox - Deskstop sandbox in cloud powered by E2B",
+  "author": "e2b",
+  "license": "MIT",
+  "home_page": "https://e2b.dev/",
+  "download_filename": "e2b_desktop-2.3.0.tar.gz",
+  "download_time": "2026-02-17T01:49:07.299975",
+  "package_url": "https://pypi.org/project/e2b-desktop/"
+}
