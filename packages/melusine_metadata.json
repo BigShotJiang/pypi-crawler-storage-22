@@ -1,0 +1,11 @@
+{
+  "name": "melusine",
+  "version": "3.3.0",
+  "summary": "Melusine is a high-level library for emails processing",
+  "author": "Tiphaine Fabre, Sacha Samama, Antoine Simoulin",
+  "license": "Apache Software License 2.0",
+  "home_page": null,
+  "download_filename": "melusine-3.3.0.tar.gz",
+  "download_time": "2026-02-17T10:12:00.141805",
+  "package_url": "https://pypi.org/project/melusine/"
+}

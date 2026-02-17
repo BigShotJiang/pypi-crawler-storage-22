@@ -1,0 +1,11 @@
+{
+  "name": "pycfmodel",
+  "version": "2.0.1",
+  "summary": "A python model for Cloud Formation scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycfmodel-2.0.1.tar.gz",
+  "download_time": "2026-02-17T10:11:38.608303",
+  "package_url": "https://pypi.org/project/pycfmodel/"
+}

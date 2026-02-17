@@ -1,11 +1,11 @@
 {
   "name": "latitude-telemetry",
-  "version": "2.0.3",
+  "version": "3.0.0",
   "summary": "Latitude Telemetry for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "latitude_telemetry-2.0.3.tar.gz",
-  "download_time": "2026-02-02T11:52:52.402212",
+  "download_filename": "latitude_telemetry-3.0.0.tar.gz",
+  "download_time": "2026-02-17T10:12:18.239493",
   "package_url": "https://pypi.org/project/latitude-telemetry/"
 }

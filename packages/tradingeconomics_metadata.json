@@ -1,11 +1,11 @@
 {
   "name": "tradingeconomics",
-  "version": "4.5.8",
+  "version": "4.5.9",
   "summary": "Trading Economics API",
   "author": "Trading Economics",
   "license": "MIT",
   "home_page": "https://github.com/tradingeconomics/tradingeconomics-python",
-  "download_filename": "tradingeconomics-4.5.8.tar.gz",
-  "download_time": "2026-01-29T18:09:33.586037",
+  "download_filename": "tradingeconomics-4.5.9.tar.gz",
+  "download_time": "2026-02-17T10:12:08.435011",
   "package_url": "https://pypi.org/project/tradingeconomics/"
 }

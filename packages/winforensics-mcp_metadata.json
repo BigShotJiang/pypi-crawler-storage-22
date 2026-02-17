@@ -1,11 +1,11 @@
 {
   "name": "winforensics-mcp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Windows Forensics MCP Server - EVTX parsing, Registry analysis, PE analysis, API Monitor knowledge base, and remote artifact collection for DFIR",
   "author": "xtk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "winforensics_mcp-1.0.0.tar.gz",
-  "download_time": "2026-02-15T15:25:10.995566",
+  "download_filename": "winforensics_mcp-1.0.2.tar.gz",
+  "download_time": "2026-02-17T10:12:02.607894",
   "package_url": "https://pypi.org/project/winforensics-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vedro-vcs-changed",
+  "version": "0.1.0",
+  "summary": "Vedro plugin that runs only scenarios affected by VCS branch changes",
+  "author": "Aleksei Dolmatov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/teka1905/vedro-vcs-changed",
+  "download_filename": "vedro_vcs_changed-0.1.0.tar.gz",
+  "download_time": "2026-02-17T10:11:59.584407",
+  "package_url": "https://pypi.org/project/vedro-vcs-changed/"
+}

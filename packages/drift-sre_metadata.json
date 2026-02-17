@@ -1,0 +1,11 @@
+{
+  "name": "drift-sre",
+  "version": "0.1.2",
+  "summary": "Real-time Anomaly Detection Library for SRE with Discord notifications",
+  "author": "soumilsuri",
+  "license": "MIT",
+  "home_page": "https://github.com/soumilsuri/Drift",
+  "download_filename": "drift_sre-0.1.2-py3-none-any.whl",
+  "download_time": "2026-02-17T10:11:58.534733",
+  "package_url": "https://pypi.org/project/drift-sre/"
+}
