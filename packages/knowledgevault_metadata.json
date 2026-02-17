@@ -1,11 +1,11 @@
 {
   "name": "knowledgevault",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Personal knowledge base that runs inside any MCP-compatible AI tool — structured, navigable, zero extra cost",
   "author": "Eddie Landesberg",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "knowledgevault-0.6.0.tar.gz",
-  "download_time": "2026-02-14T07:34:24.773967",
+  "download_filename": "knowledgevault-0.6.2.tar.gz",
+  "download_time": "2026-02-17T06:43:25.919073",
   "package_url": "https://pypi.org/project/knowledgevault/"
 }

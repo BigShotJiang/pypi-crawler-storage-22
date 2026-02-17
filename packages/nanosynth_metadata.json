@@ -1,11 +1,11 @@
 {
   "name": "nanosynth",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Minimal embedded SuperCollider synthesis engine (libscsynth) wrapper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nanosynth-0.1.4.tar.gz",
-  "download_time": "2026-02-16T14:20:30.253711",
+  "download_filename": "nanosynth-0.1.5.tar.gz",
+  "download_time": "2026-02-17T06:43:11.932690",
   "package_url": "https://pypi.org/project/nanosynth/"
 }

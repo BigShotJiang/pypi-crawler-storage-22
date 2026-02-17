@@ -1,0 +1,11 @@
+{
+  "name": "humanlog",
+  "version": "0.1.0",
+  "summary": "One-line progress + logging for humans.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "humanlog-0.1.0.tar.gz",
+  "download_time": "2026-02-17T06:43:31.193208",
+  "package_url": "https://pypi.org/project/humanlog/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "opensentinel",
+  "version": "0.1.0",
+  "summary": "Reliability layer for AI agents - monitors workflow adherence and intervenes when agents deviate",
+  "author": "Open Sentinel Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opensentinel-0.1.0.tar.gz",
+  "download_time": "2026-02-17T06:43:36.968656",
+  "package_url": "https://pypi.org/project/opensentinel/"
+}

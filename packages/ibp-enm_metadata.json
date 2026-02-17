@@ -1,11 +1,11 @@
 {
   "name": "ibp-enm",
-  "version": "0.1.0",
-  "summary": "Spectral Elastic Network Model for protein structural analysis — 7-instrument thermodynamic band classification with 100% archetype accuracy on the 12-protein benchmark.",
+  "version": "0.3.0",
+  "summary": "Spectral Elastic Network Model for protein structural analysis — 7-instrument thermodynamic band classification with profile caching, 52-protein benchmark harness, and structured reporting.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ibp_enm-0.1.0.tar.gz",
-  "download_time": "2026-02-16T21:29:46.643539",
+  "download_filename": "ibp_enm-0.3.0.tar.gz",
+  "download_time": "2026-02-17T06:42:59.560904",
   "package_url": "https://pypi.org/project/ibp-enm/"
 }

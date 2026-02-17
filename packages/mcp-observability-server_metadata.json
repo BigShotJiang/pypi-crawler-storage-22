@@ -1,0 +1,11 @@
+{
+  "name": "mcp-observability-server",
+  "version": "0.1.2",
+  "summary": "A Model Context Protocol (MCP) server for querying logs from multiple observability platforms (New Relic, Azure)",
+  "author": "MCP Observability Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_observability_server-0.1.2.tar.gz",
+  "download_time": "2026-02-17T06:43:12.957561",
+  "package_url": "https://pypi.org/project/mcp-observability-server/"
+}
