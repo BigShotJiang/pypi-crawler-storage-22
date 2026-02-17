@@ -1,11 +1,11 @@
 {
   "name": "kwess",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Questrade API wrapper.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kwess-0.1.0.tar.gz",
-  "download_time": "2026-02-04T20:40:41.895018",
+  "download_filename": "kwess-0.2.0.tar.gz",
+  "download_time": "2026-02-17T19:21:44.171061",
   "package_url": "https://pypi.org/project/kwess/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "biocompute",
+  "version": "0.1.2",
+  "summary": "Wet lab automation as Python code",
+  "author": "London Biocompute",
+  "license": null,
+  "home_page": null,
+  "download_filename": "biocompute-0.1.2.tar.gz",
+  "download_time": "2026-02-17T19:22:07.848125",
+  "package_url": "https://pypi.org/project/biocompute/"
+}

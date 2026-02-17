@@ -1,0 +1,11 @@
+{
+  "name": "batchbench",
+  "version": "0.2.0",
+  "summary": "Offline and online benchmarking utilities for large language model workloads",
+  "author": "BatchBench Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "batchbench-0.2.0.tar.gz",
+  "download_time": "2026-02-17T19:21:32.730918",
+  "package_url": "https://pypi.org/project/batchbench/"
+}

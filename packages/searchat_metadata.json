@@ -1,11 +1,11 @@
 {
   "name": "searchat",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Semantic search and RAG for local AI coding agent conversations",
   "author": "Searchat Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "searchat-0.6.0.tar.gz",
-  "download_time": "2026-02-16T23:57:45.979906",
+  "download_filename": "searchat-0.6.2.tar.gz",
+  "download_time": "2026-02-17T19:21:55.355726",
   "package_url": "https://pypi.org/project/searchat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "robotframework-okw-remote-ssh",
+  "version": "0.2.0",
+  "summary": "Robot Framework keyword library for deterministic remote command execution and SFTP file transfer via SSH.",
+  "author": "Zoltán Hrabovszki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotframework_okw_remote_ssh-0.2.0.tar.gz",
+  "download_time": "2026-02-17T19:21:37.806523",
+  "package_url": "https://pypi.org/project/robotframework-okw-remote-ssh/"
+}

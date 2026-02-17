@@ -1,0 +1,11 @@
+{
+  "name": "krkn-lib",
+  "version": "6.0.3",
+  "summary": "Foundation library for Kraken",
+  "author": "Red Hat Chaos Team",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/redhat-chaos/krkn",
+  "download_filename": "krkn_lib-6.0.3.tar.gz",
+  "download_time": "2026-02-17T19:21:52.137388",
+  "package_url": "https://pypi.org/project/krkn-lib/"
+}

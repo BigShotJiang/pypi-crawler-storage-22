@@ -1,0 +1,11 @@
+{
+  "name": "haystack-ml-stack",
+  "version": "0.4.1",
+  "summary": "Functions related to Haystack ML",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "haystack_ml_stack-0.4.1.tar.gz",
+  "download_time": "2026-02-17T19:22:15.651671",
+  "package_url": "https://pypi.org/project/haystack-ml-stack/"
+}

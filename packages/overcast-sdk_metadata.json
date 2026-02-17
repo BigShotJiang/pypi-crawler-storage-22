@@ -1,0 +1,11 @@
+{
+  "name": "overcast-sdk",
+  "version": "2.0.0",
+  "summary": "Overcast SRE monitoring SDK for Python — one-line install, captures everything.",
+  "author": "Overcast SRE",
+  "license": null,
+  "home_page": "https://github.com/overcast/sdk-python",
+  "download_filename": "overcast_sdk-2.0.0.tar.gz",
+  "download_time": "2026-02-17T19:21:47.954719",
+  "package_url": "https://pypi.org/project/overcast-sdk/"
+}

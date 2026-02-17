@@ -1,0 +1,11 @@
+{
+  "name": "hexdoc-hierophantics",
+  "version": "1.3.6.1.0",
+  "summary": "An addon to Hex Casting that lets you work with extracted minds to create conditional hexes and merge villagers.",
+  "author": "Robotgiggle",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexdoc_hierophantics-1.3.6.1.0.tar.gz",
+  "download_time": "2026-02-17T19:21:30.159598",
+  "package_url": "https://pypi.org/project/hexdoc-hierophantics/"
+}

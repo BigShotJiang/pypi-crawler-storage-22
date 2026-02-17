@@ -1,0 +1,11 @@
+{
+  "name": "okw-contract-utils",
+  "version": "0.2.0",
+  "summary": "Shared contract utilities for the OKW ecosystem: matchers (EXACT/WCM/REGX), global tokens ($IGNORE/$EMPTY/$DELETE), YES/NO existence model, and $MEM{KEY} value expansion.",
+  "author": "Zoltán Hrabovszki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "okw_contract_utils-0.2.0.tar.gz",
+  "download_time": "2026-02-17T19:21:39.854542",
+  "package_url": "https://pypi.org/project/okw-contract-utils/"
+}
