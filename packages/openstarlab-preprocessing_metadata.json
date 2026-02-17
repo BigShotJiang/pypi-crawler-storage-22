@@ -1,11 +1,11 @@
 {
   "name": "openstarlab-preprocessing",
-  "version": "0.1.52",
+  "version": "0.1.53",
   "summary": "openstarlab preprocessing package",
   "author": null,
   "license": "Apache License 2.0",
   "home_page": null,
-  "download_filename": "openstarlab_preprocessing-0.1.52.tar.gz",
-  "download_time": "2026-02-17T06:09:15.225896",
+  "download_filename": "openstarlab_preprocessing-0.1.53.tar.gz",
+  "download_time": "2026-02-17T07:43:16.427243",
   "package_url": "https://pypi.org/project/openstarlab-preprocessing/"
 }

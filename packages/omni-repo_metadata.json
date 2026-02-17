@@ -1,0 +1,11 @@
+{
+  "name": "omni-repo",
+  "version": "0.0.1",
+  "summary": "Run commands across multiple repositories with conditional execution",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omni_repo-0.0.1.tar.gz",
+  "download_time": "2026-02-17T07:44:04.685027",
+  "package_url": "https://pypi.org/project/omni-repo/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hgvs-weaver",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "High-performance HGVS parser for Python (Rust powered)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hgvs_weaver-0.1.0.tar.gz",
-  "download_time": "2026-02-01T10:21:30.905310",
+  "download_filename": "hgvs_weaver-0.2.0.tar.gz",
+  "download_time": "2026-02-17T07:43:55.340541",
   "package_url": "https://pypi.org/project/hgvs-weaver/"
 }

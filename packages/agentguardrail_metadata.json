@@ -1,0 +1,11 @@
+{
+  "name": "agentguardrail",
+  "version": "1.1.0",
+  "summary": "The execution firewall for AI agents. Works with OpenClaw, OpenAI, Anthropic, LangChain, CrewAI, Google ADK and any agent framework. Control what agents do, prove what they did.",
+  "author": "AgentGate Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentguardrail-1.1.0.tar.gz",
+  "download_time": "2026-02-17T07:44:02.928093",
+  "package_url": "https://pypi.org/project/agentguardrail/"
+}

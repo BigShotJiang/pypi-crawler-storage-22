@@ -1,0 +1,11 @@
+{
+  "name": "pytest-scenario-files",
+  "version": "1.3.1",
+  "summary": "A pytest plugin that generates unit test scenarios from data files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_scenario_files-1.3.1.tar.gz",
+  "download_time": "2026-02-17T07:44:03.518328",
+  "package_url": "https://pypi.org/project/pytest-scenario-files/"
+}
