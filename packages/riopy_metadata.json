@@ -1,11 +1,11 @@
 {
   "name": "riopy",
-  "version": "3.2.0",
+  "version": "3.4.0",
   "summary": "کتابخانه Python برای ساخت بات در پیام‌رسان روبیکا",
   "author": "محمد لطیفی پور",
   "license": null,
   "home_page": "https://github.com/yourusername/riopy",
-  "download_filename": "riopy-3.2.0.tar.gz",
-  "download_time": "2026-02-15T14:09:48.409034",
+  "download_filename": "riopy-3.4.0.tar.gz",
+  "download_time": "2026-02-17T16:13:49.070316",
   "package_url": "https://pypi.org/project/riopy/"
 }

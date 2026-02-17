@@ -1,0 +1,11 @@
+{
+  "name": "oslo.vmware",
+  "version": "4.9.0",
+  "summary": "Oslo VMware library",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "oslo_vmware-4.9.0.tar.gz",
+  "download_time": "2026-02-17T16:13:30.278537",
+  "package_url": "https://pypi.org/project/oslo.vmware/"
+}

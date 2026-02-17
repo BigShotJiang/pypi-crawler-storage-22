@@ -1,11 +1,11 @@
 {
   "name": "mtpandas",
-  "version": "1.17.28",
+  "version": "1.17.29",
   "summary": "MT's extra modules for pandas.",
   "author": "['Minh-Tri Pham']",
   "license": "MIT",
   "home_page": "https://github.com/inteplus/mtpandas",
-  "download_filename": "mtpandas-1.17.28-py3-none-any.whl",
-  "download_time": "2026-02-17T11:59:30.864998",
+  "download_filename": "mtpandas-1.17.29-py3-none-any.whl",
+  "download_time": "2026-02-17T16:13:17.340795",
   "package_url": "https://pypi.org/project/mtpandas/"
 }

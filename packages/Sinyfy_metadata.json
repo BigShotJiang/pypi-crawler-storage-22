@@ -1,0 +1,11 @@
+{
+  "name": "Sinyfy",
+  "version": "1.0.0",
+  "summary": "Sinyfy - Static Site Visual Cloner (Без Selenium)",
+  "author": "thetemirbolatov",
+  "license": "MIT",
+  "home_page": "https://github.com/thetemirbolatov-official/Sinyfy",
+  "download_filename": "sinyfy-1.0.0.tar.gz",
+  "download_time": "2026-02-17T16:13:19.917481",
+  "package_url": "https://pypi.org/project/Sinyfy/"
+}

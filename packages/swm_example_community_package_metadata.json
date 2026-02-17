@@ -1,11 +1,11 @@
 {
   "name": "swm_example_community_package",
-  "version": "0.6.2.dev4",
+  "version": "0.6.2.dev5",
   "summary": "example community package",
   "author": "Jacob Stewart",
   "license": null,
   "home_page": null,
-  "download_filename": "swm_example_community_package-0.6.2.dev4.tar.gz",
-  "download_time": "2026-02-17T15:12:12.281414",
+  "download_filename": "swm_example_community_package-0.6.2.dev5.tar.gz",
+  "download_time": "2026-02-17T16:13:12.725685",
   "package_url": "https://pypi.org/project/swm_example_community_package/"
 }

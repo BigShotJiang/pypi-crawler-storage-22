@@ -1,11 +1,11 @@
 {
   "name": "Qwodel",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "Production-grade model quantization SDK for enterprise custom models (AWQ, GGUF, and CoreML)",
-  "author": "Suhas, Qwodel Contributors",
+  "author": "Qwodel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "qwodel-0.0.3.tar.gz",
-  "download_time": "2026-02-16T17:30:10.755464",
+  "download_filename": "qwodel-0.0.4.tar.gz",
+  "download_time": "2026-02-17T16:13:33.976535",
   "package_url": "https://pypi.org/project/Qwodel/"
 }
