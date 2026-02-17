@@ -1,11 +1,11 @@
 {
   "name": "fal",
-  "version": "1.69.5",
+  "version": "1.69.13",
   "summary": "fal is an easy-to-use Serverless Python Framework",
   "author": "Features & Labels <support@fal.ai>",
   "license": null,
   "home_page": null,
-  "download_filename": "fal-1.69.5.tar.gz",
-  "download_time": "2026-02-04T23:52:35.246592",
+  "download_filename": "fal-1.69.13.tar.gz",
+  "download_time": "2026-02-17T21:23:46.607489",
   "package_url": "https://pypi.org/project/fal/"
 }

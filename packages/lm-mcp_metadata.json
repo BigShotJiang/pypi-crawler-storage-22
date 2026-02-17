@@ -1,11 +1,11 @@
 {
   "name": "lm-mcp",
-  "version": "1.5.1",
+  "version": "1.7.1",
   "summary": "MCP server for LogicMonitor platform API integration",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lm_mcp-1.5.1.tar.gz",
-  "download_time": "2026-02-14T20:55:27.621746",
+  "download_filename": "lm_mcp-1.7.1.tar.gz",
+  "download_time": "2026-02-17T21:24:02.578890",
   "package_url": "https://pypi.org/project/lm-mcp/"
 }

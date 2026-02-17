@@ -1,0 +1,11 @@
+{
+  "name": "easyreg",
+  "version": "1.0.0",
+  "summary": "Simple Windows Registry utilities for Python developers",
+  "author": "Windows Support Team",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/easyreg",
+  "download_filename": "easyreg-1.0.0.tar.gz",
+  "download_time": "2026-02-17T21:24:14.144033",
+  "package_url": "https://pypi.org/project/easyreg/"
+}

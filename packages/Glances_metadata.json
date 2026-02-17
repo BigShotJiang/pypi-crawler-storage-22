@@ -1,0 +1,11 @@
+{
+  "name": "Glances",
+  "version": "4.5.0.5",
+  "summary": "A cross-platform curses-based monitoring tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glances-4.5.0.5.tar.gz",
+  "download_time": "2026-02-17T21:24:15.757438",
+  "package_url": "https://pypi.org/project/Glances/"
+}

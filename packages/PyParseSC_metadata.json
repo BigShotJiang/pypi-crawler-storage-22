@@ -1,0 +1,11 @@
+{
+  "name": "PyParseSC",
+  "version": "0.1.2",
+  "summary": "Ferramenta de scan escrita em Python",
+  "author": "João",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyparsesc-0.1.2.tar.gz",
+  "download_time": "2026-02-17T21:23:56.307191",
+  "package_url": "https://pypi.org/project/PyParseSC/"
+}

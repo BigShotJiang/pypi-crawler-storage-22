@@ -1,0 +1,11 @@
+{
+  "name": "vultorch",
+  "version": "0.5.0",
+  "summary": "Real-time Torch visualization window with Vulkan zero-copy",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vultorch-0.5.0-cp310-cp310-win_amd64.whl",
+  "download_time": "2026-02-17T21:23:46.067459",
+  "package_url": "https://pypi.org/project/vultorch/"
+}

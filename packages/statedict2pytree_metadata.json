@@ -1,11 +1,11 @@
 {
   "name": "statedict2pytree",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Converts torch models into PyTrees for Equinox",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "statedict2pytree-2.0.0.tar.gz",
-  "download_time": "2026-02-04T16:03:08.899682",
+  "download_filename": "statedict2pytree-2.0.1.tar.gz",
+  "download_time": "2026-02-17T21:23:52.601660",
   "package_url": "https://pypi.org/project/statedict2pytree/"
 }
