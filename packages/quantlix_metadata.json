@@ -1,0 +1,11 @@
+{
+  "name": "quantlix",
+  "version": "0.1.1",
+  "summary": "Quantlix — AI-focused GPU inference platform",
+  "author": "Quantlix",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantlix-0.1.1.tar.gz",
+  "download_time": "2026-02-17T21:59:24.989507",
+  "package_url": "https://pypi.org/project/quantlix/"
+}

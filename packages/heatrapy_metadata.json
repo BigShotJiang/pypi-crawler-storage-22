@@ -1,0 +1,11 @@
+{
+  "name": "heatrapy",
+  "version": "2.0.12",
+  "summary": "Library for simulating 1D and 2D heat transfer processes",
+  "author": "Daniel Silva",
+  "license": "MIT",
+  "home_page": "https://github.com/djsilva99/heatrapy",
+  "download_filename": "heatrapy-2.0.12.tar.gz",
+  "download_time": "2026-02-17T21:59:04.875889",
+  "package_url": "https://pypi.org/project/heatrapy/"
+}

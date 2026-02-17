@@ -1,11 +1,11 @@
 {
   "name": "zuna",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Foundation model for EEG reconstruction and interpolation",
   "author": "Jonas Mago, JR Huml",
   "license": null,
   "home_page": null,
-  "download_filename": "zuna-0.0.3.tar.gz",
-  "download_time": "2026-02-17T19:58:47.623433",
+  "download_filename": "zuna-0.0.5.tar.gz",
+  "download_time": "2026-02-17T21:59:28.070955",
   "package_url": "https://pypi.org/project/zuna/"
 }

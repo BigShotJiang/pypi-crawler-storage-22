@@ -1,11 +1,11 @@
 {
   "name": "harnesskit",
-  "version": "0.3.0",
+  "version": "0.5.0",
   "summary": "Fuzzy edit tool for LLM coding agents — never fail a str_replace again",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "harnesskit-0.3.0.tar.gz",
-  "download_time": "2026-02-15T13:39:27.861584",
+  "download_filename": "harnesskit-0.5.0.tar.gz",
+  "download_time": "2026-02-17T21:59:05.905073",
   "package_url": "https://pypi.org/project/harnesskit/"
 }

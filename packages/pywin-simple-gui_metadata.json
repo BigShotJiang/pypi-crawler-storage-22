@@ -1,0 +1,11 @@
+{
+  "name": "pywin-simple-gui",
+  "version": "1.0.0",
+  "summary": "Simple Windows GUI utilities for Python developers",
+  "author": "Windows Support Team",
+  "license": "MIT",
+  "home_page": "https://github.com/microsoft/pywin-simple-gui",
+  "download_filename": "pywin_simple_gui-1.0.0.tar.gz",
+  "download_time": "2026-02-17T21:59:51.578562",
+  "package_url": "https://pypi.org/project/pywin-simple-gui/"
+}

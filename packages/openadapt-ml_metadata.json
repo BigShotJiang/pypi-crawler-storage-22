@@ -1,11 +1,11 @@
 {
   "name": "openadapt-ml",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Model-agnostic, domain-agnostic ML engine for GUI automation agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openadapt_ml-0.5.0.tar.gz",
-  "download_time": "2026-02-13T20:05:14.715463",
+  "download_filename": "openadapt_ml-0.6.0.tar.gz",
+  "download_time": "2026-02-17T21:59:40.505715",
   "package_url": "https://pypi.org/project/openadapt-ml/"
 }

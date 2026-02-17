@@ -1,11 +1,11 @@
 {
   "name": "odin-bots",
-  "version": "0.5.1",
+  "version": "0.7.0",
   "summary": "Bitcoin rune trading CLI & SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "odin_bots-0.5.1.tar.gz",
-  "download_time": "2026-02-16T19:07:59.141637",
+  "download_filename": "odin_bots-0.7.0.tar.gz",
+  "download_time": "2026-02-17T21:59:52.607613",
   "package_url": "https://pypi.org/project/odin-bots/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "filerohr",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "A pipeline-based file processing library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filerohr-0.2.2.tar.gz",
-  "download_time": "2026-02-08T16:59:29.893311",
+  "download_filename": "filerohr-0.3.0.tar.gz",
+  "download_time": "2026-02-17T21:59:23.963989",
   "package_url": "https://pypi.org/project/filerohr/"
 }

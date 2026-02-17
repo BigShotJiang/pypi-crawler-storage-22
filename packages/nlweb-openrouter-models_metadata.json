@@ -1,0 +1,11 @@
+{
+  "name": "nlweb-openrouter-models",
+  "version": "0.1.0",
+  "summary": "OpenRouter LLM providers for NLWeb",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nlweb_openrouter_models-0.1.0.tar.gz",
+  "download_time": "2026-02-17T21:59:53.120892",
+  "package_url": "https://pypi.org/project/nlweb-openrouter-models/"
+}
