@@ -1,11 +1,11 @@
 {
   "name": "codeforlife-portal",
-  "version": "8.9.21",
+  "version": "8.9.22",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "codeforlife_portal-8.9.21.tar.gz",
-  "download_time": "2026-02-04T15:12:14.841491",
+  "download_filename": "codeforlife_portal-8.9.22.tar.gz",
+  "download_time": "2026-02-17T14:09:27.895562",
   "package_url": "https://pypi.org/project/codeforlife-portal/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "isagellm-backend",
-  "version": "0.5.2.0",
+  "version": "0.5.2.5",
   "summary": "sageLLM backend provider abstraction (CPU/CUDA/Ascend/Kunlun/DCU/MThreads)",
   "author": "IntelliStream Team",
   "license": "Proprietary - IntelliStream",
   "home_page": null,
-  "download_filename": "isagellm_backend-0.5.2.0.tar.gz",
-  "download_time": "2026-02-17T12:57:19.521753",
+  "download_filename": "isagellm_backend-0.5.2.5.tar.gz",
+  "download_time": "2026-02-17T14:09:41.836796",
   "package_url": "https://pypi.org/project/isagellm-backend/"
 }

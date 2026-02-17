@@ -1,0 +1,11 @@
+{
+  "name": "cucumberify",
+  "version": "1.1.1",
+  "summary": "Cucumber is a free and lightweight vision classifier to detect nsfw, gore, scam, neutral from images",
+  "author": "Blaze",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cucumberify-1.1.1.tar.gz",
+  "download_time": "2026-02-17T14:09:36.379639",
+  "package_url": "https://pypi.org/project/cucumberify/"
+}

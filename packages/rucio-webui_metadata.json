@@ -1,0 +1,11 @@
+{
+  "name": "rucio-webui",
+  "version": "39.3.0",
+  "summary": "Rucio WebUI package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rucio_webui-39.3.0.tar.gz",
+  "download_time": "2026-02-17T14:09:56.169945",
+  "package_url": "https://pypi.org/project/rucio-webui/"
+}

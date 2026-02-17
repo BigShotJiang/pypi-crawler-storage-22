@@ -1,0 +1,11 @@
+{
+  "name": "osmnx-async",
+  "version": "2.1.0",
+  "summary": "Async alternatives to osmnx's IO-bound public API functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "osmnx_async-2.1.0.tar.gz",
+  "download_time": "2026-02-17T14:10:17.525314",
+  "package_url": "https://pypi.org/project/osmnx-async/"
+}
