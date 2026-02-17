@@ -1,0 +1,11 @@
+{
+  "name": "predict-sdk",
+  "version": "0.0.15",
+  "summary": "A Python SDK to help developers interface with the Predict.fun protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "predict_sdk-0.0.15.tar.gz",
+  "download_time": "2026-02-17T23:33:09.712213",
+  "package_url": "https://pypi.org/project/predict-sdk/"
+}

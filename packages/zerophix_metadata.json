@@ -1,11 +1,11 @@
 {
   "name": "zerophix",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Enterprise-grade PII/PSI/PHI redaction service: multilingual, customizable, and privacy-first",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "zerophix-0.1.15.tar.gz",
-  "download_time": "2026-02-17T06:43:02.278392",
+  "download_filename": "zerophix-0.1.16.tar.gz",
+  "download_time": "2026-02-17T23:33:44.593229",
   "package_url": "https://pypi.org/project/zerophix/"
 }

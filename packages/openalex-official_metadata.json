@@ -1,0 +1,11 @@
+{
+  "name": "openalex-official",
+  "version": "0.3.1",
+  "summary": "Official command-line interface for OpenAlex",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openalex_official-0.3.1.tar.gz",
+  "download_time": "2026-02-17T23:33:45.124667",
+  "package_url": "https://pypi.org/project/openalex-official/"
+}

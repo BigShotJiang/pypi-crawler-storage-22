@@ -1,11 +1,11 @@
 {
   "name": "aicippy",
-  "version": "1.6.5",
+  "version": "1.6.6",
   "summary": "Enterprise-grade multi-agent CLI system powered by AWS Bedrock",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "aicippy-1.6.5.tar.gz",
-  "download_time": "2026-02-17T21:23:33.928312",
+  "download_filename": "aicippy-1.6.6.tar.gz",
+  "download_time": "2026-02-17T23:33:23.264072",
   "package_url": "https://pypi.org/project/aicippy/"
 }

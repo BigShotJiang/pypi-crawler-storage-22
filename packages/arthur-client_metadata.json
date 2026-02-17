@@ -1,11 +1,11 @@
 {
   "name": "arthur-client",
-  "version": "1.4.1817",
+  "version": "1.4.1818",
   "summary": "Arthur Python API Client Library",
   "author": "Arthur",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "arthur_client-1.4.1817.tar.gz",
-  "download_time": "2026-02-17T22:31:25.492527",
+  "download_filename": "arthur_client-1.4.1818.tar.gz",
+  "download_time": "2026-02-17T23:33:22.732911",
   "package_url": "https://pypi.org/project/arthur-client/"
 }
