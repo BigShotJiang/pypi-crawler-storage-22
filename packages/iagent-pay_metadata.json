@@ -1,11 +1,11 @@
 {
   "name": "iagent-pay",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "summary": "The First Payment SDK for Autonomous AI Agents.",
   "author": "AgentPay Inc.",
   "license": null,
   "home_page": "https://github.com/agent-pay/sdk",
-  "download_filename": "iagent_pay-1.0.3.tar.gz",
-  "download_time": "2026-02-17T07:43:47.524576",
+  "download_filename": "iagent_pay-1.1.0.tar.gz",
+  "download_time": "2026-02-17T17:21:46.853210",
   "package_url": "https://pypi.org/project/iagent-pay/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Metaverse",
+  "version": "0.0.5",
+  "summary": "A library for handling Second Life things.",
+  "author": "Félix",
+  "license": "Zlib",
+  "home_page": "https://github.com/FelixWolf/pymetaverse",
+  "download_filename": "metaverse-0.0.5.tar.gz",
+  "download_time": "2026-02-17T17:21:24.174395",
+  "package_url": "https://pypi.org/project/Metaverse/"
+}

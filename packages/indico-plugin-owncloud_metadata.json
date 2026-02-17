@@ -1,0 +1,11 @@
+{
+  "name": "indico-plugin-owncloud",
+  "version": "3.3.4",
+  "summary": "Integrates ownCloud storage as a source for materials",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "indico_plugin_owncloud-3.3.4-py3-none-any.whl",
+  "download_time": "2026-02-17T17:21:10.216746",
+  "package_url": "https://pypi.org/project/indico-plugin-owncloud/"
+}

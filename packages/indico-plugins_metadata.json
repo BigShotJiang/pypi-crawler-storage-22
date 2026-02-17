@@ -1,0 +1,11 @@
+{
+  "name": "indico-plugins",
+  "version": "3.3.6",
+  "summary": "A meta-package containing the official Indico plugins",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "indico_plugins-3.3.6-py3-none-any.whl",
+  "download_time": "2026-02-17T17:21:05.517751",
+  "package_url": "https://pypi.org/project/indico-plugins/"
+}

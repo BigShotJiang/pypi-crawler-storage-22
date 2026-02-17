@@ -1,0 +1,11 @@
+{
+  "name": "openbb-equity",
+  "version": "1.6.0",
+  "summary": "Equity extension for OpenBB",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_equity-1.6.0.tar.gz",
+  "download_time": "2026-02-17T17:21:17.967111",
+  "package_url": "https://pypi.org/project/openbb-equity/"
+}

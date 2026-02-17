@@ -1,11 +1,11 @@
 {
   "name": "pysealer",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "Cryptographically sign Python functions and classes for defense-in-depth security",
   "author": "Aidan Dyga",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pysealer-0.8.0.tar.gz",
-  "download_time": "2026-02-09T18:39:45.999329",
+  "download_filename": "pysealer-0.9.0.tar.gz",
+  "download_time": "2026-02-17T17:21:48.948391",
   "package_url": "https://pypi.org/project/pysealer/"
 }

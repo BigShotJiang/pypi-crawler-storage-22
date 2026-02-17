@@ -1,0 +1,11 @@
+{
+  "name": "pyshifty",
+  "version": "0.0.8",
+  "summary": "Python bindings for the shifty validation engine",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/gtfierro/shifty",
+  "download_filename": "pyshifty-0.0.8.tar.gz",
+  "download_time": "2026-02-17T17:21:43.767342",
+  "package_url": "https://pypi.org/project/pyshifty/"
+}

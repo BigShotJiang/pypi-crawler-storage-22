@@ -1,0 +1,11 @@
+{
+  "name": "openbb-economy",
+  "version": "1.6.0",
+  "summary": "Economy extension for OpenBB",
+  "author": "OpenBB Team",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "openbb_economy-1.6.0.tar.gz",
+  "download_time": "2026-02-17T17:21:32.406891",
+  "package_url": "https://pypi.org/project/openbb-economy/"
+}

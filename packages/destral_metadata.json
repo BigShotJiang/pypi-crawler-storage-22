@@ -1,11 +1,11 @@
 {
   "name": "destral",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "summary": "OpenERP testing framework",
   "author": "GISCE-TI, S.L.",
   "license": "GNU GPLv3",
   "home_page": "https://github.com/gisce/destral",
-  "download_filename": "destral-2.3.1.tar.gz",
-  "download_time": "2026-02-03T16:06:40.882987",
+  "download_filename": "destral-2.3.2.tar.gz",
+  "download_time": "2026-02-17T17:21:16.936683",
   "package_url": "https://pypi.org/project/destral/"
 }
