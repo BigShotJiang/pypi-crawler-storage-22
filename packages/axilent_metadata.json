@@ -1,0 +1,11 @@
+{
+  "name": "axilent",
+  "version": "0.2.0",
+  "summary": "Tools for describing a sequence of Axi4Lite commands.",
+  "author": "Ben Reynwar",
+  "license": "MIT",
+  "home_page": "https://github.com/benreynwar/axilent",
+  "download_filename": "axilent-0.2.0.tar.gz",
+  "download_time": "2026-02-17T22:31:29.111893",
+  "package_url": "https://pypi.org/project/axilent/"
+}

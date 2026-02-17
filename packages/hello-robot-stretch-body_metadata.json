@@ -1,0 +1,11 @@
+{
+  "name": "hello-robot-stretch-body",
+  "version": "0.7.31",
+  "summary": "Stretch Body low level Python API",
+  "author": "Hello Robot Inc.",
+  "license": null,
+  "home_page": "https://github.com/hello-robot/stretch_body",
+  "download_filename": "hello_robot_stretch_body-0.7.31.tar.gz",
+  "download_time": "2026-02-17T22:30:52.708066",
+  "package_url": "https://pypi.org/project/hello-robot-stretch-body/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "bashers",
-  "version": "0.8.3",
+  "version": "0.8.4",
   "summary": "Installable cli helpers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bashers-0.8.3-cp310-cp310-manylinux_2_39_x86_64.whl",
-  "download_time": "2026-02-17T21:59:08.494607",
+  "download_filename": "bashers-0.8.4.tar.gz",
+  "download_time": "2026-02-17T22:31:02.601374",
   "package_url": "https://pypi.org/project/bashers/"
 }

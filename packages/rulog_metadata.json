@@ -1,0 +1,11 @@
+{
+  "name": "rulog",
+  "version": "1.0.3",
+  "summary": "Rubika: A Python library for interacting with the Rubika Login APi. ",
+  "author": "Mahdi Ahmadi",
+  "license": "MIT",
+  "home_page": "https://github.com/Mahdy-Ahmadi/rulog",
+  "download_filename": "rulog-1.0.3.tar.gz",
+  "download_time": "2026-02-17T22:31:22.406786",
+  "package_url": "https://pypi.org/project/rulog/"
+}

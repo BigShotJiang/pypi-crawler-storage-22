@@ -1,0 +1,11 @@
+{
+  "name": "geofinder-icgc",
+  "version": "2.4.2",
+  "summary": "Geocodificador asíncrono para Cataluña usando el servicio ICGC",
+  "author": null,
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "geofinder_icgc-2.4.2.tar.gz",
+  "download_time": "2026-02-17T22:31:15.609359",
+  "package_url": "https://pypi.org/project/geofinder-icgc/"
+}

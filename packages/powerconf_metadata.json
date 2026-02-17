@@ -1,0 +1,11 @@
+{
+  "name": "powerconf",
+  "version": "0.8.3",
+  "summary": "Powerup your configuration files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "powerconf-0.8.3.tar.gz",
+  "download_time": "2026-02-17T22:31:28.065933",
+  "package_url": "https://pypi.org/project/powerconf/"
+}

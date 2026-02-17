@@ -1,11 +1,11 @@
 {
   "name": "soliday.sdds",
-  "version": "5.7.5",
+  "version": "5.7.7",
   "summary": "Official Python interface for the SDDS (Self Describing Data Sets) format.",
   "author": null,
   "license": "SDDS Toolkit License",
   "home_page": null,
-  "download_filename": "soliday_sdds-5.7.5-py3-none-manylinux_2_17_x86_64.whl",
-  "download_time": "2026-02-13T23:30:28.102913",
+  "download_filename": "soliday_sdds-5.7.7-py3-none-win_amd64.whl",
+  "download_time": "2026-02-17T22:31:19.271692",
   "package_url": "https://pypi.org/project/soliday.sdds/"
 }
