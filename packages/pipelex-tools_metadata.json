@@ -1,0 +1,11 @@
+{
+  "name": "pipelex-tools",
+  "version": "0.1.4",
+  "summary": "Pipelex Tools CLI — MTHDS/TOML formatter, linter, and LSP",
+  "author": "tamasfe",
+  "license": null,
+  "home_page": "https://docs.pipelex.com/",
+  "download_filename": "pipelex_tools-0.1.4.tar.gz",
+  "download_time": "2026-02-17T09:16:24.032940",
+  "package_url": "https://pypi.org/project/pipelex-tools/"
+}

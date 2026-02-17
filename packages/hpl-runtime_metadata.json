@@ -1,11 +1,11 @@
 {
   "name": "hpl-runtime",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "HPL (H Programming Language) 是一种基于 YAML 格式的面向对象编程语言",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hpl_runtime-1.1.6.tar.gz",
-  "download_time": "2026-02-15T05:42:17.332886",
+  "download_filename": "hpl_runtime-1.1.7.tar.gz",
+  "download_time": "2026-02-17T09:16:41.323796",
   "package_url": "https://pypi.org/project/hpl-runtime/"
 }

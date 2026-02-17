@@ -1,11 +1,11 @@
 {
   "name": "agentguardrail",
-  "version": "1.1.0",
-  "summary": "The execution firewall for AI agents. Works with OpenClaw, OpenAI, Anthropic, LangChain, CrewAI, Google ADK and any agent framework. Control what agents do, prove what they did.",
+  "version": "1.2.1",
+  "summary": "AgentGuardrail — guardrails and policy enforcement for AI agents. Runtime action blocking, audit logs, MCP gateway, NLP intent detection. Works with OpenAI, Anthropic, LangChain, CrewAI, Google ADK, browser-use, and any agent framework.",
   "author": "AgentGate Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "agentguardrail-1.1.0.tar.gz",
-  "download_time": "2026-02-17T07:44:02.928093",
+  "download_filename": "agentguardrail-1.2.1.tar.gz",
+  "download_time": "2026-02-17T09:16:19.355662",
   "package_url": "https://pypi.org/project/agentguardrail/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "materialyoucolor",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Material You color generation algorithms in pure python!",
   "author": "Ansh Dadwal",
   "license": null,
   "home_page": null,
-  "download_filename": "materialyoucolor-3.0.0.tar.gz",
-  "download_time": "2026-02-17T06:09:33.926737",
+  "download_filename": "materialyoucolor-3.0.1.tar.gz",
+  "download_time": "2026-02-17T09:16:27.200422",
   "package_url": "https://pypi.org/project/materialyoucolor/"
 }

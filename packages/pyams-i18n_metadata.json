@@ -1,0 +1,11 @@
+{
+  "name": "pyams-i18n",
+  "version": "2.1.2",
+  "summary": "PyAMS content internationalization support",
+  "author": "Thierry Florac",
+  "license": "ZPL",
+  "home_page": "https://pyams.readthedocs.io",
+  "download_filename": "pyams_i18n-2.1.2.tar.gz",
+  "download_time": "2026-02-17T09:16:26.677724",
+  "package_url": "https://pypi.org/project/pyams-i18n/"
+}

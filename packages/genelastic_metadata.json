@@ -1,0 +1,11 @@
+{
+  "name": "genelastic",
+  "version": "0.11.0",
+  "summary": "Generate and store genetic data into an Elasticsearch database.",
+  "author": "CNRGH, Pierrick ROGER, Maxime BLANCHON",
+  "license": null,
+  "home_page": null,
+  "download_filename": "genelastic-0.11.0.tar.gz",
+  "download_time": "2026-02-17T09:16:15.646250",
+  "package_url": "https://pypi.org/project/genelastic/"
+}

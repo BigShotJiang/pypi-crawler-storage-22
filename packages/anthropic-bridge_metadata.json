@@ -1,11 +1,11 @@
 {
   "name": "anthropic-bridge",
-  "version": "0.1.37",
+  "version": "0.1.38",
   "summary": "Bridge Anthropic API to OpenRouter and OpenAI models.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anthropic_bridge-0.1.37.tar.gz",
-  "download_time": "2026-02-17T08:31:57.783258",
+  "download_filename": "anthropic_bridge-0.1.38.tar.gz",
+  "download_time": "2026-02-17T09:16:12.470137",
   "package_url": "https://pypi.org/project/anthropic-bridge/"
 }

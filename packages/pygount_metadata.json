@@ -1,0 +1,11 @@
+{
+  "name": "pygount",
+  "version": "3.1.1",
+  "summary": "count source lines of code (SLOC) using pygments",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygount-3.1.1.tar.gz",
+  "download_time": "2026-02-17T09:16:07.044423",
+  "package_url": "https://pypi.org/project/pygount/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "nautobot-app-graphql-observability",
+  "version": "1.0.2",
+  "summary": "Nautobot App GraphQL Observability",
+  "author": "Lydien SANDANASAMY",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "nautobot_app_graphql_observability-1.0.2.tar.gz",
+  "download_time": "2026-02-17T09:16:10.880200",
+  "package_url": "https://pypi.org/project/nautobot-app-graphql-observability/"
+}
