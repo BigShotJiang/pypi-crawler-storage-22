@@ -1,11 +1,11 @@
 {
   "name": "match-predicting-ann-server-pub-api",
-  "version": "7.14",
+  "version": "7.19",
   "summary": "Match Predicting ANN Server Public API",
   "author": null,
   "license": null,
   "home_page": "https://github.com/magistvan/match-predicting-ann-server-client",
-  "download_filename": "match_predicting_ann_server_pub_api-7.14.tar.gz",
-  "download_time": "2026-02-02T06:46:08.532126",
+  "download_filename": "match_predicting_ann_server_pub_api-7.19.tar.gz",
+  "download_time": "2026-02-17T06:09:36.054380",
   "package_url": "https://pypi.org/project/match-predicting-ann-server-pub-api/"
 }

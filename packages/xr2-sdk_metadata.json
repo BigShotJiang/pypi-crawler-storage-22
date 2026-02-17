@@ -1,0 +1,11 @@
+{
+  "name": "xr2-sdk",
+  "version": "0.3.0",
+  "summary": "Official Python SDK for xR2 — prompt management platform for AI applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "xr2_sdk-0.3.0.tar.gz",
+  "download_time": "2026-02-17T06:09:19.874852",
+  "package_url": "https://pypi.org/project/xr2-sdk/"
+}

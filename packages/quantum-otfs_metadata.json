@@ -1,0 +1,11 @@
+{
+  "name": "quantum-otfs",
+  "version": "0.1.0",
+  "summary": "Quantum-assisted OTFS Transceiver using QISFFT and QSFFT",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "quantum_otfs-0.1.0.tar.gz",
+  "download_time": "2026-02-17T06:09:30.102709",
+  "package_url": "https://pypi.org/project/quantum-otfs/"
+}
