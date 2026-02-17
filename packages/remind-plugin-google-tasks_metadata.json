@@ -1,0 +1,11 @@
+{
+  "name": "remind-plugin-google-tasks",
+  "version": "0.1.0",
+  "summary": "Google Tasks integration plugin for Remind CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "remind_plugin_google_tasks-0.1.0.tar.gz",
+  "download_time": "2026-02-17T11:59:39.028713",
+  "package_url": "https://pypi.org/project/remind-plugin-google-tasks/"
+}

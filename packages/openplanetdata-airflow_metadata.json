@@ -1,0 +1,11 @@
+{
+  "name": "openplanetdata-airflow",
+  "version": "0.2.1",
+  "summary": "Shared Airflow infrastructure for OpenPlanetData workflows",
+  "author": "OpenPlanetData",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openplanetdata_airflow-0.2.1.tar.gz",
+  "download_time": "2026-02-17T11:59:05.187414",
+  "package_url": "https://pypi.org/project/openplanetdata-airflow/"
+}

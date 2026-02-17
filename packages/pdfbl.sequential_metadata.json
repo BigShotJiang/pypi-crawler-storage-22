@@ -1,0 +1,11 @@
+{
+  "name": "pdfbl.sequential",
+  "version": "0.1.0rc2",
+  "summary": "Automated sequential refinements of PDF data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfbl_sequential-0.1.0rc2.tar.gz",
+  "download_time": "2026-02-17T11:59:06.279833",
+  "package_url": "https://pypi.org/project/pdfbl.sequential/"
+}

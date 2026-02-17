@@ -1,11 +1,11 @@
 {
   "name": "devmemory",
-  "version": "0.1.5",
+  "version": "0.1.8",
   "summary": "Sync AI coding context from Git AI to Redis Agent Memory Server for semantic search and recall.",
   "author": "DevMemory",
   "license": null,
   "home_page": null,
-  "download_filename": "devmemory-0.1.5.tar.gz",
-  "download_time": "2026-02-15T15:52:38.148635",
+  "download_filename": "devmemory-0.1.8.tar.gz",
+  "download_time": "2026-02-17T11:59:32.542995",
   "package_url": "https://pypi.org/project/devmemory/"
 }

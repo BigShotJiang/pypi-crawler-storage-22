@@ -1,0 +1,11 @@
+{
+  "name": "snomiao-gcalcli",
+  "version": "4.6.0",
+  "summary": "Google Calendar Command Line Interface",
+  "author": "Eric Davis, Brian Hartvigsen, Joshua Crowgey",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "snomiao_gcalcli-4.6.0.tar.gz",
+  "download_time": "2026-02-17T11:59:14.384774",
+  "package_url": "https://pypi.org/project/snomiao-gcalcli/"
+}

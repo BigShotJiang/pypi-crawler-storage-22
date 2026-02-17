@@ -1,11 +1,11 @@
 {
   "name": "geoexpress",
-  "version": "0.1.38",
-  "summary": "Python SDK for LizardTech GeoExpress CLI",
+  "version": "0.1.48",
+  "summary": "Python Package for LizardTech GeoExpress",
   "author": "Vibudh Bhatnagar",
   "license": null,
   "home_page": null,
-  "download_filename": "geoexpress-0.1.38.tar.gz",
-  "download_time": "2026-02-03T11:51:48.816112",
+  "download_filename": "geoexpress-0.1.48.tar.gz",
+  "download_time": "2026-02-17T11:59:21.109828",
   "package_url": "https://pypi.org/project/geoexpress/"
 }

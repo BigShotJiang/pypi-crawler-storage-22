@@ -1,0 +1,11 @@
+{
+  "name": "PyMI",
+  "version": "1.0.9",
+  "summary": "Windows Management Infrastructure API for Python.",
+  "author": "Alessandro Pilotti",
+  "license": null,
+  "home_page": "https://github.com/cloudbase/PyMI",
+  "download_filename": "pymi-1.0.9.tar.gz",
+  "download_time": "2026-02-17T11:59:25.383628",
+  "package_url": "https://pypi.org/project/PyMI/"
+}

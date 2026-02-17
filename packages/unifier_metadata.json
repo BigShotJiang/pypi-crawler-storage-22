@@ -1,0 +1,11 @@
+{
+  "name": "unifier",
+  "version": "0.1.19",
+  "summary": "A Python package to interact with the Unifier API.",
+  "author": "xtech",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/xtech-analytics/data-unifier",
+  "download_filename": "unifier-0.1.19.tar.gz",
+  "download_time": "2026-02-17T11:59:12.752834",
+  "package_url": "https://pypi.org/project/unifier/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mlx-gliner2",
+  "version": "0.1.1",
+  "summary": "GLiNER2 information extraction on Apple Silicon via MLX",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mlx_gliner2-0.1.1.tar.gz",
+  "download_time": "2026-02-17T11:59:11.143514",
+  "package_url": "https://pypi.org/project/mlx-gliner2/"
+}

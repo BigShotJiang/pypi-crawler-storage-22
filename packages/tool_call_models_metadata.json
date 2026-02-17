@@ -1,11 +1,11 @@
 {
   "name": "tool_call_models",
-  "version": "0.1.47",
+  "version": "0.1.48",
   "summary": "A simple package of models used between two services in order to achieve SDUI widgets using LLMs.",
   "author": "Aslon Khamidov",
   "license": "MIT",
   "home_page": "https://github.com/Guide-Me-Tech/tool_models",
-  "download_filename": "tool_call_models-0.1.47.tar.gz",
-  "download_time": "2026-02-17T10:11:38.063904",
+  "download_filename": "tool_call_models-0.1.48.tar.gz",
+  "download_time": "2026-02-17T11:59:11.678033",
   "package_url": "https://pypi.org/project/tool_call_models/"
 }
