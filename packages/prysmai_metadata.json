@@ -1,0 +1,11 @@
+{
+  "name": "prysmai",
+  "version": "0.1.0",
+  "summary": "Prysm AI — Observability SDK for LLM applications. One-line integration for OpenAI, Anthropic, and any OpenAI-compatible provider.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "prysmai-0.1.0.tar.gz",
+  "download_time": "2026-02-17T23:03:48.763154",
+  "package_url": "https://pypi.org/project/prysmai/"
+}

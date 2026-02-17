@@ -1,0 +1,11 @@
+{
+  "name": "aind-data-schema",
+  "version": "2.5.0",
+  "summary": "A library that defines AIND data schema and validates JSON files.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aind_data_schema-2.5.0.tar.gz",
+  "download_time": "2026-02-17T23:03:56.560533",
+  "package_url": "https://pypi.org/project/aind-data-schema/"
+}

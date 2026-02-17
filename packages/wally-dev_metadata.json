@@ -1,0 +1,11 @@
+{
+  "name": "wally-dev",
+  "version": "0.3.0",
+  "summary": "CLI para desenvolvimento local de casos de teste de acessibilidade da plataforma Wally",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wally_dev-0.3.0.tar.gz",
+  "download_time": "2026-02-17T23:04:12.925547",
+  "package_url": "https://pypi.org/project/wally-dev/"
+}

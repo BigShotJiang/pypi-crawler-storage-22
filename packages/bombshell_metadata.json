@@ -1,11 +1,11 @@
 {
   "name": "bombshell",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A library for easily running shell commands, whether standalone or piped.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bombshell-0.5.0.tar.gz",
-  "download_time": "2026-02-17T22:30:53.728237",
+  "download_filename": "bombshell-0.5.1.tar.gz",
+  "download_time": "2026-02-17T23:03:53.981969",
   "package_url": "https://pypi.org/project/bombshell/"
 }

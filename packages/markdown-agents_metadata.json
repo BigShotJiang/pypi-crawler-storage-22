@@ -1,0 +1,11 @@
+{
+  "name": "markdown-agents",
+  "version": "0.1.0",
+  "summary": "Middleware that converts HTML responses to Markdown for AI agents — Flask, Django, and FastAPI.",
+  "author": "Wubin Sheng",
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_agents-0.1.0.tar.gz",
+  "download_time": "2026-02-17T23:04:19.749262",
+  "package_url": "https://pypi.org/project/markdown-agents/"
+}

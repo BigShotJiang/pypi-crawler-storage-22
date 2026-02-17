@@ -1,11 +1,11 @@
 {
   "name": "rhiza",
-  "version": "0.10.3",
+  "version": "0.11.0",
   "summary": "Reusable configuration templates for modern Python projects",
   "author": "Thomas Schmelzer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rhiza-0.10.3.tar.gz",
-  "download_time": "2026-02-07T10:24:08.940817",
+  "download_filename": "rhiza-0.11.0.tar.gz",
+  "download_time": "2026-02-17T23:04:13.503769",
   "package_url": "https://pypi.org/project/rhiza/"
 }

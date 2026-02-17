@@ -1,0 +1,11 @@
+{
+  "name": "manim-captcha",
+  "version": "1.0.0",
+  "summary": "Animated visual captcha generation library using Manim.",
+  "author": "Jose Miguel Rios Rubio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "manim_captcha-1.0.0.tar.gz",
+  "download_time": "2026-02-17T23:03:36.352988",
+  "package_url": "https://pypi.org/project/manim-captcha/"
+}

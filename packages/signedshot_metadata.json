@@ -1,11 +1,11 @@
 {
   "name": "signedshot",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Validator for SignedShot media authenticity proofs",
   "author": null,
   "license": "MIT",
   "home_page": "https://signedshot.io",
-  "download_filename": "signedshot-0.1.8.tar.gz",
-  "download_time": "2026-02-08T16:59:20.854207",
+  "download_filename": "signedshot-0.1.9.tar.gz",
+  "download_time": "2026-02-17T23:04:11.372394",
   "package_url": "https://pypi.org/project/signedshot/"
 }
