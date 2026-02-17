@@ -1,0 +1,11 @@
+{
+  "name": "agentmetering",
+  "version": "0.1.0",
+  "summary": "Know what your AI agents actually cost. Track LLM tokens, tool API calls, and compute costs.",
+  "author": "AgentMeter",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentmetering-0.1.0.tar.gz",
+  "download_time": "2026-02-17T04:10:27.628094",
+  "package_url": "https://pypi.org/project/agentmetering/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "theow",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "LLM-in-the-loop rule based expert system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "theow-0.0.3.tar.gz",
-  "download_time": "2026-02-16T23:30:32.674315",
+  "download_filename": "theow-0.0.5.tar.gz",
+  "download_time": "2026-02-17T04:10:01.817379",
   "package_url": "https://pypi.org/project/theow/"
 }

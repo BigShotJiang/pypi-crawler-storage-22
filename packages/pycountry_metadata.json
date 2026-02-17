@@ -1,0 +1,11 @@
+{
+  "name": "pycountry",
+  "version": "26.2.16",
+  "summary": "ISO country, subdivision, language, currency and script definitions and their translations",
+  "author": "Christian Theune",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycountry-26.2.16.tar.gz",
+  "download_time": "2026-02-17T04:10:28.707028",
+  "package_url": "https://pypi.org/project/pycountry/"
+}

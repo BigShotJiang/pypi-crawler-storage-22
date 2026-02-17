@@ -1,11 +1,11 @@
 {
   "name": "local-web-services",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "Run AWS CDK applications locally - accelerate development with agentic code editors",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "local_web_services-0.9.0.tar.gz",
-  "download_time": "2026-02-16T18:09:18.597864",
+  "download_filename": "local_web_services-0.10.0.tar.gz",
+  "download_time": "2026-02-17T04:10:29.736321",
   "package_url": "https://pypi.org/project/local-web-services/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mallorymcp",
+  "version": "0.3.4",
+  "summary": "Mallory MCP Server — threat intelligence tools for AI agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "mallorymcp-0.3.4.tar.gz",
+  "download_time": "2026-02-17T04:10:03.356296",
+  "package_url": "https://pypi.org/project/mallorymcp/"
+}

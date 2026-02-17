@@ -1,0 +1,11 @@
+{
+  "name": "markshark",
+  "version": "1.1.4",
+  "summary": "MarkShark — the open-source bubble hunter (Optical Mark Recognition toolkit)",
+  "author": null,
+  "license": "AGPL-3.0-only with dual commercial licensing available; contact william.navarre@utoronto.ca",
+  "home_page": null,
+  "download_filename": "markshark-1.1.4.tar.gz",
+  "download_time": "2026-02-17T04:10:38.071619",
+  "package_url": "https://pypi.org/project/markshark/"
+}

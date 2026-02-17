@@ -1,0 +1,11 @@
+{
+  "name": "cartography-client",
+  "version": "0.16.0",
+  "summary": "The official Python library for the cartography API",
+  "author": "Cartography",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cartography_client-0.16.0.tar.gz",
+  "download_time": "2026-02-17T04:10:43.205306",
+  "package_url": "https://pypi.org/project/cartography-client/"
+}

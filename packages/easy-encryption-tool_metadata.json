@@ -1,11 +1,11 @@
 {
   "name": "easy-encryption-tool",
-  "version": "2.0.7",
+  "version": "2.1.0",
   "summary": "易加密 CLI 工具，支持 AES/SM4/ZUC/RSA/ECC/SM2 等加解密与签名验签",
   "author": "bowenerchen",
   "license": "MIT",
   "home_page": "https://cipherhub.cloud",
-  "download_filename": "easy_encryption_tool-2.0.7-py3-none-any.whl",
-  "download_time": "2026-02-17T01:49:13.781006",
+  "download_filename": "easy_encryption_tool-2.1.0-py3-none-any.whl",
+  "download_time": "2026-02-17T04:10:05.948135",
   "package_url": "https://pypi.org/project/easy-encryption-tool/"
 }

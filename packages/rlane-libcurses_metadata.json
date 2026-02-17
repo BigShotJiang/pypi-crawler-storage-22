@@ -1,0 +1,11 @@
+{
+  "name": "rlane-libcurses",
+  "version": "1.0.10",
+  "summary": "Curses based boxes, menus, loggers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rlane_libcurses-1.0.10.tar.gz",
+  "download_time": "2026-02-17T04:10:17.297337",
+  "package_url": "https://pypi.org/project/rlane-libcurses/"
+}

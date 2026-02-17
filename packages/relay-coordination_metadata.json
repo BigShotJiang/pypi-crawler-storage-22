@@ -1,0 +1,11 @@
+{
+  "name": "relay-coordination",
+  "version": "1.0.1",
+  "summary": "ETAP-style relay coordination simulation for pandapower",
+  "author": "Relay Coordination Team",
+  "license": null,
+  "home_page": "https://github.com/yourusername/relay_coordination",
+  "download_filename": "relay_coordination-1.0.1.tar.gz",
+  "download_time": "2026-02-17T04:10:41.156270",
+  "package_url": "https://pypi.org/project/relay-coordination/"
+}

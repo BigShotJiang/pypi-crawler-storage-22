@@ -1,0 +1,11 @@
+{
+  "name": "docsync",
+  "version": "0.1.0",
+  "summary": "Auto-validate and update docs in large codebases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docsync-0.1.0.tar.gz",
+  "download_time": "2026-02-17T04:10:34.383827",
+  "package_url": "https://pypi.org/project/docsync/"
+}
