@@ -1,0 +1,11 @@
+{
+  "name": "backgroundremover",
+  "version": "0.4.1",
+  "summary": "Background remover from image and video using AI",
+  "author": "Johnathan Nader",
+  "license": "MIT",
+  "home_page": "https://github.com/nadermx/backgroundremover",
+  "download_filename": "backgroundremover-0.4.1.tar.gz",
+  "download_time": "2026-02-17T20:36:28.663295",
+  "package_url": "https://pypi.org/project/backgroundremover/"
+}

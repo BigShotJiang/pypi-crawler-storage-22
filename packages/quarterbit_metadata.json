@@ -1,11 +1,11 @@
 {
   "name": "quarterbit",
-  "version": "17.0.10",
+  "version": "17.0.14",
   "summary": "AXIOM - High-performance optimizer for deep learning with extreme memory efficiency",
   "author": "Clouthier Simulation Labs",
   "license": null,
   "home_page": "https://quarterbit.dev",
-  "download_filename": "quarterbit-17.0.10-cp311-cp311-win_amd64.whl",
-  "download_time": "2026-02-17T11:11:44.343151",
+  "download_filename": "quarterbit-17.0.14-cp311-cp311-win_amd64.whl",
+  "download_time": "2026-02-17T20:36:45.214893",
   "package_url": "https://pypi.org/project/quarterbit/"
 }

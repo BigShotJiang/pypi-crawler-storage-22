@@ -1,11 +1,11 @@
 {
   "name": "nornflow",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "A workflow orchestration tool for network automation built around Nornir.",
   "author": "Andre Lima",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "nornflow-0.7.0.tar.gz",
-  "download_time": "2026-02-01T15:51:41.175389",
+  "download_filename": "nornflow-0.8.0.tar.gz",
+  "download_time": "2026-02-17T20:36:49.670893",
   "package_url": "https://pypi.org/project/nornflow/"
 }

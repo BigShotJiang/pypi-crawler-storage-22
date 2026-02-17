@@ -1,11 +1,11 @@
 {
   "name": "rda-python-globus",
-  "version": "1.0.17",
+  "version": "1.0.19",
   "summary": "Tools for managing Globus transfers supporting the NSF NCAR Geoscience Data Exchange (GDEX) project.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rda_python_globus-1.0.17.tar.gz",
-  "download_time": "2026-02-17T19:59:04.454583",
+  "download_filename": "rda_python_globus-1.0.19.tar.gz",
+  "download_time": "2026-02-17T20:36:31.949840",
   "package_url": "https://pypi.org/project/rda-python-globus/"
 }

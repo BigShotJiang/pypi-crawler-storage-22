@@ -1,0 +1,11 @@
+{
+  "name": "auth0-oauth-client",
+  "version": "0.4.0",
+  "summary": "A Django-focused Auth0 integration providing automated OIDC flows, account linking, and so on.",
+  "author": "Tinuvi",
+  "license": "MIT",
+  "home_page": "https://github.com/tinuvi/auth0-oauth-client",
+  "download_filename": "auth0_oauth_client-0.4.0.tar.gz",
+  "download_time": "2026-02-17T20:36:57.936336",
+  "package_url": "https://pypi.org/project/auth0-oauth-client/"
+}

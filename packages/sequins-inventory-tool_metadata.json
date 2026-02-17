@@ -1,11 +1,11 @@
 {
   "name": "sequins-inventory-tool",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "A tool for sequins inventory.",
   "author": "The Sequins Software Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sequins_inventory_tool-1.2.4.tar.gz",
-  "download_time": "2026-02-11T01:05:55.620571",
+  "download_filename": "sequins_inventory_tool-1.2.5.tar.gz",
+  "download_time": "2026-02-17T20:36:51.301669",
   "package_url": "https://pypi.org/project/sequins-inventory-tool/"
 }
