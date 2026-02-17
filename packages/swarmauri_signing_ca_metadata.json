@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_signing_ca",
+  "version": "0.3.0.dev4",
+  "summary": "CA-capable signer for Swarmauri",
+  "author": "Swarmauri",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "swarmauri_signing_ca-0.3.0.dev4.tar.gz",
+  "download_time": "2026-02-17T18:18:18.558058",
+  "package_url": "https://pypi.org/project/swarmauri_signing_ca/"
+}

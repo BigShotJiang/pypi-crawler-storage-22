@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_middleware_circuitbreaker",
+  "version": "0.7.2",
+  "summary": "Circuit Breaker Middleware for Swarmauri",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_middleware_circuitbreaker-0.7.2.tar.gz",
+  "download_time": "2026-02-17T18:18:08.143606",
+  "package_url": "https://pypi.org/project/swarmauri_middleware_circuitbreaker/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sibi-flux",
-  "version": "2026.2.1",
+  "version": "2026.2.4",
   "summary": "Sibi Toolkit: A collection of tools for Data Analysis/Engineering.",
   "author": "Luis Valverde",
   "license": null,
   "home_page": null,
-  "download_filename": "sibi_flux-2026.2.1.tar.gz",
-  "download_time": "2026-02-13T21:35:12.661857",
+  "download_filename": "sibi_flux-2026.2.4.tar.gz",
+  "download_time": "2026-02-17T18:18:10.260286",
   "package_url": "https://pypi.org/project/sibi-flux/"
 }

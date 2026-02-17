@@ -1,11 +1,11 @@
 {
   "name": "xync-bot",
-  "version": "0.3.65",
+  "version": "0.3.66",
   "summary": "Telegram bot with web app for xync net",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xync_bot-0.3.65.tar.gz",
-  "download_time": "2026-02-14T13:35:46.606444",
+  "download_filename": "xync_bot-0.3.66.tar.gz",
+  "download_time": "2026-02-17T18:18:43.734738",
   "package_url": "https://pypi.org/project/xync-bot/"
 }

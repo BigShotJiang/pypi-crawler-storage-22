@@ -1,0 +1,11 @@
+{
+  "name": "swarmauri_metric_hamming",
+  "version": "0.9.1",
+  "summary": "Swarmauri Hamming distance metric community package.",
+  "author": "Jacob Stewart",
+  "license": null,
+  "home_page": null,
+  "download_filename": "swarmauri_metric_hamming-0.9.1.tar.gz",
+  "download_time": "2026-02-17T18:18:09.741183",
+  "package_url": "https://pypi.org/project/swarmauri_metric_hamming/"
+}
