@@ -1,0 +1,11 @@
+{
+  "name": "ucp-content",
+  "version": "0.1.12",
+  "summary": "Python bindings for UCP (Unified Content Protocol) - Rust implementation",
+  "author": "UCP Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ucp_content-0.1.12.tar.gz",
+  "download_time": "2026-02-17T19:59:07.578187",
+  "package_url": "https://pypi.org/project/ucp-content/"
+}

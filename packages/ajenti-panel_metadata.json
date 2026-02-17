@@ -1,0 +1,11 @@
+{
+  "name": "ajenti-panel",
+  "version": "2.2.12",
+  "summary": "Ajenti core based panel",
+  "author": "Eugene Pankov",
+  "license": null,
+  "home_page": "https://ajenti.org/",
+  "download_filename": "ajenti_panel-2.2.12.tar.gz",
+  "download_time": "2026-02-17T19:59:06.018907",
+  "package_url": "https://pypi.org/project/ajenti-panel/"
+}

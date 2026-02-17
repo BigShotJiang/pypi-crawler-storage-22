@@ -1,0 +1,11 @@
+{
+  "name": "trontxsize",
+  "version": "1.2.0",
+  "summary": "Calculate tron transaction size (bandwidth)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trontxsize-1.2.0.tar.gz",
+  "download_time": "2026-02-17T19:59:03.423764",
+  "package_url": "https://pypi.org/project/trontxsize/"
+}

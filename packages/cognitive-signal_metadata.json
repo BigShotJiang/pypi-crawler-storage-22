@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-signal",
+  "version": "0.1.1",
+  "summary": "Orthogonal cognitive signal extraction and pattern detection from journal entries. Extracts valence, arousal, agency, self-focus, social orientation, and action ratio as independent signals, then discovers temporal trends, semantic drift, latent psychological states, and structural change points.",
+  "author": "Sneha Prajapati",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cognitive_signal-0.1.1.tar.gz",
+  "download_time": "2026-02-17T19:58:55.002899",
+  "package_url": "https://pypi.org/project/cognitive-signal/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "changepacks",
-  "version": "0.2.16",
+  "version": "0.2.21",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": "https://github.com/changepacks/changepacks",
-  "download_filename": "changepacks-0.2.16-py3-none-macosx_10_12_x86_64.whl",
-  "download_time": "2026-02-17T12:57:32.066716",
+  "download_filename": "changepacks-0.2.21-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-02-17T19:59:02.903398",
   "package_url": "https://pypi.org/project/changepacks/"
 }

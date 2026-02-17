@@ -1,0 +1,11 @@
+{
+  "name": "aj",
+  "version": "2.2.12",
+  "summary": "Web UI base toolkit",
+  "author": "Eugene Pankov",
+  "license": null,
+  "home_page": "https://ajenti.org/",
+  "download_filename": "aj-2.2.12.tar.gz",
+  "download_time": "2026-02-17T19:59:06.537515",
+  "package_url": "https://pypi.org/project/aj/"
+}

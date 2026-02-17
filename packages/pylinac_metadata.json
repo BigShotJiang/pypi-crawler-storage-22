@@ -1,0 +1,11 @@
+{
+  "name": "pylinac",
+  "version": "3.41.0",
+  "summary": "A toolkit for performing TG-142 QA-related tasks on a linear accelerator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pylinac-3.41.0.tar.gz",
+  "download_time": "2026-02-17T19:58:50.233508",
+  "package_url": "https://pypi.org/project/pylinac/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "archcli",
+  "version": "0.3.0",
+  "summary": "Architect: a system-agnostic multi-agent developer orchestration CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "archcli-0.3.0.tar.gz",
+  "download_time": "2026-02-17T19:59:00.793955",
+  "package_url": "https://pypi.org/project/archcli/"
+}
