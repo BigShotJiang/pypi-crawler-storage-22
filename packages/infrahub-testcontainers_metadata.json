@@ -1,0 +1,11 @@
+{
+  "name": "infrahub-testcontainers",
+  "version": "1.7.4",
+  "summary": "Testcontainers instance for Infrahub to easily build integration tests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "infrahub_testcontainers-1.7.4.tar.gz",
+  "download_time": "2026-02-18T07:45:36.551089",
+  "package_url": "https://pypi.org/project/infrahub-testcontainers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "openstackai",
+  "version": "0.6.0",
+  "summary": "The Pandas of AI Agents - Build AI applications in 3 lines or less",
+  "author": "OpenStackAI Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openstackai-0.6.0.tar.gz",
+  "download_time": "2026-02-18T07:45:08.142212",
+  "package_url": "https://pypi.org/project/openstackai/"
+}

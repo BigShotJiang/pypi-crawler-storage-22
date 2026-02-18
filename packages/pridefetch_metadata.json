@@ -1,0 +1,11 @@
+{
+  "name": "pridefetch",
+  "version": "0.5.1",
+  "summary": "Python API for fetching PRIDE Archive dataset files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pridefetch-0.5.1.tar.gz",
+  "download_time": "2026-02-18T07:45:51.697645",
+  "package_url": "https://pypi.org/project/pridefetch/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "stochastic-rs",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "summary": "A high-performance Rust library for simulating stochastic processes with first-class bindings.",
   "author": null,
   "license": "MIT",
   "home_page": "https://github.com/dancixx/stochastic-rs",
-  "download_filename": "stochastic_rs-1.1.1.tar.gz",
-  "download_time": "2026-02-15T09:04:01.247274",
+  "download_filename": "stochastic_rs-1.2.0.tar.gz",
+  "download_time": "2026-02-18T07:45:20.523561",
   "package_url": "https://pypi.org/project/stochastic-rs/"
 }

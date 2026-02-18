@@ -1,11 +1,11 @@
 {
   "name": "amrita_core",
-  "version": "0.4.2.1",
+  "version": "0.4.3.2",
   "summary": "Agent core of Project Amrita",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amrita_core-0.4.2.1.tar.gz",
-  "download_time": "2026-02-17T11:59:42.756655",
+  "download_filename": "amrita_core-0.4.3.2.tar.gz",
+  "download_time": "2026-02-18T07:45:14.326519",
   "package_url": "https://pypi.org/project/amrita_core/"
 }

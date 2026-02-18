@@ -1,0 +1,11 @@
+{
+  "name": "mallo",
+  "version": "0.3.0a6",
+  "summary": "A lightweight web framework with hot reload",
+  "author": "Akum betrand",
+  "license": null,
+  "home_page": "https://github.com/Betrand-dev/mallo-fr.git",
+  "download_filename": "mallo-0.3.0a6.tar.gz",
+  "download_time": "2026-02-18T07:45:31.876386",
+  "package_url": "https://pypi.org/project/mallo/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "py-import-cycles",
+  "version": "0.5.1",
+  "summary": "Detect import cycles in Python projects",
+  "author": "Simon Jess",
+  "license": "MIT",
+  "home_page": "https://github.com/si-23/py-import-cycles",
+  "download_filename": "py_import_cycles-0.5.1.tar.gz",
+  "download_time": "2026-02-18T07:45:11.741872",
+  "package_url": "https://pypi.org/project/py-import-cycles/"
+}

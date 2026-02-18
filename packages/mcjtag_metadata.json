@@ -1,0 +1,11 @@
+{
+  "name": "mcjtag",
+  "version": "2026.2.18",
+  "summary": "JTAG/SWD MCP Server for hardware debugging via OpenOCD",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcjtag-2026.2.18.tar.gz",
+  "download_time": "2026-02-18T07:45:54.824705",
+  "package_url": "https://pypi.org/project/mcjtag/"
+}

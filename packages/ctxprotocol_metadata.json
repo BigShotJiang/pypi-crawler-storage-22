@@ -1,11 +1,11 @@
 {
   "name": "ctxprotocol",
-  "version": "0.7.0",
+  "version": "0.8.1",
   "summary": "Official Python SDK for the Context Protocol - Discover and execute AI tools programmatically",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ctxprotocol-0.7.0.tar.gz",
-  "download_time": "2026-02-14T11:22:59.155930",
+  "download_filename": "ctxprotocol-0.8.1.tar.gz",
+  "download_time": "2026-02-18T07:45:16.905243",
   "package_url": "https://pypi.org/project/ctxprotocol/"
 }

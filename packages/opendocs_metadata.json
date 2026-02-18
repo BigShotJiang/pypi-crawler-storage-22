@@ -1,0 +1,11 @@
+{
+  "name": "opendocs",
+  "version": "0.3.0",
+  "summary": "Convert GitHub README files into structured multi-format documentation artifacts.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "opendocs-0.3.0.tar.gz",
+  "download_time": "2026-02-18T07:45:37.594478",
+  "package_url": "https://pypi.org/project/opendocs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "genice2",
+  "version": "2.2.13.1",
+  "summary": "A Swiss army knife to generate hydrogen-disordered ice structures.",
+  "author": "Masakazu Matsumoto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "genice2-2.2.13.1-py3-none-any.whl",
+  "download_time": "2026-02-18T07:45:50.675069",
+  "package_url": "https://pypi.org/project/genice2/"
+}
