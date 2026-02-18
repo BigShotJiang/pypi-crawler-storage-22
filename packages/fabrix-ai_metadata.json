@@ -1,11 +1,11 @@
 {
   "name": "fabrix-ai",
-  "version": "1.4.0",
+  "version": "1.4.2",
   "summary": "Graph-based agent framework powered by oauth-codex",
   "author": "Fabrix",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fabrix_ai-1.4.0.tar.gz",
-  "download_time": "2026-02-18T05:50:46.382193",
+  "download_filename": "fabrix_ai-1.4.2.tar.gz",
+  "download_time": "2026-02-18T06:49:06.037235",
   "package_url": "https://pypi.org/project/fabrix-ai/"
 }

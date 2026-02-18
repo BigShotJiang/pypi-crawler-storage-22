@@ -1,11 +1,11 @@
 {
   "name": "MikuChatSDK",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Python 3 SDK for MikuChat. Check https://doc.yuuz12.top/web/#/5/ ",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mikuchatsdk-0.2.0.tar.gz",
-  "download_time": "2026-02-16T08:46:44.779527",
+  "download_filename": "mikuchatsdk-0.3.0.tar.gz",
+  "download_time": "2026-02-18T06:49:22.169510",
   "package_url": "https://pypi.org/project/MikuChatSDK/"
 }

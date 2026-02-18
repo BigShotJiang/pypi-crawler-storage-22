@@ -1,11 +1,11 @@
 {
   "name": "superposition-sdk",
-  "version": "0.97.4",
+  "version": "0.99.0",
   "summary": "superposition_sdk client",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "superposition_sdk-0.97.4-py3-none-any.whl",
-  "download_time": "2026-01-30T13:42:58.462360",
+  "download_filename": "superposition_sdk-0.99.0-py3-none-any.whl",
+  "download_time": "2026-02-18T06:49:19.575559",
   "package_url": "https://pypi.org/project/superposition-sdk/"
 }

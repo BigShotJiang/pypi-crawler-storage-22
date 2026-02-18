@@ -1,11 +1,11 @@
 {
   "name": "open-science-assistant",
-  "version": "0.6.6",
+  "version": "0.6.7",
   "summary": "Open Science Assistant - An extensible AI assistant platform for open science projects",
   "author": "Open Science Collective",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "open_science_assistant-0.6.6.tar.gz",
-  "download_time": "2026-02-13T01:53:35.562185",
+  "download_filename": "open_science_assistant-0.6.7.tar.gz",
+  "download_time": "2026-02-18T06:48:59.354420",
   "package_url": "https://pypi.org/project/open-science-assistant/"
 }

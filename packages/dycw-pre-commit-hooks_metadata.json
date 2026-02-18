@@ -1,11 +1,11 @@
 {
   "name": "dycw-pre-commit-hooks",
-  "version": "0.15.13",
+  "version": "0.15.14",
   "summary": "Pre-commit hooks",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_pre_commit_hooks-0.15.13-py3-none-any.whl",
-  "download_time": "2026-02-18T05:50:38.992161",
+  "download_filename": "dycw_pre_commit_hooks-0.15.14-py3-none-any.whl",
+  "download_time": "2026-02-18T06:48:56.055165",
   "package_url": "https://pypi.org/project/dycw-pre-commit-hooks/"
 }

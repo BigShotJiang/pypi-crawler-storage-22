@@ -1,0 +1,11 @@
+{
+  "name": "model-lib",
+  "version": "0.102.2",
+  "summary": "Pydantic model utilities for serialization and settings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_lib-0.102.2.tar.gz",
+  "download_time": "2026-02-18T06:48:58.327435",
+  "package_url": "https://pypi.org/project/model-lib/"
+}

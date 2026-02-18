@@ -1,0 +1,11 @@
+{
+  "name": "agentkernel",
+  "version": "0.2.13",
+  "summary": "Agent Kernel - Unified AI Agents Runtime",
+  "author": "Yaala Labs",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "agentkernel-0.2.13.tar.gz",
+  "download_time": "2026-02-18T06:49:28.517340",
+  "package_url": "https://pypi.org/project/agentkernel/"
+}

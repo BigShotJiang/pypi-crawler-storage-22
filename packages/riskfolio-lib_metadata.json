@@ -1,0 +1,11 @@
+{
+  "name": "riskfolio-lib",
+  "version": "7.2.1",
+  "summary": "Portfolio Optimization and Quantitative Strategic Asset Allocation in Python",
+  "author": "Dany Cajas",
+  "license": "BSD (3-clause)",
+  "home_page": "https://github.com/dcajasn/Riskfolio-Lib",
+  "download_filename": "riskfolio_lib-7.2.1-cp310-cp310-macosx_10_9_universal2.whl",
+  "download_time": "2026-02-18T06:49:31.125278",
+  "package_url": "https://pypi.org/project/riskfolio-lib/"
+}

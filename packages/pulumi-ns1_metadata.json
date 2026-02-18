@@ -1,11 +1,11 @@
 {
   "name": "pulumi-ns1",
-  "version": "3.8.0",
+  "version": "3.8.1",
   "summary": "A Pulumi package for creating and managing ns1 cloud resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_ns1-3.8.0.tar.gz",
-  "download_time": "2026-02-03T06:33:15.249273",
+  "download_filename": "pulumi_ns1-3.8.1.tar.gz",
+  "download_time": "2026-02-18T06:49:15.967358",
   "package_url": "https://pypi.org/project/pulumi-ns1/"
 }
