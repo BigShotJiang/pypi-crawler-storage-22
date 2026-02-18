@@ -1,0 +1,11 @@
+{
+  "name": "atuin-bin",
+  "version": "18.12.1",
+  "summary": "A thin wrapper to distribute https://github.com/atuinsh/atuin via pip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "atuin_bin-18.12.1-py3-none-macosx_11_0_arm64.whl",
+  "download_time": "2026-02-18T05:50:56.476545",
+  "package_url": "https://pypi.org/project/atuin-bin/"
+}

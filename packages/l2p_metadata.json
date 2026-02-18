@@ -1,0 +1,11 @@
+{
+  "name": "l2p",
+  "version": "0.3.3",
+  "summary": "Library to connect LLMs and planning tasks",
+  "author": "Marcus Tantakoun, Christian Muise",
+  "license": "MIT",
+  "home_page": "https://github.com/AI-Planning/l2p",
+  "download_filename": "l2p-0.3.3.tar.gz",
+  "download_time": "2026-02-18T05:51:06.012379",
+  "package_url": "https://pypi.org/project/l2p/"
+}

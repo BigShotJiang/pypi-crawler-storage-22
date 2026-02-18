@@ -1,11 +1,11 @@
 {
   "name": "g-gremlin-hubspot-mcp",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "HubSpot MCP server powered by g-gremlin -- breaks the 10k ceiling, dedup merge plans, schema management, and more.",
   "author": "FoundryOps",
   "license": null,
   "home_page": null,
-  "download_filename": "g_gremlin_hubspot_mcp-0.1.2.tar.gz",
-  "download_time": "2026-02-18T04:22:09.208913",
+  "download_filename": "g_gremlin_hubspot_mcp-0.1.4.tar.gz",
+  "download_time": "2026-02-18T05:51:00.102634",
   "package_url": "https://pypi.org/project/g-gremlin-hubspot-mcp/"
 }

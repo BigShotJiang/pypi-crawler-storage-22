@@ -1,0 +1,11 @@
+{
+  "name": "structdyn",
+  "version": "0.5.1",
+  "summary": "StructDyn: An open-source Python library for structural dynamics analysis",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "structdyn-0.5.1.tar.gz",
+  "download_time": "2026-02-18T05:50:58.015583",
+  "package_url": "https://pypi.org/project/structdyn/"
+}

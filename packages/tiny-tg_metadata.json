@@ -1,0 +1,11 @@
+{
+  "name": "tiny-tg",
+  "version": "0.1.0",
+  "summary": "Simple Telegram notification library",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tiny_tg-0.1.0.tar.gz",
+  "download_time": "2026-02-18T05:51:04.973819",
+  "package_url": "https://pypi.org/project/tiny-tg/"
+}

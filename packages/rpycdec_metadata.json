@@ -1,11 +1,11 @@
 {
   "name": "rpycdec",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A tool to decrypt .rpyc files",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rpycdec-0.1.11.tar.gz",
-  "download_time": "2026-02-07T07:48:33.715259",
+  "download_filename": "rpycdec-0.1.12.tar.gz",
+  "download_time": "2026-02-18T05:51:01.660198",
   "package_url": "https://pypi.org/project/rpycdec/"
 }

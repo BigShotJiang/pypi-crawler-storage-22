@@ -1,0 +1,11 @@
+{
+  "name": "kabyle-corpus-toolkit",
+  "version": "2.0.0",
+  "summary": "Tools for downloading, processing, and normalizing Kabyle and Occitan language corpora from Tatoeba",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kabyle_corpus_toolkit-2.0.0.tar.gz",
+  "download_time": "2026-02-18T05:51:11.425921",
+  "package_url": "https://pypi.org/project/kabyle-corpus-toolkit/"
+}

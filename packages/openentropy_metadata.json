@@ -1,0 +1,11 @@
+{
+  "name": "openentropy",
+  "version": "0.5.1",
+  "summary": "Your computer is a hardware noise observatory. Harvests entropy from 47 unconventional hardware sources.",
+  "author": "Amenti Labs",
+  "license": null,
+  "home_page": "https://github.com/amenti-labs/openentropy",
+  "download_filename": "openentropy-0.5.1.tar.gz",
+  "download_time": "2026-02-18T05:50:31.129964",
+  "package_url": "https://pypi.org/project/openentropy/"
+}

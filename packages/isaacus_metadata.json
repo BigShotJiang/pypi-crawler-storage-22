@@ -1,11 +1,11 @@
 {
   "name": "isaacus",
-  "version": "0.17.1",
+  "version": "0.19.2",
   "summary": "The official Python library for the isaacus API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "isaacus-0.17.1.tar.gz",
-  "download_time": "2026-02-07T09:05:59.645099",
+  "download_filename": "isaacus-0.19.2.tar.gz",
+  "download_time": "2026-02-18T05:50:31.645981",
   "package_url": "https://pypi.org/project/isaacus/"
 }

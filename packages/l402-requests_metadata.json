@@ -1,0 +1,11 @@
+{
+  "name": "l402-requests",
+  "version": "0.1.0",
+  "summary": "Auto-paying L402 HTTP client — APIs behind Lightning paywalls just work",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "l402_requests-0.1.0.tar.gz",
+  "download_time": "2026-02-18T05:50:28.945271",
+  "package_url": "https://pypi.org/project/l402-requests/"
+}
