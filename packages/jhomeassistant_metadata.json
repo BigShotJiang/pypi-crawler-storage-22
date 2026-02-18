@@ -1,11 +1,11 @@
 {
   "name": "jhomeassistant",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Framework for building easy Home Assistant devices",
   "author": "Dev-CorliJoni",
   "license": null,
   "home_page": null,
-  "download_filename": "jhomeassistant-0.1.1.tar.gz",
-  "download_time": "2026-02-15T23:54:20.926909",
+  "download_filename": "jhomeassistant-0.1.2.tar.gz",
+  "download_time": "2026-02-17T23:59:47.120145",
   "package_url": "https://pypi.org/project/jhomeassistant/"
 }

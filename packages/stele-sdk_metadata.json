@@ -1,0 +1,11 @@
+{
+  "name": "stele-sdk",
+  "version": "0.2.1",
+  "summary": "STELE Python SDK and local bootstrap helpers (HTTP client + optional local steled launcher).",
+  "author": "STELE",
+  "license": null,
+  "home_page": null,
+  "download_filename": "stele_sdk-0.2.1.tar.gz",
+  "download_time": "2026-02-17T23:59:38.656246",
+  "package_url": "https://pypi.org/project/stele-sdk/"
+}

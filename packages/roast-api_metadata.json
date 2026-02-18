@@ -1,11 +1,11 @@
 {
   "name": "roast-api",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "A Python client for RaaS — Roast as a Service. CDN-served static JSON API for developer roasts.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "roast_api-1.4.0.tar.gz",
-  "download_time": "2026-02-17T23:33:27.940031",
+  "download_filename": "roast_api-1.5.0.tar.gz",
+  "download_time": "2026-02-17T23:59:40.286372",
   "package_url": "https://pypi.org/project/roast-api/"
 }

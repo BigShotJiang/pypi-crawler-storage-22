@@ -1,0 +1,11 @@
+{
+  "name": "pycolorbar",
+  "version": "0.1.4",
+  "summary": "YAML-based colormap & colorbar settings for matplotlib and xarray",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycolorbar-0.1.4.tar.gz",
+  "download_time": "2026-02-17T23:59:34.432062",
+  "package_url": "https://pypi.org/project/pycolorbar/"
+}

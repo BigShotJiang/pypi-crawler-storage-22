@@ -1,0 +1,11 @@
+{
+  "name": "standard_e2e",
+  "version": "0.0.3",
+  "summary": "A unified framework for autonomous driving dataset management for end-to-end model development",
+  "author": "Stepan Konev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "standard_e2e-0.0.3.tar.gz",
+  "download_time": "2026-02-17T23:59:42.899513",
+  "package_url": "https://pypi.org/project/standard_e2e/"
+}

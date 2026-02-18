@@ -1,11 +1,11 @@
 {
   "name": "sql-fragments",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "SQL Fragments library for building SQL queries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sql_fragments-0.0.2.tar.gz",
-  "download_time": "2026-02-17T23:33:23.776217",
+  "download_filename": "sql_fragments-0.0.3.tar.gz",
+  "download_time": "2026-02-18T00:00:01.465246",
   "package_url": "https://pypi.org/project/sql-fragments/"
 }

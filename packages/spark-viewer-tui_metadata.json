@@ -1,11 +1,11 @@
 {
   "name": "spark-viewer-tui",
-  "version": "0.1.1",
-  "summary": "A terminal UI for browsing and querying Delta/Parquet tables with Spark",
+  "version": "0.1.8",
+  "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "spark_viewer_tui-0.1.1.tar.gz",
-  "download_time": "2026-02-17T04:10:30.252983",
+  "download_filename": "spark_viewer_tui-0.1.8.tar.gz",
+  "download_time": "2026-02-18T00:00:00.434877",
   "package_url": "https://pypi.org/project/spark-viewer-tui/"
 }

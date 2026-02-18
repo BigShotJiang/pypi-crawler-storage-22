@@ -1,11 +1,11 @@
 {
   "name": "remoteRF-server",
-  "version": "0.1.45",
+  "version": "0.1.47",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "remoterf_server-0.1.45.tar.gz",
-  "download_time": "2026-02-17T23:33:05.990099",
+  "download_filename": "remoterf_server-0.1.47.tar.gz",
+  "download_time": "2026-02-17T23:59:37.616587",
   "package_url": "https://pypi.org/project/remoteRF-server/"
 }

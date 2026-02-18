@@ -1,11 +1,11 @@
 {
   "name": "graphlit-client",
-  "version": "1.0.20260215001",
+  "version": "1.0.20260217002",
   "summary": "Graphlit API Python Client",
   "author": "Unstruk Data Inc.",
   "license": null,
   "home_page": "https://github.com/graphlit/graphlit-client-python",
-  "download_filename": "graphlit_client-1.0.20260215001.tar.gz",
-  "download_time": "2026-02-16T06:51:34.603764",
+  "download_filename": "graphlit_client-1.0.20260217002.tar.gz",
+  "download_time": "2026-02-17T23:59:49.242695",
   "package_url": "https://pypi.org/project/graphlit-client/"
 }

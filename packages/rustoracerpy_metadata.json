@@ -1,11 +1,11 @@
 {
   "name": "rustoracerpy",
-  "version": "0.1.9",
+  "version": "0.2.0",
   "summary": "A Python/gym wrapper for the Rustoracer library.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "rustoracerpy-0.1.9.tar.gz",
-  "download_time": "2026-02-17T19:59:17.077000",
+  "download_filename": "rustoracerpy-0.2.0.tar.gz",
+  "download_time": "2026-02-17T23:59:32.827902",
   "package_url": "https://pypi.org/project/rustoracerpy/"
 }
