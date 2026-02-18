@@ -1,0 +1,11 @@
+{
+  "name": "fwkit",
+  "version": "0.1.1",
+  "summary": "Firmware Development Toolkit for Texas Instruments - Automate Code Composer Studio projects and TI embedded workflows",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fwkit-0.1.1.tar.gz",
+  "download_time": "2026-02-18T01:52:27.492636",
+  "package_url": "https://pypi.org/project/fwkit/"
+}

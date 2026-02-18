@@ -1,0 +1,11 @@
+{
+  "name": "photoclean",
+  "version": "0.1.1",
+  "summary": "A smart tool to clean duplicate and blurry images",
+  "author": "hewei2723",
+  "license": null,
+  "home_page": "https://github.com/hewei2723/smart-image-cleaner",
+  "download_filename": "photoclean-0.1.1.tar.gz",
+  "download_time": "2026-02-18T01:52:49.599394",
+  "package_url": "https://pypi.org/project/photoclean/"
+}

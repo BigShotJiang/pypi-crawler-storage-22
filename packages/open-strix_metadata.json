@@ -1,11 +1,11 @@
 {
   "name": "open-strix",
-  "version": "0.1.1",
+  "version": "0.1.6",
   "summary": "Minimal autonomous agent harness with LangGraph Deep Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "open_strix-0.1.1.tar.gz",
-  "download_time": "2026-02-17T04:10:24.024757",
+  "download_filename": "open_strix-0.1.6.tar.gz",
+  "download_time": "2026-02-18T01:52:10.560806",
   "package_url": "https://pypi.org/project/open-strix/"
 }

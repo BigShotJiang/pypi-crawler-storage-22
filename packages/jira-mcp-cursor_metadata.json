@@ -1,0 +1,11 @@
+{
+  "name": "jira-mcp-cursor",
+  "version": "0.1.0",
+  "summary": "Seamless Jira integration for Cursor IDE via Model Context Protocol (MCP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "jira_mcp_cursor-0.1.0.tar.gz",
+  "download_time": "2026-02-18T01:52:41.202092",
+  "package_url": "https://pypi.org/project/jira-mcp-cursor/"
+}

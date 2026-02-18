@@ -1,0 +1,11 @@
+{
+  "name": "birdcage-tui",
+  "version": "2026.2.17",
+  "summary": "Textual TUI for Winegard satellite dish control and amateur radio sky tracking",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "birdcage_tui-2026.2.17.tar.gz",
+  "download_time": "2026-02-18T01:52:28.005436",
+  "package_url": "https://pypi.org/project/birdcage-tui/"
+}

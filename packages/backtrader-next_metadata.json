@@ -1,0 +1,11 @@
+{
+  "name": "backtrader-next",
+  "version": "2.3.5",
+  "summary": "Live Trading and backtesting platform in Python",
+  "author": "smalinin",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "backtrader_next-2.3.5-py3-none-any.whl",
+  "download_time": "2026-02-18T01:52:34.445365",
+  "package_url": "https://pypi.org/project/backtrader-next/"
+}

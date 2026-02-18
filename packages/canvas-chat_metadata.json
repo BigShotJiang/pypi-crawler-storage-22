@@ -1,11 +1,11 @@
 {
   "name": "canvas-chat",
-  "version": "0.1.92",
+  "version": "0.1.97",
   "summary": "A visual, non-linear chat interface where conversations are nodes on an infinite canvas",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "canvas_chat-0.1.92.tar.gz",
-  "download_time": "2026-02-05T01:31:24.424702",
+  "download_filename": "canvas_chat-0.1.97.tar.gz",
+  "download_time": "2026-02-18T01:52:13.164748",
   "package_url": "https://pypi.org/project/canvas-chat/"
 }

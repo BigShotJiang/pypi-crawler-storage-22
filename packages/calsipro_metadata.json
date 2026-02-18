@@ -1,0 +1,11 @@
+{
+  "name": "calsipro",
+  "version": "1.1.3",
+  "summary": "Calcium Signal Propagation Speed Analysis Library",
+  "author": "Simon Haendeler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "calsipro-1.1.3.tar.gz",
+  "download_time": "2026-02-18T01:52:11.597924",
+  "package_url": "https://pypi.org/project/calsipro/"
+}
