@@ -1,0 +1,11 @@
+{
+  "name": "entari-plugin-chronicle",
+  "version": "0.1.0",
+  "summary": "Entari 聊天记录持久化插件 / A chat persistence plugin for Entari.",
+  "author": "KomoriDev",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "entari_plugin_chronicle-0.1.0.tar.gz",
+  "download_time": "2026-02-18T04:22:33.039458",
+  "package_url": "https://pypi.org/project/entari-plugin-chronicle/"
+}

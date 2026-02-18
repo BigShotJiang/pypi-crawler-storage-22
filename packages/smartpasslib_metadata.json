@@ -1,0 +1,11 @@
+{
+  "name": "smartpasslib",
+  "version": "2.2.0",
+  "summary": "Smart Passwords Library: Cryptographic password generation and management without storage. Generate passwords from secrets, verify knowledge without exposure, manage metadata securely.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartpasslib-2.2.0.tar.gz",
+  "download_time": "2026-02-18T04:22:13.925506",
+  "package_url": "https://pypi.org/project/smartpasslib/"
+}

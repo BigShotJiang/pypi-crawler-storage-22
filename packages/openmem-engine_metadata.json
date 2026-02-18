@@ -1,0 +1,11 @@
+{
+  "name": "openmem-engine",
+  "version": "0.4.0",
+  "summary": "Cognitive memory engine for AI agents — human-inspired retrieval via activation, competition, and reconstruction",
+  "author": "OpenMem",
+  "license": null,
+  "home_page": null,
+  "download_filename": "openmem_engine-0.4.0.tar.gz",
+  "download_time": "2026-02-18T04:22:03.526727",
+  "package_url": "https://pypi.org/project/openmem-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dicegame",
+  "version": "0.7.2",
+  "summary": "A simple CLI dice game",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dicegame-0.7.2.tar.gz",
+  "download_time": "2026-02-18T04:22:04.547457",
+  "package_url": "https://pypi.org/project/dicegame/"
+}

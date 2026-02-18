@@ -1,11 +1,11 @@
 {
   "name": "swiftagents",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Superfast logprob-native agent runtime",
   "author": "swiftagents contributors",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "swiftagents-0.1.1.tar.gz",
-  "download_time": "2026-02-18T01:52:36.529319",
+  "download_filename": "swiftagents-0.1.2.tar.gz",
+  "download_time": "2026-02-18T04:22:35.103189",
   "package_url": "https://pypi.org/project/swiftagents/"
 }

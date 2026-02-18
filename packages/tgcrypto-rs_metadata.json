@@ -1,0 +1,11 @@
+{
+  "name": "tgcrypto-rs",
+  "version": "2.1.6",
+  "summary": "Rust-based TgCrypto module for Pyrogram",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "tgcrypto_rs-2.1.6.tar.gz",
+  "download_time": "2026-02-18T04:22:05.585608",
+  "package_url": "https://pypi.org/project/tgcrypto-rs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "kroger-cart",
+  "version": "1.1.0",
+  "summary": "CLI to add grocery items to your Kroger/Smith's cart via the Kroger API",
+  "author": "stahura",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kroger_cart-1.1.0.tar.gz",
+  "download_time": "2026-02-18T04:22:17.511774",
+  "package_url": "https://pypi.org/project/kroger-cart/"
+}

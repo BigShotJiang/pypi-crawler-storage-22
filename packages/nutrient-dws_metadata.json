@@ -1,0 +1,11 @@
+{
+  "name": "nutrient-dws",
+  "version": "3.0.0",
+  "summary": "Python client library for Nutrient Document Web Services API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nutrient_dws-3.0.0.tar.gz",
+  "download_time": "2026-02-18T04:22:43.396658",
+  "package_url": "https://pypi.org/project/nutrient-dws/"
+}

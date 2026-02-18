@@ -1,11 +1,11 @@
 {
   "name": "csim",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "summary": "Code Similarity (csim) is a method designed to detect similarity between source codes",
   "author": "Eddy Lecoña",
   "license": "MIT",
   "home_page": "https://github.com/EdsonEddy/csim",
-  "download_filename": "csim-1.5.2.tar.gz",
-  "download_time": "2026-02-16T23:30:12.264225",
+  "download_filename": "csim-1.5.3.tar.gz",
+  "download_time": "2026-02-18T04:22:35.626276",
   "package_url": "https://pypi.org/project/csim/"
 }

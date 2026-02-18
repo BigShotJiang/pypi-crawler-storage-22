@@ -1,11 +1,11 @@
 {
   "name": "nextcloud-agent",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "summary": "Nextcloud MCP Server for Agentic AI!",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nextcloud_agent-0.2.12.tar.gz",
-  "download_time": "2026-02-17T06:43:40.634091",
+  "download_filename": "nextcloud_agent-0.2.13.tar.gz",
+  "download_time": "2026-02-18T04:22:27.339228",
   "package_url": "https://pypi.org/project/nextcloud-agent/"
 }

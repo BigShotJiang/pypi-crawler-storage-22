@@ -1,11 +1,11 @@
 {
   "name": "filler-classifier",
-  "version": "0.2.1",
+  "version": "0.2.3",
   "summary": "Thai filler word classifier for voice bots - picks the right acknowledgment phrase while LLM thinks",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "filler_classifier-0.2.1.tar.gz",
-  "download_time": "2026-02-17T11:11:14.437619",
+  "download_filename": "filler_classifier-0.2.3.tar.gz",
+  "download_time": "2026-02-18T04:22:42.371226",
   "package_url": "https://pypi.org/project/filler-classifier/"
 }

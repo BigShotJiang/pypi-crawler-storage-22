@@ -1,11 +1,11 @@
 {
   "name": "fullbleed",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "High-performance HTML5 to PDF renderer built in Rust",
   "author": null,
   "license": "AGPL-3.0-only OR LicenseRef-Fullbleed-Commercial",
   "home_page": "https://fullbleed.dev",
-  "download_filename": "fullbleed-0.2.5.tar.gz",
-  "download_time": "2026-02-17T23:59:25.456254",
+  "download_filename": "fullbleed-0.2.6.tar.gz",
+  "download_time": "2026-02-18T04:22:32.005959",
   "package_url": "https://pypi.org/project/fullbleed/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "n1luxjwt",
-  "version": "1.0.3",
+  "version": "1.1.2",
   "summary": "FF JWT TOKEN",
   "author": "NR CODEX",
   "license": null,
   "home_page": null,
-  "download_filename": "n1luxjwt-1.0.3.tar.gz",
-  "download_time": "2026-02-17T15:11:49.445516",
+  "download_filename": "n1luxjwt-1.1.2.tar.gz",
+  "download_time": "2026-02-18T04:22:14.437283",
   "package_url": "https://pypi.org/project/n1luxjwt/"
 }
